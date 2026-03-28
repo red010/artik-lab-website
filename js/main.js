@@ -1,7 +1,44 @@
 /* ==========================================
    Artik Lab — Main JavaScript
-   Menu, scroll, animations
+   Menu, scroll, animations, language detection
    ========================================== */
+
+/* --- Language Auto-Detection --- */
+(function() {
+  // Only redirect from the root page (Italian default)
+  var path = window.location.pathname;
+  if (path !== '/' && path !== '/index.html') return;
+
+  // Don't redirect if user has manually chosen a language
+  // (set when clicking any language link on the site)
+  if (localStorage.getItem('artik_lang_manual')) return;
+
+  var supportedLangs = {
+    'en': '/en/',
+    'es': '/es/',
+    'fr': '/fr/',
+    'pt': '/pt-br/'
+  };
+
+  var browserLangs = navigator.languages || [navigator.language || navigator.userLanguage];
+  for (var i = 0; i < browserLangs.length; i++) {
+    var primary = browserLangs[i].toLowerCase().split('-')[0];
+    if (primary === 'it') return; // Italian → stay here
+    if (supportedLangs[primary]) {
+      window.location.replace(supportedLangs[primary]);
+      return;
+    }
+  }
+
+  // No supported language found → default to English
+  window.location.replace('/en/');
+})();
+
+/* --- Mark manual language choice --- */
+document.addEventListener('click', function(e) {
+  var link = e.target.closest('a[href="/"], a[href="/en/"], a[href="/es/"], a[href="/fr/"], a[href="/pt-br/"]');
+  if (link) localStorage.setItem('artik_lang_manual', '1');
+});
 
 document.addEventListener('DOMContentLoaded', () => {
   initMobileMenu();
