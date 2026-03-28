@@ -49,8 +49,7 @@ body {
 .mobile-menu-overlay {
   position: fixed;
   inset: 0;
-  background: rgba(13, 67, 91, 0.97);
-  backdrop-filter: blur(8px);
+  background: #0D435B;
   z-index: 100;
   opacity: 0;
   transition: opacity 0.3s ease;
