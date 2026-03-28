@@ -1,0 +1,601 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Artik Lab — AI Consulting for Business</title>
+  <meta name="description" content="Artik Lab helps businesses build real AI capabilities. Management consulting, custom training, and software development grounded in 2025-2026 global research.">
+  <meta name="keywords" content="AI consulting, artificial intelligence, AI training, business transformation, AI agents, management consulting">
+  <meta name="author" content="Artik Lab srl">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Artik Lab — AI Consulting for Business">
+  <meta property="og:description" content="AI is not software. It's a management capability. Artik Lab guides businesses through AI transformation with measurable results from day one.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.ar-tik.com/en/">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:site_name" content="Artik Lab">
+
+  <!-- Hreflang -->
+  <link rel="alternate" hreflang="it" href="https://www.ar-tik.com/">
+  <link rel="alternate" hreflang="en" href="https://www.ar-tik.com/en/">
+  <link rel="alternate" hreflang="pt-BR" href="https://www.ar-tik.com/pt-br/">
+  <link rel="alternate" hreflang="x-default" href="https://www.ar-tik.com/">
+
+  <!-- Canonical -->
+  <link rel="canonical" href="https://www.ar-tik.com/en/">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="../assets/images/artik-lab.svg">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Exo:wght@700&family=Jost:wght@400;500&display=swap" rel="stylesheet">
+
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            navy: '#0D435B',
+            teal: '#0E88A5',
+            green: '#47B488',
+            lime: '#9BC979',
+          },
+          fontFamily: {
+            heading: ['Exo', 'sans-serif'],
+            body: ['Jost', 'sans-serif'],
+          },
+        },
+      },
+    }
+  </script>
+
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="../css/custom.css">
+</head>
+<body class="font-body text-navy bg-white">
+
+  <!-- ==================== HEADER ==================== -->
+  <header id="site-header" class="fixed top-0 left-0 right-0 z-50 bg-white/95 backdrop-blur-sm border-b border-gray-100 transition-all duration-300">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center justify-between h-16 md:h-20">
+        <a href="/en/" class="flex-shrink-0" aria-label="Artik Lab — Home">
+          <img src="../assets/images/artik-lab.svg" alt="Artik Lab" class="h-8 md:h-10 w-auto">
+        </a>
+
+        <nav class="hidden md:flex items-center gap-8" aria-label="Main navigation">
+          <a href="#problem" class="text-sm font-medium text-navy/70 hover:text-navy transition-colors">The Problem</a>
+          <a href="#solution" class="text-sm font-medium text-navy/70 hover:text-navy transition-colors">The Solution</a>
+          <a href="#services" class="text-sm font-medium text-navy/70 hover:text-navy transition-colors">Services</a>
+          <a href="#why-us" class="text-sm font-medium text-navy/70 hover:text-navy transition-colors">Why Us</a>
+          <a href="#contact" class="text-sm font-medium text-navy/70 hover:text-navy transition-colors">Contact</a>
+        </nav>
+
+        <div class="flex items-center gap-4">
+          <div class="hidden sm:flex items-center gap-1 text-xs font-medium">
+            <a href="/" class="text-navy/50 hover:text-navy px-1 py-0.5 transition-colors">IT</a>
+            <span class="text-navy/40">|</span>
+            <span class="text-navy border-b-2 border-green px-1 py-0.5" aria-current="page">EN</span>
+            <span class="text-navy/40">|</span>
+            <a href="/pt-br/" class="text-navy/50 hover:text-navy px-1 py-0.5 transition-colors">PT</a>
+          </div>
+
+          <button id="menu-toggle" class="md:hidden p-2 -mr-2" aria-label="Open menu" aria-expanded="false">
+            <i data-lucide="menu" class="w-6 h-6 text-navy"></i>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Mobile Menu -->
+    <div id="mobile-menu" class="mobile-menu-overlay hidden md:hidden" role="dialog" aria-label="Navigation menu">
+      <div class="flex flex-col items-center justify-center min-h-screen gap-8 p-8">
+        <button id="menu-close" class="absolute top-4 right-4 p-2" aria-label="Close menu">
+          <i data-lucide="x" class="w-6 h-6 text-white"></i>
+        </button>
+        <a href="#problem" class="mobile-nav-link text-2xl font-heading text-white/90 hover:text-white">The Problem</a>
+        <a href="#solution" class="mobile-nav-link text-2xl font-heading text-white/90 hover:text-white">The Solution</a>
+        <a href="#services" class="mobile-nav-link text-2xl font-heading text-white/90 hover:text-white">Services</a>
+        <a href="#why-us" class="mobile-nav-link text-2xl font-heading text-white/90 hover:text-white">Why Us</a>
+        <a href="#contact" class="mobile-nav-link text-2xl font-heading text-white/90 hover:text-white">Contact</a>
+        <div class="flex items-center gap-3 mt-4 text-lg">
+          <a href="/" class="text-white/50 hover:text-white px-2 py-1">IT</a>
+          <span class="text-white border-b-2 border-lime px-2 py-1">EN</span>
+          <a href="/pt-br/" class="text-white/50 hover:text-white px-2 py-1">PT</a>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <!-- ==================== HERO ==================== -->
+    <section id="hero" class="relative min-h-screen flex items-center bg-navy overflow-hidden">
+      <div class="hero-pattern absolute inset-0 opacity-10"></div>
+
+      <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-32 md:py-40">
+        <div class="max-w-3xl">
+          <h1 class="font-heading text-4xl sm:text-5xl lg:text-6xl text-white leading-tight">
+            AI is not software.<br>
+            <span class="text-lime">It's a management capability.</span>
+          </h1>
+          <p class="mt-6 text-lg sm:text-xl text-white/70 max-w-2xl font-body">
+            We help businesses build the AI transformation that actually works: consulting, training, and development grounded in 2025–2026 global research.
+          </p>
+          <div class="mt-10 flex flex-col sm:flex-row gap-4">
+            <a href="#contact" class="inline-flex items-center justify-center px-8 py-4 bg-green hover:bg-green/90 text-white font-heading text-lg rounded-lg transition-colors">
+              Get in touch
+            </a>
+            <a href="#solution" class="inline-flex items-center justify-center px-8 py-4 border-2 border-white/30 hover:border-white/60 text-white font-heading text-lg rounded-lg transition-colors">
+              Discover our method
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div class="absolute bottom-8 left-1/2 -translate-x-1/2 animate-bounce">
+        <i data-lucide="chevron-down" class="w-6 h-6 text-white/40"></i>
+      </div>
+    </section>
+
+    <!-- ==================== THE PROBLEM ==================== -->
+    <section id="problem" class="py-20 md:py-28 bg-gray-50">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center max-w-3xl mx-auto mb-16">
+          <p class="text-sm font-medium text-teal uppercase tracking-widest mb-4">The problem</p>
+          <h2 class="font-heading text-3xl sm:text-4xl lg:text-5xl text-navy">
+            Why <span class="text-teal">95%</span> of AI projects fail
+          </h2>
+          <p class="mt-6 text-lg text-navy/60">
+            Most organizations treat Artificial Intelligence like any other software: buy it, install it, train employees on it. The data shows the path is more complex than expected.
+          </p>
+        </div>
+
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+          <div class="stat-card bg-white rounded-xl p-6 shadow-sm border border-gray-100">
+            <div class="text-4xl font-heading text-teal mb-2">95%</div>
+            <p class="text-navy/70 text-base">of enterprise AI projects <strong class="text-navy">generate no economic return</strong></p>
+            <p class="text-xs text-navy/40 mt-3">MIT Nanda, 2025</p>
+          </div>
+          <div class="stat-card bg-white rounded-xl p-6 shadow-sm border border-gray-100">
+            <div class="text-4xl font-heading text-teal mb-2">80%</div>
+            <p class="text-navy/70 text-base">of purchased AI licenses <strong class="text-navy">go unused</strong> after 3 weeks</p>
+            <p class="text-xs text-navy/40 mt-3">Microsoft, 2025</p>
+          </div>
+          <div class="stat-card bg-white rounded-xl p-6 shadow-sm border border-gray-100">
+            <div class="text-4xl font-heading text-teal mb-2">90%</div>
+            <p class="text-navy/70 text-base">of employees <strong class="text-navy">already use personal AI tools</strong> without corporate governance</p>
+            <p class="text-xs text-navy/40 mt-3">Shadow AI, 2025-2026</p>
+          </div>
+          <div class="stat-card bg-white rounded-xl p-6 shadow-sm border border-gray-100">
+            <div class="text-4xl font-heading text-teal mb-2">−19%</div>
+            <p class="text-navy/70 text-base">performance drop when AI is applied <strong class="text-navy">without the right skills</strong></p>
+            <p class="text-xs text-navy/40 mt-3">BCG / Harvard, 2023</p>
+          </div>
+        </div>
+
+        <div class="mt-12 max-w-3xl mx-auto text-center">
+          <p class="text-navy/60 text-lg leading-relaxed">
+            Organizations buy tools, activate licenses, and wait for results. But AI is not deterministic software — it's a <strong class="text-navy">digital collaborator</strong> that requires management expertise to deliver value. Organizations that recognize this distinction achieve radically different results.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==================== THE SOLUTION ==================== -->
+    <section id="solution" class="py-20 md:py-28 bg-white">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center max-w-3xl mx-auto mb-16">
+          <p class="text-sm font-medium text-teal uppercase tracking-widest mb-4">The solution</p>
+          <h2 class="font-heading text-3xl sm:text-4xl lg:text-5xl text-navy">
+            The Three Pillars of AI Transformation
+          </h2>
+          <p class="mt-6 text-lg text-navy/60">
+            Organizations that generate real value from AI all follow the same pattern: <strong class="text-navy">70% of the value</strong> comes from people and processes, not technology.
+          </p>
+        </div>
+
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-8 lg:gap-6">
+          <div class="pillar-card relative bg-gray-50 rounded-2xl p-8 border border-gray-100">
+            <div class="flex items-center gap-3 mb-6">
+              <div class="flex items-center justify-center w-10 h-10 rounded-full bg-green/10 text-green font-heading text-lg">1</div>
+              <span class="text-xs font-medium text-green uppercase tracking-widest">Enablement</span>
+            </div>
+            <div class="mb-4">
+              <i data-lucide="graduation-cap" class="w-8 h-8 text-navy/80"></i>
+            </div>
+            <h3 class="font-heading text-xl text-navy mb-3">Management judgment training</h3>
+            <p class="text-navy/60 text-base leading-relaxed">
+              Level 201 capabilities: assembling the right context, evaluating output quality, decomposing complex problems, recognizing AI limitations. Skills that <strong class="text-navy">survive every tool upgrade</strong>.
+            </p>
+          </div>
+
+          <div class="pillar-card relative bg-gray-50 rounded-2xl p-8 border border-gray-100">
+            <div class="flex items-center gap-3 mb-6">
+              <div class="flex items-center justify-center w-10 h-10 rounded-full bg-green/10 text-green font-heading text-lg">2</div>
+              <span class="text-xs font-medium text-green uppercase tracking-widest">Transformation</span>
+            </div>
+            <div class="mb-4">
+              <i data-lucide="workflow" class="w-8 h-8 text-navy/80"></i>
+            </div>
+            <h3 class="font-heading text-xl text-navy mb-3">Process redesign</h3>
+            <p class="text-navy/60 text-base leading-relaxed">
+              Mapping the Jagged Frontier to your processes and redesigning workflows with the Zone Framework: <strong class="text-navy">green</strong> (automation), <strong class="text-navy">yellow</strong> (supervision), <strong class="text-navy">red</strong> (human-only). Measurable results from day one.
+            </p>
+          </div>
+
+          <div class="pillar-card relative bg-gray-50 rounded-2xl p-8 border border-gray-100">
+            <div class="flex items-center gap-3 mb-6">
+              <div class="flex items-center justify-center w-10 h-10 rounded-full bg-green/10 text-green font-heading text-lg">3</div>
+              <span class="text-xs font-medium text-green uppercase tracking-widest">Technology</span>
+            </div>
+            <div class="mb-4">
+              <i data-lucide="bot" class="w-8 h-8 text-navy/80"></i>
+            </div>
+            <h3 class="font-heading text-xl text-navy mb-3">Operational AI agents on solid ground</h3>
+            <p class="text-navy/60 text-base leading-relaxed">
+              When skills and processes are in place, we introduce <strong class="text-navy">operational AI agents</strong>: solutions that plan, act, and self-check. From production to financial control, from legal to human resources.
+            </p>
+          </div>
+        </div>
+
+        <div class="mt-12 bg-navy rounded-xl p-6 md:p-8 text-center">
+          <p class="text-white/90 text-lg font-body">
+            <strong class="text-lime font-heading">The sequence matters.</strong> 10% of value comes from algorithms, 20% from data, and <strong class="text-white">70% from people and processes</strong>. Companies that follow this sequence achieve the best results.
+          </p>
+          <p class="text-white/50 text-sm mt-3">10-20-70 Rule — BCG, McKinsey, MIT, 2025-2026</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==================== SERVICES ==================== -->
+    <section id="services" class="py-20 md:py-28 bg-gray-50">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center max-w-3xl mx-auto mb-16">
+          <p class="text-sm font-medium text-teal uppercase tracking-widest mb-4">Services</p>
+          <h2 class="font-heading text-3xl sm:text-4xl lg:text-5xl text-navy">
+            Three branches, one integrated method
+          </h2>
+          <p class="mt-6 text-lg text-navy/60">
+            Consulting, training, and development work together to build lasting organizational capability.
+          </p>
+        </div>
+
+        <div class="space-y-12">
+          <!-- Management Consulting -->
+          <div class="bg-white rounded-2xl p-8 md:p-10 shadow-sm border border-gray-100">
+            <div class="flex items-start gap-4 mb-6">
+              <div class="flex-shrink-0 w-12 h-12 rounded-xl bg-navy/5 flex items-center justify-center">
+                <i data-lucide="compass" class="w-6 h-6 text-navy"></i>
+              </div>
+              <div>
+                <h3 class="font-heading text-2xl text-navy">Management Consulting</h3>
+                <p class="text-teal text-sm font-medium mt-1">AI adoption strategy and agentic applications</p>
+              </div>
+            </div>
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 ml-0 md:ml-16">
+              <div class="flex items-start gap-3">
+                <i data-lucide="target" class="w-5 h-5 text-green flex-shrink-0 mt-0.5"></i>
+                <p class="text-navy/70 text-base">Custom AI adoption strategy tailored to your business reality</p>
+              </div>
+              <div class="flex items-start gap-3">
+                <i data-lucide="scan-line" class="w-5 h-5 text-green flex-shrink-0 mt-0.5"></i>
+                <p class="text-navy/70 text-base">Jagged Frontier mapping for your specific processes</p>
+              </div>
+              <div class="flex items-start gap-3">
+                <i data-lucide="shield-check" class="w-5 h-5 text-green flex-shrink-0 mt-0.5"></i>
+                <p class="text-navy/70 text-base">Zone Governance Framework design (green/yellow/red)</p>
+              </div>
+              <div class="flex items-start gap-3">
+                <i data-lucide="boxes" class="w-5 h-5 text-green flex-shrink-0 mt-0.5"></i>
+                <p class="text-navy/70 text-base">Agentic application architecture</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Custom Training -->
+          <div class="bg-white rounded-2xl p-8 md:p-10 shadow-sm border border-gray-100">
+            <div class="flex items-start gap-4 mb-6">
+              <div class="flex-shrink-0 w-12 h-12 rounded-xl bg-navy/5 flex items-center justify-center">
+                <i data-lucide="book-open" class="w-6 h-6 text-navy"></i>
+              </div>
+              <div>
+                <h3 class="font-heading text-2xl text-navy">Custom Training</h3>
+                <p class="text-teal text-sm font-medium mt-1">Built on your company's real data and processes</p>
+              </div>
+            </div>
+
+            <div class="flex flex-wrap gap-6 mb-8 ml-0 md:ml-16">
+              <div class="flex items-center gap-2">
+                <span class="text-2xl font-heading text-green">10</span>
+                <span class="text-sm text-navy/60">master modules</span>
+              </div>
+              <div class="flex items-center gap-2">
+                <span class="text-2xl font-heading text-green">121</span>
+                <span class="text-sm text-navy/60">operational prompts</span>
+              </div>
+            </div>
+
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 ml-0 md:ml-16">
+              <div class="module-card text-left p-4 rounded-lg border border-gray-100">
+                <div class="flex items-center gap-2 mb-1">
+                  <i data-lucide="shield" class="w-4 h-4 text-teal"></i>
+                  <span class="text-sm font-medium text-navy">AI Foundation</span>
+                </div>
+                <p class="text-xs text-navy/50">Governance & awareness — 8h</p>
+              </div>
+              <div class="module-card text-left p-4 rounded-lg border border-gray-100">
+                <div class="flex items-center gap-2 mb-1">
+                  <i data-lucide="megaphone" class="w-4 h-4 text-teal"></i>
+                  <span class="text-sm font-medium text-navy">Communication & Brand</span>
+                </div>
+                <p class="text-xs text-navy/50">AI-powered identity — 8h</p>
+              </div>
+              <div class="module-card text-left p-4 rounded-lg border border-gray-100">
+                <div class="flex items-center gap-2 mb-1">
+                  <i data-lucide="database" class="w-4 h-4 text-teal"></i>
+                  <span class="text-sm font-medium text-navy">Context Engineering</span>
+                </div>
+                <p class="text-xs text-navy/50">RAG architectures — 6h</p>
+              </div>
+              <div class="module-card text-left p-4 rounded-lg border border-gray-100">
+                <div class="flex items-center gap-2 mb-1">
+                  <i data-lucide="file-text" class="w-4 h-4 text-teal"></i>
+                  <span class="text-sm font-medium text-navy">Document Automation</span>
+                </div>
+                <p class="text-xs text-navy/50">Intelligent doc workflows — 4h</p>
+              </div>
+              <div class="module-card text-left p-4 rounded-lg border border-gray-100">
+                <div class="flex items-center gap-2 mb-1">
+                  <i data-lucide="settings" class="w-4 h-4 text-teal"></i>
+                  <span class="text-sm font-medium text-navy">Process Optimization</span>
+                </div>
+                <p class="text-xs text-navy/50">Process mining & forecasting — 6h</p>
+              </div>
+              <div class="module-card text-left p-4 rounded-lg border border-gray-100">
+                <div class="flex items-center gap-2 mb-1">
+                  <i data-lucide="headphones" class="w-4 h-4 text-teal"></i>
+                  <span class="text-sm font-medium text-navy">Customer Support AI</span>
+                </div>
+                <p class="text-xs text-navy/50">Intelligent support systems</p>
+              </div>
+              <div class="module-card text-left p-4 rounded-lg border border-gray-100">
+                <div class="flex items-center gap-2 mb-1">
+                  <i data-lucide="store" class="w-4 h-4 text-teal"></i>
+                  <span class="text-sm font-medium text-navy">Retail Operations</span>
+                </div>
+                <p class="text-xs text-navy/50">Point-of-sale & inventory</p>
+              </div>
+              <div class="module-card text-left p-4 rounded-lg border border-gray-100">
+                <div class="flex items-center gap-2 mb-1">
+                  <i data-lucide="users" class="w-4 h-4 text-teal"></i>
+                  <span class="text-sm font-medium text-navy">AI for HR</span>
+                </div>
+                <p class="text-xs text-navy/50">People & organization</p>
+              </div>
+              <div class="module-card text-left p-4 rounded-lg border border-gray-100">
+                <div class="flex items-center gap-2 mb-1">
+                  <i data-lucide="code" class="w-4 h-4 text-teal"></i>
+                  <span class="text-sm font-medium text-navy">AI-Assisted Development</span>
+                </div>
+                <p class="text-xs text-navy/50">Dev acceleration with AI</p>
+              </div>
+            </div>
+
+            <!-- DTR — Dynamic Training Rework -->
+            <div class="mt-8 ml-0 md:ml-16 bg-navy rounded-2xl p-6 md:p-8">
+              <div class="flex items-center gap-3 mb-4">
+                <div class="flex items-center justify-center w-10 h-10 rounded-full bg-lime/20">
+                  <i data-lucide="refresh-cw" class="w-5 h-5 text-lime"></i>
+                </div>
+                <div>
+                  <h4 class="font-heading text-lg text-white">Dynamic Training Rework</h4>
+                  <p class="text-white/50 text-sm">Artik Lab proprietary methodology</p>
+                </div>
+              </div>
+              <p class="text-white/70 text-base leading-relaxed mb-6">
+                Every training program is <strong class="text-lime">dynamically rebuilt</strong> session after session, calibrating itself to the company's actual processes, roles, and operational priorities. Content, exercises, and learning materials evolve based on what emerges from direct engagement with participants.
+              </p>
+              <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-6">
+                <div class="flex items-start gap-3">
+                  <i data-lucide="file-text" class="w-5 h-5 text-lime/70 flex-shrink-0 mt-0.5"></i>
+                  <p class="text-white/60 text-sm"><strong class="text-white/90">Exercises on your real work</strong> — each participant works with their own document formats, data structures, and daily operational challenges</p>
+                </div>
+                <div class="flex items-start gap-3">
+                  <i data-lucide="book-marked" class="w-5 h-5 text-lime/70 flex-shrink-0 mt-0.5"></i>
+                  <p class="text-white/60 text-sm"><strong class="text-white/90">Custom manuals</strong> — content, examples, and operational instructions written for that specific context, those roles, those processes</p>
+                </div>
+                <div class="flex items-start gap-3">
+                  <i data-lucide="clipboard-check" class="w-5 h-5 text-lime/70 flex-shrink-0 mt-0.5"></i>
+                  <p class="text-white/60 text-sm"><strong class="text-white/90">Post-session reports</strong> — needs analysis, structured Q&A, development areas identified for management review</p>
+                </div>
+                <div class="flex items-start gap-3">
+                  <i data-lucide="map" class="w-5 h-5 text-lime/70 flex-shrink-0 mt-0.5"></i>
+                  <p class="text-white/60 text-sm"><strong class="text-white/90">Final deliverables</strong> — competency map, high-potential process snapshot, concrete integration roadmap</p>
+                </div>
+              </div>
+              <div class="flex items-start gap-3 p-4 bg-white/5 rounded-lg">
+                <i data-lucide="sparkles" class="w-5 h-5 text-lime flex-shrink-0 mt-0.5"></i>
+                <p class="text-white/60 text-sm leading-relaxed">
+                  At the end of the program, the company has trained people, reusable materials, and an <strong class="text-white/90">actionable understanding of how AI can transform its core processes</strong>.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Software Concept Development -->
+          <div class="bg-white rounded-2xl p-8 md:p-10 shadow-sm border border-gray-100">
+            <div class="flex items-start gap-4 mb-6">
+              <div class="flex-shrink-0 w-12 h-12 rounded-xl bg-navy/5 flex items-center justify-center">
+                <i data-lucide="cpu" class="w-6 h-6 text-navy"></i>
+              </div>
+              <div>
+                <h3 class="font-heading text-2xl text-navy">Software Concept Development</h3>
+                <p class="text-teal text-sm font-medium mt-1">From concept to working prototype</p>
+              </div>
+            </div>
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 ml-0 md:ml-16">
+              <div class="flex items-start gap-3">
+                <i data-lucide="bot" class="w-5 h-5 text-green flex-shrink-0 mt-0.5"></i>
+                <p class="text-navy/70 text-base">Operational AI agent development for specific business processes</p>
+              </div>
+              <div class="flex items-start gap-3">
+                <i data-lucide="puzzle" class="w-5 h-5 text-green flex-shrink-0 mt-0.5"></i>
+                <p class="text-navy/70 text-base">Custom AI systems integrated with your existing infrastructure</p>
+              </div>
+              <div class="flex items-start gap-3">
+                <i data-lucide="building-2" class="w-5 h-5 text-green flex-shrink-0 mt-0.5"></i>
+                <p class="text-navy/70 text-base">Agentic Office architecture: corporate memory and intelligent automation</p>
+              </div>
+              <div class="flex items-start gap-3">
+                <i data-lucide="rocket" class="w-5 h-5 text-green flex-shrink-0 mt-0.5"></i>
+                <p class="text-navy/70 text-base">End-to-end path from concept to validation and working prototype</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==================== WHY US ==================== -->
+    <section id="why-us" class="py-20 md:py-28 bg-white">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center max-w-3xl mx-auto mb-16">
+          <p class="text-sm font-medium text-teal uppercase tracking-widest mb-4">Why us</p>
+          <h2 class="font-heading text-3xl sm:text-4xl lg:text-5xl text-navy">
+            Beyond tools:<br>
+            <span class="text-teal">we build capabilities.</span>
+          </h2>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+          <div class="flex items-start gap-4">
+            <div class="flex-shrink-0 w-12 h-12 rounded-xl bg-green/10 flex items-center justify-center">
+              <i data-lucide="brain" class="w-6 h-6 text-green"></i>
+            </div>
+            <div>
+              <h3 class="font-heading text-lg text-navy mb-2">Capability, not tools</h3>
+              <p class="text-navy/60 text-base leading-relaxed">
+                The goal is to build an organizational capability that generates value regardless of which technology you adopt.
+              </p>
+            </div>
+          </div>
+          <div class="flex items-start gap-4">
+            <div class="flex-shrink-0 w-12 h-12 rounded-xl bg-green/10 flex items-center justify-center">
+              <i data-lucide="bar-chart-3" class="w-6 h-6 text-green"></i>
+            </div>
+            <div>
+              <h3 class="font-heading text-lg text-navy mb-2">Data-validated method</h3>
+              <p class="text-navy/60 text-base leading-relaxed">
+                The Three Pillars framework is the emerging model from analysis of thousands of companies by BCG, McKinsey, and MIT in 2025–2026.
+              </p>
+            </div>
+          </div>
+          <div class="flex items-start gap-4">
+            <div class="flex-shrink-0 w-12 h-12 rounded-xl bg-green/10 flex items-center justify-center">
+              <i data-lucide="zap" class="w-6 h-6 text-green"></i>
+            </div>
+            <div>
+              <h3 class="font-heading text-lg text-navy mb-2">Results from day one</h3>
+              <p class="text-navy/60 text-base leading-relaxed">
+                Every engagement delivers concrete, measurable impact from the first session, using your company's real data and processes.
+              </p>
+            </div>
+          </div>
+          <div class="flex items-start gap-4">
+            <div class="flex-shrink-0 w-12 h-12 rounded-xl bg-green/10 flex items-center justify-center">
+              <i data-lucide="globe" class="w-6 h-6 text-green"></i>
+            </div>
+            <div>
+              <h3 class="font-heading text-lg text-navy mb-2">Built for business</h3>
+              <p class="text-navy/60 text-base leading-relaxed">
+                We understand the dynamics of small and mid-sized enterprises — lean IT, need for reliability, and the value of a trusted partner who speaks the language of business.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="mt-16 flex flex-wrap justify-center gap-8 md:gap-16 py-8 border-t border-b border-gray-100">
+          <div class="text-center">
+            <div class="text-3xl font-heading text-navy">10</div>
+            <div class="text-sm text-navy/50 mt-1">training modules</div>
+          </div>
+          <div class="text-center">
+            <div class="text-3xl font-heading text-navy">121</div>
+            <div class="text-sm text-navy/50 mt-1">operational prompts</div>
+          </div>
+          <div class="text-center">
+            <div class="text-3xl font-heading text-navy">3</div>
+            <div class="text-sm text-navy/50 mt-1">languages</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==================== CONTACT ==================== -->
+    <section id="contact" class="py-20 md:py-28 bg-navy">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <p class="text-sm font-medium text-lime uppercase tracking-widest mb-4">Contact</p>
+        <h2 class="font-heading text-3xl sm:text-4xl lg:text-5xl text-white max-w-2xl mx-auto">
+          Every transformation starts with a conversation.
+        </h2>
+        <p class="mt-6 text-lg text-white/60 max-w-xl mx-auto">
+          Tell us about your reality: we'll analyze together whether the Three Pillars path can make a difference.
+        </p>
+        <div class="mt-10 flex flex-col items-center gap-4">
+          <a href="mailto:dtr@ar-tik.com" class="inline-flex items-center justify-center gap-3 px-10 py-4 bg-green hover:bg-green/90 text-white font-heading text-lg rounded-lg transition-colors">
+            <i data-lucide="mail" class="w-5 h-5"></i>
+            Write to us
+          </a>
+          <a href="mailto:dtr@ar-tik.com" class="text-white/50 hover:text-white/80 text-sm transition-colors">
+            dtr@ar-tik.com
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ==================== FOOTER ==================== -->
+  <footer class="bg-navy border-t border-white/10 py-12">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8 items-start">
+        <div>
+          <img src="../assets/images/artik-lab.svg" alt="Artik Lab" class="h-8 w-auto footer-logo">
+          <p class="mt-3 text-white/40 text-sm">AI Consulting for Business</p>
+        </div>
+        <nav class="flex flex-col gap-2" aria-label="Quick links">
+          <a href="#problem" class="text-white/50 hover:text-white/80 text-sm transition-colors">The Problem</a>
+          <a href="#solution" class="text-white/50 hover:text-white/80 text-sm transition-colors">The Solution</a>
+          <a href="#services" class="text-white/50 hover:text-white/80 text-sm transition-colors">Services</a>
+          <a href="#why-us" class="text-white/50 hover:text-white/80 text-sm transition-colors">Why Us</a>
+          <a href="#contact" class="text-white/50 hover:text-white/80 text-sm transition-colors">Contact</a>
+        </nav>
+        <div class="text-sm text-white/40 space-y-2">
+          <p>Artik Lab srl — Startup Innovativa</p>
+          <p>VAT: IT04120810041</p>
+          <div class="flex items-center gap-1 pt-2">
+            <a href="/" class="text-white/40 hover:text-white transition-colors">IT</a>
+            <span class="text-white/20">|</span>
+            <a href="/en/" class="text-white/60 hover:text-white transition-colors">EN</a>
+            <span class="text-white/20">|</span>
+            <a href="/pt-br/" class="text-white/40 hover:text-white transition-colors">PT</a>
+          </div>
+        </div>
+      </div>
+      <div class="mt-8 pt-6 border-t border-white/10 flex flex-col sm:flex-row justify-between items-center gap-4">
+        <p class="text-xs text-white/30">&copy; 2026 Artik Lab srl. All rights reserved.</p>
+        <p class="text-xs text-white/30">Design by <a href="https://archibuzz.com" target="_blank" rel="noopener" class="hover:text-white/50 transition-colors">Archibuzz</a></p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="../js/main.js"></script>
+  <script>lucide.createIcons();</script>
+</body>
+</html>

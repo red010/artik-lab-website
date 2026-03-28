@@ -1,0 +1,601 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Artik Lab — Consultoria em IA para Empresas</title>
+  <meta name="description" content="A Artik Lab ajuda empresas a construir capacidades reais de IA. Consultoria gerencial, treinamento personalizado e desenvolvimento de software baseados em pesquisas globais 2025-2026.">
+  <meta name="keywords" content="consultoria IA, inteligência artificial, treinamento IA, transformação digital, agentes IA, consultoria gerencial">
+  <meta name="author" content="Artik Lab srl">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Artik Lab — Consultoria em IA para Empresas">
+  <meta property="og:description" content="IA não é software. É uma competência gerencial. A Artik Lab guia empresas na transformação em IA com resultados mensuráveis desde o primeiro dia.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.ar-tik.com/pt-br/">
+  <meta property="og:locale" content="pt_BR">
+  <meta property="og:site_name" content="Artik Lab">
+
+  <!-- Hreflang -->
+  <link rel="alternate" hreflang="it" href="https://www.ar-tik.com/">
+  <link rel="alternate" hreflang="en" href="https://www.ar-tik.com/en/">
+  <link rel="alternate" hreflang="pt-BR" href="https://www.ar-tik.com/pt-br/">
+  <link rel="alternate" hreflang="x-default" href="https://www.ar-tik.com/">
+
+  <!-- Canonical -->
+  <link rel="canonical" href="https://www.ar-tik.com/pt-br/">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="../assets/images/artik-lab.svg">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Exo:wght@700&family=Jost:wght@400;500&display=swap" rel="stylesheet">
+
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            navy: '#0D435B',
+            teal: '#0E88A5',
+            green: '#47B488',
+            lime: '#9BC979',
+          },
+          fontFamily: {
+            heading: ['Exo', 'sans-serif'],
+            body: ['Jost', 'sans-serif'],
+          },
+        },
+      },
+    }
+  </script>
+
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="../css/custom.css">
+</head>
+<body class="font-body text-navy bg-white">
+
+  <!-- ==================== HEADER ==================== -->
+  <header id="site-header" class="fixed top-0 left-0 right-0 z-50 bg-white/95 backdrop-blur-sm border-b border-gray-100 transition-all duration-300">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center justify-between h-16 md:h-20">
+        <a href="/pt-br/" class="flex-shrink-0" aria-label="Artik Lab — Início">
+          <img src="../assets/images/artik-lab.svg" alt="Artik Lab" class="h-8 md:h-10 w-auto">
+        </a>
+
+        <nav class="hidden md:flex items-center gap-8" aria-label="Navegação principal">
+          <a href="#problema" class="text-sm font-medium text-navy/70 hover:text-navy transition-colors">O Problema</a>
+          <a href="#solucao" class="text-sm font-medium text-navy/70 hover:text-navy transition-colors">A Solução</a>
+          <a href="#servicos" class="text-sm font-medium text-navy/70 hover:text-navy transition-colors">Serviços</a>
+          <a href="#por-que-nos" class="text-sm font-medium text-navy/70 hover:text-navy transition-colors">Por Que Nós</a>
+          <a href="#contato" class="text-sm font-medium text-navy/70 hover:text-navy transition-colors">Contato</a>
+        </nav>
+
+        <div class="flex items-center gap-4">
+          <div class="hidden sm:flex items-center gap-1 text-xs font-medium">
+            <a href="/" class="text-navy/50 hover:text-navy px-1 py-0.5 transition-colors">IT</a>
+            <span class="text-navy/40">|</span>
+            <a href="/en/" class="text-navy/50 hover:text-navy px-1 py-0.5 transition-colors">EN</a>
+            <span class="text-navy/40">|</span>
+            <span class="text-navy border-b-2 border-green px-1 py-0.5" aria-current="page">PT</span>
+          </div>
+
+          <button id="menu-toggle" class="md:hidden p-2 -mr-2" aria-label="Abrir menu" aria-expanded="false">
+            <i data-lucide="menu" class="w-6 h-6 text-navy"></i>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Menu Mobile -->
+    <div id="mobile-menu" class="mobile-menu-overlay hidden md:hidden" role="dialog" aria-label="Menu de navegação">
+      <div class="flex flex-col items-center justify-center min-h-screen gap-8 p-8">
+        <button id="menu-close" class="absolute top-4 right-4 p-2" aria-label="Fechar menu">
+          <i data-lucide="x" class="w-6 h-6 text-white"></i>
+        </button>
+        <a href="#problema" class="mobile-nav-link text-2xl font-heading text-white/90 hover:text-white">O Problema</a>
+        <a href="#solucao" class="mobile-nav-link text-2xl font-heading text-white/90 hover:text-white">A Solução</a>
+        <a href="#servicos" class="mobile-nav-link text-2xl font-heading text-white/90 hover:text-white">Serviços</a>
+        <a href="#por-que-nos" class="mobile-nav-link text-2xl font-heading text-white/90 hover:text-white">Por Que Nós</a>
+        <a href="#contato" class="mobile-nav-link text-2xl font-heading text-white/90 hover:text-white">Contato</a>
+        <div class="flex items-center gap-3 mt-4 text-lg">
+          <a href="/" class="text-white/50 hover:text-white px-2 py-1">IT</a>
+          <a href="/en/" class="text-white/50 hover:text-white px-2 py-1">EN</a>
+          <span class="text-white border-b-2 border-lime px-2 py-1">PT</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <!-- ==================== HERO ==================== -->
+    <section id="hero" class="relative min-h-screen flex items-center bg-navy overflow-hidden">
+      <div class="hero-pattern absolute inset-0 opacity-10"></div>
+
+      <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-32 md:py-40">
+        <div class="max-w-3xl">
+          <h1 class="font-heading text-4xl sm:text-5xl lg:text-6xl text-white leading-tight">
+            IA não é software.<br>
+            <span class="text-lime">É uma competência gerencial.</span>
+          </h1>
+          <p class="mt-6 text-lg sm:text-xl text-white/70 max-w-2xl font-body">
+            Ajudamos empresas a construir a transformação em IA que realmente funciona: consultoria, treinamento e desenvolvimento baseados em pesquisas globais 2025–2026.
+          </p>
+          <div class="mt-10 flex flex-col sm:flex-row gap-4">
+            <a href="#contato" class="inline-flex items-center justify-center px-8 py-4 bg-green hover:bg-green/90 text-white font-heading text-lg rounded-lg transition-colors">
+              Fale conosco
+            </a>
+            <a href="#solucao" class="inline-flex items-center justify-center px-8 py-4 border-2 border-white/30 hover:border-white/60 text-white font-heading text-lg rounded-lg transition-colors">
+              Conheça o método
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div class="absolute bottom-8 left-1/2 -translate-x-1/2 animate-bounce">
+        <i data-lucide="chevron-down" class="w-6 h-6 text-white/40"></i>
+      </div>
+    </section>
+
+    <!-- ==================== O PROBLEMA ==================== -->
+    <section id="problema" class="py-20 md:py-28 bg-gray-50">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center max-w-3xl mx-auto mb-16">
+          <p class="text-sm font-medium text-teal uppercase tracking-widest mb-4">O problema</p>
+          <h2 class="font-heading text-3xl sm:text-4xl lg:text-5xl text-navy">
+            Por que <span class="text-teal">95%</span> dos projetos de IA fracassam
+          </h2>
+          <p class="mt-6 text-lg text-navy/60">
+            A maioria das organizações trata a Inteligência Artificial como qualquer outro software: compra, instala e treina os funcionários. Os dados mostram que o caminho é mais complexo do que se imagina.
+          </p>
+        </div>
+
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+          <div class="stat-card bg-white rounded-xl p-6 shadow-sm border border-gray-100">
+            <div class="text-4xl font-heading text-teal mb-2">95%</div>
+            <p class="text-navy/70 text-base">dos projetos empresariais de IA <strong class="text-navy">não geram retorno econômico</strong></p>
+            <p class="text-xs text-navy/40 mt-3">MIT Nanda, 2025</p>
+          </div>
+          <div class="stat-card bg-white rounded-xl p-6 shadow-sm border border-gray-100">
+            <div class="text-4xl font-heading text-teal mb-2">80%</div>
+            <p class="text-navy/70 text-base">das licenças de IA adquiridas <strong class="text-navy">ficam sem uso</strong> após 3 semanas</p>
+            <p class="text-xs text-navy/40 mt-3">Microsoft, 2025</p>
+          </div>
+          <div class="stat-card bg-white rounded-xl p-6 shadow-sm border border-gray-100">
+            <div class="text-4xl font-heading text-teal mb-2">90%</div>
+            <p class="text-navy/70 text-base">dos funcionários <strong class="text-navy">já usam ferramentas pessoais de IA</strong> sem governança corporativa</p>
+            <p class="text-xs text-navy/40 mt-3">Shadow AI, 2025-2026</p>
+          </div>
+          <div class="stat-card bg-white rounded-xl p-6 shadow-sm border border-gray-100">
+            <div class="text-4xl font-heading text-teal mb-2">−19%</div>
+            <p class="text-navy/70 text-base">de queda no desempenho quando a IA é aplicada <strong class="text-navy">sem as competências certas</strong></p>
+            <p class="text-xs text-navy/40 mt-3">BCG / Harvard, 2023</p>
+          </div>
+        </div>
+
+        <div class="mt-12 max-w-3xl mx-auto text-center">
+          <p class="text-navy/60 text-lg leading-relaxed">
+            As empresas compram ferramentas, ativam licenças e esperam resultados. Mas a IA não é um software determinístico — é um <strong class="text-navy">colaborador digital</strong> que exige competência gerencial para entregar valor. As organizações que reconhecem essa distinção alcançam resultados radicalmente diferentes.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==================== A SOLUÇÃO ==================== -->
+    <section id="solucao" class="py-20 md:py-28 bg-white">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center max-w-3xl mx-auto mb-16">
+          <p class="text-sm font-medium text-teal uppercase tracking-widest mb-4">A solução</p>
+          <h2 class="font-heading text-3xl sm:text-4xl lg:text-5xl text-navy">
+            Os Três Pilares da Transformação em IA
+          </h2>
+          <p class="mt-6 text-lg text-navy/60">
+            As empresas que geram valor real com IA seguem o mesmo padrão: <strong class="text-navy">70% do valor</strong> vem das pessoas e dos processos, não da tecnologia.
+          </p>
+        </div>
+
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-8 lg:gap-6">
+          <div class="pillar-card relative bg-gray-50 rounded-2xl p-8 border border-gray-100">
+            <div class="flex items-center gap-3 mb-6">
+              <div class="flex items-center justify-center w-10 h-10 rounded-full bg-green/10 text-green font-heading text-lg">1</div>
+              <span class="text-xs font-medium text-green uppercase tracking-widest">Enablement</span>
+            </div>
+            <div class="mb-4">
+              <i data-lucide="graduation-cap" class="w-8 h-8 text-navy/80"></i>
+            </div>
+            <h3 class="font-heading text-xl text-navy mb-3">Capacitação em julgamento gerencial</h3>
+            <p class="text-navy/60 text-base leading-relaxed">
+              Competências de nível 201: montar o contexto certo, avaliar a qualidade dos resultados, decompor problemas complexos, reconhecer os limites da IA. Habilidades que <strong class="text-navy">sobrevivem a qualquer atualização de ferramenta</strong>.
+            </p>
+          </div>
+
+          <div class="pillar-card relative bg-gray-50 rounded-2xl p-8 border border-gray-100">
+            <div class="flex items-center gap-3 mb-6">
+              <div class="flex items-center justify-center w-10 h-10 rounded-full bg-green/10 text-green font-heading text-lg">2</div>
+              <span class="text-xs font-medium text-green uppercase tracking-widest">Transformation</span>
+            </div>
+            <div class="mb-4">
+              <i data-lucide="workflow" class="w-8 h-8 text-navy/80"></i>
+            </div>
+            <h3 class="font-heading text-xl text-navy mb-3">Redesenho de processos</h3>
+            <p class="text-navy/60 text-base leading-relaxed">
+              Mapeamento da Fronteira Irregular nos seus processos e redesenho dos fluxos com o Framework de Zonas: <strong class="text-navy">verde</strong> (automação), <strong class="text-navy">amarela</strong> (supervisão), <strong class="text-navy">vermelha</strong> (exclusivamente humano). Resultados mensuráveis desde o primeiro dia.
+            </p>
+          </div>
+
+          <div class="pillar-card relative bg-gray-50 rounded-2xl p-8 border border-gray-100">
+            <div class="flex items-center gap-3 mb-6">
+              <div class="flex items-center justify-center w-10 h-10 rounded-full bg-green/10 text-green font-heading text-lg">3</div>
+              <span class="text-xs font-medium text-green uppercase tracking-widest">Technology</span>
+            </div>
+            <div class="mb-4">
+              <i data-lucide="bot" class="w-8 h-8 text-navy/80"></i>
+            </div>
+            <h3 class="font-heading text-xl text-navy mb-3">Agentes operacionais sobre bases sólidas</h3>
+            <p class="text-navy/60 text-base leading-relaxed">
+              Quando competências e processos estão alinhados, introduzimos <strong class="text-navy">agentes de IA operacionais</strong>: soluções que planejam, executam e verificam seu próprio trabalho. Da produção ao controle financeiro, do jurídico ao RH.
+            </p>
+          </div>
+        </div>
+
+        <div class="mt-12 bg-navy rounded-xl p-6 md:p-8 text-center">
+          <p class="text-white/90 text-lg font-body">
+            <strong class="text-lime font-heading">A sequência importa.</strong> 10% do valor vem dos algoritmos, 20% dos dados e <strong class="text-white">70% das pessoas e dos processos</strong>. As empresas que seguem essa sequência alcançam os melhores resultados.
+          </p>
+          <p class="text-white/50 text-sm mt-3">Regra 10-20-70 — BCG, McKinsey, MIT, 2025-2026</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==================== SERVIÇOS ==================== -->
+    <section id="servicos" class="py-20 md:py-28 bg-gray-50">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center max-w-3xl mx-auto mb-16">
+          <p class="text-sm font-medium text-teal uppercase tracking-widest mb-4">Serviços</p>
+          <h2 class="font-heading text-3xl sm:text-4xl lg:text-5xl text-navy">
+            Três frentes, um método integrado
+          </h2>
+          <p class="mt-6 text-lg text-navy/60">
+            Consultoria, treinamento e desenvolvimento trabalham juntos para construir uma capacidade organizacional duradoura.
+          </p>
+        </div>
+
+        <div class="space-y-12">
+          <!-- Consultoria Gerencial -->
+          <div class="bg-white rounded-2xl p-8 md:p-10 shadow-sm border border-gray-100">
+            <div class="flex items-start gap-4 mb-6">
+              <div class="flex-shrink-0 w-12 h-12 rounded-xl bg-navy/5 flex items-center justify-center">
+                <i data-lucide="compass" class="w-6 h-6 text-navy"></i>
+              </div>
+              <div>
+                <h3 class="font-heading text-2xl text-navy">Consultoria Gerencial</h3>
+                <p class="text-teal text-sm font-medium mt-1">Estratégia de adoção de IA e aplicações agênticas</p>
+              </div>
+            </div>
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 ml-0 md:ml-16">
+              <div class="flex items-start gap-3">
+                <i data-lucide="target" class="w-5 h-5 text-green flex-shrink-0 mt-0.5"></i>
+                <p class="text-navy/70 text-base">Estratégia de adoção de IA personalizada para a realidade da sua empresa</p>
+              </div>
+              <div class="flex items-start gap-3">
+                <i data-lucide="scan-line" class="w-5 h-5 text-green flex-shrink-0 mt-0.5"></i>
+                <p class="text-navy/70 text-base">Mapeamento da Fronteira Irregular para seus processos específicos</p>
+              </div>
+              <div class="flex items-start gap-3">
+                <i data-lucide="shield-check" class="w-5 h-5 text-green flex-shrink-0 mt-0.5"></i>
+                <p class="text-navy/70 text-base">Design do Framework de Governança por Zonas (verde/amarela/vermelha)</p>
+              </div>
+              <div class="flex items-start gap-3">
+                <i data-lucide="boxes" class="w-5 h-5 text-green flex-shrink-0 mt-0.5"></i>
+                <p class="text-navy/70 text-base">Arquitetura de aplicações agênticas</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Treinamento Personalizado -->
+          <div class="bg-white rounded-2xl p-8 md:p-10 shadow-sm border border-gray-100">
+            <div class="flex items-start gap-4 mb-6">
+              <div class="flex-shrink-0 w-12 h-12 rounded-xl bg-navy/5 flex items-center justify-center">
+                <i data-lucide="book-open" class="w-6 h-6 text-navy"></i>
+              </div>
+              <div>
+                <h3 class="font-heading text-2xl text-navy">Treinamento Personalizado</h3>
+                <p class="text-teal text-sm font-medium mt-1">Construído com os dados reais da sua empresa</p>
+              </div>
+            </div>
+
+            <div class="flex flex-wrap gap-6 mb-8 ml-0 md:ml-16">
+              <div class="flex items-center gap-2">
+                <span class="text-2xl font-heading text-green">10</span>
+                <span class="text-sm text-navy/60">módulos master</span>
+              </div>
+              <div class="flex items-center gap-2">
+                <span class="text-2xl font-heading text-green">121</span>
+                <span class="text-sm text-navy/60">prompts operacionais</span>
+              </div>
+            </div>
+
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 ml-0 md:ml-16">
+              <div class="module-card text-left p-4 rounded-lg border border-gray-100">
+                <div class="flex items-center gap-2 mb-1">
+                  <i data-lucide="shield" class="w-4 h-4 text-teal"></i>
+                  <span class="text-sm font-medium text-navy">AI Foundation</span>
+                </div>
+                <p class="text-xs text-navy/50">Governança e conscientização — 8h</p>
+              </div>
+              <div class="module-card text-left p-4 rounded-lg border border-gray-100">
+                <div class="flex items-center gap-2 mb-1">
+                  <i data-lucide="megaphone" class="w-4 h-4 text-teal"></i>
+                  <span class="text-sm font-medium text-navy">Comunicação & Marca</span>
+                </div>
+                <p class="text-xs text-navy/50">Identidade com IA — 8h</p>
+              </div>
+              <div class="module-card text-left p-4 rounded-lg border border-gray-100">
+                <div class="flex items-center gap-2 mb-1">
+                  <i data-lucide="database" class="w-4 h-4 text-teal"></i>
+                  <span class="text-sm font-medium text-navy">Context Engineering</span>
+                </div>
+                <p class="text-xs text-navy/50">Arquiteturas RAG — 6h</p>
+              </div>
+              <div class="module-card text-left p-4 rounded-lg border border-gray-100">
+                <div class="flex items-center gap-2 mb-1">
+                  <i data-lucide="file-text" class="w-4 h-4 text-teal"></i>
+                  <span class="text-sm font-medium text-navy">Automação Documental</span>
+                </div>
+                <p class="text-xs text-navy/50">Fluxos inteligentes de documentos — 4h</p>
+              </div>
+              <div class="module-card text-left p-4 rounded-lg border border-gray-100">
+                <div class="flex items-center gap-2 mb-1">
+                  <i data-lucide="settings" class="w-4 h-4 text-teal"></i>
+                  <span class="text-sm font-medium text-navy">Otimização de Processos</span>
+                </div>
+                <p class="text-xs text-navy/50">Process mining e previsão — 6h</p>
+              </div>
+              <div class="module-card text-left p-4 rounded-lg border border-gray-100">
+                <div class="flex items-center gap-2 mb-1">
+                  <i data-lucide="headphones" class="w-4 h-4 text-teal"></i>
+                  <span class="text-sm font-medium text-navy">Customer Support AI</span>
+                </div>
+                <p class="text-xs text-navy/50">Sistemas inteligentes de suporte</p>
+              </div>
+              <div class="module-card text-left p-4 rounded-lg border border-gray-100">
+                <div class="flex items-center gap-2 mb-1">
+                  <i data-lucide="store" class="w-4 h-4 text-teal"></i>
+                  <span class="text-sm font-medium text-navy">Operações de Varejo</span>
+                </div>
+                <p class="text-xs text-navy/50">PDV e gestão de estoque</p>
+              </div>
+              <div class="module-card text-left p-4 rounded-lg border border-gray-100">
+                <div class="flex items-center gap-2 mb-1">
+                  <i data-lucide="users" class="w-4 h-4 text-teal"></i>
+                  <span class="text-sm font-medium text-navy">IA para RH</span>
+                </div>
+                <p class="text-xs text-navy/50">Pessoas e organização</p>
+              </div>
+              <div class="module-card text-left p-4 rounded-lg border border-gray-100">
+                <div class="flex items-center gap-2 mb-1">
+                  <i data-lucide="code" class="w-4 h-4 text-teal"></i>
+                  <span class="text-sm font-medium text-navy">Desenvolvimento Assistido</span>
+                </div>
+                <p class="text-xs text-navy/50">Aceleração dev com IA</p>
+              </div>
+            </div>
+
+            <!-- DTR — Dynamic Training Rework -->
+            <div class="mt-8 ml-0 md:ml-16 bg-navy rounded-2xl p-6 md:p-8">
+              <div class="flex items-center gap-3 mb-4">
+                <div class="flex items-center justify-center w-10 h-10 rounded-full bg-lime/20">
+                  <i data-lucide="refresh-cw" class="w-5 h-5 text-lime"></i>
+                </div>
+                <div>
+                  <h4 class="font-heading text-lg text-white">Dynamic Training Rework</h4>
+                  <p class="text-white/50 text-sm">Metodologia proprietária Artik Lab</p>
+                </div>
+              </div>
+              <p class="text-white/70 text-base leading-relaxed mb-6">
+                Cada programa de treinamento é <strong class="text-lime">reconstruído dinamicamente</strong> sessão após sessão, calibrando-se nos processos, funções e prioridades operacionais reais da empresa. Conteúdos, exercícios e materiais didáticos evoluem com base no que emerge do contato direto com os participantes.
+              </p>
+              <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-6">
+                <div class="flex items-start gap-3">
+                  <i data-lucide="file-text" class="w-5 h-5 text-lime/70 flex-shrink-0 mt-0.5"></i>
+                  <p class="text-white/60 text-sm"><strong class="text-white/90">Exercícios sobre o próprio trabalho real</strong> — cada participante trabalha com os formatos, dados e problemas do próprio escritório</p>
+                </div>
+                <div class="flex items-start gap-3">
+                  <i data-lucide="book-marked" class="w-5 h-5 text-lime/70 flex-shrink-0 mt-0.5"></i>
+                  <p class="text-white/60 text-sm"><strong class="text-white/90">Manuais dedicados</strong> — conteúdos, exemplos e instruções operacionais escritos para aquele contexto, aquelas funções, aqueles processos</p>
+                </div>
+                <div class="flex items-start gap-3">
+                  <i data-lucide="clipboard-check" class="w-5 h-5 text-lime/70 flex-shrink-0 mt-0.5"></i>
+                  <p class="text-white/60 text-sm"><strong class="text-white/90">Relatórios pós-sessão</strong> — análise de necessidades, perguntas estruturadas, áreas de desenvolvimento identificadas para a gestão</p>
+                </div>
+                <div class="flex items-start gap-3">
+                  <i data-lucide="map" class="w-5 h-5 text-lime/70 flex-shrink-0 mt-0.5"></i>
+                  <p class="text-white/60 text-sm"><strong class="text-white/90">Deliverables finais</strong> — mapa de competências, fotografia dos processos com alto potencial, estratégia de integração concreta</p>
+                </div>
+              </div>
+              <div class="flex items-start gap-3 p-4 bg-white/5 rounded-lg">
+                <i data-lucide="sparkles" class="w-5 h-5 text-lime flex-shrink-0 mt-0.5"></i>
+                <p class="text-white/60 text-sm leading-relaxed">
+                  Ao final do programa, a empresa conta com pessoas capacitadas, materiais reutilizáveis e uma <strong class="text-white/90">compreensão acionável de como a IA pode transformar seus processos de valor</strong>.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Desenvolvimento de Conceito de Software -->
+          <div class="bg-white rounded-2xl p-8 md:p-10 shadow-sm border border-gray-100">
+            <div class="flex items-start gap-4 mb-6">
+              <div class="flex-shrink-0 w-12 h-12 rounded-xl bg-navy/5 flex items-center justify-center">
+                <i data-lucide="cpu" class="w-6 h-6 text-navy"></i>
+              </div>
+              <div>
+                <h3 class="font-heading text-2xl text-navy">Desenvolvimento de Conceito de Software</h3>
+                <p class="text-teal text-sm font-medium mt-1">Do conceito ao protótipo funcional</p>
+              </div>
+            </div>
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 ml-0 md:ml-16">
+              <div class="flex items-start gap-3">
+                <i data-lucide="bot" class="w-5 h-5 text-green flex-shrink-0 mt-0.5"></i>
+                <p class="text-navy/70 text-base">Desenvolvimento de agentes de IA operacionais para processos empresariais específicos</p>
+              </div>
+              <div class="flex items-start gap-3">
+                <i data-lucide="puzzle" class="w-5 h-5 text-green flex-shrink-0 mt-0.5"></i>
+                <p class="text-navy/70 text-base">Sistemas de IA sob medida integrados à infraestrutura existente</p>
+              </div>
+              <div class="flex items-start gap-3">
+                <i data-lucide="building-2" class="w-5 h-5 text-green flex-shrink-0 mt-0.5"></i>
+                <p class="text-navy/70 text-base">Arquitetura do Escritório Agêntico: memória corporativa e automação inteligente</p>
+              </div>
+              <div class="flex items-start gap-3">
+                <i data-lucide="rocket" class="w-5 h-5 text-green flex-shrink-0 mt-0.5"></i>
+                <p class="text-navy/70 text-base">Caminho completo do conceito à validação e ao protótipo funcional</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==================== POR QUE NÓS ==================== -->
+    <section id="por-que-nos" class="py-20 md:py-28 bg-white">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center max-w-3xl mx-auto mb-16">
+          <p class="text-sm font-medium text-teal uppercase tracking-widest mb-4">Por que nós</p>
+          <h2 class="font-heading text-3xl sm:text-4xl lg:text-5xl text-navy">
+            Além das ferramentas:<br>
+            <span class="text-teal">construímos capacidades.</span>
+          </h2>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+          <div class="flex items-start gap-4">
+            <div class="flex-shrink-0 w-12 h-12 rounded-xl bg-green/10 flex items-center justify-center">
+              <i data-lucide="brain" class="w-6 h-6 text-green"></i>
+            </div>
+            <div>
+              <h3 class="font-heading text-lg text-navy mb-2">Capacidade, não ferramentas</h3>
+              <p class="text-navy/60 text-base leading-relaxed">
+                O objetivo é construir uma capacidade organizacional que gera valor independentemente da tecnologia adotada.
+              </p>
+            </div>
+          </div>
+          <div class="flex items-start gap-4">
+            <div class="flex-shrink-0 w-12 h-12 rounded-xl bg-green/10 flex items-center justify-center">
+              <i data-lucide="bar-chart-3" class="w-6 h-6 text-green"></i>
+            </div>
+            <div>
+              <h3 class="font-heading text-lg text-navy mb-2">Método validado por dados</h3>
+              <p class="text-navy/60 text-base leading-relaxed">
+                O framework dos Três Pilares é o modelo emergente da análise de milhares de empresas realizada por BCG, McKinsey e MIT em 2025–2026.
+              </p>
+            </div>
+          </div>
+          <div class="flex items-start gap-4">
+            <div class="flex-shrink-0 w-12 h-12 rounded-xl bg-green/10 flex items-center justify-center">
+              <i data-lucide="zap" class="w-6 h-6 text-green"></i>
+            </div>
+            <div>
+              <h3 class="font-heading text-lg text-navy mb-2">Resultados desde o primeiro dia</h3>
+              <p class="text-navy/60 text-base leading-relaxed">
+                Cada intervenção entrega impacto concreto e mensurável desde a primeira sessão, com exercícios nos dados reais da empresa.
+              </p>
+            </div>
+          </div>
+          <div class="flex items-start gap-4">
+            <div class="flex-shrink-0 w-12 h-12 rounded-xl bg-green/10 flex items-center justify-center">
+              <i data-lucide="globe" class="w-6 h-6 text-green"></i>
+            </div>
+            <div>
+              <h3 class="font-heading text-lg text-navy mb-2">Feito para empresas</h3>
+              <p class="text-navy/60 text-base leading-relaxed">
+                Entendemos a dinâmica das pequenas e médias empresas — TI enxuta, necessidade de confiabilidade e o valor de um parceiro que fala a linguagem dos negócios.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="mt-16 flex flex-wrap justify-center gap-8 md:gap-16 py-8 border-t border-b border-gray-100">
+          <div class="text-center">
+            <div class="text-3xl font-heading text-navy">10</div>
+            <div class="text-sm text-navy/50 mt-1">módulos de treinamento</div>
+          </div>
+          <div class="text-center">
+            <div class="text-3xl font-heading text-navy">121</div>
+            <div class="text-sm text-navy/50 mt-1">prompts operacionais</div>
+          </div>
+          <div class="text-center">
+            <div class="text-3xl font-heading text-navy">3</div>
+            <div class="text-sm text-navy/50 mt-1">idiomas</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==================== CONTATO ==================== -->
+    <section id="contato" class="py-20 md:py-28 bg-navy">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <p class="text-sm font-medium text-lime uppercase tracking-widest mb-4">Contato</p>
+        <h2 class="font-heading text-3xl sm:text-4xl lg:text-5xl text-white max-w-2xl mx-auto">
+          Toda transformação começa com uma conversa.
+        </h2>
+        <p class="mt-6 text-lg text-white/60 max-w-xl mx-auto">
+          Conte-nos sobre a sua realidade: vamos analisar juntos se e como o caminho dos Três Pilares pode fazer a diferença.
+        </p>
+        <div class="mt-10 flex flex-col items-center gap-4">
+          <a href="mailto:dtr@ar-tik.com" class="inline-flex items-center justify-center gap-3 px-10 py-4 bg-green hover:bg-green/90 text-white font-heading text-lg rounded-lg transition-colors">
+            <i data-lucide="mail" class="w-5 h-5"></i>
+            Escreva para nós
+          </a>
+          <a href="mailto:dtr@ar-tik.com" class="text-white/50 hover:text-white/80 text-sm transition-colors">
+            dtr@ar-tik.com
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ==================== FOOTER ==================== -->
+  <footer class="bg-navy border-t border-white/10 py-12">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8 items-start">
+        <div>
+          <img src="../assets/images/artik-lab.svg" alt="Artik Lab" class="h-8 w-auto footer-logo">
+          <p class="mt-3 text-white/40 text-sm">Consultoria em IA para Empresas</p>
+        </div>
+        <nav class="flex flex-col gap-2" aria-label="Links rápidos">
+          <a href="#problema" class="text-white/50 hover:text-white/80 text-sm transition-colors">O Problema</a>
+          <a href="#solucao" class="text-white/50 hover:text-white/80 text-sm transition-colors">A Solução</a>
+          <a href="#servicos" class="text-white/50 hover:text-white/80 text-sm transition-colors">Serviços</a>
+          <a href="#por-que-nos" class="text-white/50 hover:text-white/80 text-sm transition-colors">Por Que Nós</a>
+          <a href="#contato" class="text-white/50 hover:text-white/80 text-sm transition-colors">Contato</a>
+        </nav>
+        <div class="text-sm text-white/40 space-y-2">
+          <p>Artik Lab srl — Startup Innovativa</p>
+          <p>P.IVA: IT04120810041</p>
+          <div class="flex items-center gap-1 pt-2">
+            <a href="/" class="text-white/40 hover:text-white transition-colors">IT</a>
+            <span class="text-white/20">|</span>
+            <a href="/en/" class="text-white/40 hover:text-white transition-colors">EN</a>
+            <span class="text-white/20">|</span>
+            <a href="/pt-br/" class="text-white/60 hover:text-white transition-colors">PT</a>
+          </div>
+        </div>
+      </div>
+      <div class="mt-8 pt-6 border-t border-white/10 flex flex-col sm:flex-row justify-between items-center gap-4">
+        <p class="text-xs text-white/30">&copy; 2026 Artik Lab srl. Todos os direitos reservados.</p>
+        <p class="text-xs text-white/30">Design por <a href="https://archibuzz.com" target="_blank" rel="noopener" class="hover:text-white/50 transition-colors">Archibuzz</a></p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="../js/main.js"></script>
+  <script>lucide.createIcons();</script>
+</body>
+</html>
