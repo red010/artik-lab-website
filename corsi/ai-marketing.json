@@ -1,0 +1,137 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
+  "generatedAt": "2026-07-02",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "course": {
+    "id": "ai-marketing",
+    "locale": "it",
+    "language": "it",
+    "family": "intro",
+    "familyLabel": "Introduttivo",
+    "featured": false,
+    "title": "Corso AI: marketing e comunicazione AI driven",
+    "subtitle": "Produrre contenuti, analizzare mercato e concorrenti, pianificare campagne e mantenere una voce coerente con il brand.",
+    "summary": "Laboratorio per usare l'AI come assistente editoriale e di analisi, senza perdere identità, qualità e controllo.",
+    "duration": "8 ore, personalizzabili",
+    "mode": "Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.",
+    "profile": "all",
+    "profileDescription": "Per team aziendali, funzioni operative e manager; non richiede programmazione.",
+    "problem": "Il marketing che funziona oggi è veloce, mirato e costante. L'AI può affiancare un team nella produzione di contenuti, nell'analisi di trend e nella pianificazione editoriale, ma solo se la voce aziendale resta riconoscibile e gli output vengono verificati. Il corso costruisce un metodo pratico per aumentare produttività senza pubblicare contenuti generici.",
+    "audience": "Titolari che vogliono comunicare meglio senza dipendere totalmente da fornitori esterni e team marketing che vogliono aumentare produttività.",
+    "whenToChoose": "Quando comunicazione, contenuti e analisi competitor richiedono continuità, ma il team deve mantenere coerenza di marca e qualità.",
+    "chooseIf": "Quando comunicazione, contenuti e analisi competitor richiedono continuità, ma il team deve mantenere coerenza di marca e qualità.",
+    "outcomes": [
+      "Generare post, articoli, newsletter e script video coerenti con il brand.",
+      "Analizzare concorrenti, trend e parole chiave in tempi rapidi.",
+      "Creare brief per immagini e visual.",
+      "Pianificare un calendario editoriale sostenibile.",
+      "Misurare cosa funziona e correggere sui dati reali."
+    ],
+    "modules": [
+      {
+        "title": "Brand e voce",
+        "description": "Posizionamento, tono, messaggi ricorrenti e confini da rispettare."
+      },
+      {
+        "title": "Produzione contenuti",
+        "description": "Post, newsletter, articoli, script, landing e materiali commerciali."
+      },
+      {
+        "title": "Analisi e pianificazione",
+        "description": "Concorrenti, trend, parole chiave, calendari e priorità editoriali."
+      },
+      {
+        "title": "Qualità e misurazione",
+        "description": "Review, coerenza, metriche, riuso e miglioramento continuo."
+      }
+    ],
+    "exercises": [
+      "Creazione di un calendario editoriale.",
+      "Riscrittura di contenuti in diverse voci.",
+      "Analisi di competitor e temi ricorrenti.",
+      "Preparazione di brief per visual e materiali commerciali."
+    ],
+    "materials": [
+      "Brand voice sheet.",
+      "Template calendario editoriale.",
+      "Checklist qualità contenuti.",
+      "Prompt per analisi mercato e competitor."
+    ],
+    "privacy": "Il corso lavora su materiali approvati o esempi sintetici. Si trattano copyright, dati di clienti, uso di immagini, tono di voce e verifica prima della pubblicazione.",
+    "prerequisites": "Nessuna competenza tecnica. È utile disporre di esempi di comunicazione aziendale già pubblica.",
+    "faqs": [
+      {
+        "question": "L'AI sostituisce il marketing team?",
+        "answer": "No, lo affianca nella produzione e nell'analisi."
+      },
+      {
+        "question": "Il corso può lavorare sulla voce di marca dell'azienda?",
+        "answer": "Sì, usando materiali approvati o esempi pubblici."
+      },
+      {
+        "question": "Include visual?",
+        "answer": "Include workflow e brief per visual, con attenzione a diritti e coerenza."
+      },
+      {
+        "question": "È adatto a chi comunica poco?",
+        "answer": "Sì, aiuta a costruire una routine sostenibile."
+      }
+    ],
+    "output": "Sistema operativo per contenuti, calendario, voce di marca e analisi competitor.",
+    "searchIntents": [
+      "corso AI aziendale su Corso AI: marketing e comunicazione AI driven",
+      "formazione pratica per Corso AI: marketing e comunicazione AI driven",
+      "training AI per team operativi",
+      "percorso Artik Lab per Sistema operativo per contenuti, calendario, voce di marca e analisi competitor",
+      "come introdurre Corso AI: marketing e comunicazione AI driven nei processi aziendali"
+    ],
+    "needSignals": [
+      "Il tema Corso AI: marketing e comunicazione AI driven è già presente nelle conversazioni interne, ma manca un metodo condiviso per trasformarlo in pratica.",
+      "Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.",
+      "Il processo collegato a Corso AI: marketing e comunicazione AI driven assorbe tempo, genera passaggi manuali o produce output difficili da verificare.",
+      "La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.",
+      "Serve un risultato concreto dopo la formazione: Sistema operativo per contenuti, calendario, voce di marca e analisi competitor."
+    ],
+    "extraExamples": [
+      {
+        "title": "Dal corso generico al processo reale",
+        "description": "Un'azienda chiede formazione su Corso AI: marketing e comunicazione AI driven, ma il problema vero emerge durante la mappatura: attività ripetute, controlli informali e responsabilità distribuite. Il percorso usa esempi vicini al lavoro quotidiano e trasforma la formazione in un primo modello operativo, non in una lezione teorica."
+      },
+      {
+        "title": "Da sperimentazione individuale a pratica governata",
+        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Sistema operativo per contenuti, calendario, voce di marca e analisi competitor."
+      },
+      {
+        "title": "Da entusiasmo a decisione",
+        "description": "Il management vuole capire se Corso AI: marketing e comunicazione AI driven merita budget e continuità. Durante il laboratorio si distinguono benefici immediati, rischi operativi e dipendenze dai dati. L'azienda esce con criteri per decidere il passo successivo invece di accumulare demo isolate."
+      }
+    ],
+    "selectionCriteria": [
+      "Scegliere questo corso se il bisogno principale riguarda Corso AI: marketing e comunicazione AI driven e non una panoramica generica sull'AI.",
+      "Preferirlo quando esiste un processo, un documento, un flusso o una responsabilità aziendale su cui lavorare durante il training.",
+      "Rimandarlo se non esiste ancora sponsor interno o se il problema è solo acquistare una licenza software.",
+      "Abbinarlo ad AI Workflow Redesign Lab quando prima serve capire quali processi meritano priorità."
+    ],
+    "limits": [
+      "Non promette automazione completa o sostituzione delle responsabilità umane.",
+      "Non richiede di caricare dati riservati in ambienti non approvati.",
+      "Non è una consulenza legale, fiscale, HR o tecnica specialistica quando tali responsabilità restano a funzioni competenti.",
+      "Produce competenze, criteri e materiali riutilizzabili; l'adozione continua richiede sponsorship, governance e pratica interna."
+    ],
+    "relatedCourseIds": [
+      "workflow-redesign",
+      "ai-literacy",
+      "secure-ai-at-work",
+      "ai-output-quality"
+    ],
+    "urls": {
+      "html": "https://ar-tik.com/corsi/ai-marketing.html",
+      "markdown": "https://ar-tik.com/corsi/ai-marketing.md",
+      "dossier": "https://ar-tik.com/corsi/ai-marketing-dossier.md",
+      "json": "https://ar-tik.com/corsi/ai-marketing.json",
+      "catalog": "https://ar-tik.com/corsi/",
+      "catalogMarkdown": "https://ar-tik.com/corsi/index.md"
+    }
+  }
+}

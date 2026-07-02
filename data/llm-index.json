@@ -1,0 +1,66 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/llm-index.schema.json",
+  "generatedAt": "2026-07-02",
+  "canonicalDomain": "https://ar-tik.com",
+  "publisher": "Artik Lab s.r.l.",
+  "description": "Public AI-readable index for Artik Lab static website, Markdown mirrors, LLM dossiers, JSON data files and sitemap resources.",
+  "primaryLanguage": "it",
+  "languages": [
+    {
+      "code": "it",
+      "hreflang": "it",
+      "home": "https://ar-tik.com/",
+      "llms": "https://ar-tik.com/llms.txt",
+      "coursesJson": "https://ar-tik.com/data/courses.it.json",
+      "servicesJson": "https://ar-tik.com/data/services.it.json",
+      "aiApplicationsJson": "https://ar-tik.com/data/ai-applications.it.json",
+      "faqJson": "https://ar-tik.com/data/faq.it.json"
+    },
+    {
+      "code": "en",
+      "hreflang": "en",
+      "home": "https://ar-tik.com/en/",
+      "llms": "https://ar-tik.com/en/llms.txt",
+      "coursesJson": "https://ar-tik.com/data/courses.en.json",
+      "servicesJson": "https://ar-tik.com/data/services.en.json",
+      "aiApplicationsJson": "https://ar-tik.com/data/ai-applications.en.json",
+      "faqJson": "https://ar-tik.com/data/faq.en.json"
+    },
+    {
+      "code": "es",
+      "hreflang": "es",
+      "home": "https://ar-tik.com/es/",
+      "llms": "https://ar-tik.com/es/llms.txt",
+      "coursesJson": "https://ar-tik.com/data/courses.es.json",
+      "servicesJson": "https://ar-tik.com/data/services.es.json",
+      "aiApplicationsJson": "https://ar-tik.com/data/ai-applications.es.json",
+      "faqJson": "https://ar-tik.com/data/faq.es.json"
+    },
+    {
+      "code": "fr",
+      "hreflang": "fr",
+      "home": "https://ar-tik.com/fr/",
+      "llms": "https://ar-tik.com/fr/llms.txt",
+      "coursesJson": "https://ar-tik.com/data/courses.fr.json",
+      "servicesJson": "https://ar-tik.com/data/services.fr.json",
+      "aiApplicationsJson": "https://ar-tik.com/data/ai-applications.fr.json",
+      "faqJson": "https://ar-tik.com/data/faq.fr.json"
+    },
+    {
+      "code": "pt",
+      "hreflang": "pt-BR",
+      "home": "https://ar-tik.com/pt-br/",
+      "llms": "https://ar-tik.com/pt-br/llms.txt",
+      "coursesJson": "https://ar-tik.com/data/courses.pt-br.json",
+      "servicesJson": "https://ar-tik.com/data/services.pt-br.json",
+      "aiApplicationsJson": "https://ar-tik.com/data/ai-applications.pt-br.json",
+      "faqJson": "https://ar-tik.com/data/faq.pt-br.json"
+    }
+  ],
+  "indices": {
+    "robots": "https://ar-tik.com/robots.txt",
+    "sitemapHtml": "https://ar-tik.com/sitemap.xml",
+    "sitemapLlm": "https://ar-tik.com/sitemap-llm.xml",
+    "llmsFull": "https://ar-tik.com/llms-full.txt"
+  }
+}

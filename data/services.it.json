@@ -1,0 +1,99 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/services-catalog.schema.json",
+  "generatedAt": "2026-07-02",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "locale": "it",
+  "language": "it",
+  "services": [
+    {
+      "id": "home",
+      "type": "organization",
+      "locale": "it",
+      "language": "it",
+      "title": "Artik Lab",
+      "description": "Artik Lab aiuta PMI e funzioni aziendali a scegliere, governare e realizzare il primo uso utile dell'AI: mappatura dei processi, business case, formazione dei team, analisi dati e prototipi controllati.",
+      "urls": {
+        "html": "https://ar-tik.com/",
+        "markdown": "https://ar-tik.com/index.md"
+      }
+    },
+    {
+      "id": "ai-management-consulting",
+      "type": "service",
+      "locale": "it",
+      "language": "it",
+      "title": "Consulenza manageriale AI",
+      "description": "L'IA non è un software da installare: è una capacità manageriale da costruire. Artik Lab aiuta direzione e primi livelli a scegliere dove usarla, dove fermarsi, quali processi ridisegnare e quali competenze rendere stabili in azienda.",
+      "urls": {
+        "html": "https://ar-tik.com/consulenza-manageriale-ai.html",
+        "markdown": "https://ar-tik.com/consulenza-manageriale-ai.md"
+      }
+    },
+    {
+      "id": "agentic-data-analysis",
+      "type": "service",
+      "locale": "it",
+      "language": "it",
+      "title": "Analisi dati agentica",
+      "description": "L'analisi dati agentica non produce grafici da archiviare: cerca segnali nei dati già disponibili, li collega a una decisione e dichiara dove il modello non conviene.",
+      "urls": {
+        "html": "https://ar-tik.com/analisi-dati-agentica.html",
+        "markdown": "https://ar-tik.com/analisi-dati-agentica.md"
+      }
+    },
+    {
+      "id": "ai-applications-atlas",
+      "type": "guide",
+      "locale": "it",
+      "language": "it",
+      "title": "Atlante applicazioni AI",
+      "description": "Una mappa pubblica di esempi concreti per riconoscere dove l'intelligenza artificiale può ridurre tempi, errori, rischi o ritardi decisionali nei processi aziendali.",
+      "urls": {
+        "html": "https://ar-tik.com/atlante-applicazioni-ai-imprese.html",
+        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md",
+        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md"
+      }
+    },
+    {
+      "id": "business-ai-faq",
+      "type": "guide",
+      "locale": "it",
+      "language": "it",
+      "title": "FAQ AI per aziende",
+      "description": "Un repertorio pubblico di domande reali per orientare imprenditori, direzione e funzioni aziendali tra consulenza, corsi, analisi dati, software tecnico e Atlante applicazioni AI.",
+      "urls": {
+        "html": "https://ar-tik.com/domande-frequenti-ai-aziende.html",
+        "markdown": "https://ar-tik.com/domande-frequenti-ai-aziende.md",
+        "dossier": "https://ar-tik.com/domande-frequenti-ai-aziende-dossier.md"
+      }
+    },
+    {
+      "id": "technical-software-development",
+      "type": "service",
+      "locale": "it",
+      "language": "it",
+      "title": "Software tecnico AI",
+      "description": "Artik Lab sviluppa per conto dei clienti software avanzati quando il problema non si risolve con una dashboard o un gestionale standard: calcoli tecnici, modelli matematici, dati operativi, regole esperte e flussi di lavoro da rendere verificabili.",
+      "urls": {
+        "html": "https://ar-tik.com/sviluppo-software-tecnico-ai.html",
+        "markdown": "https://ar-tik.com/sviluppo-software-tecnico-ai.md",
+        "dossier": "https://ar-tik.com/sviluppo-software-tecnico-ai-dossier.md"
+      }
+    },
+    {
+      "id": "courses",
+      "type": "training-catalog",
+      "locale": "it",
+      "language": "it",
+      "title": "Corsi AI per aziende: scegliere il percorso giusto",
+      "description": "Catalogo corsi AI per aziende: percorsi introduttivi, manageriali, operativi e tecnici progettati con metodologia DTR su ruoli, processi e risultati attesi.",
+      "urls": {
+        "html": "https://ar-tik.com/corsi/",
+        "markdown": "https://ar-tik.com/corsi/index.md",
+        "dossier": "https://ar-tik.com/corsi/index-dossier.md",
+        "json": "https://ar-tik.com/data/courses.it.json"
+      }
+    }
+  ]
+}

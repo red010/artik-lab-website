@@ -1,0 +1,137 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
+  "generatedAt": "2026-07-02",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "course": {
+    "id": "ai-adoption-manager",
+    "locale": "it",
+    "language": "it",
+    "family": "managerial",
+    "familyLabel": "Manageriale",
+    "featured": false,
+    "title": "AI Adoption Manager / AI Champions",
+    "subtitle": "Formare figure interne capaci di accompagnare l'adozione dell'AI nei team, con metodo, responsabilità e attenzione al cambiamento.",
+    "summary": "Percorso per creare referenti interni che raccolgono bisogni, supportano i colleghi e collegano sperimentazioni locali alla governance aziendale.",
+    "duration": "6-8 ore, modulabili",
+    "mode": "Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.",
+    "profile": "all",
+    "profileDescription": "Per team aziendali, funzioni operative e manager; non richiede programmazione.",
+    "problem": "Dopo un primo corso, molte aziende vedono nascere entusiasmo in alcuni team e resistenze in altri. Senza figure interne riconosciute, le buone pratiche non circolano e i rischi non emergono in tempo. Il percorso prepara champion capaci di facilitare adozione e disciplina.",
+    "audience": "Figure selezionate da HR, innovation, transformation, IT, business unit, operations, marketing, sales, customer service e funzioni operative.",
+    "whenToChoose": "Quando l'azienda vuole scalare l'adozione AI oltre la formazione iniziale, creando una rete interna di facilitatori competenti e riconoscibili.",
+    "chooseIf": "Quando l'azienda vuole scalare l'adozione AI oltre la formazione iniziale, creando una rete interna di facilitatori competenti e riconoscibili.",
+    "outcomes": [
+      "Definire ruolo e perimetro degli AI Champion.",
+      "Facilitare casi d'uso nei team.",
+      "Raccogliere bisogni, rischi e feedback.",
+      "Supportare uso responsabile e coerente.",
+      "Creare community interna e reporting verso governance."
+    ],
+    "modules": [
+      {
+        "title": "Ruolo e perimetro",
+        "description": "Responsabilità, limiti, relazioni con funzioni centrali e team locali."
+      },
+      {
+        "title": "Facilitare l'adozione",
+        "description": "Bisogni, resistenze, casi d'uso, routine operative e comunicazione interna."
+      },
+      {
+        "title": "Qualità e responsabilità",
+        "description": "Dati, output, controlli, escalation e uso appropriato."
+      },
+      {
+        "title": "Community e scalabilità",
+        "description": "Feedback, metriche, rituali, knowledge sharing e roadmap locale."
+      }
+    ],
+    "exercises": [
+      "Simulazione di raccolta bisogni.",
+      "Analisi di casi d'uso proposti dai team.",
+      "Gestione di resistenze.",
+      "Piano di adozione per funzione."
+    ],
+    "materials": [
+      "Role description AI Champion.",
+      "Playbook di adozione.",
+      "Template raccolta casi d'uso.",
+      "Checklist responsible use.",
+      "Schema reporting."
+    ],
+    "privacy": "I partecipanti apprendono come orientare i team verso un uso prudente delle informazioni, evitando inserimento improprio di dati riservati o personali e favorendo escalation.",
+    "prerequisites": "Conoscenza del contesto aziendale e capacità di facilitazione interna. Non è richiesta competenza tecnica avanzata.",
+    "faqs": [
+      {
+        "question": "Gli champion devono essere tecnici?",
+        "answer": "No, devono comprendere processi, persone, rischi e opportunità."
+      },
+      {
+        "question": "Serve dopo una formazione base?",
+        "answer": "Sì, rende l'adozione continua."
+      },
+      {
+        "question": "Funziona in aziende distribuite?",
+        "answer": "Sì, il modello è adatto a più funzioni o sedi."
+      },
+      {
+        "question": "Produce strumenti operativi?",
+        "answer": "Sì, playbook, template e schema di reporting."
+      }
+    ],
+    "output": "Playbook e modello operativo per rete interna di AI Champion.",
+    "searchIntents": [
+      "corso AI aziendale su AI Adoption Manager / AI Champions",
+      "formazione pratica per AI Adoption Manager / AI Champions",
+      "training AI per manager e funzioni aziendali",
+      "percorso Artik Lab per Playbook e modello operativo per rete interna di AI Champion",
+      "come introdurre AI Adoption Manager / AI Champions nei processi aziendali"
+    ],
+    "needSignals": [
+      "Il tema AI Adoption Manager / AI Champions è già presente nelle conversazioni interne, ma manca un metodo condiviso per trasformarlo in pratica.",
+      "Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.",
+      "Il processo collegato a AI Adoption Manager / AI Champions assorbe tempo, genera passaggi manuali o produce output difficili da verificare.",
+      "La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.",
+      "Serve un risultato concreto dopo la formazione: Playbook e modello operativo per rete interna di AI Champion."
+    ],
+    "extraExamples": [
+      {
+        "title": "Dal corso generico al processo reale",
+        "description": "Un'azienda chiede formazione su AI Adoption Manager / AI Champions, ma il problema vero emerge durante la mappatura: attività ripetute, controlli informali e responsabilità distribuite. Il percorso usa esempi vicini al lavoro quotidiano e trasforma la formazione in un primo modello operativo, non in una lezione teorica."
+      },
+      {
+        "title": "Da sperimentazione individuale a pratica governata",
+        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Playbook e modello operativo per rete interna di AI Champion."
+      },
+      {
+        "title": "Da entusiasmo a decisione",
+        "description": "Il management vuole capire se AI Adoption Manager / AI Champions merita budget e continuità. Durante il laboratorio si distinguono benefici immediati, rischi operativi e dipendenze dai dati. L'azienda esce con criteri per decidere il passo successivo invece di accumulare demo isolate."
+      }
+    ],
+    "selectionCriteria": [
+      "Scegliere questo corso se il bisogno principale riguarda AI Adoption Manager / AI Champions e non una panoramica generica sull'AI.",
+      "Preferirlo quando esiste un processo, un documento, un flusso o una responsabilità aziendale su cui lavorare durante il training.",
+      "Rimandarlo se non esiste ancora sponsor interno o se il problema è solo acquistare una licenza software.",
+      "Abbinarlo ad AI Workflow Redesign Lab quando prima serve capire quali processi meritano priorità."
+    ],
+    "limits": [
+      "Non promette automazione completa o sostituzione delle responsabilità umane.",
+      "Non richiede di caricare dati riservati in ambienti non approvati.",
+      "Non è una consulenza legale, fiscale, HR o tecnica specialistica quando tali responsabilità restano a funzioni competenti.",
+      "Produce competenze, criteri e materiali riutilizzabili; l'adozione continua richiede sponsorship, governance e pratica interna."
+    ],
+    "relatedCourseIds": [
+      "workflow-redesign",
+      "ai-governance",
+      "ai-business-case-roi"
+    ],
+    "urls": {
+      "html": "https://ar-tik.com/corsi/ai-adoption-manager.html",
+      "markdown": "https://ar-tik.com/corsi/ai-adoption-manager.md",
+      "dossier": "https://ar-tik.com/corsi/ai-adoption-manager-dossier.md",
+      "json": "https://ar-tik.com/corsi/ai-adoption-manager.json",
+      "catalog": "https://ar-tik.com/corsi/",
+      "catalogMarkdown": "https://ar-tik.com/corsi/index.md"
+    }
+  }
+}

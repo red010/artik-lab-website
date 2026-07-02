@@ -1,0 +1,3482 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/faq-repertoire.schema.json",
+  "generatedAt": "2026-07-02",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "locale": "es",
+  "language": "es",
+  "title": "Preguntas frecuentes de IA para empresas: por dónde empezar, qué elegir, qué evitar.",
+  "description": "dataset público de FAQ de IA para empresas, con preguntas, respuestas, intenciones de búsqueda, señales de necesidad, riesgos, próximos pasos y enlaces a servicios, cursos y Atlas.",
+  "urls": {
+    "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html",
+    "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md",
+    "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md",
+    "json": "https://ar-tik.com/data/faq.es.json"
+  },
+  "categories": [
+    {
+      "id": "start",
+      "label": "Por dónde empezar",
+      "hint": "Cuando la empresa quiere IA pero aún no tiene un proyecto definido.",
+      "faqCount": 5
+    },
+    {
+      "id": "discovery",
+      "label": "Primera conversación y método",
+      "hint": "Qué ocurre antes de elegir consultoría, curso, análisis o software.",
+      "faqCount": 5
+    },
+    {
+      "id": "costs",
+      "label": "Costes, tiempos y ROI",
+      "hint": "Cómo razonar sobre inversión, retorno, prioridades y riesgo.",
+      "faqCount": 5
+    },
+    {
+      "id": "data_privacy",
+      "label": "Datos, documentos y privacidad",
+      "hint": "Cuándo hacen falta datos, cómo prepararlos y qué controles respetar.",
+      "faqCount": 5
+    },
+    {
+      "id": "consulting",
+      "label": "Consultoría directiva de IA",
+      "hint": "Preguntas sobre gobernanza, roadmap, prioridades, políticas y sponsor interno.",
+      "faqCount": 5
+    },
+    {
+      "id": "training",
+      "label": "Formación y cursos de IA",
+      "hint": "Cuándo transferir competencias a managers, equipos y áreas.",
+      "faqCount": 5
+    },
+    {
+      "id": "data_analysis",
+      "label": "Análisis de datos agéntico",
+      "hint": "Cuando el primer valor es validar señales en los datos existentes.",
+      "faqCount": 5
+    },
+    {
+      "id": "software",
+      "label": "Software técnico y automatizaciones",
+      "hint": "Cuando hace falta construir un sistema verificable, no solo usar herramientas existentes.",
+      "faqCount": 5
+    },
+    {
+      "id": "atlas",
+      "label": "Atlas de aplicaciones IA",
+      "hint": "Cómo usar ejemplos y patrones sin leerlos como productos estándar.",
+      "faqCount": 4
+    },
+    {
+      "id": "governance",
+      "label": "Gobernanza, riesgos y revisión humana",
+      "hint": "Responsabilidad, políticas, controles y límites operativos de la IA.",
+      "faqCount": 4
+    },
+    {
+      "id": "adoption",
+      "label": "Adopción interna y equipos",
+      "hint": "Cómo evitar resistencias, uso informal e iniciativas aisladas.",
+      "faqCount": 4
+    },
+    {
+      "id": "routing",
+      "label": "Elegir el recorrido adecuado",
+      "hint": "Diferencias prácticas entre formación, consultoría, análisis de datos y desarrollo software.",
+      "faqCount": 4
+    },
+    {
+      "id": "limits",
+      "label": "Límites de la IA",
+      "hint": "Cuándo parar, no automatizar o aplazar el proyecto.",
+      "faqCount": 4
+    },
+    {
+      "id": "contact",
+      "label": "Antes de contactar con Artik Lab",
+      "hint": "Qué preparar y qué esperar del primer intercambio.",
+      "faqCount": 4
+    }
+  ],
+  "faqs": [
+    {
+      "id": "start-without-project",
+      "locale": "es",
+      "language": "es",
+      "category": "start",
+      "categoryLabel": "Por dónde empezar",
+      "question": "¿Por dónde empezar si la empresa aún no tiene un proyecto de IA?",
+      "shortAnswer": "Conviene empezar por un proceso, no por una herramienta.",
+      "detailedAnswer": "El primer trabajo es elegir una decisión recurrente, un coste visible o un riesgo que merezca reducción. La primera conversación aclara si corresponde consultoría, curso, análisis de datos o prototipo controlado.",
+      "audience": "dirección y propietarios",
+      "searchIntent": "orientación inicial",
+      "searchQueries": [
+        "¿Por dónde empezar si la empresa aún no tiene un proyecto de IA?",
+        "¿por dónde empezar si la empresa aún no tiene un proyecto de ia",
+        "Por dónde empezar ¿por dónde empezar si la empresa aún no tiene un proyecto de ia"
+      ],
+      "needSignals": [
+        "interés por la IA sin proyecto definido",
+        "herramientas elegidas antes del proceso"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "workflow-redesign"
+      ],
+      "relatedCourses": [
+        {
+          "id": "workflow-redesign",
+          "title": "AI Workflow Redesign Lab",
+          "url": "https://ar-tik.com/es/cursos/workflow-redesign.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "operations"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Empezar por el modelo o la herramienta suele crear pruebas aisladas sin retorno medible.",
+      "nextStep": "Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#start-without-project",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Por dónde empezar si la empresa aún no tiene un proyecto de IA?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Por dónde empezar si la empresa aún no tiene un proyecto de IA?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "start-first-process",
+      "locale": "es",
+      "language": "es",
+      "category": "start",
+      "categoryLabel": "Por dónde empezar",
+      "question": "¿Cómo elegir el primer proceso a mejorar con IA?",
+      "shortAnswer": "Elegir un proceso frecuente, observable y ligado a un coste o demora.",
+      "detailedAnswer": "Buenos candidatos son correos repetitivos, documentos que leer, prioridades que asignar o decisiones que llegan tarde. Si el proceso no es observable, primero hay que aclararlo.",
+      "audience": "managers y responsables de área",
+      "searchIntent": "orientación inicial",
+      "searchQueries": [
+        "¿Cómo elegir el primer proceso a mejorar con IA?",
+        "¿cómo elegir el primer proceso a mejorar con ia",
+        "Por dónde empezar ¿cómo elegir el primer proceso a mejorar con ia"
+      ],
+      "needSignals": [
+        "decisiones recurrentes lentas",
+        "trabajo manual repetitivo"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "workflow-redesign"
+      ],
+      "relatedCourses": [
+        {
+          "id": "workflow-redesign",
+          "title": "AI Workflow Redesign Lab",
+          "url": "https://ar-tik.com/es/cursos/workflow-redesign.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "operations"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Empezar por el modelo o la herramienta suele crear pruebas aisladas sin retorno medible.",
+      "nextStep": "Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#start-first-process",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Cómo elegir el primer proceso a mejorar con IA?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Cómo elegir el primer proceso a mejorar con IA?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "start-pmi-no-it",
+      "locale": "es",
+      "language": "es",
+      "category": "start",
+      "categoryLabel": "Por dónde empezar",
+      "question": "¿Puede empezar una pyme sin equipo IT interno?",
+      "shortAnswer": "Sí, si empieza por decisiones, procesos y competencias antes que tecnología.",
+      "detailedAnswer": "Muchas actividades iniciales no requieren desarrollo software: importan mapa de procesos, criterios de riesgo, formación dirigida y elección del primer caso. La parte técnica llega cuando el perímetro está claro.",
+      "audience": "dirección y propietarios",
+      "searchIntent": "orientación inicial",
+      "searchQueries": [
+        "¿Puede empezar una pyme sin equipo IT interno?",
+        "¿puede empezar una pyme sin equipo it interno",
+        "Por dónde empezar ¿puede empezar una pyme sin equipo it interno"
+      ],
+      "needSignals": [
+        "interés por la IA sin proyecto definido",
+        "competencias de IA no alineadas entre roles"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-literacy",
+        "managing-ai-general"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-literacy",
+          "title": "Alfabetización AI por rol y uso responsable",
+          "url": "https://ar-tik.com/es/cursos/ai-literacy.html"
+        },
+        {
+          "id": "managing-ai-general",
+          "title": "Managing AI para equipos empresariales mixtos",
+          "url": "https://ar-tik.com/es/cursos/managing-ai-general.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "training"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Empezar por el modelo o la herramienta suele crear pruebas aisladas sin retorno medible.",
+      "nextStep": "Elegir un curso o laboratorio si la necesidad principal es transferir método al equipo.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#start-pmi-no-it",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Puede empezar una pyme sin equipo IT interno?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Puede empezar una pyme sin equipo IT interno?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "start-tool-or-problem",
+      "locale": "es",
+      "language": "es",
+      "category": "start",
+      "categoryLabel": "Por dónde empezar",
+      "question": "¿Conviene empezar por ChatGPT, por software o por un problema?",
+      "shortAnswer": "Conviene empezar por el problema empresarial y elegir la herramienta después.",
+      "detailedAnswer": "Una herramienta puede ayudar, pero no decide objetivo, datos, responsabilidad ni criterio de éxito. Artik Lab usa el primer diagnóstico para evitar pruebas aisladas y conectar IA con resultado operativo.",
+      "audience": "managers y responsables de área",
+      "searchIntent": "elección del recorrido",
+      "searchQueries": [
+        "¿Conviene empezar por ChatGPT, por software o por un problema?",
+        "¿conviene empezar por chatgpt, por software o por un problema",
+        "Por dónde empezar ¿conviene empezar por chatgpt, por software o por un problema"
+      ],
+      "needSignals": [
+        "herramientas elegidas antes del proceso",
+        "uso de IA informal y no gobernado"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "workflow-redesign"
+      ],
+      "relatedCourses": [
+        {
+          "id": "workflow-redesign",
+          "title": "AI Workflow Redesign Lab",
+          "url": "https://ar-tik.com/es/cursos/workflow-redesign.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "governance"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Empezar por el modelo o la herramienta suele crear pruebas aisladas sin retorno medible.",
+      "nextStep": "Abrir un recorrido de consultoría para aclarar prioridades, gobernanza y roadmap.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#start-tool-or-problem",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Conviene empezar por ChatGPT, por software o por un problema?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Conviene empezar por ChatGPT, por software o por un problema?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "start-ai-readiness",
+      "locale": "es",
+      "language": "es",
+      "category": "start",
+      "categoryLabel": "Por dónde empezar",
+      "question": "¿Cómo saber si la empresa está lista para usar IA?",
+      "shortAnswer": "La preparación depende de proceso, sponsor, datos mínimos y responsabilidad clara.",
+      "detailedAnswer": "No hace falta madurez total. Sí hace falta un problema concreto, personas que puedan validar el resultado y una decisión a mejorar. Si no, conviene empezar con formación o mapeo.",
+      "audience": "dirección y propietarios",
+      "searchIntent": "orientación inicial",
+      "searchQueries": [
+        "¿Cómo saber si la empresa está lista para usar IA?",
+        "¿cómo saber si la empresa está lista para usar ia",
+        "Por dónde empezar ¿cómo saber si la empresa está lista para usar ia"
+      ],
+      "needSignals": [
+        "interés por la IA sin proyecto definido",
+        "datos disponibles aún no evaluados"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "managing-ai"
+      ],
+      "relatedCourses": [
+        {
+          "id": "managing-ai",
+          "title": "Managing AI",
+          "url": "https://ar-tik.com/es/cursos/managing-ai.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "governance"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Empezar por el modelo o la herramienta suele crear pruebas aisladas sin retorno medible.",
+      "nextStep": "Abrir un recorrido de consultoría para aclarar prioridades, gobernanza y roadmap.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#start-ai-readiness",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Cómo saber si la empresa está lista para usar IA?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Cómo saber si la empresa está lista para usar IA?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "discovery-prepare",
+      "locale": "es",
+      "language": "es",
+      "category": "discovery",
+      "categoryLabel": "Primera conversación y método",
+      "question": "¿Qué preparar para la primera conversación?",
+      "shortAnswer": "Conviene preparar un proceso, un ejemplo de material y una decisión a mejorar.",
+      "detailedAnswer": "No hacen falta documentos perfectos. Bastan contexto, restricciones, roles implicados, datos disponibles y una descripción de lo que hoy tarda demasiado o genera riesgo.",
+      "audience": "managers y responsables de área",
+      "searchIntent": "orientación inicial",
+      "searchQueries": [
+        "¿Qué preparar para la primera conversación?",
+        "¿qué preparar para la primera conversación",
+        "Primera conversación y método ¿qué preparar para la primera conversación"
+      ],
+      "needSignals": [
+        "interés por la IA sin proyecto definido",
+        "datos disponibles aún no evaluados"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "workflow-redesign"
+      ],
+      "relatedCourses": [
+        {
+          "id": "workflow-redesign",
+          "title": "AI Workflow Redesign Lab",
+          "url": "https://ar-tik.com/es/cursos/workflow-redesign.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "operations"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Un diagnóstico genérico no basta para elegir inversión, responsabilidad y datos.",
+      "nextStep": "Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#discovery-prepare",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Qué preparar para la primera conversación?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Qué preparar para la primera conversación?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "discovery-duration",
+      "locale": "es",
+      "language": "es",
+      "category": "discovery",
+      "categoryLabel": "Primera conversación y método",
+      "question": "¿Cuánto dura la primera conversación?",
+      "shortAnswer": "Normalmente bastan 30-45 minutos para entender el perímetro inicial.",
+      "detailedAnswer": "El objetivo no es resolverlo todo en la reunión, sino separar necesidad, restricciones y próximo paso. Después puede surgir un curso, consultoría, análisis de datos o prototipo.",
+      "audience": "dirección y propietarios",
+      "searchIntent": "orientación inicial",
+      "searchQueries": [
+        "¿Cuánto dura la primera conversación?",
+        "¿cuánto dura la primera conversación",
+        "Primera conversación y método ¿cuánto dura la primera conversación"
+      ],
+      "needSignals": [
+        "interés por la IA sin proyecto definido"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [],
+      "relatedCourses": [],
+      "relatedAtlasAreas": [
+        "governance"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Un diagnóstico genérico no basta para elegir inversión, responsabilidad y datos.",
+      "nextStep": "Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#discovery-duration",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Cuánto dura la primera conversación?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Cuánto dura la primera conversación?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "discovery-output",
+      "locale": "es",
+      "language": "es",
+      "category": "discovery",
+      "categoryLabel": "Primera conversación y método",
+      "question": "¿Qué sale del diagnóstico inicial?",
+      "shortAnswer": "Sale una indicación sobre el formato más sensato y los riesgos a gobernar.",
+      "detailedAnswer": "El diagnóstico puede indicar formación, mapa de oportunidades, validación de datos, prototipo técnico o pausa temporal. El valor es evitar una inversión equivocada antes de comprometer tiempo y presupuesto.",
+      "audience": "managers y responsables de área",
+      "searchIntent": "elección del recorrido",
+      "searchQueries": [
+        "¿Qué sale del diagnóstico inicial?",
+        "¿qué sale del diagnóstico inicial",
+        "Primera conversación y método ¿qué sale del diagnóstico inicial"
+      ],
+      "needSignals": [
+        "interés por la IA sin proyecto definido",
+        "herramientas elegidas antes del proceso"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [],
+      "relatedCourses": [],
+      "relatedAtlasAreas": [
+        "governance"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Un diagnóstico genérico no basta para elegir inversión, responsabilidad y datos.",
+      "nextStep": "Abrir un recorrido de consultoría para aclarar prioridades, gobernanza y roadmap.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#discovery-output",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Qué sale del diagnóstico inicial?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Qué sale del diagnóstico inicial?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "discovery-stakeholders",
+      "locale": "es",
+      "language": "es",
+      "category": "discovery",
+      "categoryLabel": "Primera conversación y método",
+      "question": "¿Quién debería participar en la primera conversación?",
+      "shortAnswer": "Al menos quien conoce el proceso y quien puede decidir prioridades.",
+      "detailedAnswer": "Dirección, área implicada y referente operativo evitan lecturas parciales. Si hay datos o sistemas, también puede servir IT o quien gestiona las herramientas.",
+      "audience": "dirección y propietarios",
+      "searchIntent": "orientación inicial",
+      "searchQueries": [
+        "¿Quién debería participar en la primera conversación?",
+        "¿quién debería participar en la primera conversación",
+        "Primera conversación y método ¿quién debería participar en la primera conversación"
+      ],
+      "needSignals": [
+        "decisiones recurrentes lentas",
+        "uso de IA informal y no gobernado"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [],
+      "relatedCourses": [],
+      "relatedAtlasAreas": [
+        "governance"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Un diagnóstico genérico no basta para elegir inversión, responsabilidad y datos.",
+      "nextStep": "Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#discovery-stakeholders",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Quién debería participar en la primera conversación?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Quién debería participar en la primera conversación?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "discovery-after-call",
+      "locale": "es",
+      "language": "es",
+      "category": "discovery",
+      "categoryLabel": "Primera conversación y método",
+      "question": "¿Qué ocurre después de la primera conversación?",
+      "shortAnswer": "Se decide si profundizar, formar, analizar datos, construir un prototipo o parar.",
+      "detailedAnswer": "La conversación no obliga a un proyecto. Convierte una pregunta vaga en una elección práctica con perímetro, prioridades, riesgos y criterios de control más claros.",
+      "audience": "managers y responsables de área",
+      "searchIntent": "elección del recorrido",
+      "searchQueries": [
+        "¿Qué ocurre después de la primera conversación?",
+        "¿qué ocurre después de la primera conversación",
+        "Primera conversación y método ¿qué ocurre después de la primera conversación"
+      ],
+      "needSignals": [
+        "interés por la IA sin proyecto definido"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [],
+      "relatedCourses": [],
+      "relatedAtlasAreas": [
+        "operations"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Un diagnóstico genérico no basta para elegir inversión, responsabilidad y datos.",
+      "nextStep": "Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#discovery-after-call",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Qué ocurre después de la primera conversación?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Qué ocurre después de la primera conversación?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "cost-ai-project",
+      "locale": "es",
+      "language": "es",
+      "category": "costs",
+      "categoryLabel": "Costes, tiempos y ROI",
+      "question": "¿Cuánto cuesta un proyecto de IA?",
+      "shortAnswer": "El coste depende de perímetro, datos, riesgo, personas implicadas y resultado esperado.",
+      "detailedAnswer": "Antes de estimar hay que saber si se trata de formación, diagnóstico, análisis de datos, prototipo o sistema. Un recorrido pequeño y delimitado suele ser más útil que un proyecto amplio.",
+      "audience": "dirección y propietarios",
+      "searchIntent": "elección del recorrido",
+      "searchQueries": [
+        "¿Cuánto cuesta un proyecto de IA?",
+        "¿cuánto cuesta un proyecto de ia",
+        "Costes, tiempos y ROI ¿cuánto cuesta un proyecto de ia"
+      ],
+      "needSignals": [
+        "interés por la IA sin proyecto definido"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-business-case-roi"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-business-case-roi",
+          "title": "AI Business Case & ROI Sprint",
+          "url": "https://ar-tik.com/es/cursos/ai-business-case-roi.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "governance"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "El ROI no debe prometerse antes de conocer proceso, baseline, datos y acciones posibles.",
+      "nextStep": "Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#cost-ai-project",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Cuánto cuesta un proyecto de IA?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Cuánto cuesta un proyecto de IA?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "cost-roi",
+      "locale": "es",
+      "language": "es",
+      "category": "costs",
+      "categoryLabel": "Costes, tiempos y ROI",
+      "question": "¿Cómo evaluar el ROI de un proyecto de IA?",
+      "shortAnswer": "Comparar coste actual, mejora posible y acciones realmente activables.",
+      "detailedAnswer": "Antes del modelo hacen falta baseline, KPI y responsabilidad. Si la IA produce una señal pero nadie puede actuar, el valor queda teórico; si cambia una decisión frecuente, el retorno puede estimarse.",
+      "audience": "dirección y propietarios",
+      "searchIntent": "elección del recorrido",
+      "searchQueries": [
+        "¿Cómo evaluar el ROI de un proyecto de IA?",
+        "¿cómo evaluar el roi de un proyecto de ia",
+        "Costes, tiempos y ROI ¿cómo evaluar el roi de un proyecto de ia"
+      ],
+      "needSignals": [
+        "decisiones recurrentes lentas",
+        "datos disponibles aún no evaluados"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting",
+        "agentic-data-analysis"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        },
+        {
+          "id": "agentic-data-analysis",
+          "title": "Análisis de datos agéntico",
+          "url": "https://ar-tik.com/es/analisis-datos-agentico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-business-case-roi"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-business-case-roi",
+          "title": "AI Business Case & ROI Sprint",
+          "url": "https://ar-tik.com/es/cursos/ai-business-case-roi.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "data"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "El ROI no debe prometerse antes de conocer proceso, baseline, datos y acciones posibles.",
+      "nextStep": "Abrir un recorrido de consultoría para aclarar prioridades, gobernanza y roadmap.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#cost-roi",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Cómo evaluar el ROI de un proyecto de IA?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Cómo evaluar el ROI de un proyecto de IA?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "cost-timing",
+      "locale": "es",
+      "language": "es",
+      "category": "costs",
+      "categoryLabel": "Costes, tiempos y ROI",
+      "question": "¿Cuánto tiempo hace falta para ver un primer resultado?",
+      "shortAnswer": "Un primer resultado puede llegar en pocas semanas si el perímetro es pequeño y verificable.",
+      "detailedAnswer": "Puede ser mapa, política, curso adaptado, prueba sobre datos o prototipo mínimo. No siempre es producción: a veces es decidir mejor qué financiar o evitar.",
+      "audience": "managers y responsables de área",
+      "searchIntent": "evaluación operativa",
+      "searchQueries": [
+        "¿Cuánto tiempo hace falta para ver un primer resultado?",
+        "¿cuánto tiempo hace falta para ver un primer resultado",
+        "Costes, tiempos y ROI ¿cuánto tiempo hace falta para ver un primer resultado"
+      ],
+      "needSignals": [
+        "trabajo manual repetitivo",
+        "decisiones recurrentes lentas"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "workflow-redesign"
+      ],
+      "relatedCourses": [
+        {
+          "id": "workflow-redesign",
+          "title": "AI Workflow Redesign Lab",
+          "url": "https://ar-tik.com/es/cursos/workflow-redesign.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "operations"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "El ROI no debe prometerse antes de conocer proceso, baseline, datos y acciones posibles.",
+      "nextStep": "Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#cost-timing",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Cuánto tiempo hace falta para ver un primer resultado?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Cuánto tiempo hace falta para ver un primer resultado?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "cost-small-start",
+      "locale": "es",
+      "language": "es",
+      "category": "costs",
+      "categoryLabel": "Costes, tiempos y ROI",
+      "question": "¿Se puede empezar con un proyecto pequeño?",
+      "shortAnswer": "Sí, suele convenir empezar con un perímetro reducido y medible.",
+      "detailedAnswer": "Un caso pequeño valida datos, responsabilidad y valor sin crear expectativas excesivas. Si funciona, se amplía; si no, se aprende antes de gastar demasiado.",
+      "audience": "dirección y propietarios",
+      "searchIntent": "elección del recorrido",
+      "searchQueries": [
+        "¿Se puede empezar con un proyecto pequeño?",
+        "¿se puede empezar con un proyecto pequeño",
+        "Costes, tiempos y ROI ¿se puede empezar con un proyecto pequeño"
+      ],
+      "needSignals": [
+        "interés por la IA sin proyecto definido"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-business-case-roi"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-business-case-roi",
+          "title": "AI Business Case & ROI Sprint",
+          "url": "https://ar-tik.com/es/cursos/ai-business-case-roi.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "operations"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "El ROI no debe prometerse antes de conocer proceso, baseline, datos y acciones posibles.",
+      "nextStep": "Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#cost-small-start",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Se puede empezar con un proyecto pequeño?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Se puede empezar con un proyecto pequeño?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "cost-risk-reduction",
+      "locale": "es",
+      "language": "es",
+      "category": "costs",
+      "categoryLabel": "Costes, tiempos y ROI",
+      "question": "¿Cómo reducir el riesgo de gastar en un proyecto de IA equivocado?",
+      "shortAnswer": "Definir un criterio de parada antes de la inversión completa.",
+      "detailedAnswer": "Cada caso debería tener hipótesis, KPI, datos mínimos, responsabilidad y condiciones para parar. Un veredicto negativo sobre datos o proceso puede ser buen resultado si evita costes mayores.",
+      "audience": "managers y responsables de área",
+      "searchIntent": "gestión del riesgo",
+      "searchQueries": [
+        "¿Cómo reducir el riesgo de gastar en un proyecto de IA equivocado?",
+        "¿cómo reducir el riesgo de gastar en un proyecto de ia equivocado",
+        "Costes, tiempos y ROI ¿cómo reducir el riesgo de gastar en un proyecto de ia equivocado"
+      ],
+      "needSignals": [
+        "datos personales o reservados implicados",
+        "uso de IA informal y no gobernado"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-governance"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-governance",
+          "title": "Gobernanza operativa de AI",
+          "url": "https://ar-tik.com/es/cursos/ai-governance.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "governance"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "El ROI no debe prometerse antes de conocer proceso, baseline, datos y acciones posibles.",
+      "nextStep": "Abrir un recorrido de consultoría para aclarar prioridades, gobernanza y roadmap.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#cost-risk-reduction",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Cómo reducir el riesgo de gastar en un proyecto de IA equivocado?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Cómo reducir el riesgo de gastar en un proyecto de IA equivocado?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "data-clean",
+      "locale": "es",
+      "language": "es",
+      "category": "data_privacy",
+      "categoryLabel": "Datos, documentos y privacidad",
+      "question": "¿Hace falta tener datos ya limpios para usar IA?",
+      "shortAnswer": "No, pero hay que saber qué datos existen, quién los entiende y qué límites tienen.",
+      "detailedAnswer": "La limpieza perfecta rara vez existe al inicio. El primer trabajo puede ser evaluar calidad, cobertura, errores y utilidad de los datos respecto a la decisión a mejorar.",
+      "audience": "managers y responsables de área",
+      "searchIntent": "evaluación operativa",
+      "searchQueries": [
+        "¿Hace falta tener datos ya limpios para usar IA?",
+        "¿hace falta tener datos ya limpios para usar ia",
+        "Datos, documentos y privacidad ¿hace falta tener datos ya limpios para usar ia"
+      ],
+      "needSignals": [
+        "datos disponibles aún no evaluados"
+      ],
+      "relatedServiceIds": [
+        "agentic-data-analysis"
+      ],
+      "relatedServices": [
+        {
+          "id": "agentic-data-analysis",
+          "title": "Análisis de datos agéntico",
+          "url": "https://ar-tik.com/es/analisis-datos-agentico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-business-case-roi"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-business-case-roi",
+          "title": "AI Business Case & ROI Sprint",
+          "url": "https://ar-tik.com/es/cursos/ai-business-case-roi.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "data"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Datos personales, regulados o reservados exigen minimización, control de acceso y revisión competente.",
+      "nextStep": "Valorar análisis de datos agéntico si hace falta validar la señal antes de construir.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#data-clean",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Hace falta tener datos ya limpios para usar IA?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Hace falta tener datos ya limpios para usar IA?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "data-documents",
+      "locale": "es",
+      "language": "es",
+      "category": "data_privacy",
+      "categoryLabel": "Datos, documentos y privacidad",
+      "question": "¿La IA puede trabajar con documentos, emails y procedimientos?",
+      "shortAnswer": "Sí, muchos casos parten de materiales textuales ya presentes en la empresa.",
+      "detailedAnswer": "Contratos, manuales, tickets, emails y procedimientos pueden convertirse en búsqueda, síntesis, controles o borradores. Hacen falta fuentes claras, permisos, revisión humana y límites.",
+      "audience": "managers y responsables de área",
+      "searchIntent": "evaluación operativa",
+      "searchQueries": [
+        "¿La IA puede trabajar con documentos, emails y procedimientos?",
+        "¿la ia puede trabajar con documentos, emails y procedimientos",
+        "Datos, documentos y privacidad ¿la ia puede trabajar con documentos, emails y procedimientos"
+      ],
+      "needSignals": [
+        "trabajo manual repetitivo",
+        "conocimiento crítico concentrado en pocas personas"
+      ],
+      "relatedServiceIds": [
+        "technical-software-development"
+      ],
+      "relatedServices": [
+        {
+          "id": "technical-software-development",
+          "title": "Software técnico de IA",
+          "url": "https://ar-tik.com/es/desarrollo-software-tecnico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-documenti",
+        "embeddings"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-documenti",
+          "title": "Curso AI: gestionar documentos con AI",
+          "url": "https://ar-tik.com/es/cursos/ai-documenti.html"
+        },
+        {
+          "id": "embeddings",
+          "title": "Búsqueda semántica y bases de conocimiento AI",
+          "url": "https://ar-tik.com/es/cursos/embeddings.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "documents"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Datos personales, regulados o reservados exigen minimización, control de acceso y revisión competente.",
+      "nextStep": "Usar el Atlas para reconocer patrones similares antes de definir el proyecto.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#data-documents",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿La IA puede trabajar con documentos, emails y procedimientos?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿La IA puede trabajar con documentos, emails y procedimientos?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "data-privacy",
+      "locale": "es",
+      "language": "es",
+      "category": "data_privacy",
+      "categoryLabel": "Datos, documentos y privacidad",
+      "question": "¿Cómo evitar riesgos de privacidad con la IA?",
+      "shortAnswer": "Limitar datos, accesos, herramientas y usos permitidos antes del experimento.",
+      "detailedAnswer": "La gestión correcta empieza por clasificación de datos, minimización, base legal, cuentas autorizadas y revisión especializada cuando procede. La política debe convertirse en comportamiento práctico.",
+      "audience": "dirección y propietarios",
+      "searchIntent": "gestión del riesgo",
+      "searchQueries": [
+        "¿Cómo evitar riesgos de privacidad con la IA?",
+        "¿cómo evitar riesgos de privacidad con la ia",
+        "Datos, documentos y privacidad ¿cómo evitar riesgos de privacidad con la ia"
+      ],
+      "needSignals": [
+        "datos personales o reservados implicados",
+        "uso de IA informal y no gobernado"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "secure-ai-at-work"
+      ],
+      "relatedCourses": [
+        {
+          "id": "secure-ai-at-work",
+          "title": "Secure AI at Work",
+          "url": "https://ar-tik.com/es/cursos/secure-ai-at-work.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "governance"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Datos personales, regulados o reservados exigen minimización, control de acceso y revisión competente.",
+      "nextStep": "Abrir un recorrido de consultoría para aclarar prioridades, gobernanza y roadmap.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#data-privacy",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Cómo evitar riesgos de privacidad con la IA?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Cómo evitar riesgos de privacidad con la IA?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "data-confidential",
+      "locale": "es",
+      "language": "es",
+      "category": "data_privacy",
+      "categoryLabel": "Datos, documentos y privacidad",
+      "question": "¿Se pueden usar datos reservados o know-how técnico?",
+      "shortAnswer": "Sí, solo con perímetros, accesos y materiales acordados de forma explícita.",
+      "detailedAnswer": "Código, planos, pliegos, datos industriales y conocimiento experto se tratan como propiedad intelectual. Los ejemplos públicos usan descripciones anonimizadas no identificables.",
+      "audience": "equipos técnicos y operaciones",
+      "searchIntent": "gestión del riesgo",
+      "searchQueries": [
+        "¿Se pueden usar datos reservados o know-how técnico?",
+        "¿se pueden usar datos reservados o know-how técnico",
+        "Datos, documentos y privacidad ¿se pueden usar datos reservados o know-how técnico"
+      ],
+      "needSignals": [
+        "datos personales o reservados implicados",
+        "software, hojas o sistemas frágiles"
+      ],
+      "relatedServiceIds": [
+        "technical-software-development"
+      ],
+      "relatedServices": [
+        {
+          "id": "technical-software-development",
+          "title": "Software técnico de IA",
+          "url": "https://ar-tik.com/es/desarrollo-software-tecnico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "secure-ai-sdlc"
+      ],
+      "relatedCourses": [
+        {
+          "id": "secure-ai-sdlc",
+          "title": "Secure AI SDLC",
+          "url": "https://ar-tik.com/es/cursos/secure-ai-sdlc.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "technical"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Datos personales, regulados o reservados exigen minimización, control de acceso y revisión competente.",
+      "nextStep": "Pasar al desarrollo software solo cuando hacen falta sistema verificable, pruebas y mantenimiento.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#data-confidential",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Se pueden usar datos reservados o know-how técnico?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Se pueden usar datos reservados o know-how técnico?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "data-not-enough",
+      "locale": "es",
+      "language": "es",
+      "category": "data_privacy",
+      "categoryLabel": "Datos, documentos y privacidad",
+      "question": "¿Qué ocurre si los datos no bastan?",
+      "shortAnswer": "El resultado útil puede ser saber qué datos faltan y qué inversiones evitar.",
+      "detailedAnswer": "No siempre se construye un modelo. A veces el mejor trabajo es definir nueva recolección de datos, cambiar el proceso o aplazar la automatización hasta que la señal sea verificable.",
+      "audience": "managers y responsables de área",
+      "searchIntent": "evaluación operativa",
+      "searchQueries": [
+        "¿Qué ocurre si los datos no bastan?",
+        "¿qué ocurre si los datos no bastan",
+        "Datos, documentos y privacidad ¿qué ocurre si los datos no bastan"
+      ],
+      "needSignals": [
+        "datos disponibles aún no evaluados"
+      ],
+      "relatedServiceIds": [
+        "agentic-data-analysis"
+      ],
+      "relatedServices": [
+        {
+          "id": "agentic-data-analysis",
+          "title": "Análisis de datos agéntico",
+          "url": "https://ar-tik.com/es/analisis-datos-agentico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-business-case-roi"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-business-case-roi",
+          "title": "AI Business Case & ROI Sprint",
+          "url": "https://ar-tik.com/es/cursos/ai-business-case-roi.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "data"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Datos personales, regulados o reservados exigen minimización, control de acceso y revisión competente.",
+      "nextStep": "Valorar análisis de datos agéntico si hace falta validar la señal antes de construir.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#data-not-enough",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Qué ocurre si los datos no bastan?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Qué ocurre si los datos no bastan?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "consulting-when",
+      "locale": "es",
+      "language": "es",
+      "category": "consulting",
+      "categoryLabel": "Consultoría directiva de IA",
+      "question": "¿Cuándo sirve la consultoría directiva de IA?",
+      "shortAnswer": "Sirve cuando faltan prioridades, gobernanza, criterios de riesgo o roadmap.",
+      "detailedAnswer": "La consultoría ayuda a la dirección a decidir dónde usar IA, dónde parar, qué competencias crear y qué primer piloto puede tener valor medible.",
+      "audience": "dirección y propietarios",
+      "searchIntent": "elección del recorrido",
+      "searchQueries": [
+        "¿Cuándo sirve la consultoría directiva de IA?",
+        "¿cuándo sirve la consultoría directiva de ia",
+        "Consultoría directiva de IA ¿cuándo sirve la consultoría directiva de ia"
+      ],
+      "needSignals": [
+        "interés por la IA sin proyecto definido",
+        "uso de IA informal y no gobernado"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "managing-ai",
+        "ai-governance"
+      ],
+      "relatedCourses": [
+        {
+          "id": "managing-ai",
+          "title": "Managing AI",
+          "url": "https://ar-tik.com/es/cursos/managing-ai.html"
+        },
+        {
+          "id": "ai-governance",
+          "title": "Gobernanza operativa de AI",
+          "url": "https://ar-tik.com/es/cursos/ai-governance.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "governance"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Sin sponsor interno y decisiones reales, la consultoría queda como mapa no aplicado.",
+      "nextStep": "Abrir un recorrido de consultoría para aclarar prioridades, gobernanza y roadmap.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#consulting-when",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Cuándo sirve la consultoría directiva de IA?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Cuándo sirve la consultoría directiva de IA?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "consulting-output",
+      "locale": "es",
+      "language": "es",
+      "category": "consulting",
+      "categoryLabel": "Consultoría directiva de IA",
+      "question": "¿Qué queda después de una consultoría directiva de IA?",
+      "shortAnswer": "Quedan criterios, mapa de oportunidades, política, roadmap y brief del primer piloto.",
+      "detailedAnswer": "El objetivo no es una presentación inspiradora. Los artefactos ayudan a dirección y áreas a decidir, comunicar reglas, asignar responsabilidad y pasar al siguiente caso con control.",
+      "audience": "dirección y propietarios",
+      "searchIntent": "elección del recorrido",
+      "searchQueries": [
+        "¿Qué queda después de una consultoría directiva de IA?",
+        "¿qué queda después de una consultoría directiva de ia",
+        "Consultoría directiva de IA ¿qué queda después de una consultoría directiva de ia"
+      ],
+      "needSignals": [
+        "interés por la IA sin proyecto definido"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-governance"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-governance",
+          "title": "Gobernanza operativa de AI",
+          "url": "https://ar-tik.com/es/cursos/ai-governance.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "governance"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Sin sponsor interno y decisiones reales, la consultoría queda como mapa no aplicado.",
+      "nextStep": "Abrir un recorrido de consultoría para aclarar prioridades, gobernanza y roadmap.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#consulting-output",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Qué queda después de una consultoría directiva de IA?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Qué queda después de una consultoría directiva de IA?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "consulting-shadow-ai",
+      "locale": "es",
+      "language": "es",
+      "category": "consulting",
+      "categoryLabel": "Consultoría directiva de IA",
+      "question": "¿Cómo gestionar a personas que ya usan IA de forma informal?",
+      "shortAnswer": "Conviene convertir el uso informal en práctica gobernada, no solo prohibirlo.",
+      "detailedAnswer": "La Shadow IA señala una necesidad real de eficiencia. Hay que distinguir usos permitidos, datos excluidos, controles de resultados y recorridos seguros de empresa.",
+      "audience": "managers y responsables de área",
+      "searchIntent": "gestión del riesgo",
+      "searchQueries": [
+        "¿Cómo gestionar a personas que ya usan IA de forma informal?",
+        "¿cómo gestionar a personas que ya usan ia de forma informal",
+        "Consultoría directiva de IA ¿cómo gestionar a personas que ya usan ia de forma informal"
+      ],
+      "needSignals": [
+        "uso de IA informal y no gobernado",
+        "datos personales o reservados implicados"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "secure-ai-at-work"
+      ],
+      "relatedCourses": [
+        {
+          "id": "secure-ai-at-work",
+          "title": "Secure AI at Work",
+          "url": "https://ar-tik.com/es/cursos/secure-ai-at-work.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "governance"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Sin sponsor interno y decisiones reales, la consultoría queda como mapa no aplicado.",
+      "nextStep": "Abrir un recorrido de consultoría para aclarar prioridades, gobernanza y roadmap.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#consulting-shadow-ai",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Cómo gestionar a personas que ya usan IA de forma informal?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Cómo gestionar a personas que ya usan IA de forma informal?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "consulting-sponsor",
+      "locale": "es",
+      "language": "es",
+      "category": "consulting",
+      "categoryLabel": "Consultoría directiva de IA",
+      "question": "¿Hace falta un sponsor interno para empezar?",
+      "shortAnswer": "Sí, al menos una persona debe decidir prioridades y validar resultados.",
+      "detailedAnswer": "El sponsor no tiene que ser técnico. Debe entender el valor del proceso, involucrar a las personas correctas y autorizar decisiones sobre datos, tiempos y responsabilidad.",
+      "audience": "dirección y propietarios",
+      "searchIntent": "elección del recorrido",
+      "searchQueries": [
+        "¿Hace falta un sponsor interno para empezar?",
+        "¿hace falta un sponsor interno para empezar",
+        "Consultoría directiva de IA ¿hace falta un sponsor interno para empezar"
+      ],
+      "needSignals": [
+        "interés por la IA sin proyecto definido"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "managing-ai"
+      ],
+      "relatedCourses": [
+        {
+          "id": "managing-ai",
+          "title": "Managing AI",
+          "url": "https://ar-tik.com/es/cursos/managing-ai.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "governance"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Sin sponsor interno y decisiones reales, la consultoría queda como mapa no aplicado.",
+      "nextStep": "Abrir un recorrido de consultoría para aclarar prioridades, gobernanza y roadmap.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#consulting-sponsor",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Hace falta un sponsor interno para empezar?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Hace falta un sponsor interno para empezar?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "consulting-policy",
+      "locale": "es",
+      "language": "es",
+      "category": "consulting",
+      "categoryLabel": "Consultoría directiva de IA",
+      "question": "¿Cuándo hace falta una política de IA empresarial?",
+      "shortAnswer": "Cuando el uso crece y datos, herramientas o responsabilidades dejan de estar claros.",
+      "detailedAnswer": "Una política útil no es abstracta: define casos permitidos, datos prohibidos, revisión humana, cuentas, escalado y criterios para pasar de uso personal a uso empresarial.",
+      "audience": "managers y responsables de área",
+      "searchIntent": "gestión del riesgo",
+      "searchQueries": [
+        "¿Cuándo hace falta una política de IA empresarial?",
+        "¿cuándo hace falta una política de ia empresarial",
+        "Consultoría directiva de IA ¿cuándo hace falta una política de ia empresarial"
+      ],
+      "needSignals": [
+        "uso de IA informal y no gobernado",
+        "datos personales o reservados implicados"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-governance",
+        "secure-ai-at-work"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-governance",
+          "title": "Gobernanza operativa de AI",
+          "url": "https://ar-tik.com/es/cursos/ai-governance.html"
+        },
+        {
+          "id": "secure-ai-at-work",
+          "title": "Secure AI at Work",
+          "url": "https://ar-tik.com/es/cursos/secure-ai-at-work.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "governance"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Sin sponsor interno y decisiones reales, la consultoría queda como mapa no aplicado.",
+      "nextStep": "Abrir un recorrido de consultoría para aclarar prioridades, gobernanza y roadmap.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#consulting-policy",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Cuándo hace falta una política de IA empresarial?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Cuándo hace falta una política de IA empresarial?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "training-when",
+      "locale": "es",
+      "language": "es",
+      "category": "training",
+      "categoryLabel": "Formación y cursos de IA",
+      "question": "¿Cuándo tiene sentido hacer un curso de IA?",
+      "shortAnswer": "Tiene sentido cuando el problema principal es transferir método y criterios al equipo.",
+      "detailedAnswer": "Un curso encaja si las personas ya usan herramientas de IA de forma distinta, faltan reglas comunes o hay que llevar ejemplos prácticos a roles y procesos.",
+      "audience": "managers y responsables de área",
+      "searchIntent": "elección del recorrido",
+      "searchQueries": [
+        "¿Cuándo tiene sentido hacer un curso de IA?",
+        "¿cuándo tiene sentido hacer un curso de ia",
+        "Formación y cursos de IA ¿cuándo tiene sentido hacer un curso de ia"
+      ],
+      "needSignals": [
+        "competencias de IA no alineadas entre roles"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-literacy",
+        "managing-ai"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-literacy",
+          "title": "Alfabetización AI por rol y uso responsable",
+          "url": "https://ar-tik.com/es/cursos/ai-literacy.html"
+        },
+        {
+          "id": "managing-ai",
+          "title": "Managing AI",
+          "url": "https://ar-tik.com/es/cursos/managing-ai.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "training"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Un curso genérico no cambia el trabajo si ejemplos, roles y reglas quedan lejos del contexto.",
+      "nextStep": "Elegir un curso o laboratorio si la necesidad principal es transferir método al equipo.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#training-when",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Cuándo tiene sentido hacer un curso de IA?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Cuándo tiene sentido hacer un curso de IA?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "training-standard-custom",
+      "locale": "es",
+      "language": "es",
+      "category": "training",
+      "categoryLabel": "Formación y cursos de IA",
+      "question": "¿Los cursos son estándar o adaptados al contexto de la empresa?",
+      "shortAnswer": "La estructura es estable, pero ejemplos, ejercicios y prioridades se adaptan.",
+      "detailedAnswer": "El método DTR recalibra el recorrido sobre procesos, materiales y preguntas de participantes. Evita clases abstractas y facilita convertir la formación en práctica operativa.",
+      "audience": "managers y responsables de área",
+      "searchIntent": "elección del recorrido",
+      "searchQueries": [
+        "¿Los cursos son estándar o adaptados al contexto de la empresa?",
+        "¿los cursos son estándar o adaptados al contexto de la empresa",
+        "Formación y cursos de IA ¿los cursos son estándar o adaptados al contexto de la empresa"
+      ],
+      "needSignals": [
+        "competencias de IA no alineadas entre roles",
+        "trabajo manual repetitivo"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "workflow-redesign",
+        "ai-literacy"
+      ],
+      "relatedCourses": [
+        {
+          "id": "workflow-redesign",
+          "title": "AI Workflow Redesign Lab",
+          "url": "https://ar-tik.com/es/cursos/workflow-redesign.html"
+        },
+        {
+          "id": "ai-literacy",
+          "title": "Alfabetización AI por rol y uso responsable",
+          "url": "https://ar-tik.com/es/cursos/ai-literacy.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "training"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Un curso genérico no cambia el trabajo si ejemplos, roles y reglas quedan lejos del contexto.",
+      "nextStep": "Elegir un curso o laboratorio si la necesidad principal es transferir método al equipo.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#training-standard-custom",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Los cursos son estándar o adaptados al contexto de la empresa?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Los cursos son estándar o adaptados al contexto de la empresa?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "training-programming",
+      "locale": "es",
+      "language": "es",
+      "category": "training",
+      "categoryLabel": "Formación y cursos de IA",
+      "question": "¿Hace falta saber programar para participar en los cursos?",
+      "shortAnswer": "No en recorridos directivos, introductorios y operativos.",
+      "detailedAnswer": "Programar solo hace falta en cursos técnicos. Para dirección y áreas de negocio el foco es procesos, prompts, revisión, riesgos, datos y criterios de uso responsable.",
+      "audience": "equipos operativos",
+      "searchIntent": "orientación inicial",
+      "searchQueries": [
+        "¿Hace falta saber programar para participar en los cursos?",
+        "¿hace falta saber programar para participar en los cursos",
+        "Formación y cursos de IA ¿hace falta saber programar para participar en los cursos"
+      ],
+      "needSignals": [
+        "competencias de IA no alineadas entre roles"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-literacy",
+        "managing-ai-general"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-literacy",
+          "title": "Alfabetización AI por rol y uso responsable",
+          "url": "https://ar-tik.com/es/cursos/ai-literacy.html"
+        },
+        {
+          "id": "managing-ai-general",
+          "title": "Managing AI para equipos empresariales mixtos",
+          "url": "https://ar-tik.com/es/cursos/managing-ai-general.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "training"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Un curso genérico no cambia el trabajo si ejemplos, roles y reglas quedan lejos del contexto.",
+      "nextStep": "Elegir un curso o laboratorio si la necesidad principal es transferir método al equipo.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#training-programming",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Hace falta saber programar para participar en los cursos?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Hace falta saber programar para participar en los cursos?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "training-output",
+      "locale": "es",
+      "language": "es",
+      "category": "training",
+      "categoryLabel": "Formación y cursos de IA",
+      "question": "¿Qué queda después de un curso de IA para empresa?",
+      "shortAnswer": "Quedan materiales, criterios de uso, ejemplos adaptados y lectura de procesos prometedores.",
+      "detailedAnswer": "El curso no debería cerrar solo con teoría. Debe dejar herramientas prácticas: checklist, ejercicios, reglas de revisión, ejemplos reutilizables y preguntas para elegir casos posteriores.",
+      "audience": "managers y responsables de área",
+      "searchIntent": "evaluación operativa",
+      "searchQueries": [
+        "¿Qué queda después de un curso de IA para empresa?",
+        "¿qué queda después de un curso de ia para empresa",
+        "Formación y cursos de IA ¿qué queda después de un curso de ia para empresa"
+      ],
+      "needSignals": [
+        "competencias de IA no alineadas entre roles"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-literacy",
+        "ai-governance"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-literacy",
+          "title": "Alfabetización AI por rol y uso responsable",
+          "url": "https://ar-tik.com/es/cursos/ai-literacy.html"
+        },
+        {
+          "id": "ai-governance",
+          "title": "Gobernanza operativa de AI",
+          "url": "https://ar-tik.com/es/cursos/ai-governance.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "training"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Un curso genérico no cambia el trabajo si ejemplos, roles y reglas quedan lejos del contexto.",
+      "nextStep": "Elegir un curso o laboratorio si la necesidad principal es transferir método al equipo.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#training-output",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Qué queda después de un curso de IA para empresa?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Qué queda después de un curso de IA para empresa?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "training-who",
+      "locale": "es",
+      "language": "es",
+      "category": "training",
+      "categoryLabel": "Formación y cursos de IA",
+      "question": "¿Quién debería formarse primero?",
+      "shortAnswer": "Normalmente sponsor, responsables de área y personas que ya usan IA.",
+      "detailedAnswer": "La prioridad no es formar a todos de inmediato. Es crear un núcleo capaz de reconocer casos útiles, controlar resultados, explicar límites y transferir prácticas.",
+      "audience": "dirección y propietarios",
+      "searchIntent": "orientación inicial",
+      "searchQueries": [
+        "¿Quién debería formarse primero?",
+        "¿quién debería formarse primero",
+        "Formación y cursos de IA ¿quién debería formarse primero"
+      ],
+      "needSignals": [
+        "competencias de IA no alineadas entre roles",
+        "uso de IA informal y no gobernado"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "managing-ai",
+        "ai-adoption-manager"
+      ],
+      "relatedCourses": [
+        {
+          "id": "managing-ai",
+          "title": "Managing AI",
+          "url": "https://ar-tik.com/es/cursos/managing-ai.html"
+        },
+        {
+          "id": "ai-adoption-manager",
+          "title": "AI Adoption Manager / AI Champions",
+          "url": "https://ar-tik.com/es/cursos/ai-adoption-manager.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "training"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Un curso genérico no cambia el trabajo si ejemplos, roles y reglas quedan lejos del contexto.",
+      "nextStep": "Elegir un curso o laboratorio si la necesidad principal es transferir método al equipo.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#training-who",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Quién debería formarse primero?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Quién debería formarse primero?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "data-analysis-when",
+      "locale": "es",
+      "language": "es",
+      "category": "data_analysis",
+      "categoryLabel": "Análisis de datos agéntico",
+      "question": "¿Cuándo el análisis de datos agéntico es el primer paso correcto?",
+      "shortAnswer": "Es correcto cuando una decisión depende de señales ocultas en los datos.",
+      "detailedAnswer": "Si la empresa tiene históricos, pedidos, tickets, sensores o KPI pero no sabe qué prioridades emergen, el análisis valida señal, límites y acciones posibles antes de construir.",
+      "audience": "managers y responsables de área",
+      "searchIntent": "elección del recorrido",
+      "searchQueries": [
+        "¿Cuándo el análisis de datos agéntico es el primer paso correcto?",
+        "¿cuándo el análisis de datos agéntico es el primer paso correcto",
+        "Análisis de datos agéntico ¿cuándo el análisis de datos agéntico es el primer paso correcto"
+      ],
+      "needSignals": [
+        "datos disponibles aún no evaluados",
+        "decisiones recurrentes lentas"
+      ],
+      "relatedServiceIds": [
+        "agentic-data-analysis"
+      ],
+      "relatedServices": [
+        {
+          "id": "agentic-data-analysis",
+          "title": "Análisis de datos agéntico",
+          "url": "https://ar-tik.com/es/analisis-datos-agentico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-business-case-roi"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-business-case-roi",
+          "title": "AI Business Case & ROI Sprint",
+          "url": "https://ar-tik.com/es/cursos/ai-business-case-roi.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "data"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Si el dato no contiene señal, forzar un modelo crea costes y falsa confianza.",
+      "nextStep": "Valorar análisis de datos agéntico si hace falta validar la señal antes de construir.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#data-analysis-when",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Cuándo el análisis de datos agéntico es el primer paso correcto?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Cuándo el análisis de datos agéntico es el primer paso correcto?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "data-analysis-bi",
+      "locale": "es",
+      "language": "es",
+      "category": "data_analysis",
+      "categoryLabel": "Análisis de datos agéntico",
+      "question": "¿El análisis de datos agéntico sustituye a Business Intelligence?",
+      "shortAnswer": "No, la completa cuando los indicadores deben convertirse en decisiones.",
+      "detailedAnswer": "La BI controla métricas conocidas y tendencia pasada. El análisis agéntico busca señales, anomalías, prioridades o criterios de parada ligados a una acción concreta.",
+      "audience": "managers y responsables de área",
+      "searchIntent": "orientación inicial",
+      "searchQueries": [
+        "¿El análisis de datos agéntico sustituye a Business Intelligence?",
+        "¿el análisis de datos agéntico sustituye a business intelligence",
+        "Análisis de datos agéntico ¿el análisis de datos agéntico sustituye a business intelligence"
+      ],
+      "needSignals": [
+        "datos disponibles aún no evaluados"
+      ],
+      "relatedServiceIds": [
+        "agentic-data-analysis"
+      ],
+      "relatedServices": [
+        {
+          "id": "agentic-data-analysis",
+          "title": "Análisis de datos agéntico",
+          "url": "https://ar-tik.com/es/analisis-datos-agentico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-business-case-roi"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-business-case-roi",
+          "title": "AI Business Case & ROI Sprint",
+          "url": "https://ar-tik.com/es/cursos/ai-business-case-roi.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "data"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Si el dato no contiene señal, forzar un modelo crea costes y falsa confianza.",
+      "nextStep": "Valorar análisis de datos agéntico si hace falta validar la señal antes de construir.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#data-analysis-bi",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿El análisis de datos agéntico sustituye a Business Intelligence?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿El análisis de datos agéntico sustituye a Business Intelligence?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "data-analysis-negative",
+      "locale": "es",
+      "language": "es",
+      "category": "data_analysis",
+      "categoryLabel": "Análisis de datos agéntico",
+      "question": "¿Qué valor tiene un resultado negativo sobre los datos?",
+      "shortAnswer": "Tiene valor porque evita financiar un modelo frágil.",
+      "detailedAnswer": "Saber que la señal aún no existe permite cambiar la recolección de datos, revisar el proceso o mover presupuesto a casos más maduros. Es una decisión directiva útil.",
+      "audience": "dirección y propietarios",
+      "searchIntent": "gestión del riesgo",
+      "searchQueries": [
+        "¿Qué valor tiene un resultado negativo sobre los datos?",
+        "¿qué valor tiene un resultado negativo sobre los datos",
+        "Análisis de datos agéntico ¿qué valor tiene un resultado negativo sobre los datos"
+      ],
+      "needSignals": [
+        "datos disponibles aún no evaluados"
+      ],
+      "relatedServiceIds": [
+        "agentic-data-analysis"
+      ],
+      "relatedServices": [
+        {
+          "id": "agentic-data-analysis",
+          "title": "Análisis de datos agéntico",
+          "url": "https://ar-tik.com/es/analisis-datos-agentico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-business-case-roi"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-business-case-roi",
+          "title": "AI Business Case & ROI Sprint",
+          "url": "https://ar-tik.com/es/cursos/ai-business-case-roi.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "data"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Si el dato no contiene señal, forzar un modelo crea costes y falsa confianza.",
+      "nextStep": "Valorar análisis de datos agéntico si hace falta validar la señal antes de construir.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#data-analysis-negative",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Qué valor tiene un resultado negativo sobre los datos?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Qué valor tiene un resultado negativo sobre los datos?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "data-analysis-kpi",
+      "locale": "es",
+      "language": "es",
+      "category": "data_analysis",
+      "categoryLabel": "Análisis de datos agéntico",
+      "question": "¿Qué KPI hace falta antes de analizar datos?",
+      "shortAnswer": "Hace falta un KPI ligado a una decisión o acción, no solo a un gráfico.",
+      "detailedAnswer": "Ejemplos útiles: pedido a reclamar, lote a controlar, cliente a contactar, turno a reequilibrar. El KPI debe mostrar si el análisis cambia el trabajo.",
+      "audience": "managers y responsables de área",
+      "searchIntent": "evaluación operativa",
+      "searchQueries": [
+        "¿Qué KPI hace falta antes de analizar datos?",
+        "¿qué kpi hace falta antes de analizar datos",
+        "Análisis de datos agéntico ¿qué kpi hace falta antes de analizar datos"
+      ],
+      "needSignals": [
+        "decisiones recurrentes lentas",
+        "datos disponibles aún no evaluados"
+      ],
+      "relatedServiceIds": [
+        "agentic-data-analysis"
+      ],
+      "relatedServices": [
+        {
+          "id": "agentic-data-analysis",
+          "title": "Análisis de datos agéntico",
+          "url": "https://ar-tik.com/es/analisis-datos-agentico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-business-case-roi"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-business-case-roi",
+          "title": "AI Business Case & ROI Sprint",
+          "url": "https://ar-tik.com/es/cursos/ai-business-case-roi.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "data"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Si el dato no contiene señal, forzar un modelo crea costes y falsa confianza.",
+      "nextStep": "Valorar análisis de datos agéntico si hace falta validar la señal antes de construir.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#data-analysis-kpi",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Qué KPI hace falta antes de analizar datos?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Qué KPI hace falta antes de analizar datos?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "data-analysis-human",
+      "locale": "es",
+      "language": "es",
+      "category": "data_analysis",
+      "categoryLabel": "Análisis de datos agéntico",
+      "question": "¿Las decisiones basadas en datos siguen siendo humanas?",
+      "shortAnswer": "Sí, sobre todo cuando afectan a clientes, personas, calidad, seguridad o riesgo.",
+      "detailedAnswer": "El análisis puede ordenar prioridades, proponer señales y explicar límites. La decisión queda bajo responsabilidad empresarial, con revisión humana y criterios acordados antes del uso operativo.",
+      "audience": "managers y responsables de área",
+      "searchIntent": "gestión del riesgo",
+      "searchQueries": [
+        "¿Las decisiones basadas en datos siguen siendo humanas?",
+        "¿las decisiones basadas en datos siguen siendo humanas",
+        "Análisis de datos agéntico ¿las decisiones basadas en datos siguen siendo humanas"
+      ],
+      "needSignals": [
+        "datos personales o reservados implicados"
+      ],
+      "relatedServiceIds": [
+        "agentic-data-analysis"
+      ],
+      "relatedServices": [
+        {
+          "id": "agentic-data-analysis",
+          "title": "Análisis de datos agéntico",
+          "url": "https://ar-tik.com/es/analisis-datos-agentico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-output-quality"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-output-quality",
+          "title": "AI Output Quality & Human Review",
+          "url": "https://ar-tik.com/es/cursos/ai-output-quality.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "data"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Si el dato no contiene señal, forzar un modelo crea costes y falsa confianza.",
+      "nextStep": "Valorar análisis de datos agéntico si hace falta validar la señal antes de construir.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#data-analysis-human",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Las decisiones basadas en datos siguen siendo humanas?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Las decisiones basadas en datos siguen siendo humanas?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "software-when",
+      "locale": "es",
+      "language": "es",
+      "category": "software",
+      "categoryLabel": "Software técnico y automatizaciones",
+      "question": "¿Cuándo tiene sentido construir software técnico con IA?",
+      "shortAnswer": "Tiene sentido cuando hace falta un sistema verificable y las herramientas estándar no bastan.",
+      "detailedAnswer": "Si el proceso incluye cálculos, reglas expertas, datos heredados, integraciones o controles críticos, puede hacer falta desarrollo a medida. Antes van requisitos, pruebas y responsabilidades.",
+      "audience": "equipos técnicos y operaciones",
+      "searchIntent": "elección del recorrido",
+      "searchQueries": [
+        "¿Cuándo tiene sentido construir software técnico con IA?",
+        "¿cuándo tiene sentido construir software técnico con ia",
+        "Software técnico y automatizaciones ¿cuándo tiene sentido construir software técnico con ia"
+      ],
+      "needSignals": [
+        "software, hojas o sistemas frágiles",
+        "conocimiento crítico concentrado en pocas personas"
+      ],
+      "relatedServiceIds": [
+        "technical-software-development"
+      ],
+      "relatedServices": [
+        {
+          "id": "technical-software-development",
+          "title": "Software técnico de IA",
+          "url": "https://ar-tik.com/es/desarrollo-software-tecnico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-software-engineering"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-software-engineering",
+          "title": "AI Software Engineering",
+          "url": "https://ar-tik.com/es/cursos/ai-software-engineering.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "technical"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Automatizar un proceso mal entendido solo acelera errores y ambigüedades.",
+      "nextStep": "Pasar al desarrollo software solo cuando hacen falta sistema verificable, pruebas y mantenimiento.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#software-when",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Cuándo tiene sentido construir software técnico con IA?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Cuándo tiene sentido construir software técnico con IA?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "software-vs-automation",
+      "locale": "es",
+      "language": "es",
+      "category": "software",
+      "categoryLabel": "Software técnico y automatizaciones",
+      "question": "¿Cuál es la diferencia entre automatización simple y software técnico?",
+      "shortAnswer": "La automatización conecta pasos; el software técnico incorpora reglas, pruebas y mantenimiento.",
+      "detailedAnswer": "Si basta mover datos entre herramientas, la automatización puede ser ligera. Si importan cálculos, controles, versiones, auditoría y responsabilidad, hace falta un sistema robusto.",
+      "audience": "equipos técnicos y operaciones",
+      "searchIntent": "elección del recorrido",
+      "searchQueries": [
+        "¿Cuál es la diferencia entre automatización simple y software técnico?",
+        "¿cuál es la diferencia entre automatización simple y software técnico",
+        "Software técnico y automatizaciones ¿cuál es la diferencia entre automatización simple y software técnico"
+      ],
+      "needSignals": [
+        "trabajo manual repetitivo",
+        "software, hojas o sistemas frágiles"
+      ],
+      "relatedServiceIds": [
+        "technical-software-development"
+      ],
+      "relatedServices": [
+        {
+          "id": "technical-software-development",
+          "title": "Software técnico de IA",
+          "url": "https://ar-tik.com/es/desarrollo-software-tecnico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-operations"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-operations",
+          "title": "AI Operations",
+          "url": "https://ar-tik.com/es/cursos/ai-operations.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "operations",
+        "technical"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Automatizar un proceso mal entendido solo acelera errores y ambigüedades.",
+      "nextStep": "Pasar al desarrollo software solo cuando hacen falta sistema verificable, pruebas y mantenimiento.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#software-vs-automation",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Cuál es la diferencia entre automatización simple y software técnico?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Cuál es la diferencia entre automatización simple y software técnico?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "software-legacy",
+      "locale": "es",
+      "language": "es",
+      "category": "software",
+      "categoryLabel": "Software técnico y automatizaciones",
+      "question": "¿Se puede modernizar software heredado con IA?",
+      "shortAnswer": "Sí, pero primero hay que entender lógicas, datos, restricciones y riesgos del sistema existente.",
+      "detailedAnswer": "La IA puede ayudar a leer código, documentación o datos, pero la modernización exige auditoría, comparación de resultados, pruebas de regresión y migración progresiva.",
+      "audience": "equipos técnicos y operaciones",
+      "searchIntent": "evaluación operativa",
+      "searchQueries": [
+        "¿Se puede modernizar software heredado con IA?",
+        "¿se puede modernizar software heredado con ia",
+        "Software técnico y automatizaciones ¿se puede modernizar software heredado con ia"
+      ],
+      "needSignals": [
+        "software, hojas o sistemas frágiles",
+        "conocimiento crítico concentrado en pocas personas"
+      ],
+      "relatedServiceIds": [
+        "technical-software-development"
+      ],
+      "relatedServices": [
+        {
+          "id": "technical-software-development",
+          "title": "Software técnico de IA",
+          "url": "https://ar-tik.com/es/desarrollo-software-tecnico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-software-engineering"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-software-engineering",
+          "title": "AI Software Engineering",
+          "url": "https://ar-tik.com/es/cursos/ai-software-engineering.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "technical"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Automatizar un proceso mal entendido solo acelera errores y ambigüedades.",
+      "nextStep": "Pasar al desarrollo software solo cuando hacen falta sistema verificable, pruebas y mantenimiento.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#software-legacy",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Se puede modernizar software heredado con IA?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Se puede modernizar software heredado con IA?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "software-prototype-production",
+      "locale": "es",
+      "language": "es",
+      "category": "software",
+      "categoryLabel": "Software técnico y automatizaciones",
+      "question": "¿Qué diferencia hay entre prototipo controlado y sistema en producción?",
+      "shortAnswer": "El prototipo valida factibilidad; producción exige pruebas, seguridad, mantenimiento y responsabilidad.",
+      "detailedAnswer": "Un prototipo puede ser pequeño y aislado. Un sistema productivo debe gestionar usuarios reales, errores, datos, permisos, registros, documentación y criterios de aceptación.",
+      "audience": "equipos técnicos y operaciones",
+      "searchIntent": "evaluación operativa",
+      "searchQueries": [
+        "¿Qué diferencia hay entre prototipo controlado y sistema en producción?",
+        "¿qué diferencia hay entre prototipo controlado y sistema en producción",
+        "Software técnico y automatizaciones ¿qué diferencia hay entre prototipo controlado y sistema en producción"
+      ],
+      "needSignals": [
+        "software, hojas o sistemas frágiles"
+      ],
+      "relatedServiceIds": [
+        "technical-software-development"
+      ],
+      "relatedServices": [
+        {
+          "id": "technical-software-development",
+          "title": "Software técnico de IA",
+          "url": "https://ar-tik.com/es/desarrollo-software-tecnico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "secure-ai-sdlc"
+      ],
+      "relatedCourses": [
+        {
+          "id": "secure-ai-sdlc",
+          "title": "Secure AI SDLC",
+          "url": "https://ar-tik.com/es/cursos/secure-ai-sdlc.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "technical"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Automatizar un proceso mal entendido solo acelera errores y ambigüedades.",
+      "nextStep": "Pasar al desarrollo software solo cuando hacen falta sistema verificable, pruebas y mantenimiento.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#software-prototype-production",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Qué diferencia hay entre prototipo controlado y sistema en producción?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Qué diferencia hay entre prototipo controlado y sistema en producción?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "software-integration",
+      "locale": "es",
+      "language": "es",
+      "category": "software",
+      "categoryLabel": "Software técnico y automatizaciones",
+      "question": "¿El software de IA debe integrarse con los sistemas de la empresa?",
+      "shortAnswer": "Solo cuando el valor exige continuidad operativa, datos actualizados o uso repetido.",
+      "detailedAnswer": "No todo prototipo debe integrarse de inmediato. La integración es necesaria cuando el sistema entra en el trabajo diario y debe respetar permisos, datos, trazabilidad y mantenimiento.",
+      "audience": "equipos técnicos y operaciones",
+      "searchIntent": "evaluación operativa",
+      "searchQueries": [
+        "¿El software de IA debe integrarse con los sistemas de la empresa?",
+        "¿el software de ia debe integrarse con los sistemas de la empresa",
+        "Software técnico y automatizaciones ¿el software de ia debe integrarse con los sistemas de la empresa"
+      ],
+      "needSignals": [
+        "software, hojas o sistemas frágiles",
+        "trabajo manual repetitivo"
+      ],
+      "relatedServiceIds": [
+        "technical-software-development"
+      ],
+      "relatedServices": [
+        {
+          "id": "technical-software-development",
+          "title": "Software técnico de IA",
+          "url": "https://ar-tik.com/es/desarrollo-software-tecnico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "rag-engineering",
+        "secure-ai-sdlc"
+      ],
+      "relatedCourses": [
+        {
+          "id": "rag-engineering",
+          "title": "RAG Engineering para sistemas AI fiables",
+          "url": "https://ar-tik.com/es/cursos/rag-engineering.html"
+        },
+        {
+          "id": "secure-ai-sdlc",
+          "title": "Secure AI SDLC",
+          "url": "https://ar-tik.com/es/cursos/secure-ai-sdlc.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "technical"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Automatizar un proceso mal entendido solo acelera errores y ambigüedades.",
+      "nextStep": "Pasar al desarrollo software solo cuando hacen falta sistema verificable, pruebas y mantenimiento.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#software-integration",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿El software de IA debe integrarse con los sistemas de la empresa?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿El software de IA debe integrarse con los sistemas de la empresa?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "atlas-catalog",
+      "locale": "es",
+      "language": "es",
+      "category": "atlas",
+      "categoryLabel": "Atlas de aplicaciones IA",
+      "question": "¿El Atlas es un catálogo de productos listos?",
+      "shortAnswer": "No, es un mapa de patrones para reconocer oportunidades en procesos.",
+      "detailedAnswer": "Cada ficha ayuda a formular mejores preguntas sobre datos, resultados, valor y controles. La solución real nace solo después de revisar contexto, restricciones y prioridades.",
+      "audience": "managers y responsables de área",
+      "searchIntent": "orientación inicial",
+      "searchQueries": [
+        "¿El Atlas es un catálogo de productos listos?",
+        "¿el atlas es un catálogo de productos listos",
+        "Atlas de aplicaciones IA ¿el atlas es un catálogo de productos listos"
+      ],
+      "needSignals": [
+        "interés por la IA sin proyecto definido"
+      ],
+      "relatedServiceIds": [
+        "ai-applications-atlas"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-applications-atlas",
+          "title": "Atlas de aplicaciones IA",
+          "url": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "workflow-redesign"
+      ],
+      "relatedCourses": [
+        {
+          "id": "workflow-redesign",
+          "title": "AI Workflow Redesign Lab",
+          "url": "https://ar-tik.com/es/cursos/workflow-redesign.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "operations"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Un patrón público no debe tratarse como promesa estándar o solución lista.",
+      "nextStep": "Usar el Atlas para reconocer patrones similares antes de definir el proyecto.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#atlas-catalog",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿El Atlas es un catálogo de productos listos?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿El Atlas es un catálogo de productos listos?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "atlas-how-use",
+      "locale": "es",
+      "language": "es",
+      "category": "atlas",
+      "categoryLabel": "Atlas de aplicaciones IA",
+      "question": "¿Cómo usar el Atlas para saber si un caso tiene sentido?",
+      "shortAnswer": "Buscar un patrón similar y compararlo con datos, resultado y revisión humana.",
+      "detailedAnswer": "Si una ficha se parece al proceso de la empresa, el siguiente paso es verificar materiales disponibles, decisión a mejorar, riesgo y formato adecuado: curso, consultoría, análisis o software.",
+      "audience": "managers y responsables de área",
+      "searchIntent": "orientación inicial",
+      "searchQueries": [
+        "¿Cómo usar el Atlas para saber si un caso tiene sentido?",
+        "¿cómo usar el atlas para saber si un caso tiene sentido",
+        "Atlas de aplicaciones IA ¿cómo usar el atlas para saber si un caso tiene sentido"
+      ],
+      "needSignals": [
+        "interés por la IA sin proyecto definido",
+        "trabajo manual repetitivo"
+      ],
+      "relatedServiceIds": [
+        "ai-applications-atlas"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-applications-atlas",
+          "title": "Atlas de aplicaciones IA",
+          "url": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "workflow-redesign"
+      ],
+      "relatedCourses": [
+        {
+          "id": "workflow-redesign",
+          "title": "AI Workflow Redesign Lab",
+          "url": "https://ar-tik.com/es/cursos/workflow-redesign.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "documents",
+        "operations",
+        "data"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Un patrón público no debe tratarse como promesa estándar o solución lista.",
+      "nextStep": "Usar el Atlas para reconocer patrones similares antes de definir el proyecto.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#atlas-how-use",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Cómo usar el Atlas para saber si un caso tiene sentido?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Cómo usar el Atlas para saber si un caso tiene sentido?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "atlas-anonymized",
+      "locale": "es",
+      "language": "es",
+      "category": "atlas",
+      "categoryLabel": "Atlas de aplicaciones IA",
+      "question": "¿Los ejemplos del Atlas son casos de cliente reconocibles?",
+      "shortAnswer": "No, son patrones anonimizados y generalizados.",
+      "detailedAnswer": "No se publican nombres, personas físicas, proyectos internos, productos reconocibles ni combinaciones de detalle identificables. El objetivo es reconocer oportunidades, no exponer casos reservados.",
+      "audience": "dirección y propietarios",
+      "searchIntent": "gestión del riesgo",
+      "searchQueries": [
+        "¿Los ejemplos del Atlas son casos de cliente reconocibles?",
+        "¿los ejemplos del atlas son casos de cliente reconocibles",
+        "Atlas de aplicaciones IA ¿los ejemplos del atlas son casos de cliente reconocibles"
+      ],
+      "needSignals": [
+        "datos personales o reservados implicados"
+      ],
+      "relatedServiceIds": [
+        "ai-applications-atlas"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-applications-atlas",
+          "title": "Atlas de aplicaciones IA",
+          "url": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html"
+        }
+      ],
+      "relatedCourseIds": [],
+      "relatedCourses": [],
+      "relatedAtlasAreas": [
+        "governance"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Un patrón público no debe tratarse como promesa estándar o solución lista.",
+      "nextStep": "Usar el Atlas para reconocer patrones similares antes de definir el proyecto.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#atlas-anonymized",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Los ejemplos del Atlas son casos de cliente reconocibles?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Los ejemplos del Atlas son casos de cliente reconocibles?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "atlas-service-choice",
+      "locale": "es",
+      "language": "es",
+      "category": "atlas",
+      "categoryLabel": "Atlas de aplicaciones IA",
+      "question": "Después de encontrar una ficha del Atlas, ¿qué servicio elegir?",
+      "shortAnswer": "Depende del bloqueo principal: decisión, competencia, dato o sistema.",
+      "detailedAnswer": "Si falta decisión directiva, sirve consultoría; si faltan competencias, formación; si la duda está en los datos, análisis; si hace falta motor operativo, software técnico.",
+      "audience": "managers y responsables de área",
+      "searchIntent": "elección del recorrido",
+      "searchQueries": [
+        "Después de encontrar una ficha del Atlas, ¿qué servicio elegir?",
+        "después de encontrar una ficha del atlas, ¿qué servicio elegir",
+        "Atlas de aplicaciones IA después de encontrar una ficha del atlas, ¿qué servicio elegir"
+      ],
+      "needSignals": [
+        "interés por la IA sin proyecto definido"
+      ],
+      "relatedServiceIds": [
+        "ai-applications-atlas"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-applications-atlas",
+          "title": "Atlas de aplicaciones IA",
+          "url": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "workflow-redesign"
+      ],
+      "relatedCourses": [
+        {
+          "id": "workflow-redesign",
+          "title": "AI Workflow Redesign Lab",
+          "url": "https://ar-tik.com/es/cursos/workflow-redesign.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "operations"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Un patrón público no debe tratarse como promesa estándar o solución lista.",
+      "nextStep": "Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#atlas-service-choice",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#Después de encontrar una ficha del Atlas, ¿qué servicio elegir?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#Después de encontrar una ficha del Atlas, ¿qué servicio elegir?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "governance-human-review",
+      "locale": "es",
+      "language": "es",
+      "category": "governance",
+      "categoryLabel": "Gobernanza, riesgos y revisión humana",
+      "question": "¿Cuándo hace falta revisión humana de resultados de IA?",
+      "shortAnswer": "Siempre que el resultado afecte decisiones, clientes, datos sensibles o responsabilidad.",
+      "detailedAnswer": "La revisión no es una formalidad. Debe definir quién controla, con qué criterios, cuándo corregir, cuándo rechazar el resultado y cuándo no usar IA.",
+      "audience": "managers y responsables de área",
+      "searchIntent": "gestión del riesgo",
+      "searchQueries": [
+        "¿Cuándo hace falta revisión humana de resultados de IA?",
+        "¿cuándo hace falta revisión humana de resultados de ia",
+        "Gobernanza, riesgos y revisión humana ¿cuándo hace falta revisión humana de resultados de ia"
+      ],
+      "needSignals": [
+        "datos personales o reservados implicados",
+        "uso de IA informal y no gobernado"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-output-quality",
+        "ai-governance"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-output-quality",
+          "title": "AI Output Quality & Human Review",
+          "url": "https://ar-tik.com/es/cursos/ai-output-quality.html"
+        },
+        {
+          "id": "ai-governance",
+          "title": "Gobernanza operativa de AI",
+          "url": "https://ar-tik.com/es/cursos/ai-governance.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "governance"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Sin límites de revisión humana, privacidad y responsabilidad, el uso de IA sigue frágil.",
+      "nextStep": "Abrir un recorrido de consultoría para aclarar prioridades, gobernanza y roadmap.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#governance-human-review",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Cuándo hace falta revisión humana de resultados de IA?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Cuándo hace falta revisión humana de resultados de IA?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "governance-responsibility",
+      "locale": "es",
+      "language": "es",
+      "category": "governance",
+      "categoryLabel": "Gobernanza, riesgos y revisión humana",
+      "question": "¿Quién responde por una decisión asistida por IA?",
+      "shortAnswer": "La responsabilidad sigue en la organización y en las personas encargadas.",
+      "detailedAnswer": "La IA puede sugerir, ordenar prioridades o redactar borradores, pero no debe crear una zona sin responsabilidad. Hacen falta roles, escalado, trazabilidad y criterios de aceptación.",
+      "audience": "dirección y propietarios",
+      "searchIntent": "gestión del riesgo",
+      "searchQueries": [
+        "¿Quién responde por una decisión asistida por IA?",
+        "¿quién responde por una decisión asistida por ia",
+        "Gobernanza, riesgos y revisión humana ¿quién responde por una decisión asistida por ia"
+      ],
+      "needSignals": [
+        "datos personales o reservados implicados"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-governance"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-governance",
+          "title": "Gobernanza operativa de AI",
+          "url": "https://ar-tik.com/es/cursos/ai-governance.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "governance"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Sin límites de revisión humana, privacidad y responsabilidad, el uso de IA sigue frágil.",
+      "nextStep": "Abrir un recorrido de consultoría para aclarar prioridades, gobernanza y roadmap.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#governance-responsibility",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Quién responde por una decisión asistida por IA?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Quién responde por una decisión asistida por IA?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "governance-red-zone",
+      "locale": "es",
+      "language": "es",
+      "category": "governance",
+      "categoryLabel": "Gobernanza, riesgos y revisión humana",
+      "question": "¿Hay actividades que la IA no debería hacer?",
+      "shortAnswer": "Sí, algunas decisiones deben seguir humanas o exigir fuerte supervisión.",
+      "detailedAnswer": "Decisiones legales, RR. HH., seguridad, salud, crédito, calidad crítica o datos sensibles requieren clasificación cuidadosa. En algunos casos la IA prepara material, no decide.",
+      "audience": "managers y responsables de área",
+      "searchIntent": "gestión del riesgo",
+      "searchQueries": [
+        "¿Hay actividades que la IA no debería hacer?",
+        "¿hay actividades que la ia no debería hacer",
+        "Gobernanza, riesgos y revisión humana ¿hay actividades que la ia no debería hacer"
+      ],
+      "needSignals": [
+        "datos personales o reservados implicados"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "secure-ai-at-work"
+      ],
+      "relatedCourses": [
+        {
+          "id": "secure-ai-at-work",
+          "title": "Secure AI at Work",
+          "url": "https://ar-tik.com/es/cursos/secure-ai-at-work.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "governance"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Sin límites de revisión humana, privacidad y responsabilidad, el uso de IA sigue frágil.",
+      "nextStep": "Abrir un recorrido de consultoría para aclarar prioridades, gobernanza y roadmap.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#governance-red-zone",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Hay actividades que la IA no debería hacer?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Hay actividades que la IA no debería hacer?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "governance-quality",
+      "locale": "es",
+      "language": "es",
+      "category": "governance",
+      "categoryLabel": "Gobernanza, riesgos y revisión humana",
+      "question": "¿Cómo controlar la calidad de los resultados de IA?",
+      "shortAnswer": "Con criterios explícitos, ejemplos aprobados y casos en que rechazar el resultado.",
+      "detailedAnswer": "La calidad no se evalúa por impresión. Hay que definir fuente, tono, completitud, errores críticos, umbral de aceptación y revisión humana, sobre todo en documentos y comunicación externa.",
+      "audience": "managers y responsables de área",
+      "searchIntent": "gestión del riesgo",
+      "searchQueries": [
+        "¿Cómo controlar la calidad de los resultados de IA?",
+        "¿cómo controlar la calidad de los resultados de ia",
+        "Gobernanza, riesgos y revisión humana ¿cómo controlar la calidad de los resultados de ia"
+      ],
+      "needSignals": [
+        "trabajo manual repetitivo",
+        "datos personales o reservados implicados"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-output-quality"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-output-quality",
+          "title": "AI Output Quality & Human Review",
+          "url": "https://ar-tik.com/es/cursos/ai-output-quality.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "governance"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Sin límites de revisión humana, privacidad y responsabilidad, el uso de IA sigue frágil.",
+      "nextStep": "Abrir un recorrido de consultoría para aclarar prioridades, gobernanza y roadmap.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#governance-quality",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Cómo controlar la calidad de los resultados de IA?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Cómo controlar la calidad de los resultados de IA?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "adoption-resistance",
+      "locale": "es",
+      "language": "es",
+      "category": "adoption",
+      "categoryLabel": "Adopción interna y equipos",
+      "question": "¿Cómo gestionar resistencias del equipo hacia la IA?",
+      "shortAnswer": "Aclarando propósito, límites y beneficio práctico.",
+      "detailedAnswer": "Las personas colaboran mejor cuando entienden qué cambia, qué sigue humano y qué actividades se alivian. Formación y casos cercanos al trabajo real reducen miedo y confusión.",
+      "audience": "dirección y propietarios",
+      "searchIntent": "evaluación operativa",
+      "searchQueries": [
+        "¿Cómo gestionar resistencias del equipo hacia la IA?",
+        "¿cómo gestionar resistencias del equipo hacia la ia",
+        "Adopción interna y equipos ¿cómo gestionar resistencias del equipo hacia la ia"
+      ],
+      "needSignals": [
+        "competencias de IA no alineadas entre roles",
+        "uso de IA informal y no gobernado"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-adoption-manager"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-adoption-manager",
+          "title": "AI Adoption Manager / AI Champions",
+          "url": "https://ar-tik.com/es/cursos/ai-adoption-manager.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "training"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "La adopción falla si las personas no entienden propósito, límites y reglas de uso.",
+      "nextStep": "Elegir un curso o laboratorio si la necesidad principal es transferir método al equipo.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#adoption-resistance",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Cómo gestionar resistencias del equipo hacia la IA?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Cómo gestionar resistencias del equipo hacia la IA?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "adoption-champions",
+      "locale": "es",
+      "language": "es",
+      "category": "adoption",
+      "categoryLabel": "Adopción interna y equipos",
+      "question": "¿Hacen falta AI champions internos?",
+      "shortAnswer": "Ayudan cuando el uso debe pasar de experimentación individual a práctica compartida.",
+      "detailedAnswer": "Los AI champions recogen casos, difunden reglas, señalan riesgos y mantienen continuidad tras formación o consultoría. Necesitan mandato claro y tiempo dedicado.",
+      "audience": "managers y responsables de área",
+      "searchIntent": "evaluación operativa",
+      "searchQueries": [
+        "¿Hacen falta AI champions internos?",
+        "¿hacen falta ai champions internos",
+        "Adopción interna y equipos ¿hacen falta ai champions internos"
+      ],
+      "needSignals": [
+        "competencias de IA no alineadas entre roles"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-adoption-manager"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-adoption-manager",
+          "title": "AI Adoption Manager / AI Champions",
+          "url": "https://ar-tik.com/es/cursos/ai-adoption-manager.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "training"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "La adopción falla si las personas no entienden propósito, límites y reglas de uso.",
+      "nextStep": "Elegir un curso o laboratorio si la necesidad principal es transferir método al equipo.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#adoption-champions",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Hacen falta AI champions internos?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Hacen falta AI champions internos?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "adoption-measure",
+      "locale": "es",
+      "language": "es",
+      "category": "adoption",
+      "categoryLabel": "Adopción interna y equipos",
+      "question": "¿Cómo medir la adopción interna de IA?",
+      "shortAnswer": "Con procesos cambiados, resultados verificados y decisiones mejoradas, no solo accesos.",
+      "detailedAnswer": "Contar licencias o prompts no basta. Mejores indicadores son tiempo ahorrado, errores reducidos, casos gobernados, personas formadas, políticas aplicadas y decisiones más rápidas o fiables.",
+      "audience": "managers y responsables de área",
+      "searchIntent": "evaluación operativa",
+      "searchQueries": [
+        "¿Cómo medir la adopción interna de IA?",
+        "¿cómo medir la adopción interna de ia",
+        "Adopción interna y equipos ¿cómo medir la adopción interna de ia"
+      ],
+      "needSignals": [
+        "decisiones recurrentes lentas"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-business-case-roi"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-business-case-roi",
+          "title": "AI Business Case & ROI Sprint",
+          "url": "https://ar-tik.com/es/cursos/ai-business-case-roi.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "governance"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "La adopción falla si las personas no entienden propósito, límites y reglas de uso.",
+      "nextStep": "Abrir un recorrido de consultoría para aclarar prioridades, gobernanza y roadmap.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#adoption-measure",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Cómo medir la adopción interna de IA?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Cómo medir la adopción interna de IA?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "adoption-after-training",
+      "locale": "es",
+      "language": "es",
+      "category": "adoption",
+      "categoryLabel": "Adopción interna y equipos",
+      "question": "¿Cómo evitar que un curso quede aislado?",
+      "shortAnswer": "Conectarlo con casos reales, sponsor, política y próximas acciones.",
+      "detailedAnswer": "Después de la formación conviene recoger procesos candidatos, elegir dos o tres experimentos controlados y asignar responsabilidades. Así el curso se convierte en adopción.",
+      "audience": "managers y responsables de área",
+      "searchIntent": "evaluación operativa",
+      "searchQueries": [
+        "¿Cómo evitar que un curso quede aislado?",
+        "¿cómo evitar que un curso quede aislado",
+        "Adopción interna y equipos ¿cómo evitar que un curso quede aislado"
+      ],
+      "needSignals": [
+        "competencias de IA no alineadas entre roles"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-adoption-manager"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-adoption-manager",
+          "title": "AI Adoption Manager / AI Champions",
+          "url": "https://ar-tik.com/es/cursos/ai-adoption-manager.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "training"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "La adopción falla si las personas no entienden propósito, límites y reglas de uso.",
+      "nextStep": "Abrir un recorrido de consultoría para aclarar prioridades, gobernanza y roadmap.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#adoption-after-training",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Cómo evitar que un curso quede aislado?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Cómo evitar que un curso quede aislado?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "routing-consulting-course",
+      "locale": "es",
+      "language": "es",
+      "category": "routing",
+      "categoryLabel": "Elegir el recorrido adecuado",
+      "question": "¿Cuándo sirve consultoría y cuándo basta un curso?",
+      "shortAnswer": "Sirve consultoría para decidir estrategia; basta un curso para transferir método.",
+      "detailedAnswer": "Si el problema es elegir prioridades, gobernanza y roadmap, sirve consultoría. Si el perímetro está claro y la necesidad es que las personas trabajen mejor, puede bastar un curso.",
+      "audience": "dirección y propietarios",
+      "searchIntent": "elección del recorrido",
+      "searchQueries": [
+        "¿Cuándo sirve consultoría y cuándo basta un curso?",
+        "¿cuándo sirve consultoría y cuándo basta un curso",
+        "Elegir el recorrido adecuado ¿cuándo sirve consultoría y cuándo basta un curso"
+      ],
+      "needSignals": [
+        "interés por la IA sin proyecto definido",
+        "competencias de IA no alineadas entre roles"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-literacy"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-literacy",
+          "title": "Alfabetización AI por rol y uso responsable",
+          "url": "https://ar-tik.com/es/cursos/ai-literacy.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "training"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Elegir el formato equivocado aumenta costes, frustración y expectativas no gobernadas.",
+      "nextStep": "Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#routing-consulting-course",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Cuándo sirve consultoría y cuándo basta un curso?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Cuándo sirve consultoría y cuándo basta un curso?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "routing-data-software",
+      "locale": "es",
+      "language": "es",
+      "category": "routing",
+      "categoryLabel": "Elegir el recorrido adecuado",
+      "question": "¿Cuándo hacer análisis de datos y cuándo desarrollar software?",
+      "shortAnswer": "El análisis valida la señal; el software construye un sistema usable y mantenible.",
+      "detailedAnswer": "Si no está claro que los datos tengan valor, empezar por análisis. Si el valor ya está claro y hay que operarlo con pruebas, interfaces e integraciones, pasar a software.",
+      "audience": "managers y responsables de área",
+      "searchIntent": "elección del recorrido",
+      "searchQueries": [
+        "¿Cuándo hacer análisis de datos y cuándo desarrollar software?",
+        "¿cuándo hacer análisis de datos y cuándo desarrollar software",
+        "Elegir el recorrido adecuado ¿cuándo hacer análisis de datos y cuándo desarrollar software"
+      ],
+      "needSignals": [
+        "datos disponibles aún no evaluados",
+        "software, hojas o sistemas frágiles"
+      ],
+      "relatedServiceIds": [
+        "agentic-data-analysis",
+        "technical-software-development"
+      ],
+      "relatedServices": [
+        {
+          "id": "agentic-data-analysis",
+          "title": "Análisis de datos agéntico",
+          "url": "https://ar-tik.com/es/analisis-datos-agentico.html"
+        },
+        {
+          "id": "technical-software-development",
+          "title": "Software técnico de IA",
+          "url": "https://ar-tik.com/es/desarrollo-software-tecnico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-business-case-roi"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-business-case-roi",
+          "title": "AI Business Case & ROI Sprint",
+          "url": "https://ar-tik.com/es/cursos/ai-business-case-roi.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "data",
+        "technical"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Elegir el formato equivocado aumenta costes, frustración y expectativas no gobernadas.",
+      "nextStep": "Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#routing-data-software",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Cuándo hacer análisis de datos y cuándo desarrollar software?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Cuándo hacer análisis de datos y cuándo desarrollar software?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "routing-atlas",
+      "locale": "es",
+      "language": "es",
+      "category": "routing",
+      "categoryLabel": "Elegir el recorrido adecuado",
+      "question": "¿Cuándo usar la FAQ y cuándo el Atlas?",
+      "shortAnswer": "La FAQ responde dudas de elección; el Atlas muestra ejemplos de aplicaciones.",
+      "detailedAnswer": "Si la pregunta es qué camino elegir, la FAQ orienta. Si la pregunta es dónde podría ayudar la IA en el proceso, el Atlas ofrece patrones comparables.",
+      "audience": "managers y responsables de área",
+      "searchIntent": "orientación inicial",
+      "searchQueries": [
+        "¿Cuándo usar la FAQ y cuándo el Atlas?",
+        "¿cuándo usar la faq y cuándo el atlas",
+        "Elegir el recorrido adecuado ¿cuándo usar la faq y cuándo el atlas"
+      ],
+      "needSignals": [
+        "interés por la IA sin proyecto definido"
+      ],
+      "relatedServiceIds": [
+        "ai-applications-atlas"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-applications-atlas",
+          "title": "Atlas de aplicaciones IA",
+          "url": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html"
+        }
+      ],
+      "relatedCourseIds": [],
+      "relatedCourses": [],
+      "relatedAtlasAreas": [
+        "operations"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Elegir el formato equivocado aumenta costes, frustración y expectativas no gobernadas.",
+      "nextStep": "Usar el Atlas para reconocer patrones similares antes de definir el proyecto.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#routing-atlas",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Cuándo usar la FAQ y cuándo el Atlas?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Cuándo usar la FAQ y cuándo el Atlas?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "routing-no-clear-owner",
+      "locale": "es",
+      "language": "es",
+      "category": "routing",
+      "categoryLabel": "Elegir el recorrido adecuado",
+      "question": "¿Qué hacer si nadie posee realmente el proceso?",
+      "shortAnswer": "Antes de automatizar hay que asignar ownership y criterios de decisión.",
+      "detailedAnswer": "Un proceso sin responsable genera ambigüedad incluso con IA. La consultoría o un laboratorio de rediseño ayudan a aclarar roles, pasos, datos y prioridades.",
+      "audience": "dirección y propietarios",
+      "searchIntent": "elección del recorrido",
+      "searchQueries": [
+        "¿Qué hacer si nadie posee realmente el proceso?",
+        "¿qué hacer si nadie posee realmente el proceso",
+        "Elegir el recorrido adecuado ¿qué hacer si nadie posee realmente el proceso"
+      ],
+      "needSignals": [
+        "interés por la IA sin proyecto definido"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "workflow-redesign"
+      ],
+      "relatedCourses": [
+        {
+          "id": "workflow-redesign",
+          "title": "AI Workflow Redesign Lab",
+          "url": "https://ar-tik.com/es/cursos/workflow-redesign.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "governance"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Elegir el formato equivocado aumenta costes, frustración y expectativas no gobernadas.",
+      "nextStep": "Abrir un recorrido de consultoría para aclarar prioridades, gobernanza y roadmap.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#routing-no-clear-owner",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Qué hacer si nadie posee realmente el proceso?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Qué hacer si nadie posee realmente el proceso?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "limits-not-use",
+      "locale": "es",
+      "language": "es",
+      "category": "limits",
+      "categoryLabel": "Límites de la IA",
+      "question": "¿Cuándo no conviene usar IA?",
+      "shortAnswer": "Cuando faltan datos, responsabilidad, acción posible o tolerancia al error.",
+      "detailedAnswer": "Si el error no es aceptable, el proceso es demasiado ambiguo o nadie puede verificar el resultado, es mejor parar, rediseñar o usar herramientas más simples.",
+      "audience": "dirección y propietarios",
+      "searchIntent": "gestión del riesgo",
+      "searchQueries": [
+        "¿Cuándo no conviene usar IA?",
+        "¿cuándo no conviene usar ia",
+        "Límites de la IA ¿cuándo no conviene usar ia"
+      ],
+      "needSignals": [
+        "datos personales o reservados implicados",
+        "datos disponibles aún no evaluados"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-governance"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-governance",
+          "title": "Gobernanza operativa de AI",
+          "url": "https://ar-tik.com/es/cursos/ai-governance.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "governance"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "La IA no sustituye juicio, responsabilidad profesional ni datos inexistentes.",
+      "nextStep": "Parar o aplazar el caso si faltan sponsor, datos mínimos, responsabilidad o acción posible.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#limits-not-use",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Cuándo no conviene usar IA?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Cuándo no conviene usar IA?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "limits-hallucination",
+      "locale": "es",
+      "language": "es",
+      "category": "limits",
+      "categoryLabel": "Límites de la IA",
+      "question": "¿Cómo gestionar errores y alucinaciones de la IA?",
+      "shortAnswer": "Preverlos con fuentes, controles, ejemplos aprobados y revisión humana.",
+      "detailedAnswer": "La IA puede producir respuestas plausibles pero erróneas. Hacen falta límites de uso, fuentes citables, pruebas con casos reales y reglas para no usar resultados sin verificar.",
+      "audience": "managers y responsables de área",
+      "searchIntent": "gestión del riesgo",
+      "searchQueries": [
+        "¿Cómo gestionar errores y alucinaciones de la IA?",
+        "¿cómo gestionar errores y alucinaciones de la ia",
+        "Límites de la IA ¿cómo gestionar errores y alucinaciones de la ia"
+      ],
+      "needSignals": [
+        "datos personales o reservados implicados"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-output-quality"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-output-quality",
+          "title": "AI Output Quality & Human Review",
+          "url": "https://ar-tik.com/es/cursos/ai-output-quality.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "governance"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "La IA no sustituye juicio, responsabilidad profesional ni datos inexistentes.",
+      "nextStep": "Abrir un recorrido de consultoría para aclarar prioridades, gobernanza y roadmap.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#limits-hallucination",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Cómo gestionar errores y alucinaciones de la IA?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Cómo gestionar errores y alucinaciones de la IA?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "limits-total-automation",
+      "locale": "es",
+      "language": "es",
+      "category": "limits",
+      "categoryLabel": "Límites de la IA",
+      "question": "¿La IA puede automatizar completamente un proceso?",
+      "shortAnswer": "Solo raramente: la mayoría de casos necesitan supervisión o intervención humana.",
+      "detailedAnswer": "La automatización total es arriesgada si datos, excepciones, responsabilidad y calidad no son estables. A menudo el mejor valor es un copiloto controlado.",
+      "audience": "dirección y propietarios",
+      "searchIntent": "gestión del riesgo",
+      "searchQueries": [
+        "¿La IA puede automatizar completamente un proceso?",
+        "¿la ia puede automatizar completamente un proceso",
+        "Límites de la IA ¿la ia puede automatizar completamente un proceso"
+      ],
+      "needSignals": [
+        "uso de IA informal y no gobernado"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-governance"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-governance",
+          "title": "Gobernanza operativa de AI",
+          "url": "https://ar-tik.com/es/cursos/ai-governance.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "governance"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "La IA no sustituye juicio, responsabilidad profesional ni datos inexistentes.",
+      "nextStep": "Parar o aplazar el caso si faltan sponsor, datos mínimos, responsabilidad o acción posible.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#limits-total-automation",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿La IA puede automatizar completamente un proceso?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿La IA puede automatizar completamente un proceso?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "limits-regulated-advice",
+      "locale": "es",
+      "language": "es",
+      "category": "limits",
+      "categoryLabel": "Límites de la IA",
+      "question": "¿Las FAQ sustituyen asesoría legal, fiscal o especializada?",
+      "shortAnswer": "No, son orientación empresarial, no asesoría especializada regulada.",
+      "detailedAnswer": "Cuando el caso toca obligaciones legales, fiscales, médicas, financieras o de seguridad, hace falta revisión profesional competente. La IA puede preparar material, no sustituir responsabilidad especialista.",
+      "audience": "dirección y propietarios",
+      "searchIntent": "gestión del riesgo",
+      "searchQueries": [
+        "¿Las FAQ sustituyen asesoría legal, fiscal o especializada?",
+        "¿las faq sustituyen asesoría legal, fiscal o especializada",
+        "Límites de la IA ¿las faq sustituyen asesoría legal, fiscal o especializada"
+      ],
+      "needSignals": [
+        "datos personales o reservados implicados"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "secure-ai-at-work"
+      ],
+      "relatedCourses": [
+        {
+          "id": "secure-ai-at-work",
+          "title": "Secure AI at Work",
+          "url": "https://ar-tik.com/es/cursos/secure-ai-at-work.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "governance"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "La IA no sustituye juicio, responsabilidad profesional ni datos inexistentes.",
+      "nextStep": "Abrir un recorrido de consultoría para aclarar prioridades, gobernanza y roadmap.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#limits-regulated-advice",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Las FAQ sustituyen asesoría legal, fiscal o especializada?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Las FAQ sustituyen asesoría legal, fiscal o especializada?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "contact-write",
+      "locale": "es",
+      "language": "es",
+      "category": "contact",
+      "categoryLabel": "Antes de contactar con Artik Lab",
+      "question": "¿Cómo contactar con Artik Lab para hablar de un caso?",
+      "shortAnswer": "Basta escribir a dtr@ar-tik.com con proceso, objetivo y restricciones principales.",
+      "detailedAnswer": "El mensaje puede ser breve: área, problema, materiales disponibles, personas implicadas y urgencia. La primera respuesta aclara si tiene sentido una conversación de diagnóstico.",
+      "audience": "dirección y propietarios",
+      "searchIntent": "orientación inicial",
+      "searchQueries": [
+        "¿Cómo contactar con Artik Lab para hablar de un caso?",
+        "¿cómo contactar con artik lab para hablar de un caso",
+        "Antes de contactar con Artik Lab ¿cómo contactar con artik lab para hablar de un caso"
+      ],
+      "needSignals": [
+        "interés por la IA sin proyecto definido"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [],
+      "relatedCourses": [],
+      "relatedAtlasAreas": [
+        "operations"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Un primer intercambio sin contexto produce respuestas genéricas y menos útiles.",
+      "nextStep": "Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#contact-write",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Cómo contactar con Artik Lab para hablar de un caso?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Cómo contactar con Artik Lab para hablar de un caso?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "contact-before",
+      "locale": "es",
+      "language": "es",
+      "category": "contact",
+      "categoryLabel": "Antes de contactar con Artik Lab",
+      "question": "¿Hace falta tener ya un documento de proyecto?",
+      "shortAnswer": "No, basta una descripción honesta del problema y del contexto.",
+      "detailedAnswer": "Un documento estructurado ayuda, pero no es indispensable. Es más importante aclarar qué proceso genera coste, demora o riesgo y quién puede validar un resultado.",
+      "audience": "managers y responsables de área",
+      "searchIntent": "orientación inicial",
+      "searchQueries": [
+        "¿Hace falta tener ya un documento de proyecto?",
+        "¿hace falta tener ya un documento de proyecto",
+        "Antes de contactar con Artik Lab ¿hace falta tener ya un documento de proyecto"
+      ],
+      "needSignals": [
+        "interés por la IA sin proyecto definido"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "workflow-redesign"
+      ],
+      "relatedCourses": [
+        {
+          "id": "workflow-redesign",
+          "title": "AI Workflow Redesign Lab",
+          "url": "https://ar-tik.com/es/cursos/workflow-redesign.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "operations"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Un primer intercambio sin contexto produce respuestas genéricas y menos útiles.",
+      "nextStep": "Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#contact-before",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Hace falta tener ya un documento de proyecto?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Hace falta tener ya un documento de proyecto?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "contact-international",
+      "locale": "es",
+      "language": "es",
+      "category": "contact",
+      "categoryLabel": "Antes de contactar con Artik Lab",
+      "question": "¿La primera conversación puede ser en varios idiomas?",
+      "shortAnswer": "Sí, el sitio y los materiales públicos cubren italiano, inglés, español, francés y portugués de Brasil.",
+      "detailedAnswer": "El idioma operativo se acuerda según las personas implicadas. La coherencia entre versiones ayuda a equipos internacionales a leer el mismo posicionamiento.",
+      "audience": "dirección y propietarios",
+      "searchIntent": "orientación inicial",
+      "searchQueries": [
+        "¿La primera conversación puede ser en varios idiomas?",
+        "¿la primera conversación puede ser en varios idiomas",
+        "Antes de contactar con Artik Lab ¿la primera conversación puede ser en varios idiomas"
+      ],
+      "needSignals": [
+        "interés por la IA sin proyecto definido"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [],
+      "relatedCourses": [],
+      "relatedAtlasAreas": [
+        "governance"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Un primer intercambio sin contexto produce respuestas genéricas y menos útiles.",
+      "nextStep": "Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#contact-international",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿La primera conversación puede ser en varios idiomas?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿La primera conversación puede ser en varios idiomas?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "contact-not-ready",
+      "locale": "es",
+      "language": "es",
+      "category": "contact",
+      "categoryLabel": "Antes de contactar con Artik Lab",
+      "question": "¿Qué hacer si la empresa aún no está lista para contactar con Artik Lab?",
+      "shortAnswer": "Puede empezar por el Atlas, esta FAQ y el catálogo de cursos.",
+      "detailedAnswer": "Si la necesidad sigue confusa, conviene recoger ejemplos internos, anotar preguntas recurrentes e identificar un proceso con coste visible. Así la conversación posterior será más concreta.",
+      "audience": "dirección y propietarios",
+      "searchIntent": "orientación inicial",
+      "searchQueries": [
+        "¿Qué hacer si la empresa aún no está lista para contactar con Artik Lab?",
+        "¿qué hacer si la empresa aún no está lista para contactar con artik lab",
+        "Antes de contactar con Artik Lab ¿qué hacer si la empresa aún no está lista para contactar con artik lab"
+      ],
+      "needSignals": [
+        "interés por la IA sin proyecto definido"
+      ],
+      "relatedServiceIds": [
+        "ai-applications-atlas"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-applications-atlas",
+          "title": "Atlas de aplicaciones IA",
+          "url": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-literacy"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-literacy",
+          "title": "Alfabetización AI por rol y uso responsable",
+          "url": "https://ar-tik.com/es/cursos/ai-literacy.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "training"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Un primer intercambio sin contexto produce respuestas genéricas y menos útiles.",
+      "nextStep": "Usar el Atlas para reconocer patrones similares antes de definir el proyecto.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#contact-not-ready",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Qué hacer si la empresa aún no está lista para contactar con Artik Lab?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Qué hacer si la empresa aún no está lista para contactar con Artik Lab?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    }
+  ]
+}

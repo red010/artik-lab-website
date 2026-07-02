@@ -1,0 +1,139 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
+  "generatedAt": "2026-07-02",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "course": {
+    "id": "ai-output-quality",
+    "locale": "it",
+    "language": "it",
+    "family": "managerial",
+    "familyLabel": "Manageriale",
+    "featured": false,
+    "title": "AI Output Quality & Human Review",
+    "subtitle": "Definire criteri, metriche e processi di revisione per rendere gli output AI verificabili, affidabili e utilizzabili.",
+    "summary": "Corso per progettare review umana, rubriche di qualità e metriche operative sugli output AI.",
+    "duration": "4-6 ore, personalizzabili",
+    "mode": "Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.",
+    "profile": "all",
+    "profileDescription": "Per team aziendali, funzioni operative e manager; non richiede programmazione.",
+    "problem": "Un output AI può sembrare corretto anche quando è incompleto, fragile, non verificabile o inadatto al contesto. Senza criteri di qualità e review umana strutturata, il rischio viene scaricato sugli utenti finali. Il corso rende la revisione un processo, non un'impressione.",
+    "audience": "Team prodotto, data, software, QA, operations, compliance tecnica, knowledge management e responsabili di processi assistiti da AI.",
+    "whenToChoose": "Quando output AI supportano decisioni, documentazione, assistenza, analisi, reportistica, coding, knowledge base o workflow che richiedono controllo qualità.",
+    "chooseIf": "Quando output AI supportano decisioni, documentazione, assistenza, analisi, reportistica, coding, knowledge base o workflow che richiedono controllo qualità.",
+    "outcomes": [
+      "Costruire rubriche di valutazione.",
+      "Disegnare workflow di human review.",
+      "Definire metriche di qualità.",
+      "Stabilire escalation path.",
+      "Creare dataset di test e criteri di accettazione."
+    ],
+    "modules": [
+      {
+        "title": "Qualità output AI",
+        "description": "Accuratezza, completezza, pertinenza e verificabilità."
+      },
+      {
+        "title": "Evaluation design",
+        "description": "Rubriche, golden set, test avversariali e regressioni."
+      },
+      {
+        "title": "Human review",
+        "description": "Ruoli, soglie, campionamento, audit e feedback loop."
+      },
+      {
+        "title": "Miglioramento continuo",
+        "description": "Logging, metriche, retraining informativo e governance."
+      }
+    ],
+    "exercises": [
+      "Creazione rubrica qualità.",
+      "Revisione comparata di output.",
+      "Processo human-in-the-loop.",
+      "Analisi errori ricorrenti.",
+      "Metriche operative."
+    ],
+    "materials": [
+      "Rubrica valutazione.",
+      "Template review queue.",
+      "Schema metriche.",
+      "Checklist output quality.",
+      "Modello report qualità."
+    ],
+    "privacy": "Considera come valutare output senza esporre dati sensibili nei log o nelle revisioni, con indicazioni su anonimizzazione, minimizzazione e tracciabilità.",
+    "prerequisites": "Conoscenza del processo o dominio in cui gli output AI verranno usati. Non serve esperienza avanzata di machine learning.",
+    "faqs": [
+      {
+        "question": "Serve per sistemi in produzione?",
+        "answer": "Sì, ed è utile anche prima del go-live."
+      },
+      {
+        "question": "La review rallenta tutto?",
+        "answer": "Non se progettata con soglie e priorità basate sul rischio."
+      },
+      {
+        "question": "Si applica a output tecnici?",
+        "answer": "Sì, inclusi codice, documentazione, analisi dati e knowledge base."
+      },
+      {
+        "question": "Produce metriche?",
+        "answer": "Sì, operative e verificabili."
+      }
+    ],
+    "output": "Rubrica qualità, processo human review e metriche di accettazione output AI.",
+    "searchIntents": [
+      "corso AI aziendale su AI Output Quality & Human Review",
+      "formazione pratica per AI Output Quality & Human Review",
+      "training AI per manager e funzioni aziendali",
+      "percorso Artik Lab per Rubrica qualità, processo human review e metriche di accettazione output AI",
+      "come introdurre AI Output Quality & Human Review nei processi aziendali"
+    ],
+    "needSignals": [
+      "Il tema AI Output Quality & Human Review è già presente nelle conversazioni interne, ma manca un metodo condiviso per trasformarlo in pratica.",
+      "Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.",
+      "Il processo collegato a AI Output Quality & Human Review assorbe tempo, genera passaggi manuali o produce output difficili da verificare.",
+      "La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.",
+      "Serve un risultato concreto dopo la formazione: Rubrica qualità, processo human review e metriche di accettazione output AI."
+    ],
+    "extraExamples": [
+      {
+        "title": "Dal corso generico al processo reale",
+        "description": "Un'azienda chiede formazione su AI Output Quality & Human Review, ma il problema vero emerge durante la mappatura: attività ripetute, controlli informali e responsabilità distribuite. Il percorso usa esempi vicini al lavoro quotidiano e trasforma la formazione in un primo modello operativo, non in una lezione teorica."
+      },
+      {
+        "title": "Da sperimentazione individuale a pratica governata",
+        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Rubrica qualità, processo human review e metriche di accettazione output AI."
+      },
+      {
+        "title": "Da entusiasmo a decisione",
+        "description": "Il management vuole capire se AI Output Quality & Human Review merita budget e continuità. Durante il laboratorio si distinguono benefici immediati, rischi operativi e dipendenze dai dati. L'azienda esce con criteri per decidere il passo successivo invece di accumulare demo isolate."
+      }
+    ],
+    "selectionCriteria": [
+      "Scegliere questo corso se il bisogno principale riguarda AI Output Quality & Human Review e non una panoramica generica sull'AI.",
+      "Preferirlo quando esiste un processo, un documento, un flusso o una responsabilità aziendale su cui lavorare durante il training.",
+      "Rimandarlo se non esiste ancora sponsor interno o se il problema è solo acquistare una licenza software.",
+      "Abbinarlo ad AI Workflow Redesign Lab quando prima serve capire quali processi meritano priorità."
+    ],
+    "limits": [
+      "Non promette automazione completa o sostituzione delle responsabilità umane.",
+      "Non richiede di caricare dati riservati in ambienti non approvati.",
+      "Non è una consulenza legale, fiscale, HR o tecnica specialistica quando tali responsabilità restano a funzioni competenti.",
+      "Produce competenze, criteri e materiali riutilizzabili; l'adozione continua richiede sponsorship, governance e pratica interna."
+    ],
+    "relatedCourseIds": [
+      "workflow-redesign",
+      "ai-governance",
+      "ai-adoption-manager",
+      "ai-business-case-roi"
+    ],
+    "urls": {
+      "html": "https://ar-tik.com/corsi/ai-output-quality.html",
+      "markdown": "https://ar-tik.com/corsi/ai-output-quality.md",
+      "dossier": "https://ar-tik.com/corsi/ai-output-quality-dossier.md",
+      "json": "https://ar-tik.com/corsi/ai-output-quality.json",
+      "catalog": "https://ar-tik.com/corsi/",
+      "catalogMarkdown": "https://ar-tik.com/corsi/index.md"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
+  "generatedAt": "2026-07-02",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "course": {
+    "id": "managing-ai",
+    "locale": "it",
+    "language": "it",
+    "family": "managerial",
+    "familyLabel": "Manageriale",
+    "featured": false,
+    "title": "Managing AI",
+    "subtitle": "Competenze manageriali per comprendere, guidare e valutare l'adozione dell'AI generativa nelle organizzazioni.",
+    "summary": "Percorso per direzione e responsabili che devono distinguere valore reale, rischio e priorità prima di avviare iniziative AI.",
+    "duration": "4 ore, 2 lezioni da 2 ore",
+    "mode": "Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.",
+    "profile": "mixed",
+    "profileDescription": "Per manager e team non tecnici; non richiede programmazione.",
+    "problem": "L'AI viene spesso presentata come un software da comprare e installare. In azienda, invece, modifica processi, responsabilità, qualità delle decisioni e modo in cui le persone producono conoscenza. Il corso aiuta il management a leggere l'AI come leva organizzativa, evitando sia entusiasmo confuso sia blocco prudenziale.",
+    "audience": "Executive, imprenditori, manager, responsabili di business unit, HR, innovation, operations, marketing, sales, finance, legal e compliance.",
+    "whenToChoose": "Quando serve una base comune di comprensione manageriale prima di definire policy, progetti, investimenti o programmi di adozione più ampi.",
+    "chooseIf": "Quando serve una base comune di comprensione manageriale prima di definire policy, progetti, investimenti o programmi di adozione più ampi.",
+    "outcomes": [
+      "Comprendere possibilità e limiti dell'AI generativa.",
+      "Valutare casi d'uso e priorità.",
+      "Leggere rischi operativi, reputazionali, legali e organizzativi.",
+      "Definire criteri per decidere dove investire.",
+      "Creare linguaggio comune tra funzioni aziendali."
+    ],
+    "modules": [
+      {
+        "title": "AI generativa per il management",
+        "description": "Logiche, capacità, limiti e impatti sul lavoro."
+      },
+      {
+        "title": "Casi d'uso aziendali",
+        "description": "Produttività, conoscenza, decisioni, comunicazione e automazione cognitiva."
+      },
+      {
+        "title": "Rischio e qualità",
+        "description": "Errori plausibili, bias, riservatezza, controllo umano e accountability."
+      },
+      {
+        "title": "Dal caso d'uso alla strategia",
+        "description": "Priorità, governance, competenze, metriche e piano di adozione."
+      }
+    ],
+    "exercises": [
+      "Valutazione di casi d'uso.",
+      "Classificazione del rischio.",
+      "Costruzione di una matrice priorità/impatto.",
+      "Analisi di scenari decisionali e trade-off manageriali."
+    ],
+    "materials": [
+      "Glossario manageriale AI.",
+      "Matrice casi d'uso.",
+      "Checklist di valutazione.",
+      "Framework rischi/controlli.",
+      "Schema per piano di adozione."
+    ],
+    "privacy": "Il corso chiarisce la distinzione tra dati pubblici, interni, riservati e sensibili, e introduce criteri per evitare esposizione non controllata di contenuti aziendali.",
+    "prerequisites": "Nessuno. È pensato per creare una base manageriale condivisa.",
+    "faqs": [
+      {
+        "question": "È un corso tecnico?",
+        "answer": "No, è manageriale e decisionale."
+      },
+      {
+        "question": "Aiuta a scegliere progetti AI?",
+        "answer": "Sì, fornisce criteri concreti di valutazione."
+      },
+      {
+        "question": "È adatto al top management?",
+        "answer": "Sì, soprattutto quando serve allineamento strategico."
+      },
+      {
+        "question": "Include governance?",
+        "answer": "Sì, in forma operativa e introduttiva."
+      }
+    ],
+    "output": "Matrice casi d'uso e criteri manageriali per decidere priorità, rischi e prossimi passi.",
+    "searchIntents": [
+      "corso AI aziendale su Managing AI",
+      "formazione pratica per Managing AI",
+      "training AI per manager e funzioni aziendali",
+      "percorso Artik Lab per Matrice casi d'uso e criteri manageriali per decidere priorità, rischi e prossimi passi",
+      "come introdurre Managing AI nei processi aziendali"
+    ],
+    "needSignals": [
+      "Il tema Managing AI è già presente nelle conversazioni interne, ma manca un metodo condiviso per trasformarlo in pratica.",
+      "Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.",
+      "Il processo collegato a Managing AI assorbe tempo, genera passaggi manuali o produce output difficili da verificare.",
+      "La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.",
+      "Serve un risultato concreto dopo la formazione: Matrice casi d'uso e criteri manageriali per decidere priorità, rischi e prossimi passi."
+    ],
+    "extraExamples": [
+      {
+        "title": "Dal corso generico al processo reale",
+        "description": "Un'azienda chiede formazione su Managing AI, ma il problema vero emerge durante la mappatura: attività ripetute, controlli informali e responsabilità distribuite. Il percorso usa esempi vicini al lavoro quotidiano e trasforma la formazione in un primo modello operativo, non in una lezione teorica."
+      },
+      {
+        "title": "Da sperimentazione individuale a pratica governata",
+        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Matrice casi d'uso e criteri manageriali per decidere priorità, rischi e prossimi passi."
+      },
+      {
+        "title": "Da entusiasmo a decisione",
+        "description": "Il management vuole capire se Managing AI merita budget e continuità. Durante il laboratorio si distinguono benefici immediati, rischi operativi e dipendenze dai dati. L'azienda esce con criteri per decidere il passo successivo invece di accumulare demo isolate."
+      }
+    ],
+    "selectionCriteria": [
+      "Scegliere questo corso se il bisogno principale riguarda Managing AI e non una panoramica generica sull'AI.",
+      "Preferirlo quando esiste un processo, un documento, un flusso o una responsabilità aziendale su cui lavorare durante il training.",
+      "Rimandarlo se non esiste ancora sponsor interno o se il problema è solo acquistare una licenza software.",
+      "Abbinarlo ad AI Workflow Redesign Lab quando prima serve capire quali processi meritano priorità."
+    ],
+    "limits": [
+      "Non promette automazione completa o sostituzione delle responsabilità umane.",
+      "Non richiede di caricare dati riservati in ambienti non approvati.",
+      "Non è una consulenza legale, fiscale, HR o tecnica specialistica quando tali responsabilità restano a funzioni competenti.",
+      "Produce competenze, criteri e materiali riutilizzabili; l'adozione continua richiede sponsorship, governance e pratica interna."
+    ],
+    "relatedCourseIds": [
+      "workflow-redesign",
+      "ai-governance",
+      "ai-adoption-manager",
+      "ai-business-case-roi"
+    ],
+    "urls": {
+      "html": "https://ar-tik.com/corsi/managing-ai.html",
+      "markdown": "https://ar-tik.com/corsi/managing-ai.md",
+      "dossier": "https://ar-tik.com/corsi/managing-ai-dossier.md",
+      "json": "https://ar-tik.com/corsi/managing-ai.json",
+      "catalog": "https://ar-tik.com/corsi/",
+      "catalogMarkdown": "https://ar-tik.com/corsi/index.md"
+    }
+  }
+}

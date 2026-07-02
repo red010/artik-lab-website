@@ -1,0 +1,138 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
+  "generatedAt": "2026-07-02",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "course": {
+    "id": "ai-coding-agents",
+    "locale": "pt",
+    "language": "pt-BR",
+    "family": "technical",
+    "familyLabel": "Técnico",
+    "featured": false,
+    "title": "AI Coding Agents para equipes de software",
+    "subtitle": "Curso corporativo prático para aplicar IA a agentes de IA para coding, com exercícios sobre trabalho realista, materiais reutilizáveis e critérios claros de governança.",
+    "summary": "Curso corporativo prático para aplicar IA a agentes de IA para coding, com exercícios sobre trabalho realista, materiais reutilizáveis e critérios claros de governança.",
+    "duration": "4 horas, 2 sessões de 2 horas",
+    "mode": "Laboratório presencial ou online, com exercícios guiados e materiais adaptados ao cliente.",
+    "profile": "technical",
+    "profileDescription": "Para equipes técnicas com bases de programação e arquitetura de software.",
+    "problem": "Muitas empresas abordam agentes de IA para coding por experimentos dispersos: algumas instruções, alguns usuários entusiasmados e muitas dúvidas sobre dados, qualidade e responsabilidade. O curso transforma essa incerteza em método operacional. Os participantes trabalham em cenários realistas, aprendem onde a IA ajuda, onde a revisão humana continua essencial e como repetir a prática na empresa.",
+    "audience": "Para equipes técnicas com bases de programação e arquitetura de software.",
+    "whenToChoose": "Escolher este curso quando a empresa quer avançar de forma concreta em agentes de IA para coding e precisa de formação que produza fluxos de trabalho utilizáveis, não teoria abstrata.",
+    "chooseIf": "Quando a empresa quer avançar de forma concreta em agentes de IA para coding e precisa de formação que produza fluxos de trabalho utilizáveis, não teoria abstrata.",
+    "outcomes": [
+      "Mapear o trabalho e as decisões onde a IA pode reduzir atrito.",
+      "Construir instruções, checklists e critérios de revisão.",
+      "Identificar limites de dados, privacidade e responsabilidade.",
+      "Criar exemplos reutilizáveis para a equipe.",
+      "Definir próximos passos de adoção e governança."
+    ],
+    "modules": [
+      {
+        "title": "Arquitetura e requisitos",
+        "description": "Objetivos, limites, dados, serviços e hipóteses de risco."
+      },
+      {
+        "title": "Construção e integração",
+        "description": "Fluxos técnicos, interfaces, contexto, permissões e testes."
+      },
+      {
+        "title": "Avaliação e qualidade",
+        "description": "Métricas, revisão, testes de regressão e modos de falha."
+      },
+      {
+        "title": "Produção e governança",
+        "description": "Monitoramento, segurança, auditoria, custos e manutenção."
+      }
+    ],
+    "exercises": [
+      "Mapear um processo realista ligado a agentes de IA para coding.",
+      "Criar resultados assistidos por IA e revisá-los criticamente.",
+      "Definir pontos de escalonamento e revisão humana.",
+      "Construir uma checklist reutilizável para o trabalho diário."
+    ],
+    "materials": [
+      "Canvas operacional para agentes de IA para coding.",
+      "Modelos de instruções.",
+      "Checklist de qualidade e privacidade.",
+      "Matriz risco/controle.",
+      "Notas de adoção para a equipe."
+    ],
+    "privacy": "O curso usa materiais sintéticos, públicos, anonimizados ou aprovados pelo cliente. Explica como minimizar exposição de dados, proteger informação confidencial, verificar resultados e manter explícita a responsabilidade humana.",
+    "prerequisites": "Recomenda-se familiaridade técnica básica com software, dados ou arquitetura de sistemas.",
+    "faqs": [
+      {
+        "question": "O curso depende de uma ferramenta?",
+        "answer": "Não. Os padrões são adaptados às ferramentas e políticas escolhidas com o cliente."
+      },
+      {
+        "question": "Dados da empresa podem ser usados?",
+        "answer": "Só quando contas, contratos e políticas internas permitem; caso contrário usam-se dados sintéticos ou anonimizados."
+      },
+      {
+        "question": "O que fica depois do curso?",
+        "answer": "Materiais reutilizáveis, exemplos, checklists e próximos passos claros."
+      },
+      {
+        "question": "É teórico?",
+        "answer": "Não. O curso é construído sobre exercícios práticos e decisões próximas do trabalho real."
+      }
+    ],
+    "output": "Canvas operacional para agentes de IA para coding.",
+    "searchIntents": [
+      "curso AI corporativo sobre agentes de IA para coding",
+      "formação prática para AI Coding Agents para equipes de software",
+      "training AI para equipes técnicas",
+      "trilha Artik Lab para Canvas operacional para agentes de IA para coding",
+      "como introduzir agentes de IA para coding nos processos da empresa"
+    ],
+    "needSignals": [
+      "agentes de IA para coding já aparece nas conversas internas, mas falta um método compartilhado para transformar isso em prática.",
+      "As pessoas experimentam ferramentas AI de modo autônomo e a empresa ainda não vê critérios, controles e resultados comparáveis.",
+      "O processo ligado a agentes de IA para coding consome tempo, cria passagens manuais ou produz outputs difíceis de verificar.",
+      "A direção precisa decidir se investe, forma ou interrompe antes de introduzir automações frágeis.",
+      "A empresa precisa de um resultado concreto: Canvas operacional para agentes de IA para coding."
+    ],
+    "extraExamples": [
+      {
+        "title": "Do curso genérico ao processo real",
+        "description": "Uma empresa pede formação sobre agentes de IA para coding, mas o problema real aparece no mapeamento: tarefas repetidas, controles informais e responsabilidades distribuídas. A trilha usa exemplos próximos do trabalho diário e transforma a formação em primeiro modelo operacional."
+      },
+      {
+        "title": "Da experimentação individual à prática governada",
+        "description": "Algumas pessoas já encontraram atalhos com AI e outras estão bloqueadas. O curso cria uma base comum: o que pode ser feito, o que deve ser revisado, quais dados não devem ser expostos e quando escalar. O resultado é Canvas operacional para agentes de IA para coding."
+      },
+      {
+        "title": "Do entusiasmo à decisão",
+        "description": "A direção precisa entender se agentes de IA para coding merece orçamento e continuidade. O laboratório separa benefícios imediatos, riscos operacionais e dependências de dados. A empresa sai com critérios para decidir o próximo passo."
+      }
+    ],
+    "selectionCriteria": [
+      "Escolher este curso se a necessidade principal envolve agentes de IA para coding, não uma visão genérica sobre AI.",
+      "Preferi-lo quando existe um processo, documento, workflow ou responsabilidade empresarial para trabalhar durante a formação.",
+      "Adiar se ainda não há sponsor interno ou se o problema é apenas comprar uma licença de software.",
+      "Combinar com AI Workflow Redesign Lab quando primeiro é preciso entender quais processos priorizar."
+    ],
+    "limits": [
+      "Não promete automação completa nem substituição das responsabilidades humanas.",
+      "Não exige carregar dados confidenciais em ambientes não aprovados.",
+      "Não é consultoria jurídica, fiscal, HR ou técnica especializada quando essas responsabilidades cabem às funções competentes.",
+      "Produz competências, critérios e materiais reutilizáveis; a adoção contínua requer sponsorship, governança e prática interna."
+    ],
+    "relatedCourseIds": [
+      "workflow-redesign",
+      "secure-ai-sdlc",
+      "rag-engineering",
+      "ai-output-quality"
+    ],
+    "urls": {
+      "html": "https://ar-tik.com/pt-br/cursos/ai-coding-agents.html",
+      "markdown": "https://ar-tik.com/pt-br/cursos/ai-coding-agents.md",
+      "dossier": "https://ar-tik.com/pt-br/cursos/ai-coding-agents-dossier.md",
+      "json": "https://ar-tik.com/pt-br/cursos/ai-coding-agents.json",
+      "catalog": "https://ar-tik.com/pt-br/cursos/",
+      "catalogMarkdown": "https://ar-tik.com/pt-br/cursos/index.md"
+    }
+  }
+}

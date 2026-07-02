@@ -1,0 +1,99 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/services-catalog.schema.json",
+  "generatedAt": "2026-07-02",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "locale": "en",
+  "language": "en",
+  "services": [
+    {
+      "id": "home",
+      "type": "organization",
+      "locale": "en",
+      "language": "en",
+      "title": "Artik Lab",
+      "description": "Artik Lab helps SMEs and business functions choose, govern and deliver the first useful use of AI: process mapping, business cases, team training, data analysis and controlled prototypes.",
+      "urls": {
+        "html": "https://ar-tik.com/en/",
+        "markdown": "https://ar-tik.com/en/index.md"
+      }
+    },
+    {
+      "id": "ai-management-consulting",
+      "type": "service",
+      "locale": "en",
+      "language": "en",
+      "title": "AI management consulting",
+      "description": "AI is not software to install: it is a management capability to build. Artik Lab helps leadership decide where to use it, where to stop, which processes to redesign and which skills must remain inside the company.",
+      "urls": {
+        "html": "https://ar-tik.com/en/ai-management-consulting.html",
+        "markdown": "https://ar-tik.com/en/ai-management-consulting.md"
+      }
+    },
+    {
+      "id": "agentic-data-analysis",
+      "type": "service",
+      "locale": "en",
+      "language": "en",
+      "title": "Agentic data analysis",
+      "description": "Agentic data analysis does not produce charts to archive: it finds signals in already available data, connects them to a decision and states where the model is not worth building.",
+      "urls": {
+        "html": "https://ar-tik.com/en/agentic-data-analysis.html",
+        "markdown": "https://ar-tik.com/en/agentic-data-analysis.md"
+      }
+    },
+    {
+      "id": "ai-applications-atlas",
+      "type": "guide",
+      "locale": "en",
+      "language": "en",
+      "title": "AI applications atlas",
+      "description": "A public map of concrete examples to recognise where artificial intelligence can reduce time, errors, risk or decision delays in company workflows.",
+      "urls": {
+        "html": "https://ar-tik.com/en/ai-applications-atlas.html",
+        "markdown": "https://ar-tik.com/en/ai-applications-atlas.md",
+        "dossier": "https://ar-tik.com/en/ai-applications-atlas-dossier.md"
+      }
+    },
+    {
+      "id": "business-ai-faq",
+      "type": "guide",
+      "locale": "en",
+      "language": "en",
+      "title": "Corporate AI FAQ",
+      "description": "A public question set for owners, leaders and business functions choosing between consulting, courses, data analysis, technical software and the AI applications Atlas.",
+      "urls": {
+        "html": "https://ar-tik.com/en/ai-business-faq.html",
+        "markdown": "https://ar-tik.com/en/ai-business-faq.md",
+        "dossier": "https://ar-tik.com/en/ai-business-faq-dossier.md"
+      }
+    },
+    {
+      "id": "technical-software-development",
+      "type": "service",
+      "locale": "en",
+      "language": "en",
+      "title": "Technical AI software",
+      "description": "Artik Lab develops advanced software for clients when the problem cannot be solved by a dashboard or a standard business application: technical calculations, mathematical models, operational data, expert rules and workflows that need to become verifiable.",
+      "urls": {
+        "html": "https://ar-tik.com/en/technical-software-development.html",
+        "markdown": "https://ar-tik.com/en/technical-software-development.md",
+        "dossier": "https://ar-tik.com/en/technical-software-development-dossier.md"
+      }
+    },
+    {
+      "id": "courses",
+      "type": "training-catalog",
+      "locale": "en",
+      "language": "en",
+      "title": "Corporate AI courses: choose the right path",
+      "description": "Corporate AI course catalog: introductory, managerial, operational and technical paths designed with DTR around roles, workflows and expected outcomes.",
+      "urls": {
+        "html": "https://ar-tik.com/en/courses/",
+        "markdown": "https://ar-tik.com/en/courses/index.md",
+        "dossier": "https://ar-tik.com/en/courses/index-dossier.md",
+        "json": "https://ar-tik.com/data/courses.en.json"
+      }
+    }
+  ]
+}

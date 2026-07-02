@@ -1,0 +1,138 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
+  "generatedAt": "2026-07-02",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "course": {
+    "id": "secure-ai-sdlc",
+    "locale": "it",
+    "language": "it",
+    "family": "technical",
+    "familyLabel": "Tecnico",
+    "featured": false,
+    "title": "Secure AI SDLC",
+    "subtitle": "Integrare sicurezza, privacy e controlli tecnici nel ciclo di sviluppo software per applicazioni basate su AI.",
+    "summary": "Corso tecnico per inserire controlli AI-specifici in design, build, test, release e operation.",
+    "duration": "4-6 ore, personalizzabili",
+    "mode": "Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.",
+    "profile": "technical",
+    "profileDescription": "Per team tecnici con basi di programmazione e architetture software.",
+    "problem": "Le applicazioni AI introducono superfici di rischio nuove: prompt injection, data leakage, abuso del contesto, output non affidabili, dipendenze non governate, log sensibili e automazioni troppo permissive. Il corso struttura un SDLC sicuro per sistemi AI.",
+    "audience": "Security engineer, AppSec, DevSecOps, software team, architect, risk manager tecnici, responsabili IT e compliance tecnica.",
+    "whenToChoose": "Quando un'organizzazione sta sviluppando applicazioni AI e vuole evitare che sicurezza e governance arrivino solo alla fine.",
+    "chooseIf": "Quando un'organizzazione sta sviluppando applicazioni AI e vuole evitare che sicurezza e governance arrivino solo alla fine.",
+    "outcomes": [
+      "Definire controlli SDLC AI-specifici.",
+      "Costruire threat model.",
+      "Scrivere secure design checklist.",
+      "Impostare policy su dati e istruzioni.",
+      "Stabilire test di sicurezza e criteri di rilascio."
+    ],
+    "modules": [
+      {
+        "title": "Rischi AI nel software",
+        "description": "Minacce, abuso, confini e responsabilità."
+      },
+      {
+        "title": "Secure design",
+        "description": "Data flow, trust boundaries, autorizzazioni e isolamento."
+      },
+      {
+        "title": "Secure build & test",
+        "description": "Injection, output validation, test avversariali e dipendenze."
+      },
+      {
+        "title": "Secure release & operate",
+        "description": "Logging, audit, incident response e change management."
+      }
+    ],
+    "exercises": [
+      "Threat modeling di feature AI.",
+      "Analisi data flow.",
+      "Definizione controlli.",
+      "Test di prompt injection.",
+      "Review policy logging e accesso dati."
+    ],
+    "materials": [
+      "AI threat model template.",
+      "Secure AI SDLC checklist.",
+      "Test plan sicurezza.",
+      "Registro rischi.",
+      "Criteri go/no-go."
+    ],
+    "privacy": "Adotta dati sintetici o casi approvati e tratta minimizzazione, segregazione, segreti, permessi, audit trail e riduzione esposizione nei log.",
+    "prerequisites": "Conoscenza base di SDLC, sicurezza applicativa, API e architetture software.",
+    "faqs": [
+      {
+        "question": "È un corso compliance?",
+        "answer": "È principalmente tecnico, ma produce evidenze utili per governance e audit."
+      },
+      {
+        "question": "Copre solo prompt injection?",
+        "answer": "No, include architettura, dati, permessi, log e test."
+      },
+      {
+        "question": "È utile prima dello sviluppo?",
+        "answer": "Sì, il massimo valore arriva in fase di design."
+      },
+      {
+        "question": "Dipende da uno stack?",
+        "answer": "No, i controlli si adattano allo stack."
+      }
+    ],
+    "output": "Threat model AI e checklist Secure AI SDLC.",
+    "searchIntents": [
+      "corso AI aziendale su Secure AI SDLC",
+      "formazione pratica per Secure AI SDLC",
+      "training AI per team tecnici",
+      "percorso Artik Lab per Threat model AI e checklist Secure AI SDLC",
+      "come introdurre Secure AI SDLC nei processi aziendali"
+    ],
+    "needSignals": [
+      "Il tema Secure AI SDLC è già presente nelle conversazioni interne, ma manca un metodo condiviso per trasformarlo in pratica.",
+      "Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.",
+      "Il processo collegato a Secure AI SDLC assorbe tempo, genera passaggi manuali o produce output difficili da verificare.",
+      "La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.",
+      "Serve un risultato concreto dopo la formazione: Threat model AI e checklist Secure AI SDLC."
+    ],
+    "extraExamples": [
+      {
+        "title": "Dal corso generico al processo reale",
+        "description": "Un'azienda chiede formazione su Secure AI SDLC, ma il problema vero emerge durante la mappatura: attività ripetute, controlli informali e responsabilità distribuite. Il percorso usa esempi vicini al lavoro quotidiano e trasforma la formazione in un primo modello operativo, non in una lezione teorica."
+      },
+      {
+        "title": "Da sperimentazione individuale a pratica governata",
+        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Threat model AI e checklist Secure AI SDLC."
+      },
+      {
+        "title": "Da entusiasmo a decisione",
+        "description": "Il management vuole capire se Secure AI SDLC merita budget e continuità. Durante il laboratorio si distinguono benefici immediati, rischi operativi e dipendenze dai dati. L'azienda esce con criteri per decidere il passo successivo invece di accumulare demo isolate."
+      }
+    ],
+    "selectionCriteria": [
+      "Scegliere questo corso se il bisogno principale riguarda Secure AI SDLC e non una panoramica generica sull'AI.",
+      "Preferirlo quando esiste un processo, un documento, un flusso o una responsabilità aziendale su cui lavorare durante il training.",
+      "Rimandarlo se non esiste ancora sponsor interno o se il problema è solo acquistare una licenza software.",
+      "Abbinarlo ad AI Workflow Redesign Lab quando prima serve capire quali processi meritano priorità."
+    ],
+    "limits": [
+      "Non promette automazione completa o sostituzione delle responsabilità umane.",
+      "Non richiede di caricare dati riservati in ambienti non approvati.",
+      "Non è una consulenza legale, fiscale, HR o tecnica specialistica quando tali responsabilità restano a funzioni competenti.",
+      "Produce competenze, criteri e materiali riutilizzabili; l'adozione continua richiede sponsorship, governance e pratica interna."
+    ],
+    "relatedCourseIds": [
+      "workflow-redesign",
+      "rag-engineering",
+      "ai-output-quality"
+    ],
+    "urls": {
+      "html": "https://ar-tik.com/corsi/secure-ai-sdlc.html",
+      "markdown": "https://ar-tik.com/corsi/secure-ai-sdlc.md",
+      "dossier": "https://ar-tik.com/corsi/secure-ai-sdlc-dossier.md",
+      "json": "https://ar-tik.com/corsi/secure-ai-sdlc.json",
+      "catalog": "https://ar-tik.com/corsi/",
+      "catalogMarkdown": "https://ar-tik.com/corsi/index.md"
+    }
+  }
+}

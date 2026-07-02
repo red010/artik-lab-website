@@ -1,0 +1,137 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
+  "generatedAt": "2026-07-02",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "course": {
+    "id": "ai-procurement",
+    "locale": "it",
+    "language": "it",
+    "family": "operational",
+    "familyLabel": "Operativo",
+    "featured": false,
+    "title": "AI per procurement e supplier intelligence",
+    "subtitle": "Applicare l'AI a vendor scouting, analisi fornitori, comparazione offerte, sintesi contrattuali e rischi di fornitura.",
+    "summary": "Corso per rendere più strutturati scouting, comparazione e documentazione acquisti mantenendo criteri decisionali trasparenti.",
+    "duration": "4-6 ore, personalizzabili",
+    "mode": "Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.",
+    "profile": "mixed",
+    "profileDescription": "Per manager e team non tecnici; non richiede programmazione.",
+    "problem": "Il procurement gestisce offerte, schede fornitore, capitolati, contratti, condizioni commerciali, dati qualitativi e rischi. Le informazioni sono spesso frammentate e difficili da confrontare. Il corso mostra come usare l'AI per creare profili, griglie e domande migliori, senza delegare la scelta al sistema.",
+    "audience": "Procurement, uffici acquisti, supply chain, vendor management, category manager, operations e funzioni che valutano fornitori o richieste di offerta.",
+    "whenToChoose": "Quando l'azienda vuole rendere più strutturati scouting, comparazione, documentazione e analisi preliminare dei fornitori.",
+    "chooseIf": "Quando l'azienda vuole rendere più strutturati scouting, comparazione, documentazione e analisi preliminare dei fornitori.",
+    "outcomes": [
+      "Creare schede fornitore standardizzate.",
+      "Confrontare offerte e condizioni.",
+      "Sintetizzare documentazione commerciale e tecnica.",
+      "Preparare domande per chiarimenti e negoziazioni.",
+      "Impostare criteri di valutazione verificabili."
+    ],
+    "modules": [
+      {
+        "title": "AI nei processi procurement",
+        "description": "Scouting, richiesta offerta, vendor qualification, rischi e reportistica."
+      },
+      {
+        "title": "Supplier intelligence",
+        "description": "Profili fornitore, classificazione, certificazioni e rischi."
+      },
+      {
+        "title": "Comparazione offerte",
+        "description": "Preventivi, capitolati, condizioni, SLA, vincoli e punti da chiarire."
+      },
+      {
+        "title": "Governance e decisioni",
+        "description": "Griglie di valutazione, scoring, fonti, bias e revisione umana."
+      }
+    ],
+    "exercises": [
+      "Creazione di una scheda fornitore.",
+      "Confronto tra offerte.",
+      "Domande di chiarimento per vendor.",
+      "Matrice rischio/impatto."
+    ],
+    "materials": [
+      "Template scheda fornitore.",
+      "Griglia comparativa offerte.",
+      "Prompt per capitolati e preventivi.",
+      "Checklist supplier risk."
+    ],
+    "privacy": "Si usano dati fittizi o anonimizzati e regole per evitare inserimento di listini riservati, contratti, dati commerciali sensibili o informazioni non autorizzate.",
+    "prerequisites": "Conoscenza base dei processi di acquisto o gestione fornitori. Non sono richieste competenze tecniche.",
+    "faqs": [
+      {
+        "question": "L'AI sceglie il fornitore migliore?",
+        "answer": "No, aiuta a strutturare dati e confronti; la decisione resta aziendale."
+      },
+      {
+        "question": "Analizza offerte in formati diversi?",
+        "answer": "Sì, con risultati migliori se le informazioni sono normalizzate."
+      },
+      {
+        "question": "È utile per piccoli uffici acquisti?",
+        "answer": "Sì, riduce lavoro ripetitivo e chiarisce criteri."
+      },
+      {
+        "question": "Come evitare confronti distorti?",
+        "answer": "Con criteri espliciti, fonti tracciate e revisione umana."
+      }
+    ],
+    "output": "Griglia di supplier intelligence e workflow di comparazione offerte.",
+    "searchIntents": [
+      "corso AI aziendale su AI per procurement e supplier intelligence",
+      "formazione pratica per AI per procurement e supplier intelligence",
+      "training AI per funzioni operative",
+      "percorso Artik Lab per Griglia di supplier intelligence e workflow di comparazione offerte",
+      "come introdurre AI per procurement e supplier intelligence nei processi aziendali"
+    ],
+    "needSignals": [
+      "Il tema AI per procurement e supplier intelligence è già presente nelle conversazioni interne, ma manca un metodo condiviso per trasformarlo in pratica.",
+      "Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.",
+      "Il processo collegato a AI per procurement e supplier intelligence assorbe tempo, genera passaggi manuali o produce output difficili da verificare.",
+      "La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.",
+      "Serve un risultato concreto dopo la formazione: Griglia di supplier intelligence e workflow di comparazione offerte."
+    ],
+    "extraExamples": [
+      {
+        "title": "Dal corso generico al processo reale",
+        "description": "Un'azienda chiede formazione su AI per procurement e supplier intelligence, ma il problema vero emerge durante la mappatura: attività ripetute, controlli informali e responsabilità distribuite. Il percorso usa esempi vicini al lavoro quotidiano e trasforma la formazione in un primo modello operativo, non in una lezione teorica."
+      },
+      {
+        "title": "Da sperimentazione individuale a pratica governata",
+        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Griglia di supplier intelligence e workflow di comparazione offerte."
+      },
+      {
+        "title": "Da entusiasmo a decisione",
+        "description": "Il management vuole capire se AI per procurement e supplier intelligence merita budget e continuità. Durante il laboratorio si distinguono benefici immediati, rischi operativi e dipendenze dai dati. L'azienda esce con criteri per decidere il passo successivo invece di accumulare demo isolate."
+      }
+    ],
+    "selectionCriteria": [
+      "Scegliere questo corso se il bisogno principale riguarda AI per procurement e supplier intelligence e non una panoramica generica sull'AI.",
+      "Preferirlo quando esiste un processo, un documento, un flusso o una responsabilità aziendale su cui lavorare durante il training.",
+      "Rimandarlo se non esiste ancora sponsor interno o se il problema è solo acquistare una licenza software.",
+      "Abbinarlo ad AI Workflow Redesign Lab quando prima serve capire quali processi meritano priorità."
+    ],
+    "limits": [
+      "Non promette automazione completa o sostituzione delle responsabilità umane.",
+      "Non richiede di caricare dati riservati in ambienti non approvati.",
+      "Non è una consulenza legale, fiscale, HR o tecnica specialistica quando tali responsabilità restano a funzioni competenti.",
+      "Produce competenze, criteri e materiali riutilizzabili; l'adozione continua richiede sponsorship, governance e pratica interna."
+    ],
+    "relatedCourseIds": [
+      "workflow-redesign",
+      "managing-ai-general",
+      "ai-governance",
+      "ai-output-quality"
+    ],
+    "urls": {
+      "html": "https://ar-tik.com/corsi/ai-procurement.html",
+      "markdown": "https://ar-tik.com/corsi/ai-procurement.md",
+      "dossier": "https://ar-tik.com/corsi/ai-procurement-dossier.md",
+      "json": "https://ar-tik.com/corsi/ai-procurement.json",
+      "catalog": "https://ar-tik.com/corsi/",
+      "catalogMarkdown": "https://ar-tik.com/corsi/index.md"
+    }
+  }
+}

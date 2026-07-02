@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Output Quality &amp; Human Review - Artik Lab</title>
+  <meta name="description" content="Cours d&#x27;entreprise pratique pour appliquer l&#x27;IA à qualité des résultats IA et revue humaine, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.">
+  <meta name="author" content="Artik Lab s.r.l.">
+  <link rel="canonical" href="https://ar-tik.com/fr/cours/ai-output-quality.html">
+  <link rel="alternate" type="text/markdown" title="Markdown mirror" href="https://ar-tik.com/fr/cours/ai-output-quality.md">
+  <link rel="alternate" type="text/markdown" title="LLM dossier" href="https://ar-tik.com/fr/cours/ai-output-quality-dossier.md">
+  <link rel="alternate" hreflang="it" href="https://ar-tik.com/corsi/ai-output-quality.html">
+  <link rel="alternate" hreflang="en" href="https://ar-tik.com/en/courses/ai-output-quality.html">
+  <link rel="alternate" hreflang="es" href="https://ar-tik.com/es/cursos/ai-output-quality.html">
+  <link rel="alternate" hreflang="fr" href="https://ar-tik.com/fr/cours/ai-output-quality.html">
+  <link rel="alternate" hreflang="pt-BR" href="https://ar-tik.com/pt-br/cursos/ai-output-quality.html">
+  <link rel="alternate" hreflang="x-default" href="https://ar-tik.com/corsi/ai-output-quality.html">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Artik Lab">
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:locale:alternate" content="it_IT">
+  <meta property="og:locale:alternate" content="en_US">
+  <meta property="og:locale:alternate" content="es_ES">
+  <meta property="og:locale:alternate" content="pt_BR">
+  <meta property="og:url" content="https://ar-tik.com/fr/cours/ai-output-quality.html">
+  <meta property="og:title" content="AI Output Quality &amp; Human Review - Artik Lab">
+  <meta property="og:description" content="Cours d&#x27;entreprise pratique pour appliquer l&#x27;IA à qualité des résultats IA et revue humaine, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.">
+  <meta property="og:image" content="https://ar-tik.com/assets/images/hero-ai-consulting.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="AI Output Quality &amp; Human Review - Artik Lab">
+  <meta name="twitter:description" content="Cours d&#x27;entreprise pratique pour appliquer l&#x27;IA à qualité des résultats IA et revue humaine, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.">
+  <meta name="twitter:image" content="https://ar-tik.com/assets/images/hero-ai-consulting.png">
+  <link rel="icon" type="image/svg+xml" href="/assets/images/artik-lab.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;700&family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: { navy: '#0D435B', teal: '#0E88A5', green: '#47B488', lime: '#9BC979', paper: '#F7FAF8' },
+          fontFamily: { heading: ['Playfair Display', 'Georgia', 'serif'], body: ['DM Sans', 'sans-serif'] }
+        }
+      }
+    };
+  </script>
+  <script src="https://unpkg.com/lucide@1.23.0/dist/umd/lucide.min.js"></script>
+  <link rel="stylesheet" href="/css/custom.css?v=20260702-type-scale-compact">
+  <script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://ar-tik.com/#organization",
+      "name": "Artik Lab",
+      "legalName": "Artik Lab s.r.l.",
+      "url": "https://ar-tik.com",
+      "logo": "https://ar-tik.com/assets/images/artik-lab.svg",
+      "description": "Artik Lab construit des capacités IA qui restent dans l'entreprise: processus mesurables, gouvernance, formation opérationnelle, analyse de données agentique et prototypes contrôlés.",
+      "email": "dtr@ar-tik.com",
+      "vatID": "IT04120810041",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "dtr@ar-tik.com",
+        "contactType": "business inquiries",
+        "availableLanguage": [
+          "Italiano",
+          "English",
+          "Español",
+          "Français",
+          "Português do Brasil"
+        ]
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "IT"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://ar-tik.com/#website",
+      "name": "Artik Lab",
+      "url": "https://ar-tik.com",
+      "inLanguage": "fr",
+      "publisher": {
+        "@id": "https://ar-tik.com/#organization"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Accueil",
+          "item": "https://ar-tik.com/fr/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cours d'IA pour entreprises: choisir le bon parcours",
+          "item": "https://ar-tik.com/fr/cours/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "AI Output Quality & Human Review",
+          "item": "https://ar-tik.com/fr/cours/ai-output-quality.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Le cours dépend-il d'un outil?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Non. Les patterns sont adaptés aux outils et politiques choisis avec le client."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Peut-on utiliser des données d'entreprise?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Uniquement si comptes, contrats et politiques internes le permettent; sinon on utilise des données synthétiques ou anonymisées."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Que reste-t-il après le cours?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Matériaux réutilisables, exemples, checklists et prochaines étapes claires."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Est-ce théorique?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Non. Le cours repose sur exercices pratiques et décisions proches du travail réel."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "name": "AI Output Quality & Human Review",
+      "description": "Cours d'entreprise pratique pour appliquer l'IA à qualité des résultats IA et revue humaine, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.",
+      "url": "https://ar-tik.com/fr/cours/ai-output-quality.html",
+      "provider": {
+        "@id": "https://ar-tik.com/#organization"
+      },
+      "areaServed": "IT",
+      "serviceType": "AI training and corporate education",
+      "inLanguage": "fr"
+    },
+    {
+      "@type": "Course",
+      "name": "AI Output Quality & Human Review",
+      "description": "Cours d'entreprise pratique pour appliquer l'IA à qualité des résultats IA et revue humaine, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.",
+      "url": "https://ar-tik.com/fr/cours/ai-output-quality.html",
+      "provider": {
+        "@id": "https://ar-tik.com/#organization"
+      },
+      "inLanguage": "fr",
+      "educationalLevel": "Pour équipes d'entreprise, fonctions opérationnelles et managers; aucune programmation requise.",
+      "coursePrerequisites": "Aucune programmation requise. La connaissance du processus métier est utile.",
+      "teaches": [
+        "Cartographier le travail et les décisions où l'IA peut réduire les frictions.",
+        "Construire instructions, checklists et critères de revue.",
+        "Identifier limites de données, confidentialité et responsabilité.",
+        "Créer des exemples réutilisables pour l'équipe.",
+        "Définir les prochaines étapes d'adoption et de gouvernance."
+      ],
+      "assesses": "Canvas opérationnel pour qualité des résultats IA et revue humaine.",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Pour équipes d'entreprise, fonctions opérationnelles et managers; aucune programmation requise."
+      },
+      "hasCourseInstance": {
+        "@type": "CourseInstance",
+        "courseMode": "Laboratoire en présentiel ou en ligne, avec exercices guidés et matériaux adaptés au client.",
+        "courseWorkload": "4-6 heures, personnalisables"
+      }
+    }
+  ]
+}</script>
+</head>
+<body>
+<a class="skip-link" href="#content">Aller au contenu</a>
+<header id="site-header" class="site-header">
+  <div class="shell header-inner">
+    <a class="brand" href="/fr/" aria-label="Artik Lab">
+      <img src="/assets/images/artik-lab.svg" alt="Artik Lab" width="142" height="50">
+    </a>
+    <nav class="desktop-nav" aria-label="Main navigation">
+      <a class="nav-link" href="/fr/#methode">Méthode</a>
+      <a class="nav-link" href="/fr/#services">Services</a>
+      <a class="nav-link" href="/fr/atlas-applications-ia-entreprises.html">Atlas IA</a>
+      <a class="nav-link" href="/fr/analyse-donnees-agentique.html">Analyse de données</a>
+      <a class="nav-link" href="/fr/developpement-logiciels-techniques.html">Logiciels</a>
+      <a class="nav-link active" href="/fr/cours/">Cours</a>
+      <a class="nav-link" href="/fr/questions-frequentes-ia-entreprises.html">FAQ</a>
+      <a class="nav-link" href="/fr/#contact">Contact</a>
+    </nav>
+    <div class="header-actions">
+      <div class="language-switcher" aria-label="Language selector"><a class="lang-link" href="/corsi/ai-output-quality.html" hreflang="it">IT</a><a class="lang-link" href="/en/courses/ai-output-quality.html" hreflang="en">EN</a><a class="lang-link" href="/es/cursos/ai-output-quality.html" hreflang="es">ES</a><span class="lang-current" aria-current="page">FR</span><a class="lang-link" href="/pt-br/cursos/ai-output-quality.html" hreflang="pt-BR">PT</a></div>
+      <button id="menu-toggle" class="icon-button" type="button" aria-label="Ouvrir le menu" aria-expanded="false" aria-controls="mobile-menu">
+        <i data-lucide="menu" aria-hidden="true"></i>
+      </button>
+    </div>
+  </div>
+  <div id="mobile-menu" class="mobile-menu" hidden>
+    <div class="mobile-menu-panel">
+      <button id="menu-close" class="icon-button inverted" type="button" aria-label="Fermer le menu">
+        <i data-lucide="x" aria-hidden="true"></i>
+      </button>
+      <nav aria-label="Mobile navigation">
+        <a class="nav-link" href="/fr/#methode">Méthode</a>
+        <a class="nav-link" href="/fr/#services">Services</a>
+        <a class="nav-link" href="/fr/atlas-applications-ia-entreprises.html">Atlas IA</a>
+        <a class="nav-link" href="/fr/analyse-donnees-agentique.html">Analyse de données</a>
+        <a class="nav-link" href="/fr/developpement-logiciels-techniques.html">Logiciels</a>
+        <a class="nav-link active" href="/fr/cours/">Cours</a>
+        <a class="nav-link" href="/fr/questions-frequentes-ia-entreprises.html">FAQ</a>
+        <a class="nav-link" href="/fr/#contact">Contact</a>
+      </nav>
+      <div class="language-switcher mobile"><a class="lang-link" href="/corsi/ai-output-quality.html" hreflang="it">IT</a><a class="lang-link" href="/en/courses/ai-output-quality.html" hreflang="en">EN</a><a class="lang-link" href="/es/cursos/ai-output-quality.html" hreflang="es">ES</a><span class="lang-current" aria-current="page">FR</span><a class="lang-link" href="/pt-br/cursos/ai-output-quality.html" hreflang="pt-BR">PT</a></div>
+    </div>
+  </div>
+</header>
+<nav class="breadcrumbs shell" aria-label="Breadcrumb"><a href="https://ar-tik.com/fr/">Accueil</a><span>/</span><a href="https://ar-tik.com/fr/cours/">Cours d&#x27;IA pour entreprises: choisir le bon parcours</a><span>/</span><span aria-current="page">AI Output Quality &amp; Human Review</span></nav>
+<main id="content">
+<section class="hero interior-hero course-detail-hero">
+  <div class="shell hero-content">
+    <p class="eyebrow light">Managérial · Programme, résultats et prérequis</p>
+    <h1>AI Output Quality &amp; Human Review</h1>
+    <p class="hero-lead">Cours d&#x27;entreprise pratique pour appliquer l&#x27;IA à qualité des résultats IA et revue humaine, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.</p>
+    <div class="button-row">
+      <a class="button primary" href="#contatti">Demander l&#x27;adaptation du parcours</a>
+      <a class="button secondary" href="/fr/cours/">Tous les cours</a>
+    </div>
+  </div>
+</section>
+<section class="section course-overview">
+  <div class="shell two-column">
+    <div>
+      <p class="eyebrow">Le problème résolu</p>
+      <h2>Le problème résolu</h2>
+      <p class="large-text">Beaucoup d&#x27;entreprises abordent qualité des résultats IA et revue humaine par expérimentations dispersées: quelques instructions, quelques utilisateurs motivés et beaucoup de doutes sur données, qualité et responsabilité. Le cours transforme cette incertitude en méthode opérationnelle. Les participants travaillent sur des scénarios réalistes, apprennent où l&#x27;IA aide, où la revue humaine reste essentielle et comment rendre la pratique répétable.</p>
+    </div>
+    <dl class="course-facts course-facts-rich">
+  <div><dt>Durée</dt><dd>4-6 heures, personnalisables</dd></div>
+  <div><dt>Modalité</dt><dd>Laboratoire en présentiel ou en ligne, avec exercices guidés et matériaux adaptés au client.</dd></div>
+  <div><dt>Profil</dt><dd>Pour équipes d&#x27;entreprise, fonctions opérationnelles et managers; aucune programmation requise.</dd></div>
+  <div><dt>Livrable final</dt><dd>Canvas opérationnel pour qualité des résultats IA et revue humaine.</dd></div>
+</dl>
+  </div>
+</section>
+<section class="section paper-section">
+  <div class="shell course-detail-grid">
+    <article>
+      <p class="eyebrow">Public</p>
+      <h2>Public</h2>
+      <p>Pour équipes d&#x27;entreprise, fonctions opérationnelles et managers; aucune programmation requise.</p>
+    </article>
+    <article>
+      <p class="eyebrow">Quand le choisir</p>
+      <h2>Quand le choisir</h2>
+      <p>Choisir ce cours lorsque l&#x27;entreprise veut progresser concrètement sur qualité des résultats IA et revue humaine et a besoin d&#x27;une formation qui produit des flux de travail utilisables, pas de théorie abstraite.</p>
+    </article>
+  </div>
+</section>
+<section class="section">
+  <div class="shell two-column">
+    <div>
+      <p class="eyebrow">Résultats concrets</p>
+      <h2>Résultats concrets</h2>
+    </div>
+    <ul class="check-list"><li>Cartographier le travail et les décisions où l&#x27;IA peut réduire les frictions.</li><li>Construire instructions, checklists et critères de revue.</li><li>Identifier limites de données, confidentialité et responsabilité.</li><li>Créer des exemples réutilisables pour l&#x27;équipe.</li><li>Définir les prochaines étapes d&#x27;adoption et de gouvernance.</li></ul>
+  </div>
+</section>
+<section class="section paper-section">
+  <div class="shell two-column">
+    <div>
+      <p class="eyebrow">Programme</p>
+      <h2>Programme</h2>
+    </div>
+    <ol class="process-list course-module-list"><li><span>1</span><div><strong>Compréhension partagée</strong><p>Capacités, limites, responsabilités et implications métier.</p></div></li><li><span>2</span><div><strong>Évaluation des cas d&#x27;usage</strong><p>Valeur, faisabilité, risque, données et responsabilité.</p></div></li><li><span>3</span><div><strong>Gouvernance et qualité</strong><p>Règles, revue, escalade et décisions responsables.</p></div></li><li><span>4</span><div><strong>Roadmap d&#x27;adoption</strong><p>Priorités, compétences, métriques et prochaines étapes.</p></div></li></ol>
+  </div>
+</section>
+<section class="section">
+  <div class="shell course-detail-grid">
+    <article>
+      <p class="eyebrow">Exercices pratiques</p>
+      <h2>Exercices pratiques</h2>
+      <ul class="check-list"><li>Cartographier un processus réaliste lié à qualité des résultats IA et revue humaine.</li><li>Créer des résultats assistés par IA et les revoir de façon critique.</li><li>Définir points d&#x27;escalade et revue humaine.</li><li>Construire une checklist réutilisable pour le quotidien.</li></ul>
+    </article>
+    <article>
+      <p class="eyebrow">Matériaux livrés</p>
+      <h2>Matériaux livrés</h2>
+      <ul class="check-list"><li>Canvas opérationnel pour qualité des résultats IA et revue humaine.</li><li>Modèles d&#x27;instructions.</li><li>Checklist qualité et confidentialité.</li><li>Matrice risque/contrôle.</li><li>Notes d&#x27;adoption pour l&#x27;équipe.</li></ul>
+    </article>
+  </div>
+</section>
+<section class="section split-highlight">
+  <div class="shell two-column">
+    <div>
+      <p class="eyebrow">Données, confidentialité et limites</p>
+      <h2>Données, confidentialité et limites</h2>
+    </div>
+    <div>
+      <p class="large-text">Le cours utilise des supports synthétiques, publics, anonymisés ou approuvés par le client. Il explique comment minimiser l&#x27;exposition des données, protéger les informations confidentielles, vérifier les résultats et garder la responsabilité humaine explicite.</p>
+      <h3 class="mini-heading">Prérequis</h3>
+      <p>Aucune programmation requise. La connaissance du processus métier est utile.</p>
+    </div>
+  </div>
+</section>
+<section class="section faq-section">
+  <div class="shell narrow">
+    <p class="eyebrow">FAQ</p>
+    <h2>FAQ</h2>
+    <div class="faq-list"><details><summary>Le cours dépend-il d&#x27;un outil?</summary><p>Non. Les patterns sont adaptés aux outils et politiques choisis avec le client.</p></details><details><summary>Peut-on utiliser des données d&#x27;entreprise?</summary><p>Uniquement si comptes, contrats et politiques internes le permettent; sinon on utilise des données synthétiques ou anonymisées.</p></details><details><summary>Que reste-t-il après le cours?</summary><p>Matériaux réutilisables, exemples, checklists et prochaines étapes claires.</p></details><details><summary>Est-ce théorique?</summary><p>Non. Le cours repose sur exercices pratiques et décisions proches du travail réel.</p></details></div>
+  </div>
+</section>
+<section id="contatti" class="section contact-section">
+  <div class="shell contact-grid">
+    <div>
+      <p class="eyebrow">Contact</p>
+      <h2>Une courte conversation suffit pour comprendre par où commencer.</h2>
+      <p>Le premier échange dure 30-45 minutes et clarifie le processus, l&#x27;objectif, les données disponibles, les contraintes et la prochaine étape utile: formation, conseil, analyse de données ou prototype technique contrôlé.</p>
+      <a class="text-link light" href="mailto:dtr@ar-tik.com">Écrire à dtr@ar-tik.com</a>
+    </div>
+    <form id="contact-form" class="contact-form" data-lang="fr">
+      <label>Nom et rôle<input name="name" autocomplete="name" required></label>
+      <label>Email professionnel<input name="email" type="email" autocomplete="email" required></label>
+      <label>Sujet<input name="topic" required></label>
+      <label>Message<textarea name="message" rows="5" required></textarea></label>
+      <button class="button primary" type="submit"><i data-lucide="mail" aria-hidden="true"></i>Préparer l&#x27;email</button>
+    </form>
+  </div>
+</section>
+</main>
+<footer class="site-footer">
+  <div class="shell footer-grid">
+    <div>
+      <img src="/assets/images/artik-lab.svg" alt="Artik Lab" class="footer-logo" width="142" height="50">
+      <p>Conseil IA pour PME italiennes</p>
+    </div>
+    <nav aria-label="Footer navigation">
+      <a href="/fr/atlas-applications-ia-entreprises.html">Atlas IA</a>
+      <a href="/fr/analyse-donnees-agentique.html">Analyse de données</a>
+      <a href="/fr/developpement-logiciels-techniques.html">Logiciels</a>
+      <a href="/fr/cours/">Cours</a>
+      <a href="/fr/questions-frequentes-ia-entreprises.html">FAQ</a>
+      <a href="/fr/#contact">Contact</a>
+      <a href="/llms.txt">llms.txt</a>
+    </nav>
+    <div class="footer-meta">
+      <p>Artik Lab s.r.l. - startup innovativa</p>
+      <p>P.IVA IT04120810041</p>
+      <p>Italia · dtr@ar-tik.com</p>
+    </div>
+  </div>
+  <div class="shell footer-bottom">
+    <p>© 2026 Artik Lab s.r.l. Tous droits réservés.</p>
+  </div>
+</footer>
+<script src="/js/main.js?v=20260702-type-scale-compact"></script>
+</body>
+</html>

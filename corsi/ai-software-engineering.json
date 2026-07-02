@@ -1,0 +1,139 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
+  "generatedAt": "2026-07-02",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "course": {
+    "id": "ai-software-engineering",
+    "locale": "it",
+    "language": "it",
+    "family": "technical",
+    "familyLabel": "Tecnico",
+    "featured": false,
+    "title": "AI Software Engineering",
+    "subtitle": "Progettare software AI-native con architetture solide, requisiti chiari, valutazione continua e controllo del comportamento dei modelli.",
+    "summary": "Corso tecnico per portare disciplina ingegneristica nello sviluppo di funzionalità e prodotti AI.",
+    "duration": "5 ore, 2 lezioni da 2,5 ore",
+    "mode": "Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.",
+    "profile": "technical",
+    "profileDescription": "Per team tecnici con basi di programmazione e architetture software.",
+    "problem": "Integrare AI in un prodotto non significa chiamare un modello da un endpoint. Servono requisiti, architettura, fallback, evaluation, logging, sicurezza, UX e manutenzione. Il corso collega decisioni tecniche e gestione del comportamento dei sistemi AI.",
+    "audience": "Team software, solution architect, product engineer, tech lead, platform team, responsabili IT e buyer tecnici.",
+    "whenToChoose": "Quando si deve costruire o industrializzare una funzionalità AI in prodotto, portale, workflow interno, applicazione enterprise o piattaforma dati.",
+    "chooseIf": "Quando si deve costruire o industrializzare una funzionalità AI in prodotto, portale, workflow interno, applicazione enterprise o piattaforma dati.",
+    "outcomes": [
+      "Definire requisiti AI-specifici.",
+      "Disegnare blueprint architetturale.",
+      "Scegliere pattern di integrazione.",
+      "Costruire strategia di evaluation.",
+      "Gestire errori, osservabilità e go-live."
+    ],
+    "modules": [
+      {
+        "title": "Requisiti AI",
+        "description": "Obiettivi, rischi, utenti e limiti accettabili."
+      },
+      {
+        "title": "Architetture AI-native",
+        "description": "Orchestrazione, modelli, dati, cache, servizi e interfacce."
+      },
+      {
+        "title": "Evaluation e qualità",
+        "description": "Test set, metriche, regression testing e review umana."
+      },
+      {
+        "title": "Produzione e manutenzione",
+        "description": "Monitoraggio, incident response, versioning e cost control."
+      }
+    ],
+    "exercises": [
+      "Definizione requisiti feature AI.",
+      "Disegno architetturale.",
+      "Risk mapping.",
+      "Criteri di test.",
+      "Revisione output e failure mode."
+    ],
+    "materials": [
+      "Template requisiti AI.",
+      "Blueprint architetturale.",
+      "Checklist go-live.",
+      "Schema evaluation pipeline.",
+      "Matrice failure mode."
+    ],
+    "privacy": "Include minimizzazione del dato, separazione ambienti, logging responsabile, consensi, retention e auditabilità.",
+    "prerequisites": "Conoscenza di architetture applicative, API, delivery software e basi di modelli generativi.",
+    "faqs": [
+      {
+        "question": "Per sviluppatori o architect?",
+        "answer": "Per entrambi: collega architettura, sviluppo e operatività."
+      },
+      {
+        "question": "Serve un prodotto AI già pronto?",
+        "answer": "No, può partire da roadmap o prototipo."
+      },
+      {
+        "question": "Quanto è tecnico?",
+        "answer": "Abbastanza da guidare scelte reali su architettura, test e produzione."
+      },
+      {
+        "question": "Parla di modelli specifici?",
+        "answer": "No, ragiona per capacità, vincoli e integrazione."
+      }
+    ],
+    "output": "Blueprint AI-native e criteri di evaluation/go-live.",
+    "searchIntents": [
+      "corso AI aziendale su AI Software Engineering",
+      "formazione pratica per AI Software Engineering",
+      "training AI per team tecnici",
+      "percorso Artik Lab per Blueprint AI-native e criteri di evaluation/go-live",
+      "come introdurre AI Software Engineering nei processi aziendali"
+    ],
+    "needSignals": [
+      "Il tema AI Software Engineering è già presente nelle conversazioni interne, ma manca un metodo condiviso per trasformarlo in pratica.",
+      "Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.",
+      "Il processo collegato a AI Software Engineering assorbe tempo, genera passaggi manuali o produce output difficili da verificare.",
+      "La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.",
+      "Serve un risultato concreto dopo la formazione: Blueprint AI-native e criteri di evaluation/go-live."
+    ],
+    "extraExamples": [
+      {
+        "title": "Dal corso generico al processo reale",
+        "description": "Un'azienda chiede formazione su AI Software Engineering, ma il problema vero emerge durante la mappatura: attività ripetute, controlli informali e responsabilità distribuite. Il percorso usa esempi vicini al lavoro quotidiano e trasforma la formazione in un primo modello operativo, non in una lezione teorica."
+      },
+      {
+        "title": "Da sperimentazione individuale a pratica governata",
+        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Blueprint AI-native e criteri di evaluation/go-live."
+      },
+      {
+        "title": "Da entusiasmo a decisione",
+        "description": "Il management vuole capire se AI Software Engineering merita budget e continuità. Durante il laboratorio si distinguono benefici immediati, rischi operativi e dipendenze dai dati. L'azienda esce con criteri per decidere il passo successivo invece di accumulare demo isolate."
+      }
+    ],
+    "selectionCriteria": [
+      "Scegliere questo corso se il bisogno principale riguarda AI Software Engineering e non una panoramica generica sull'AI.",
+      "Preferirlo quando esiste un processo, un documento, un flusso o una responsabilità aziendale su cui lavorare durante il training.",
+      "Rimandarlo se non esiste ancora sponsor interno o se il problema è solo acquistare una licenza software.",
+      "Abbinarlo ad AI Workflow Redesign Lab quando prima serve capire quali processi meritano priorità."
+    ],
+    "limits": [
+      "Non promette automazione completa o sostituzione delle responsabilità umane.",
+      "Non richiede di caricare dati riservati in ambienti non approvati.",
+      "Non è una consulenza legale, fiscale, HR o tecnica specialistica quando tali responsabilità restano a funzioni competenti.",
+      "Produce competenze, criteri e materiali riutilizzabili; l'adozione continua richiede sponsorship, governance e pratica interna."
+    ],
+    "relatedCourseIds": [
+      "workflow-redesign",
+      "secure-ai-sdlc",
+      "rag-engineering",
+      "ai-output-quality"
+    ],
+    "urls": {
+      "html": "https://ar-tik.com/corsi/ai-software-engineering.html",
+      "markdown": "https://ar-tik.com/corsi/ai-software-engineering.md",
+      "dossier": "https://ar-tik.com/corsi/ai-software-engineering-dossier.md",
+      "json": "https://ar-tik.com/corsi/ai-software-engineering.json",
+      "catalog": "https://ar-tik.com/corsi/",
+      "catalogMarkdown": "https://ar-tik.com/corsi/index.md"
+    }
+  }
+}

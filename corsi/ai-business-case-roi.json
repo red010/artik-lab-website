@@ -1,0 +1,138 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
+  "generatedAt": "2026-07-02",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "course": {
+    "id": "ai-business-case-roi",
+    "locale": "it",
+    "language": "it",
+    "family": "managerial",
+    "familyLabel": "Manageriale",
+    "featured": false,
+    "title": "AI Business Case & ROI Sprint",
+    "subtitle": "Un percorso rapido per trasformare un'idea AI in business case valutabile, prioritizzato e presentabile.",
+    "summary": "Sprint per passare da entusiasmo o intuizione a una decisione economica: problema, valore, costi, rischi, metriche e raccomandazione.",
+    "duration": "4 ore o sprint da mezza giornata",
+    "mode": "Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.",
+    "profile": "mixed",
+    "profileDescription": "Per manager e team non tecnici; non richiede programmazione.",
+    "problem": "Le idee AI arrivano spesso come richieste generiche: automatizzare, velocizzare, fare meglio. Senza business case, però, il management non vede cosa approvare, cosa rimandare e cosa fermare. Lo sprint costruisce una valutazione chiara, con ipotesi esplicite e metriche verificabili.",
+    "audience": "Manager, finance, strategy, innovation, transformation office, business owner, operations, HR, marketing, sales e funzioni che devono valutare investimenti AI.",
+    "whenToChoose": "Quando esistono idee o richieste AI ma manca una valutazione economica e operativa solida prima di budget, pilota o proposta al management.",
+    "chooseIf": "Quando esistono idee o richieste AI ma manca una valutazione economica e operativa solida prima di budget, pilota o proposta al management.",
+    "outcomes": [
+      "Chiarire il problema di business.",
+      "Stimare benefici, costi, effort e rischi.",
+      "Definire KPI e ipotesi misurabili.",
+      "Confrontare scenari: non fare, sperimentare, scalare.",
+      "Preparare un business case sintetico."
+    ],
+    "modules": [
+      {
+        "title": "Dal bisogno al caso d'uso",
+        "description": "Problema, utenti, processo, output e vincoli."
+      },
+      {
+        "title": "Valore e benefici",
+        "description": "Tempo, qualità, ricavi, costi evitati, rischio ridotto ed esperienza interna."
+      },
+      {
+        "title": "Costi e rischi",
+        "description": "Implementazione, formazione, governance, dati, integrazione e manutenzione."
+      },
+      {
+        "title": "Decisione e roadmap",
+        "description": "KPI, ipotesi, pilota, criteri di successo e raccomandazione finale."
+      }
+    ],
+    "exercises": [
+      "Costruzione di un business case su un caso reale.",
+      "Stima benefici/costi.",
+      "Definizione KPI.",
+      "Analisi rischio/valore.",
+      "Sintesi executive."
+    ],
+    "materials": [
+      "Template business case AI.",
+      "Calcolatore ROI semplificato.",
+      "Matrice ipotesi/KPI.",
+      "Schema costi nascosti.",
+      "Executive summary."
+    ],
+    "privacy": "Le valutazioni possono essere svolte su dati aggregati o anonimizzati. Il corso considera anche costi e rischi legati a dati, privacy, compliance e sicurezza.",
+    "prerequisites": "È utile avere un caso d'uso candidato o un'area aziendale da analizzare. Non sono richieste competenze tecniche.",
+    "faqs": [
+      {
+        "question": "Serve un progetto già definito?",
+        "answer": "No, è sufficiente una priorità aziendale o un'idea da valutare."
+      },
+      {
+        "question": "Il ROI sarà certo?",
+        "answer": "No, sarà una stima ragionata con ipotesi esplicite."
+      },
+      {
+        "question": "È adatto al finance team?",
+        "answer": "Sì, rende confrontabili iniziative AI diverse."
+      },
+      {
+        "question": "Produce una presentazione?",
+        "answer": "Sì, in forma sintetica e decisionale."
+      }
+    ],
+    "output": "Business case AI pronto per valutazione interna.",
+    "searchIntents": [
+      "corso AI aziendale su AI Business Case & ROI Sprint",
+      "formazione pratica per AI Business Case & ROI Sprint",
+      "training AI per manager e funzioni aziendali",
+      "percorso Artik Lab per Business case AI pronto per valutazione interna",
+      "come introdurre AI Business Case & ROI Sprint nei processi aziendali"
+    ],
+    "needSignals": [
+      "Il tema AI Business Case & ROI Sprint è già presente nelle conversazioni interne, ma manca un metodo condiviso per trasformarlo in pratica.",
+      "Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.",
+      "Il processo collegato a AI Business Case & ROI Sprint assorbe tempo, genera passaggi manuali o produce output difficili da verificare.",
+      "La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.",
+      "Serve un risultato concreto dopo la formazione: Business case AI pronto per valutazione interna."
+    ],
+    "extraExamples": [
+      {
+        "title": "Dal corso generico al processo reale",
+        "description": "Un'azienda chiede formazione su AI Business Case & ROI Sprint, ma il problema vero emerge durante la mappatura: attività ripetute, controlli informali e responsabilità distribuite. Il percorso usa esempi vicini al lavoro quotidiano e trasforma la formazione in un primo modello operativo, non in una lezione teorica."
+      },
+      {
+        "title": "Da sperimentazione individuale a pratica governata",
+        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Business case AI pronto per valutazione interna."
+      },
+      {
+        "title": "Da entusiasmo a decisione",
+        "description": "Il management vuole capire se AI Business Case & ROI Sprint merita budget e continuità. Durante il laboratorio si distinguono benefici immediati, rischi operativi e dipendenze dai dati. L'azienda esce con criteri per decidere il passo successivo invece di accumulare demo isolate."
+      }
+    ],
+    "selectionCriteria": [
+      "Scegliere questo corso se il bisogno principale riguarda AI Business Case & ROI Sprint e non una panoramica generica sull'AI.",
+      "Preferirlo quando esiste un processo, un documento, un flusso o una responsabilità aziendale su cui lavorare durante il training.",
+      "Rimandarlo se non esiste ancora sponsor interno o se il problema è solo acquistare una licenza software.",
+      "Abbinarlo ad AI Workflow Redesign Lab quando prima serve capire quali processi meritano priorità."
+    ],
+    "limits": [
+      "Non promette automazione completa o sostituzione delle responsabilità umane.",
+      "Non richiede di caricare dati riservati in ambienti non approvati.",
+      "Non è una consulenza legale, fiscale, HR o tecnica specialistica quando tali responsabilità restano a funzioni competenti.",
+      "Produce competenze, criteri e materiali riutilizzabili; l'adozione continua richiede sponsorship, governance e pratica interna."
+    ],
+    "relatedCourseIds": [
+      "workflow-redesign",
+      "ai-governance",
+      "ai-adoption-manager"
+    ],
+    "urls": {
+      "html": "https://ar-tik.com/corsi/ai-business-case-roi.html",
+      "markdown": "https://ar-tik.com/corsi/ai-business-case-roi.md",
+      "dossier": "https://ar-tik.com/corsi/ai-business-case-roi-dossier.md",
+      "json": "https://ar-tik.com/corsi/ai-business-case-roi.json",
+      "catalog": "https://ar-tik.com/corsi/",
+      "catalogMarkdown": "https://ar-tik.com/corsi/index.md"
+    }
+  }
+}

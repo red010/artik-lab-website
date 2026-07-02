@@ -1,0 +1,115 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ar-tik.com/data/schemas/course-record.schema.json",
+  "title": "Artik Lab course record",
+  "type": "object",
+  "required": [
+    "generatedAt",
+    "publisher",
+    "canonicalDomain",
+    "course"
+  ],
+  "properties": {
+    "generatedAt": {
+      "type": "string"
+    },
+    "publisher": {
+      "type": "string"
+    },
+    "canonicalDomain": {
+      "type": "string"
+    },
+    "course": {
+      "type": "object",
+      "required": [
+        "id",
+        "locale",
+        "language",
+        "family",
+        "title",
+        "summary",
+        "urls"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "locale": {
+          "type": "string"
+        },
+        "language": {
+          "type": "string"
+        },
+        "family": {
+          "type": "string"
+        },
+        "familyLabel": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "subtitle": {
+          "type": "string"
+        },
+        "summary": {
+          "type": "string"
+        },
+        "duration": {
+          "type": "string"
+        },
+        "mode": {
+          "type": "string"
+        },
+        "profileDescription": {
+          "type": "string"
+        },
+        "problem": {
+          "type": "string"
+        },
+        "audience": {
+          "type": "string"
+        },
+        "outcomes": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "modules": {
+          "type": "array",
+          "items": {
+            "type": "object"
+          }
+        },
+        "faqs": {
+          "type": "array",
+          "items": {
+            "type": "object"
+          }
+        },
+        "searchIntents": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "needSignals": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "extraExamples": {
+          "type": "array",
+          "items": {
+            "type": "object"
+          }
+        },
+        "urls": {
+          "type": "object"
+        }
+      }
+    }
+  }
+}

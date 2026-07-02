@@ -1,0 +1,99 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/services-catalog.schema.json",
+  "generatedAt": "2026-07-02",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "locale": "es",
+  "language": "es",
+  "services": [
+    {
+      "id": "home",
+      "type": "organization",
+      "locale": "es",
+      "language": "es",
+      "title": "Artik Lab",
+      "description": "Artik Lab ayuda a pymes y funciones empresariales a elegir, gobernar y realizar el primer uso útil de la IA: mapa de procesos, business case, formación de equipos, análisis de datos y prototipos controlados.",
+      "urls": {
+        "html": "https://ar-tik.com/es/",
+        "markdown": "https://ar-tik.com/es/index.md"
+      }
+    },
+    {
+      "id": "ai-management-consulting",
+      "type": "service",
+      "locale": "es",
+      "language": "es",
+      "title": "Consultoría directiva de IA",
+      "description": "La IA no es software que se instala: es una capacidad directiva que se construye. Artik Lab ayuda a la dirección a decidir dónde usarla, dónde detenerse, qué procesos rediseñar y qué competencias deben permanecer en la empresa.",
+      "urls": {
+        "html": "https://ar-tik.com/es/consultoria-directiva-ia.html",
+        "markdown": "https://ar-tik.com/es/consultoria-directiva-ia.md"
+      }
+    },
+    {
+      "id": "agentic-data-analysis",
+      "type": "service",
+      "locale": "es",
+      "language": "es",
+      "title": "Análisis de datos agéntico",
+      "description": "El análisis de datos agéntico no produce gráficos para archivar: busca señales en datos ya disponibles, las conecta con una decisión y declara dónde el modelo no conviene.",
+      "urls": {
+        "html": "https://ar-tik.com/es/analisis-datos-agentico.html",
+        "markdown": "https://ar-tik.com/es/analisis-datos-agentico.md"
+      }
+    },
+    {
+      "id": "ai-applications-atlas",
+      "type": "guide",
+      "locale": "es",
+      "language": "es",
+      "title": "Atlas de aplicaciones IA",
+      "description": "Un mapa público de ejemplos concretos para reconocer dónde la inteligencia artificial puede reducir tiempos, errores, riesgos o retrasos decisionales en procesos empresariales.",
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md"
+      }
+    },
+    {
+      "id": "business-ai-faq",
+      "type": "guide",
+      "locale": "es",
+      "language": "es",
+      "title": "FAQ de IA para empresas",
+      "description": "Un repertorio público de preguntas reales para orientar a dirección y áreas de negocio entre consultoría, cursos, análisis de datos, software técnico y Atlas de aplicaciones IA.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md"
+      }
+    },
+    {
+      "id": "technical-software-development",
+      "type": "service",
+      "locale": "es",
+      "language": "es",
+      "title": "Software técnico de IA",
+      "description": "Artik Lab desarrolla software avanzado para clientes cuando el problema no se resuelve con un dashboard o una aplicación estándar: cálculos técnicos, modelos matemáticos, datos operativos, reglas expertas y flujos de trabajo que deben volverse verificables.",
+      "urls": {
+        "html": "https://ar-tik.com/es/desarrollo-software-tecnico.html",
+        "markdown": "https://ar-tik.com/es/desarrollo-software-tecnico.md",
+        "dossier": "https://ar-tik.com/es/desarrollo-software-tecnico-dossier.md"
+      }
+    },
+    {
+      "id": "courses",
+      "type": "training-catalog",
+      "locale": "es",
+      "language": "es",
+      "title": "Cursos de IA para empresas: elegir el recorrido adecuado",
+      "description": "Catálogo de cursos de IA para empresas: itinerarios introductorios, directivos, operativos y técnicos diseñados con DTR sobre roles, procesos y resultados esperados.",
+      "urls": {
+        "html": "https://ar-tik.com/es/cursos/",
+        "markdown": "https://ar-tik.com/es/cursos/index.md",
+        "dossier": "https://ar-tik.com/es/cursos/index-dossier.md",
+        "json": "https://ar-tik.com/data/courses.es.json"
+      }
+    }
+  ]
+}

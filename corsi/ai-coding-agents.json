@@ -1,0 +1,139 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
+  "generatedAt": "2026-07-02",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "course": {
+    "id": "ai-coding-agents",
+    "locale": "it",
+    "language": "it",
+    "family": "technical",
+    "familyLabel": "Tecnico",
+    "featured": false,
+    "title": "AI Coding Agents per team software",
+    "subtitle": "Integrare agenti di coding nei flussi di sviluppo mantenendo controllo, qualità, sicurezza e responsabilità tecnica.",
+    "summary": "Corso tecnico per usare agenti AI come componenti controllati del ciclo software, non come scorciatoia opaca.",
+    "duration": "4 ore, 2 lezioni da 2 ore",
+    "mode": "Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.",
+    "profile": "technical",
+    "profileDescription": "Per team tecnici con basi di programmazione e architetture software.",
+    "problem": "Gli agenti AI possono accelerare sviluppo, refactoring, test e analisi del codice, ma senza metodo generano modifiche opache, regressioni e debito tecnico. Il corso insegna come integrarli in issue, branch, review, test e delivery.",
+    "audience": "Software engineer, tech lead, engineering manager, platform team, QA engineer, DevSecOps e responsabili tecnici.",
+    "whenToChoose": "Quando un team vuole adottare agenti di coding in modo serio: come capacità integrata in repository, review, test e delivery.",
+    "chooseIf": "Quando un team vuole adottare agenti di coding in modo serio: come capacità integrata in repository, review, test e delivery.",
+    "outcomes": [
+      "Disegnare workflow agentici per sviluppo e test.",
+      "Definire policy di review.",
+      "Stabilire criteri di accettazione.",
+      "Scrivere task operativi per agenti.",
+      "Controllare modifiche, dipendenze e regressioni."
+    ],
+    "modules": [
+      {
+        "title": "Agenti di coding",
+        "description": "Capacità, limiti, contesto e autonomia."
+      },
+      {
+        "title": "Workflow sicuri",
+        "description": "Issue, branch, diff, test, review e rollback."
+      },
+      {
+        "title": "Qualità del codice",
+        "description": "Refactoring, test generation, debugging assistito e documentazione."
+      },
+      {
+        "title": "Governance",
+        "description": "Policy, permessi, audit, metriche di produttività e rischio."
+      }
+    ],
+    "exercises": [
+      "Scomposizione task per agenti.",
+      "Revisione di diff generati.",
+      "Generazione controllata di test.",
+      "Simulazione bug introdotti.",
+      "Regole operative repository."
+    ],
+    "materials": [
+      "Playbook di adozione.",
+      "Checklist review AI-assisted.",
+      "Template task per agenti.",
+      "Policy repository.",
+      "Matrice rischi coding automation."
+    ],
+    "privacy": "Evita codice proprietario non autorizzato. Si lavora su esempi sintetici o repository approvati e si trattano leakage, contesto eccessivo, licenze, segreti e proprietà intellettuale.",
+    "prerequisites": "Esperienza nello sviluppo software, version control, test automatici e code review.",
+    "faqs": [
+      {
+        "question": "Sostituisce formazione sul coding?",
+        "answer": "No, è per chi già sviluppa."
+      },
+      {
+        "question": "Gli agenti lavorano in autonomia?",
+        "answer": "Solo entro confini definiti, con review e test."
+      },
+      {
+        "question": "Vale per codice legacy?",
+        "answer": "Sì, con attenzione a test characterization e refactoring incrementale."
+      },
+      {
+        "question": "Dipende da tool specifici?",
+        "answer": "No, i pattern sono durevoli e adattabili."
+      }
+    ],
+    "output": "Playbook agentico per sviluppo, review, test e policy repository.",
+    "searchIntents": [
+      "corso AI aziendale su AI Coding Agents per team software",
+      "formazione pratica per AI Coding Agents per team software",
+      "training AI per team tecnici",
+      "percorso Artik Lab per Playbook agentico per sviluppo, review, test e policy repository",
+      "come introdurre AI Coding Agents per team software nei processi aziendali"
+    ],
+    "needSignals": [
+      "Il tema AI Coding Agents per team software è già presente nelle conversazioni interne, ma manca un metodo condiviso per trasformarlo in pratica.",
+      "Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.",
+      "Il processo collegato a AI Coding Agents per team software assorbe tempo, genera passaggi manuali o produce output difficili da verificare.",
+      "La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.",
+      "Serve un risultato concreto dopo la formazione: Playbook agentico per sviluppo, review, test e policy repository."
+    ],
+    "extraExamples": [
+      {
+        "title": "Dal corso generico al processo reale",
+        "description": "Un'azienda chiede formazione su AI Coding Agents per team software, ma il problema vero emerge durante la mappatura: attività ripetute, controlli informali e responsabilità distribuite. Il percorso usa esempi vicini al lavoro quotidiano e trasforma la formazione in un primo modello operativo, non in una lezione teorica."
+      },
+      {
+        "title": "Da sperimentazione individuale a pratica governata",
+        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Playbook agentico per sviluppo, review, test e policy repository."
+      },
+      {
+        "title": "Da entusiasmo a decisione",
+        "description": "Il management vuole capire se AI Coding Agents per team software merita budget e continuità. Durante il laboratorio si distinguono benefici immediati, rischi operativi e dipendenze dai dati. L'azienda esce con criteri per decidere il passo successivo invece di accumulare demo isolate."
+      }
+    ],
+    "selectionCriteria": [
+      "Scegliere questo corso se il bisogno principale riguarda AI Coding Agents per team software e non una panoramica generica sull'AI.",
+      "Preferirlo quando esiste un processo, un documento, un flusso o una responsabilità aziendale su cui lavorare durante il training.",
+      "Rimandarlo se non esiste ancora sponsor interno o se il problema è solo acquistare una licenza software.",
+      "Abbinarlo ad AI Workflow Redesign Lab quando prima serve capire quali processi meritano priorità."
+    ],
+    "limits": [
+      "Non promette automazione completa o sostituzione delle responsabilità umane.",
+      "Non richiede di caricare dati riservati in ambienti non approvati.",
+      "Non è una consulenza legale, fiscale, HR o tecnica specialistica quando tali responsabilità restano a funzioni competenti.",
+      "Produce competenze, criteri e materiali riutilizzabili; l'adozione continua richiede sponsorship, governance e pratica interna."
+    ],
+    "relatedCourseIds": [
+      "workflow-redesign",
+      "secure-ai-sdlc",
+      "rag-engineering",
+      "ai-output-quality"
+    ],
+    "urls": {
+      "html": "https://ar-tik.com/corsi/ai-coding-agents.html",
+      "markdown": "https://ar-tik.com/corsi/ai-coding-agents.md",
+      "dossier": "https://ar-tik.com/corsi/ai-coding-agents-dossier.md",
+      "json": "https://ar-tik.com/corsi/ai-coding-agents.json",
+      "catalog": "https://ar-tik.com/corsi/",
+      "catalogMarkdown": "https://ar-tik.com/corsi/index.md"
+    }
+  }
+}

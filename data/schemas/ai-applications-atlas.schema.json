@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ar-tik.com/data/schemas/ai-applications-atlas.schema.json",
+  "title": "Artik Lab AI applications atlas",
+  "type": "object",
+  "required": [
+    "generatedAt",
+    "locale",
+    "language",
+    "areas",
+    "applications"
+  ],
+  "properties": {
+    "generatedAt": {
+      "type": "string"
+    },
+    "locale": {
+      "type": "string"
+    },
+    "language": {
+      "type": "string"
+    },
+    "areas": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "applications": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    }
+  }
+}

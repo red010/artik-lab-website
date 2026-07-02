@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Desarrollo de software técnico y análisis avanzado de datos - Artik Lab</title>
+  <meta name="description" content="Artik Lab desarrolla software técnico, motores de cálculo y flujos de análisis de datos que convierten know-how complejo en sistemas verificables.">
+  <meta name="author" content="Artik Lab s.r.l.">
+  <link rel="canonical" href="https://ar-tik.com/es/desarrollo-software-tecnico.html">
+  <link rel="alternate" type="text/markdown" title="Markdown mirror" href="https://ar-tik.com/es/desarrollo-software-tecnico.md">
+  <link rel="alternate" type="text/markdown" title="LLM dossier" href="https://ar-tik.com/es/desarrollo-software-tecnico-dossier.md">
+  <link rel="alternate" hreflang="it" href="https://ar-tik.com/sviluppo-software-tecnico-ai.html">
+  <link rel="alternate" hreflang="en" href="https://ar-tik.com/en/technical-software-development.html">
+  <link rel="alternate" hreflang="es" href="https://ar-tik.com/es/desarrollo-software-tecnico.html">
+  <link rel="alternate" hreflang="fr" href="https://ar-tik.com/fr/developpement-logiciels-techniques.html">
+  <link rel="alternate" hreflang="pt-BR" href="https://ar-tik.com/pt-br/desenvolvimento-software-tecnico.html">
+  <link rel="alternate" hreflang="x-default" href="https://ar-tik.com/sviluppo-software-tecnico-ai.html">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Artik Lab">
+  <meta property="og:locale" content="es_ES">
+  <meta property="og:locale:alternate" content="it_IT">
+  <meta property="og:locale:alternate" content="en_US">
+  <meta property="og:locale:alternate" content="fr_FR">
+  <meta property="og:locale:alternate" content="pt_BR">
+  <meta property="og:url" content="https://ar-tik.com/es/desarrollo-software-tecnico.html">
+  <meta property="og:title" content="Desarrollo de software técnico y análisis avanzado de datos - Artik Lab">
+  <meta property="og:description" content="Artik Lab desarrolla software técnico, motores de cálculo y flujos de análisis de datos que convierten know-how complejo en sistemas verificables.">
+  <meta property="og:image" content="https://ar-tik.com/assets/images/hero-ai-consulting.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Desarrollo de software técnico y análisis avanzado de datos - Artik Lab">
+  <meta name="twitter:description" content="Artik Lab desarrolla software técnico, motores de cálculo y flujos de análisis de datos que convierten know-how complejo en sistemas verificables.">
+  <meta name="twitter:image" content="https://ar-tik.com/assets/images/hero-ai-consulting.png">
+  <link rel="icon" type="image/svg+xml" href="/assets/images/artik-lab.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;700&family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: { navy: '#0D435B', teal: '#0E88A5', green: '#47B488', lime: '#9BC979', paper: '#F7FAF8' },
+          fontFamily: { heading: ['Playfair Display', 'Georgia', 'serif'], body: ['DM Sans', 'sans-serif'] }
+        }
+      }
+    };
+  </script>
+  <script src="https://unpkg.com/lucide@1.23.0/dist/umd/lucide.min.js"></script>
+  <link rel="stylesheet" href="/css/custom.css?v=20260702-type-scale-compact">
+  <script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://ar-tik.com/#organization",
+      "name": "Artik Lab",
+      "legalName": "Artik Lab s.r.l.",
+      "url": "https://ar-tik.com",
+      "logo": "https://ar-tik.com/assets/images/artik-lab.svg",
+      "description": "Artik Lab construye capacidades de IA que permanecen en la empresa: procesos medibles, gobernanza, formación operativa, análisis de datos agéntico y prototipos controlados.",
+      "email": "dtr@ar-tik.com",
+      "vatID": "IT04120810041",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "dtr@ar-tik.com",
+        "contactType": "business inquiries",
+        "availableLanguage": [
+          "Italiano",
+          "English",
+          "Español",
+          "Français",
+          "Português do Brasil"
+        ]
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "IT"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://ar-tik.com/#website",
+      "name": "Artik Lab",
+      "url": "https://ar-tik.com",
+      "inLanguage": "es",
+      "publisher": {
+        "@id": "https://ar-tik.com/#organization"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://ar-tik.com/es/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Software técnico, motores de cálculo y análisis avanzado de datos.",
+          "item": "https://ar-tik.com/es/desarrollo-software-tecnico.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Es desarrollo software genérico?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Está pensado para problemas que requieren dominio técnico, datos, matemática, algoritmos, tests y criterios de verificación."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hace falta tener especificaciones completas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. A menudo el primer trabajo es reconstruir especificaciones, reglas, supuestos y casos límite desde el sistema existente y las personas expertas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿La IA decide en lugar de los técnicos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. En contextos técnicos la IA se usa como apoyo. Las partes críticas siguen siendo explicables, testeadas y bajo responsabilidad humana."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cómo se protege el know-how?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "El proyecto trabaja con perímetros, accesos, datos y materiales acordados. Los ejemplos públicos usan solo descripciones anonimizadas."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "name": "Software técnico, motores de cálculo y análisis avanzado de datos.",
+      "description": "Artik Lab desarrolla software técnico, motores de cálculo y flujos de análisis de datos que convierten know-how complejo en sistemas verificables.",
+      "url": "https://ar-tik.com/es/desarrollo-software-tecnico.html",
+      "provider": {
+        "@id": "https://ar-tik.com/#organization"
+      },
+      "areaServed": "IT",
+      "serviceType": "Desarrollo de software técnico, motores de cálculo y análisis avanzado de datos",
+      "inLanguage": "es"
+    }
+  ]
+}</script>
+</head>
+<body>
+<a class="skip-link" href="#content">Saltar al contenido</a>
+<header id="site-header" class="site-header">
+  <div class="shell header-inner">
+    <a class="brand" href="/es/" aria-label="Artik Lab">
+      <img src="/assets/images/artik-lab.svg" alt="Artik Lab" width="142" height="50">
+    </a>
+    <nav class="desktop-nav" aria-label="Main navigation">
+      <a class="nav-link" href="/es/#metodo">Método</a>
+      <a class="nav-link" href="/es/#servicios">Servicios</a>
+      <a class="nav-link" href="/es/atlas-aplicaciones-ia-empresas.html">Atlas IA</a>
+      <a class="nav-link" href="/es/analisis-datos-agentico.html">Análisis de datos</a>
+      <a class="nav-link active" href="/es/desarrollo-software-tecnico.html">Software</a>
+      <a class="nav-link" href="/es/cursos/">Cursos</a>
+      <a class="nav-link" href="/es/preguntas-frecuentes-ia-empresas.html">FAQ</a>
+      <a class="nav-link" href="/es/#contacto">Contacto</a>
+    </nav>
+    <div class="header-actions">
+      <div class="language-switcher" aria-label="Language selector"><a class="lang-link" href="/sviluppo-software-tecnico-ai.html" hreflang="it">IT</a><a class="lang-link" href="/en/technical-software-development.html" hreflang="en">EN</a><span class="lang-current" aria-current="page">ES</span><a class="lang-link" href="/fr/developpement-logiciels-techniques.html" hreflang="fr">FR</a><a class="lang-link" href="/pt-br/desenvolvimento-software-tecnico.html" hreflang="pt-BR">PT</a></div>
+      <button id="menu-toggle" class="icon-button" type="button" aria-label="Abrir menú" aria-expanded="false" aria-controls="mobile-menu">
+        <i data-lucide="menu" aria-hidden="true"></i>
+      </button>
+    </div>
+  </div>
+  <div id="mobile-menu" class="mobile-menu" hidden>
+    <div class="mobile-menu-panel">
+      <button id="menu-close" class="icon-button inverted" type="button" aria-label="Cerrar menú">
+        <i data-lucide="x" aria-hidden="true"></i>
+      </button>
+      <nav aria-label="Mobile navigation">
+        <a class="nav-link" href="/es/#metodo">Método</a>
+        <a class="nav-link" href="/es/#servicios">Servicios</a>
+        <a class="nav-link" href="/es/atlas-aplicaciones-ia-empresas.html">Atlas IA</a>
+        <a class="nav-link" href="/es/analisis-datos-agentico.html">Análisis de datos</a>
+        <a class="nav-link active" href="/es/desarrollo-software-tecnico.html">Software</a>
+        <a class="nav-link" href="/es/cursos/">Cursos</a>
+        <a class="nav-link" href="/es/preguntas-frecuentes-ia-empresas.html">FAQ</a>
+        <a class="nav-link" href="/es/#contacto">Contacto</a>
+      </nav>
+      <div class="language-switcher mobile"><a class="lang-link" href="/sviluppo-software-tecnico-ai.html" hreflang="it">IT</a><a class="lang-link" href="/en/technical-software-development.html" hreflang="en">EN</a><span class="lang-current" aria-current="page">ES</span><a class="lang-link" href="/fr/developpement-logiciels-techniques.html" hreflang="fr">FR</a><a class="lang-link" href="/pt-br/desenvolvimento-software-tecnico.html" hreflang="pt-BR">PT</a></div>
+    </div>
+  </div>
+</header>
+<nav class="breadcrumbs shell" aria-label="Breadcrumb"><a href="https://ar-tik.com/es/">Inicio</a><span>/</span><span aria-current="page">Software técnico, motores de cálculo y análisis avanzado de datos.</span></nav>
+<main id="content">
+<section class="hero interior-hero">
+  <div class="shell hero-content">
+    <p class="eyebrow light">Software técnico</p>
+    <h1>Software técnico, motores de cálculo y análisis avanzado de datos.</h1>
+    <p class="hero-lead">Artik Lab desarrolla software avanzado para clientes cuando el problema no se resuelve con un dashboard o una aplicación estándar: cálculos técnicos, modelos matemáticos, datos operativos, reglas expertas y flujos de trabajo que deben volverse verificables.</p>
+    <div class="button-row">
+      <a class="button primary" href="#contatti"><i data-lucide="mail" aria-hidden="true"></i>Hablar de un proyecto técnico</a>
+      <a class="button secondary" href="/es/analisis-datos-agentico.html"><i data-lucide="chart-no-axes-combined" aria-hidden="true"></i>Ver análisis de datos</a>
+    </div>
+  </div>
+</section>
+<section class="section intro-section">
+  <div class="shell two-column">
+    <div>
+      <p class="eyebrow">Cuándo sirve</p>
+      <h2>Cuando el know-how de la empresa es demasiado importante para quedar en hojas de cálculo, código legacy o en la cabeza de pocas personas.</h2>
+    </div>
+    <p class="large-text">Muchas empresas industriales trabajan con cálculos, excepciones y decisiones técnicas que han crecido con el tiempo. A veces viven en hojas frágiles, a veces en software obsoleto, a veces en procedimientos conocidos solo por usuarios expertos. El servicio transforma ese conocimiento en sistemas legibles, testeables y transferibles.</p>
+  </div>
+</section>
+<section class="section">
+  <div class="shell two-column">
+    <div>
+      <p class="eyebrow">Qué se construye</p>
+      <h2>Sistemas para hacer repetible lo que hoy depende de experiencia, archivos y controles manuales.</h2>
+    </div>
+    <div>
+      <p class="large-text">El valor nace de combinar ingeniería de software, análisis de datos y formalización del conocimiento experto. El resultado no es una demo, sino un sistema con criterios de aceptación, tests, documentación y límites claros.</p>
+      <ul class="check-list"><li>Cálculos importantes dependen de archivos no documentados o difíciles de verificar.</li><li>Un software técnico aún funciona, pero nadie quiere modificarlo.</li><li>Existen datos operativos, pero no guían prioridades, anomalías o previsiones.</li><li>Las decisiones técnicas dependen de pocas personas expertas y no de un sistema compartido.</li><li>La dirección debe invertir, pero no tiene un dossier técnico claro sobre riesgo, valor y factibilidad.</li></ul>
+    </div>
+  </div>
+  <div class="shell card-grid four dtr-grid"><article class="surface-card">
+  <i data-lucide="calculator" aria-hidden="true"></i>
+  <h3>Motores de cálculo y verificación</h3>
+  <p>Algoritmos determinísticos para cálculos técnicos, controles, escenarios, simulaciones y verificaciones repetibles.</p>
+</article><article class="surface-card">
+  <i data-lucide="database" aria-hidden="true"></i>
+  <h3>Sistemas de datos y análisis avanzado</h3>
+  <p>Recogida, normalización y lectura de datos operativos para detectar anomalías, patrones, prioridades y riesgos.</p>
+</article><article class="surface-card">
+  <i data-lucide="archive-restore" aria-hidden="true"></i>
+  <h3>Modernización de software heredado</h3>
+  <p>Auditoría del código, reconstrucción de lógicas, lectura de formatos históricos y reescritura progresiva.</p>
+</article><article class="surface-card">
+  <i data-lucide="panel-top" aria-hidden="true"></i>
+  <h3>Interfaces, reportes y API</h3>
+  <p>Herramientas para oficinas técnicas y funciones operativas: dashboards decisionales, reportes, exportaciones e integraciones.</p>
+</article></div>
+</section>
+<section class="section split-highlight">
+  <div class="shell two-column">
+    <div>
+      <p class="eyebrow">Método</p>
+      <h2>Del proceso técnico al sistema verificable.</h2>
+      <p>No software genérico. Software que incorpora dominio, matemática y responsabilidad.</p>
+    </div>
+    <ol class="process-list"><li><span>1</span><div><strong>Auditoría técnica</strong><p>Se lee el sistema existente: datos, fórmulas, flujos, dependencias, errores conocidos y riesgo operativo.</p></div></li><li><span>2</span><div><strong>Formalización del dominio</strong><p>Las reglas expertas se convierten en entidades, restricciones, supuestos, casos límite y criterios decisionales.</p></div></li><li><span>3</span><div><strong>Arquitectura verificable</strong><p>El núcleo de cálculo se separa de interfaces, reportes y componentes de IA, para mantenerlo controlable.</p></div></li><li><span>4</span><div><strong>Prototipo calculable</strong><p>Se construye un flujo mínimo completo: datos de entrada, modelo de datos, cálculo, verificación y resultado.</p></div></li><li><span>5</span><div><strong>Validación</strong><p>Tests automáticos, casos sintéticos, regresión y comparación con referencias conocidas miden diferencias y riesgos.</p></div></li><li><span>6</span><div><strong>Producción</strong><p>El sistema se vuelve utilizable con interfaces, API, reportes, documentación y responsabilidades de mantenimiento.</p></div></li></ol>
+  </div>
+</section>
+<section class="section paper-section">
+  <div class="shell section-heading">
+    <p class="eyebrow">Outputs</p>
+    <h2>Qué queda en la empresa.</h2>
+  </div>
+  <div class="shell"><ul class="check-list"><li>Blueprint técnico con arquitectura, riesgos, datos, supuestos y decisiones abiertas.</li><li>Knowledge base estructurada con reglas operativas, restricciones, fuentes y nivel de confianza.</li><li>Motor de cálculo, sistema de datos o aplicación técnica con tests automáticos.</li><li>Dossier de verificación con discrepancias, tolerancias, criterios de aceptación y prioridades de corrección.</li><li>Reportes, interfaces o API para integrar el sistema en el trabajo real.</li><li>Roadmap por paquetes progresivos, con entregables verificables y puntos de control técnico.</li></ul></div>
+</section>
+<section class="section">
+  <div class="shell section-heading">
+    <p class="eyebrow">Ejemplos anónimos</p>
+    <h2>Problemas típicos que el servicio puede abordar.</h2>
+  </div>
+  <div class="shell card-grid four"><article class="surface-card">
+  <h3>Hojas técnicas crecidas durante años</h3>
+  <p>Una oficina técnica usa archivos complejos para decisiones recurrentes. Las fórmulas ya no son fáciles de verificar. El proyecto reconstruye reglas, las convierte en modelo de datos y añade tests para evitar regresiones.</p>
+</article><article class="surface-card">
+  <h3>Software legacy difícil de mantener</h3>
+  <p>Una aplicación crítica aún funciona, pero depende de tecnologías antiguas y lógicas no documentadas. El trabajo empieza con una auditoría y construye una reescritura progresiva comparando resultados.</p>
+</article><article class="surface-card">
+  <h3>Datos industriales aún no decisionales</h3>
+  <p>El proceso produce datos, pero la empresa los usa sobre todo para reporting retrospectivo. El análisis busca señales para prioridades operativas, anomalías, previsiones y decisiones de control.</p>
+</article><article class="surface-card">
+  <h3>Conocimiento experto concentrado</h3>
+  <p>Algunas decisiones dependen de la experiencia de roles clave. El proyecto explicita reglas, excepciones y umbrales de atención para que el saber permanezca disponible.</p>
+</article></div>
+</section>
+<section class="section paper-section">
+  <div class="shell two-column">
+    <div>
+      <p class="eyebrow">Atlas IA</p>
+      <h2>Antes de elegir el formato, reconocer el proceso.</h2>
+    </div>
+    <div>
+      <p class="large-text">El Atlas reúne ejemplos concretos de aplicaciones IA para documentos, operaciones, RR. HH., marketing, software, gobernanza, producción, formación y datos. Ayuda a decidir si el caso requiere consultoría, análisis de datos, desarrollo técnico o formación.</p>
+      <a class="button secondary dark compact" href="/es/atlas-aplicaciones-ia-empresas.html"><i data-lucide="map" aria-hidden="true"></i>Abrir el Atlas</a>
+    </div>
+  </div>
+</section>
+<section class="section asset-section">
+  <div class="shell two-column">
+    <div>
+      <p class="eyebrow light">IA controlada</p>
+      <h2>La IA ayuda, pero el núcleo técnico debe seguir siendo explicable.</h2>
+    </div>
+    <p class="large-text">En sistemas técnicos, los componentes opacos no deben sustituir el cálculo verificable. La IA puede explorar datos, explicar resultados, proponer escenarios, leer documentos o asistir al usuario. El núcleo determinístico, las reglas de dominio y los tests siguen siendo el punto de control.</p>
+  </div>
+</section>
+<section class="section faq-section">
+  <div class="shell narrow">
+    <p class="eyebrow">Preguntas frecuentes</p>
+    <h2>Preguntas frecuentes</h2>
+    <div class="faq-list"><details><summary>¿Es desarrollo software genérico?</summary><p>No. Está pensado para problemas que requieren dominio técnico, datos, matemática, algoritmos, tests y criterios de verificación.</p></details><details><summary>¿Hace falta tener especificaciones completas?</summary><p>No. A menudo el primer trabajo es reconstruir especificaciones, reglas, supuestos y casos límite desde el sistema existente y las personas expertas.</p></details><details><summary>¿La IA decide en lugar de los técnicos?</summary><p>No. En contextos técnicos la IA se usa como apoyo. Las partes críticas siguen siendo explicables, testeadas y bajo responsabilidad humana.</p></details><details><summary>¿Cómo se protege el know-how?</summary><p>El proyecto trabaja con perímetros, accesos, datos y materiales acordados. Los ejemplos públicos usan solo descripciones anonimizadas.</p></details></div>
+  </div>
+</section>
+<section id="contatti" class="section contact-section">
+  <div class="shell contact-grid">
+    <div>
+      <p class="eyebrow">Contacto</p>
+      <h2>Una conversación breve basta para entender por dónde empezar.</h2>
+      <p>La primera conversación dura 30-45 minutos y aclara proceso, objetivo, datos disponibles, restricciones y próximo paso útil: formación, consultoría, análisis de datos o prototipo técnico controlado.</p>
+      <a class="text-link light" href="mailto:dtr@ar-tik.com">Escribir a dtr@ar-tik.com</a>
+    </div>
+    <form id="contact-form" class="contact-form" data-lang="es">
+      <label>Nombre y rol<input name="name" autocomplete="name" required></label>
+      <label>Email corporativo<input name="email" type="email" autocomplete="email" required></label>
+      <label>Tema<input name="topic" required></label>
+      <label>Mensaje<textarea name="message" rows="5" required></textarea></label>
+      <button class="button primary" type="submit"><i data-lucide="mail" aria-hidden="true"></i>Preparar email</button>
+    </form>
+  </div>
+</section>
+</main>
+<footer class="site-footer">
+  <div class="shell footer-grid">
+    <div>
+      <img src="/assets/images/artik-lab.svg" alt="Artik Lab" class="footer-logo" width="142" height="50">
+      <p>Consultoría IA para pymes italianas</p>
+    </div>
+    <nav aria-label="Footer navigation">
+      <a href="/es/atlas-aplicaciones-ia-empresas.html">Atlas IA</a>
+      <a href="/es/analisis-datos-agentico.html">Análisis de datos</a>
+      <a href="/es/desarrollo-software-tecnico.html">Software</a>
+      <a href="/es/cursos/">Cursos</a>
+      <a href="/es/preguntas-frecuentes-ia-empresas.html">FAQ</a>
+      <a href="/es/#contacto">Contacto</a>
+      <a href="/llms.txt">llms.txt</a>
+    </nav>
+    <div class="footer-meta">
+      <p>Artik Lab s.r.l. - startup innovativa</p>
+      <p>P.IVA IT04120810041</p>
+      <p>Italia · dtr@ar-tik.com</p>
+    </div>
+  </div>
+  <div class="shell footer-bottom">
+    <p>© 2026 Artik Lab s.r.l. Todos los derechos reservados.</p>
+  </div>
+</footer>
+<script src="/js/main.js?v=20260702-type-scale-compact"></script>
+</body>
+</html>

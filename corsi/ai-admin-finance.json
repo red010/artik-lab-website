@@ -1,0 +1,137 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
+  "generatedAt": "2026-07-02",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "course": {
+    "id": "ai-admin-finance",
+    "locale": "it",
+    "language": "it",
+    "family": "operational",
+    "familyLabel": "Operativo",
+    "featured": false,
+    "title": "AI per amministrazione e controllo di gestione",
+    "subtitle": "Applicare l'AI a riconciliazioni, report, analisi scostamenti, budgeting e controllo direzionale.",
+    "summary": "Corso per usare l'AI in AFC come supporto a sintesi, reportistica e controlli preliminari, mantenendo responsabilità umana.",
+    "duration": "4-6 ore, personalizzabili",
+    "mode": "Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.",
+    "profile": "mixed",
+    "profileDescription": "Per manager e team non tecnici; non richiede programmazione.",
+    "problem": "Amministrazione, finanza e controllo lavorano su dati distribuiti, report ricorrenti e scostamenti da spiegare. Il tempo viene assorbito da raccolta, normalizzazione, sintesi e preparazione di note interne. Il corso mostra dove l'AI può ridurre fatica operativa senza delegare decisioni contabili o gestionali.",
+    "audience": "Controller, amministrazione, finance, responsabili AFC, business analyst, team di reporting e figure coinvolte in budget, forecast e chiusure.",
+    "whenToChoose": "Quando l'azienda vuole rendere più rapidi e tracciabili analisi, reporting e controllo, senza trasformare l'AI in un decisore contabile.",
+    "chooseIf": "Quando l'azienda vuole rendere più rapidi e tracciabili analisi, reporting e controllo, senza trasformare l'AI in un decisore contabile.",
+    "outcomes": [
+      "Analizzare tabelle, scostamenti e note gestionali.",
+      "Creare bozze di report direzionali verificabili.",
+      "Automatizzare sintesi e controlli preliminari.",
+      "Ridurre tempi per commenti ed executive summary.",
+      "Definire regole di verifica, privacy e supervisione."
+    ],
+    "modules": [
+      {
+        "title": "Casi d'uso AFC",
+        "description": "Reporting mensile, analisi scostamenti, riconciliazioni descrittive, costi, budget e forecast."
+      },
+      {
+        "title": "Dati, tabelle e spiegazioni",
+        "description": "Preparare dati leggibili, ottenere sintesi e individuare incoerenze."
+      },
+      {
+        "title": "Reportistica e controllo",
+        "description": "Bozze per commenti gestionali, report direzione e note KPI."
+      },
+      {
+        "title": "Governance operativa",
+        "description": "Controlli umani, versionamento, limiti di utilizzo e checklist di validazione."
+      }
+    ],
+    "exercises": [
+      "Analisi di uno scostamento budget/consuntivo.",
+      "Sintesi di una tabella costi.",
+      "Creazione di una nota direzionale.",
+      "Revisione critica di output con errori intenzionali."
+    ],
+    "materials": [
+      "Template per analisi scostamenti.",
+      "Checklist verifica output AFC.",
+      "Schema report gestionale.",
+      "Matrice casi d'uso/rischi/controlli."
+    ],
+    "privacy": "Il corso lavora su dati simulati o anonimizzati e illustra regole per evitare inserimento di dati personali, informazioni riservate o contenuti non autorizzati.",
+    "prerequisites": "Conoscenza base dei processi amministrativi e di controllo. Non sono richieste competenze tecniche.",
+    "faqs": [
+      {
+        "question": "L'AI può sostituire il controllo di gestione?",
+        "answer": "No, supporta analisi, sintesi e preparazione documentale."
+      },
+      {
+        "question": "Servono dati perfetti?",
+        "answer": "No, ma dati ordinati migliorano qualità e verificabilità."
+      },
+      {
+        "question": "Si lavora su casi reali?",
+        "answer": "Sì, con scenari realistici e dati simulati o anonimizzati."
+      },
+      {
+        "question": "Include automazioni?",
+        "answer": "Include workflow replicabili; l'integrazione dipende dai sistemi aziendali."
+      }
+    ],
+    "output": "Set di template per report, analisi scostamenti e controlli AFC.",
+    "searchIntents": [
+      "corso AI aziendale su AI per amministrazione e controllo di gestione",
+      "formazione pratica per AI per amministrazione e controllo di gestione",
+      "training AI per funzioni operative",
+      "percorso Artik Lab per Set di template per report, analisi scostamenti e controlli AFC",
+      "come introdurre AI per amministrazione e controllo di gestione nei processi aziendali"
+    ],
+    "needSignals": [
+      "Il tema AI per amministrazione e controllo di gestione è già presente nelle conversazioni interne, ma manca un metodo condiviso per trasformarlo in pratica.",
+      "Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.",
+      "Il processo collegato a AI per amministrazione e controllo di gestione assorbe tempo, genera passaggi manuali o produce output difficili da verificare.",
+      "La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.",
+      "Serve un risultato concreto dopo la formazione: Set di template per report, analisi scostamenti e controlli AFC."
+    ],
+    "extraExamples": [
+      {
+        "title": "Dal corso generico al processo reale",
+        "description": "Un'azienda chiede formazione su AI per amministrazione e controllo di gestione, ma il problema vero emerge durante la mappatura: attività ripetute, controlli informali e responsabilità distribuite. Il percorso usa esempi vicini al lavoro quotidiano e trasforma la formazione in un primo modello operativo, non in una lezione teorica."
+      },
+      {
+        "title": "Da sperimentazione individuale a pratica governata",
+        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Set di template per report, analisi scostamenti e controlli AFC."
+      },
+      {
+        "title": "Da entusiasmo a decisione",
+        "description": "Il management vuole capire se AI per amministrazione e controllo di gestione merita budget e continuità. Durante il laboratorio si distinguono benefici immediati, rischi operativi e dipendenze dai dati. L'azienda esce con criteri per decidere il passo successivo invece di accumulare demo isolate."
+      }
+    ],
+    "selectionCriteria": [
+      "Scegliere questo corso se il bisogno principale riguarda AI per amministrazione e controllo di gestione e non una panoramica generica sull'AI.",
+      "Preferirlo quando esiste un processo, un documento, un flusso o una responsabilità aziendale su cui lavorare durante il training.",
+      "Rimandarlo se non esiste ancora sponsor interno o se il problema è solo acquistare una licenza software.",
+      "Abbinarlo ad AI Workflow Redesign Lab quando prima serve capire quali processi meritano priorità."
+    ],
+    "limits": [
+      "Non promette automazione completa o sostituzione delle responsabilità umane.",
+      "Non richiede di caricare dati riservati in ambienti non approvati.",
+      "Non è una consulenza legale, fiscale, HR o tecnica specialistica quando tali responsabilità restano a funzioni competenti.",
+      "Produce competenze, criteri e materiali riutilizzabili; l'adozione continua richiede sponsorship, governance e pratica interna."
+    ],
+    "relatedCourseIds": [
+      "workflow-redesign",
+      "managing-ai-general",
+      "ai-governance",
+      "ai-output-quality"
+    ],
+    "urls": {
+      "html": "https://ar-tik.com/corsi/ai-admin-finance.html",
+      "markdown": "https://ar-tik.com/corsi/ai-admin-finance.md",
+      "dossier": "https://ar-tik.com/corsi/ai-admin-finance-dossier.md",
+      "json": "https://ar-tik.com/corsi/ai-admin-finance.json",
+      "catalog": "https://ar-tik.com/corsi/",
+      "catalogMarkdown": "https://ar-tik.com/corsi/index.md"
+    }
+  }
+}

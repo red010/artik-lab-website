@@ -1,0 +1,138 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
+  "generatedAt": "2026-07-02",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "course": {
+    "id": "ai-literacy",
+    "locale": "it",
+    "language": "it",
+    "family": "managerial",
+    "familyLabel": "Manageriale",
+    "featured": false,
+    "title": "Role-Based AI Literacy & Responsible Use",
+    "subtitle": "Alfabetizzazione AI per ruoli aziendali, con focus su uso responsabile, qualità degli output e applicazione nel lavoro quotidiano.",
+    "summary": "Formazione base ma concreta per diffondere uso AI sicuro e utile, differenziato per ruoli e responsabilità.",
+    "duration": "4-8 ore, adattabili per ruolo",
+    "mode": "Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.",
+    "profile": "all",
+    "profileDescription": "Per team aziendali, funzioni operative e manager; non richiede programmazione.",
+    "problem": "Molte persone usano l'AI senza sapere davvero quando fidarsi, cosa non condividere e come verificare gli output. Altre non la usano perché la percepiscono come troppo tecnica. Il corso crea una base pratica e responsabile, adatta ai diversi ruoli aziendali.",
+    "audience": "Dipendenti, team operativi, manager di primo livello, funzioni corporate, customer-facing team, HR, marketing, sales, operations, amministrazione, legal e supporto interno.",
+    "whenToChoose": "Quando l'azienda vuole diffondere cultura AI comune, evitando sia entusiasmo non governato sia blocco operativo.",
+    "chooseIf": "Quando l'azienda vuole diffondere cultura AI comune, evitando sia entusiasmo non governato sia blocco operativo.",
+    "outcomes": [
+      "Comprendere l'AI generativa in modo essenziale.",
+      "Applicarla a compiti quotidiani.",
+      "Ridurre errori, esposizione di dati e aspettative irrealistiche.",
+      "Valutare output, limiti e responsabilità.",
+      "Differenziare pratiche per ruolo e rischio."
+    ],
+    "modules": [
+      {
+        "title": "AI literacy essenziale",
+        "description": "Cosa fa l'AI, come ragiona, dove fallisce e quando usarla."
+      },
+      {
+        "title": "Uso per ruolo",
+        "description": "Attività tipiche, casi consentiti, casi da evitare ed esempi funzionali."
+      },
+      {
+        "title": "Responsible use",
+        "description": "Dati, privacy, bias, qualità, verifica e controllo umano."
+      },
+      {
+        "title": "Applicazione quotidiana",
+        "description": "Routine, checklist, escalation, buone pratiche e prossimi passi."
+      }
+    ],
+    "exercises": [
+      "Analisi di attività per ruolo.",
+      "Riscrittura di workflow individuali.",
+      "Valutazione critica di output.",
+      "Costruzione di checklist operative per funzione."
+    ],
+    "materials": [
+      "Schede AI literacy per ruolo.",
+      "Checklist responsible use.",
+      "Guida alla valutazione output.",
+      "Matrice dati consentiti/non consentiti.",
+      "Template routine AI-assisted."
+    ],
+    "privacy": "Chiarisce quali informazioni possono essere usate, quali richiedono cautela e quali non devono essere inserite in ambienti non approvati.",
+    "prerequisites": "Nessuno. Il percorso può essere adattato a ruoli, funzioni e livelli di maturità diversi.",
+    "faqs": [
+      {
+        "question": "È un corso base?",
+        "answer": "Sì, ma progettato su ruoli aziendali reali."
+      },
+      {
+        "question": "Può entrare nell'onboarding?",
+        "answer": "Sì, è adatto a programmi diffusi."
+      },
+      {
+        "question": "È uguale per tutti?",
+        "answer": "No, può essere modulato per funzione e rischio."
+      },
+      {
+        "question": "Riduce usi impropri?",
+        "answer": "Sì, traduce il responsible use in comportamenti pratici."
+      }
+    ],
+    "output": "Schede di uso responsabile per ruolo e checklist operative.",
+    "searchIntents": [
+      "corso AI aziendale su Role-Based AI Literacy & Responsible Use",
+      "formazione pratica per Role-Based AI Literacy & Responsible Use",
+      "training AI per manager e funzioni aziendali",
+      "percorso Artik Lab per Schede di uso responsabile per ruolo e checklist operative",
+      "come introdurre Role-Based AI Literacy & Responsible Use nei processi aziendali"
+    ],
+    "needSignals": [
+      "Il tema Role-Based AI Literacy & Responsible Use è già presente nelle conversazioni interne, ma manca un metodo condiviso per trasformarlo in pratica.",
+      "Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.",
+      "Il processo collegato a Role-Based AI Literacy & Responsible Use assorbe tempo, genera passaggi manuali o produce output difficili da verificare.",
+      "La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.",
+      "Serve un risultato concreto dopo la formazione: Schede di uso responsabile per ruolo e checklist operative."
+    ],
+    "extraExamples": [
+      {
+        "title": "Dal corso generico al processo reale",
+        "description": "Un'azienda chiede formazione su Role-Based AI Literacy & Responsible Use, ma il problema vero emerge durante la mappatura: attività ripetute, controlli informali e responsabilità distribuite. Il percorso usa esempi vicini al lavoro quotidiano e trasforma la formazione in un primo modello operativo, non in una lezione teorica."
+      },
+      {
+        "title": "Da sperimentazione individuale a pratica governata",
+        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Schede di uso responsabile per ruolo e checklist operative."
+      },
+      {
+        "title": "Da entusiasmo a decisione",
+        "description": "Il management vuole capire se Role-Based AI Literacy & Responsible Use merita budget e continuità. Durante il laboratorio si distinguono benefici immediati, rischi operativi e dipendenze dai dati. L'azienda esce con criteri per decidere il passo successivo invece di accumulare demo isolate."
+      }
+    ],
+    "selectionCriteria": [
+      "Scegliere questo corso se il bisogno principale riguarda Role-Based AI Literacy & Responsible Use e non una panoramica generica sull'AI.",
+      "Preferirlo quando esiste un processo, un documento, un flusso o una responsabilità aziendale su cui lavorare durante il training.",
+      "Rimandarlo se non esiste ancora sponsor interno o se il problema è solo acquistare una licenza software.",
+      "Abbinarlo ad AI Workflow Redesign Lab quando prima serve capire quali processi meritano priorità."
+    ],
+    "limits": [
+      "Non promette automazione completa o sostituzione delle responsabilità umane.",
+      "Non richiede di caricare dati riservati in ambienti non approvati.",
+      "Non è una consulenza legale, fiscale, HR o tecnica specialistica quando tali responsabilità restano a funzioni competenti.",
+      "Produce competenze, criteri e materiali riutilizzabili; l'adozione continua richiede sponsorship, governance e pratica interna."
+    ],
+    "relatedCourseIds": [
+      "workflow-redesign",
+      "ai-governance",
+      "ai-adoption-manager",
+      "ai-business-case-roi"
+    ],
+    "urls": {
+      "html": "https://ar-tik.com/corsi/ai-literacy.html",
+      "markdown": "https://ar-tik.com/corsi/ai-literacy.md",
+      "dossier": "https://ar-tik.com/corsi/ai-literacy-dossier.md",
+      "json": "https://ar-tik.com/corsi/ai-literacy.json",
+      "catalog": "https://ar-tik.com/corsi/",
+      "catalogMarkdown": "https://ar-tik.com/corsi/index.md"
+    }
+  }
+}

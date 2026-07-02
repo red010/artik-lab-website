@@ -1,0 +1,138 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
+  "generatedAt": "2026-07-02",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "course": {
+    "id": "ai-procurement",
+    "locale": "pt",
+    "language": "pt-BR",
+    "family": "operational",
+    "familyLabel": "Operacional",
+    "featured": false,
+    "title": "AI para procurement e inteligência de fornecedores",
+    "subtitle": "Curso corporativo prático para aplicar IA a procurement e inteligência de fornecedores, com exercícios sobre trabalho realista, materiais reutilizáveis e critérios claros de governança.",
+    "summary": "Curso corporativo prático para aplicar IA a procurement e inteligência de fornecedores, com exercícios sobre trabalho realista, materiais reutilizáveis e critérios claros de governança.",
+    "duration": "4-6 horas, personalizáveis",
+    "mode": "Laboratório presencial ou online, com exercícios guiados e materiais adaptados ao cliente.",
+    "profile": "mixed",
+    "profileDescription": "Para gestores e equipes não técnicas; não requer programação.",
+    "problem": "Muitas empresas abordam procurement e inteligência de fornecedores por experimentos dispersos: algumas instruções, alguns usuários entusiasmados e muitas dúvidas sobre dados, qualidade e responsabilidade. O curso transforma essa incerteza em método operacional. Os participantes trabalham em cenários realistas, aprendem onde a IA ajuda, onde a revisão humana continua essencial e como repetir a prática na empresa.",
+    "audience": "Para gestores e equipes não técnicas; não requer programação.",
+    "whenToChoose": "Escolher este curso quando a empresa quer avançar de forma concreta em procurement e inteligência de fornecedores e precisa de formação que produza fluxos de trabalho utilizáveis, não teoria abstrata.",
+    "chooseIf": "Quando a empresa quer avançar de forma concreta em procurement e inteligência de fornecedores e precisa de formação que produza fluxos de trabalho utilizáveis, não teoria abstrata.",
+    "outcomes": [
+      "Mapear o trabalho e as decisões onde a IA pode reduzir atrito.",
+      "Construir instruções, checklists e critérios de revisão.",
+      "Identificar limites de dados, privacidade e responsabilidade.",
+      "Criar exemplos reutilizáveis para a equipe.",
+      "Definir próximos passos de adoção e governança."
+    ],
+    "modules": [
+      {
+        "title": "Mapa do processo",
+        "description": "Trabalho recorrente, documentos, decisões, exceções e passagens."
+      },
+      {
+        "title": "Resultados assistidos por IA",
+        "description": "Sínteses, classificações, rascunhos, relatórios e checklists."
+      },
+      {
+        "title": "Controles do fluxo",
+        "description": "Revisão, escalonamento, rastreabilidade e responsabilidade."
+      },
+      {
+        "title": "Adoção operacional",
+        "description": "Métricas, materiais, rotinas e governança."
+      }
+    ],
+    "exercises": [
+      "Mapear um processo realista ligado a procurement e inteligência de fornecedores.",
+      "Criar resultados assistidos por IA e revisá-los criticamente.",
+      "Definir pontos de escalonamento e revisão humana.",
+      "Construir uma checklist reutilizável para o trabalho diário."
+    ],
+    "materials": [
+      "Canvas operacional para procurement e inteligência de fornecedores.",
+      "Modelos de instruções.",
+      "Checklist de qualidade e privacidade.",
+      "Matriz risco/controle.",
+      "Notas de adoção para a equipe."
+    ],
+    "privacy": "O curso usa materiais sintéticos, públicos, anonimizados ou aprovados pelo cliente. Explica como minimizar exposição de dados, proteger informação confidencial, verificar resultados e manter explícita a responsabilidade humana.",
+    "prerequisites": "Não requer programação. É útil conhecer o processo de negócio.",
+    "faqs": [
+      {
+        "question": "O curso depende de uma ferramenta?",
+        "answer": "Não. Os padrões são adaptados às ferramentas e políticas escolhidas com o cliente."
+      },
+      {
+        "question": "Dados da empresa podem ser usados?",
+        "answer": "Só quando contas, contratos e políticas internas permitem; caso contrário usam-se dados sintéticos ou anonimizados."
+      },
+      {
+        "question": "O que fica depois do curso?",
+        "answer": "Materiais reutilizáveis, exemplos, checklists e próximos passos claros."
+      },
+      {
+        "question": "É teórico?",
+        "answer": "Não. O curso é construído sobre exercícios práticos e decisões próximas do trabalho real."
+      }
+    ],
+    "output": "Canvas operacional para procurement e inteligência de fornecedores.",
+    "searchIntents": [
+      "curso AI corporativo sobre procurement e inteligência de fornecedores",
+      "formação prática para AI para procurement e inteligência de fornecedores",
+      "training AI para funções operacionais",
+      "trilha Artik Lab para Canvas operacional para procurement e inteligência de fornecedores",
+      "como introduzir procurement e inteligência de fornecedores nos processos da empresa"
+    ],
+    "needSignals": [
+      "procurement e inteligência de fornecedores já aparece nas conversas internas, mas falta um método compartilhado para transformar isso em prática.",
+      "As pessoas experimentam ferramentas AI de modo autônomo e a empresa ainda não vê critérios, controles e resultados comparáveis.",
+      "O processo ligado a procurement e inteligência de fornecedores consome tempo, cria passagens manuais ou produz outputs difíceis de verificar.",
+      "A direção precisa decidir se investe, forma ou interrompe antes de introduzir automações frágeis.",
+      "A empresa precisa de um resultado concreto: Canvas operacional para procurement e inteligência de fornecedores."
+    ],
+    "extraExamples": [
+      {
+        "title": "Do curso genérico ao processo real",
+        "description": "Uma empresa pede formação sobre procurement e inteligência de fornecedores, mas o problema real aparece no mapeamento: tarefas repetidas, controles informais e responsabilidades distribuídas. A trilha usa exemplos próximos do trabalho diário e transforma a formação em primeiro modelo operacional."
+      },
+      {
+        "title": "Da experimentação individual à prática governada",
+        "description": "Algumas pessoas já encontraram atalhos com AI e outras estão bloqueadas. O curso cria uma base comum: o que pode ser feito, o que deve ser revisado, quais dados não devem ser expostos e quando escalar. O resultado é Canvas operacional para procurement e inteligência de fornecedores."
+      },
+      {
+        "title": "Do entusiasmo à decisão",
+        "description": "A direção precisa entender se procurement e inteligência de fornecedores merece orçamento e continuidade. O laboratório separa benefícios imediatos, riscos operacionais e dependências de dados. A empresa sai com critérios para decidir o próximo passo."
+      }
+    ],
+    "selectionCriteria": [
+      "Escolher este curso se a necessidade principal envolve procurement e inteligência de fornecedores, não uma visão genérica sobre AI.",
+      "Preferi-lo quando existe um processo, documento, workflow ou responsabilidade empresarial para trabalhar durante a formação.",
+      "Adiar se ainda não há sponsor interno ou se o problema é apenas comprar uma licença de software.",
+      "Combinar com AI Workflow Redesign Lab quando primeiro é preciso entender quais processos priorizar."
+    ],
+    "limits": [
+      "Não promete automação completa nem substituição das responsabilidades humanas.",
+      "Não exige carregar dados confidenciais em ambientes não aprovados.",
+      "Não é consultoria jurídica, fiscal, HR ou técnica especializada quando essas responsabilidades cabem às funções competentes.",
+      "Produz competências, critérios e materiais reutilizáveis; a adoção contínua requer sponsorship, governança e prática interna."
+    ],
+    "relatedCourseIds": [
+      "workflow-redesign",
+      "managing-ai-general",
+      "ai-governance",
+      "ai-output-quality"
+    ],
+    "urls": {
+      "html": "https://ar-tik.com/pt-br/cursos/ai-procurement.html",
+      "markdown": "https://ar-tik.com/pt-br/cursos/ai-procurement.md",
+      "dossier": "https://ar-tik.com/pt-br/cursos/ai-procurement-dossier.md",
+      "json": "https://ar-tik.com/pt-br/cursos/ai-procurement.json",
+      "catalog": "https://ar-tik.com/pt-br/cursos/",
+      "catalogMarkdown": "https://ar-tik.com/pt-br/cursos/index.md"
+    }
+  }
+}

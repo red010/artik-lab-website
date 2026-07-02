@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ar-tik.com/data/schemas/llm-index.schema.json",
+  "title": "Artik Lab LLM index manifest",
+  "type": "object",
+  "required": [
+    "generatedAt",
+    "canonicalDomain",
+    "languages",
+    "indices"
+  ],
+  "properties": {
+    "generatedAt": {
+      "type": "string"
+    },
+    "canonicalDomain": {
+      "type": "string"
+    },
+    "languages": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "indices": {
+      "type": "object"
+    }
+  }
+}

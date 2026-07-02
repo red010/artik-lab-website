@@ -1,0 +1,138 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
+  "generatedAt": "2026-07-02",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "course": {
+    "id": "ai-output-quality",
+    "locale": "en",
+    "language": "en",
+    "family": "managerial",
+    "familyLabel": "Managerial",
+    "featured": false,
+    "title": "AI Output Quality & Human Review",
+    "subtitle": "Practical corporate course for applying AI to AI output quality and human review, with exercises on realistic work, reusable materials and clear governance criteria.",
+    "summary": "Practical corporate course for applying AI to AI output quality and human review, with exercises on realistic work, reusable materials and clear governance criteria.",
+    "duration": "4-6 hours, customisable",
+    "mode": "In-person or online lab, with guided exercises and materials adapted to the client.",
+    "profile": "all",
+    "profileDescription": "For company teams, operational functions and managers; no programming required.",
+    "problem": "Companies often approach AI output quality and human review through scattered experiments: a few prompts, a few enthusiastic users, many doubts about data, quality and responsibility. This course turns that uncertainty into an operating method. Participants work on realistic scenarios, learn where AI helps, where human review remains essential and how to make the practice repeatable inside the company.",
+    "audience": "For company teams, operational functions and managers; no programming required.",
+    "whenToChoose": "Choose this course when the company wants concrete progress on AI output quality and human review and needs training that produces usable workflows, not abstract theory.",
+    "chooseIf": "When the company wants concrete progress on AI output quality and human review and needs training that produces usable workflows, not abstract theory.",
+    "outcomes": [
+      "Map the work and the decisions where AI can reduce friction.",
+      "Build practical instructions, checklists and review criteria.",
+      "Identify data, privacy and responsibility boundaries.",
+      "Create reusable examples for the team.",
+      "Define next steps for adoption and governance."
+    ],
+    "modules": [
+      {
+        "title": "Shared understanding",
+        "description": "Capabilities, limits, responsibilities and business implications."
+      },
+      {
+        "title": "Use-case evaluation",
+        "description": "Value, feasibility, risk, data and ownership."
+      },
+      {
+        "title": "Governance and quality",
+        "description": "Rules, review, escalation and accountable decisions."
+      },
+      {
+        "title": "Adoption roadmap",
+        "description": "Priorities, skills, metrics and next steps."
+      }
+    ],
+    "exercises": [
+      "Map a realistic process connected to AI output quality and human review.",
+      "Create AI-assisted outputs and review them critically.",
+      "Define escalation and human review points.",
+      "Build a reusable checklist for daily work."
+    ],
+    "materials": [
+      "Operating canvas for AI output quality and human review.",
+      "Prompt and instruction templates.",
+      "Quality and privacy checklist.",
+      "Risk/control matrix.",
+      "Adoption notes for the team."
+    ],
+    "privacy": "The course uses synthetic, public, anonymised or client-approved materials. It explains how to minimise data exposure, protect confidential information, verify outputs and keep human responsibility explicit.",
+    "prerequisites": "No programming required. Familiarity with the business process is useful.",
+    "faqs": [
+      {
+        "question": "Is the course tool-specific?",
+        "answer": "No. Patterns and workflows are adapted to the tools and policies chosen with the client."
+      },
+      {
+        "question": "Can company data be used?",
+        "answer": "Only when accounts, contracts and internal policies allow it. Otherwise synthetic or anonymised data is used."
+      },
+      {
+        "question": "What remains after the course?",
+        "answer": "Reusable materials, examples, checklists and a clear set of next steps."
+      },
+      {
+        "question": "Is it theoretical?",
+        "answer": "No. The course is built around practical exercises and decisions close to real work."
+      }
+    ],
+    "output": "Operating canvas for AI output quality and human review.",
+    "searchIntents": [
+      "corporate AI course on AI output quality and human review",
+      "practical training for AI Output Quality & Human Review",
+      "AI training for managers and business functions",
+      "Artik Lab path for Operating canvas for AI output quality and human review",
+      "how to introduce AI output quality and human review into company workflows"
+    ],
+    "needSignals": [
+      "AI output quality and human review is already discussed internally, but there is no shared method for turning it into practice.",
+      "People experiment with AI tools on their own and the company does not yet see comparable criteria, controls and outcomes.",
+      "The process connected to AI output quality and human review absorbs time, creates manual handoffs or produces outputs that are hard to verify.",
+      "Leadership needs to decide whether to invest, train or stop before introducing fragile automation.",
+      "The company needs a concrete training outcome: Operating canvas for AI output quality and human review."
+    ],
+    "extraExamples": [
+      {
+        "title": "From generic training to the real process",
+        "description": "A company asks for training on AI output quality and human review, but the real issue emerges during mapping: repeated tasks, informal checks and distributed responsibilities. The path uses examples close to daily work and turns training into an initial operating model, not a theory session."
+      },
+      {
+        "title": "From individual experimentation to governed practice",
+        "description": "Some people have already found shortcuts with AI while others are blocked. The course creates a shared base: what can be done, what must be reviewed, which data should not be exposed and when escalation is needed. The result is Operating canvas for AI output quality and human review."
+      },
+      {
+        "title": "From enthusiasm to decision",
+        "description": "Management needs to understand whether AI output quality and human review deserves budget and continuity. The lab separates immediate benefits, operational risks and data dependencies. The company leaves with criteria for the next step instead of more isolated demos."
+      }
+    ],
+    "selectionCriteria": [
+      "Choose this course if the main need concerns AI output quality and human review, not a generic overview of AI.",
+      "Prefer it when there is a process, document, workflow or responsibility to work on during training.",
+      "Postpone it if there is no internal sponsor yet or if the issue is only buying a software licence.",
+      "Pair it with AI Workflow Redesign Lab when the company first needs to understand which processes deserve priority."
+    ],
+    "limits": [
+      "It does not promise full automation or replacement of human responsibility.",
+      "It does not require confidential data to be uploaded into unapproved environments.",
+      "It is not legal, tax, HR or specialist technical advice when those responsibilities remain with competent functions.",
+      "It produces skills, criteria and reusable materials; continued adoption requires sponsorship, governance and internal practice."
+    ],
+    "relatedCourseIds": [
+      "workflow-redesign",
+      "ai-governance",
+      "ai-adoption-manager",
+      "ai-business-case-roi"
+    ],
+    "urls": {
+      "html": "https://ar-tik.com/en/courses/ai-output-quality.html",
+      "markdown": "https://ar-tik.com/en/courses/ai-output-quality.md",
+      "dossier": "https://ar-tik.com/en/courses/ai-output-quality-dossier.md",
+      "json": "https://ar-tik.com/en/courses/ai-output-quality.json",
+      "catalog": "https://ar-tik.com/en/courses/",
+      "catalogMarkdown": "https://ar-tik.com/en/courses/index.md"
+    }
+  }
+}

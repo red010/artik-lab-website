@@ -1,0 +1,138 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
+  "generatedAt": "2026-07-02",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "course": {
+    "id": "managing-ai-general",
+    "locale": "it",
+    "language": "it",
+    "family": "managerial",
+    "familyLabel": "Manageriale",
+    "featured": false,
+    "title": "Managing AI per team aziendali misti",
+    "subtitle": "Un percorso per allineare funzioni diverse su uso, priorità, responsabilità e rischi dell'AI generativa.",
+    "summary": "Formazione interfunzionale per creare linguaggio comune tra business, operations, marketing, IT, HR, legal e funzioni di supporto.",
+    "duration": "4 ore, 2 lezioni da 2 ore",
+    "mode": "Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.",
+    "profile": "mixed",
+    "profileDescription": "Per manager e team non tecnici; non richiede programmazione.",
+    "problem": "Quando l'AI arriva in azienda, ogni funzione la interpreta dal proprio punto di vista: chi vede produttività, chi vede rischio, chi vede nuovi flussi, chi teme perdita di controllo. Il corso trasforma questi punti di vista in criteri condivisi, così il tema non resta una somma di iniziative individuali.",
+    "audience": "Team composti da business, IT, HR, legal, compliance, marketing, operations, sales, customer service, data office e innovation.",
+    "whenToChoose": "Quando l'AI coinvolge più funzioni e genera disallineamento tra obiettivi, aspettative, vincoli tecnici, rischi e responsabilità operative.",
+    "chooseIf": "Quando l'AI coinvolge più funzioni e genera disallineamento tra obiettivi, aspettative, vincoli tecnici, rischi e responsabilità operative.",
+    "outcomes": [
+      "Allineare funzioni diverse su opportunità e limiti.",
+      "Identificare casi d'uso prioritari condivisi.",
+      "Chiarire ruoli, controlli e passaggi decisionali.",
+      "Ridurre iniziative isolate.",
+      "Creare base comune per policy, pilota o roadmap."
+    ],
+    "modules": [
+      {
+        "title": "Linguaggio comune",
+        "description": "Cosa può fare l'AI, cosa non deve fare e cosa richiede controllo."
+      },
+      {
+        "title": "Mappa dei bisogni interfunzionali",
+        "description": "Processi, frizioni, dati, output e dipendenze."
+      },
+      {
+        "title": "Valutazione condivisa",
+        "description": "Valore, rischio, fattibilità e ownership dei casi d'uso."
+      },
+      {
+        "title": "Modello operativo",
+        "description": "Regole minime, responsabilità, escalation, metriche e prossimi passi."
+      }
+    ],
+    "exercises": [
+      "Workshop di allineamento.",
+      "Mappatura di casi d'uso per funzione.",
+      "Simulazione di decisione interfunzionale.",
+      "Definizione di ownership e controlli."
+    ],
+    "materials": [
+      "Mappa stakeholder AI.",
+      "Matrice casi d'uso interfunzionali.",
+      "Modello RACI semplificato.",
+      "Checklist rischi.",
+      "Canvas per decisione condivisa."
+    ],
+    "privacy": "Introduce criteri pratici per trattare dati e informazioni tra funzioni, con attenzione a riservatezza, minimizzazione, separazione dei ruoli e tracciabilità.",
+    "prerequisites": "Nessuno. È consigliata la partecipazione di almeno due funzioni aziendali.",
+    "faqs": [
+      {
+        "question": "È adatto a gruppi eterogenei?",
+        "answer": "Sì, il percorso è progettato per livelli diversi di competenza."
+      },
+      {
+        "question": "Supporta progetti già avviati?",
+        "answer": "Sì, aiuta a chiarire priorità e responsabilità."
+      },
+      {
+        "question": "Produce una policy completa?",
+        "answer": "No, produce basi operative utili anche per una futura policy."
+      },
+      {
+        "question": "È utile prima di un pilota?",
+        "answer": "Sì, riduce ambiguità e rischi organizzativi."
+      }
+    ],
+    "output": "Mappa interfunzionale di casi d'uso, ownership e criteri di decisione.",
+    "searchIntents": [
+      "corso AI aziendale su Managing AI per team aziendali misti",
+      "formazione pratica per Managing AI per team aziendali misti",
+      "training AI per manager e funzioni aziendali",
+      "percorso Artik Lab per Mappa interfunzionale di casi d'uso, ownership e criteri di decisione",
+      "come introdurre Managing AI per team aziendali misti nei processi aziendali"
+    ],
+    "needSignals": [
+      "Il tema Managing AI per team aziendali misti è già presente nelle conversazioni interne, ma manca un metodo condiviso per trasformarlo in pratica.",
+      "Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.",
+      "Il processo collegato a Managing AI per team aziendali misti assorbe tempo, genera passaggi manuali o produce output difficili da verificare.",
+      "La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.",
+      "Serve un risultato concreto dopo la formazione: Mappa interfunzionale di casi d'uso, ownership e criteri di decisione."
+    ],
+    "extraExamples": [
+      {
+        "title": "Dal corso generico al processo reale",
+        "description": "Un'azienda chiede formazione su Managing AI per team aziendali misti, ma il problema vero emerge durante la mappatura: attività ripetute, controlli informali e responsabilità distribuite. Il percorso usa esempi vicini al lavoro quotidiano e trasforma la formazione in un primo modello operativo, non in una lezione teorica."
+      },
+      {
+        "title": "Da sperimentazione individuale a pratica governata",
+        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Mappa interfunzionale di casi d'uso, ownership e criteri di decisione."
+      },
+      {
+        "title": "Da entusiasmo a decisione",
+        "description": "Il management vuole capire se Managing AI per team aziendali misti merita budget e continuità. Durante il laboratorio si distinguono benefici immediati, rischi operativi e dipendenze dai dati. L'azienda esce con criteri per decidere il passo successivo invece di accumulare demo isolate."
+      }
+    ],
+    "selectionCriteria": [
+      "Scegliere questo corso se il bisogno principale riguarda Managing AI per team aziendali misti e non una panoramica generica sull'AI.",
+      "Preferirlo quando esiste un processo, un documento, un flusso o una responsabilità aziendale su cui lavorare durante il training.",
+      "Rimandarlo se non esiste ancora sponsor interno o se il problema è solo acquistare una licenza software.",
+      "Abbinarlo ad AI Workflow Redesign Lab quando prima serve capire quali processi meritano priorità."
+    ],
+    "limits": [
+      "Non promette automazione completa o sostituzione delle responsabilità umane.",
+      "Non richiede di caricare dati riservati in ambienti non approvati.",
+      "Non è una consulenza legale, fiscale, HR o tecnica specialistica quando tali responsabilità restano a funzioni competenti.",
+      "Produce competenze, criteri e materiali riutilizzabili; l'adozione continua richiede sponsorship, governance e pratica interna."
+    ],
+    "relatedCourseIds": [
+      "workflow-redesign",
+      "ai-governance",
+      "ai-adoption-manager",
+      "ai-business-case-roi"
+    ],
+    "urls": {
+      "html": "https://ar-tik.com/corsi/managing-ai-general.html",
+      "markdown": "https://ar-tik.com/corsi/managing-ai-general.md",
+      "dossier": "https://ar-tik.com/corsi/managing-ai-general-dossier.md",
+      "json": "https://ar-tik.com/corsi/managing-ai-general.json",
+      "catalog": "https://ar-tik.com/corsi/",
+      "catalogMarkdown": "https://ar-tik.com/corsi/index.md"
+    }
+  }
+}

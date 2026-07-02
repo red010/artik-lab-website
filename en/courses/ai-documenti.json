@@ -1,0 +1,138 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
+  "generatedAt": "2026-07-02",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "course": {
+    "id": "ai-documenti",
+    "locale": "en",
+    "language": "en",
+    "family": "intro",
+    "familyLabel": "Introductory",
+    "featured": false,
+    "title": "AI course: managing documents with AI",
+    "subtitle": "Practical corporate course for applying AI to document management, with exercises on realistic work, reusable materials and clear governance criteria.",
+    "summary": "Practical corporate course for applying AI to document management, with exercises on realistic work, reusable materials and clear governance criteria.",
+    "duration": "8 hours, customisable",
+    "mode": "In-person or online lab, with guided exercises and materials adapted to the client.",
+    "profile": "all",
+    "profileDescription": "For company teams, operational functions and managers; no programming required.",
+    "problem": "Companies often approach document management through scattered experiments: a few prompts, a few enthusiastic users, many doubts about data, quality and responsibility. This course turns that uncertainty into an operating method. Participants work on realistic scenarios, learn where AI helps, where human review remains essential and how to make the practice repeatable inside the company.",
+    "audience": "For company teams, operational functions and managers; no programming required.",
+    "whenToChoose": "Choose this course when the company wants concrete progress on document management and needs training that produces usable workflows, not abstract theory.",
+    "chooseIf": "When the company wants concrete progress on document management and needs training that produces usable workflows, not abstract theory.",
+    "outcomes": [
+      "Map the work and the decisions where AI can reduce friction.",
+      "Build practical instructions, checklists and review criteria.",
+      "Identify data, privacy and responsibility boundaries.",
+      "Create reusable examples for the team.",
+      "Define next steps for adoption and governance."
+    ],
+    "modules": [
+      {
+        "title": "Work context",
+        "description": "Documents, channels, tasks and recurring decisions."
+      },
+      {
+        "title": "Practical AI use",
+        "description": "Instructions, examples, review criteria and limits."
+      },
+      {
+        "title": "Reusable workflow",
+        "description": "Templates, checklists, handoffs and controls."
+      },
+      {
+        "title": "Safe adoption",
+        "description": "Data, privacy, quality and next steps."
+      }
+    ],
+    "exercises": [
+      "Map a realistic process connected to document management.",
+      "Create AI-assisted outputs and review them critically.",
+      "Define escalation and human review points.",
+      "Build a reusable checklist for daily work."
+    ],
+    "materials": [
+      "Operating canvas for document management.",
+      "Prompt and instruction templates.",
+      "Quality and privacy checklist.",
+      "Risk/control matrix.",
+      "Adoption notes for the team."
+    ],
+    "privacy": "The course uses synthetic, public, anonymised or client-approved materials. It explains how to minimise data exposure, protect confidential information, verify outputs and keep human responsibility explicit.",
+    "prerequisites": "No programming required. Familiarity with the business process is useful.",
+    "faqs": [
+      {
+        "question": "Is the course tool-specific?",
+        "answer": "No. Patterns and workflows are adapted to the tools and policies chosen with the client."
+      },
+      {
+        "question": "Can company data be used?",
+        "answer": "Only when accounts, contracts and internal policies allow it. Otherwise synthetic or anonymised data is used."
+      },
+      {
+        "question": "What remains after the course?",
+        "answer": "Reusable materials, examples, checklists and a clear set of next steps."
+      },
+      {
+        "question": "Is it theoretical?",
+        "answer": "No. The course is built around practical exercises and decisions close to real work."
+      }
+    ],
+    "output": "Operating canvas for document management.",
+    "searchIntents": [
+      "corporate AI course on document management",
+      "practical training for AI course: managing documents with AI",
+      "AI training for operational teams",
+      "Artik Lab path for Operating canvas for document management",
+      "how to introduce document management into company workflows"
+    ],
+    "needSignals": [
+      "document management is already discussed internally, but there is no shared method for turning it into practice.",
+      "People experiment with AI tools on their own and the company does not yet see comparable criteria, controls and outcomes.",
+      "The process connected to document management absorbs time, creates manual handoffs or produces outputs that are hard to verify.",
+      "Leadership needs to decide whether to invest, train or stop before introducing fragile automation.",
+      "The company needs a concrete training outcome: Operating canvas for document management."
+    ],
+    "extraExamples": [
+      {
+        "title": "From generic training to the real process",
+        "description": "A company asks for training on document management, but the real issue emerges during mapping: repeated tasks, informal checks and distributed responsibilities. The path uses examples close to daily work and turns training into an initial operating model, not a theory session."
+      },
+      {
+        "title": "From individual experimentation to governed practice",
+        "description": "Some people have already found shortcuts with AI while others are blocked. The course creates a shared base: what can be done, what must be reviewed, which data should not be exposed and when escalation is needed. The result is Operating canvas for document management."
+      },
+      {
+        "title": "From enthusiasm to decision",
+        "description": "Management needs to understand whether document management deserves budget and continuity. The lab separates immediate benefits, operational risks and data dependencies. The company leaves with criteria for the next step instead of more isolated demos."
+      }
+    ],
+    "selectionCriteria": [
+      "Choose this course if the main need concerns document management, not a generic overview of AI.",
+      "Prefer it when there is a process, document, workflow or responsibility to work on during training.",
+      "Postpone it if there is no internal sponsor yet or if the issue is only buying a software licence.",
+      "Pair it with AI Workflow Redesign Lab when the company first needs to understand which processes deserve priority."
+    ],
+    "limits": [
+      "It does not promise full automation or replacement of human responsibility.",
+      "It does not require confidential data to be uploaded into unapproved environments.",
+      "It is not legal, tax, HR or specialist technical advice when those responsibilities remain with competent functions.",
+      "It produces skills, criteria and reusable materials; continued adoption requires sponsorship, governance and internal practice."
+    ],
+    "relatedCourseIds": [
+      "workflow-redesign",
+      "ai-literacy",
+      "secure-ai-at-work",
+      "ai-output-quality"
+    ],
+    "urls": {
+      "html": "https://ar-tik.com/en/courses/ai-documenti.html",
+      "markdown": "https://ar-tik.com/en/courses/ai-documenti.md",
+      "dossier": "https://ar-tik.com/en/courses/ai-documenti-dossier.md",
+      "json": "https://ar-tik.com/en/courses/ai-documenti.json",
+      "catalog": "https://ar-tik.com/en/courses/",
+      "catalogMarkdown": "https://ar-tik.com/en/courses/index.md"
+    }
+  }
+}

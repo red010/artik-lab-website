@@ -1,0 +1,137 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
+  "generatedAt": "2026-07-02",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "course": {
+    "id": "ai-quality-management",
+    "locale": "it",
+    "language": "it",
+    "family": "operational",
+    "familyLabel": "Operativo",
+    "featured": false,
+    "title": "AI per qualità e non conformità",
+    "subtitle": "Applicare l'AI alla gestione di non conformità, audit, azioni correttive, documentazione qualità e analisi delle cause.",
+    "summary": "Corso per migliorare analisi, classificazione e documentazione qualità mantenendo controllo formale sugli output.",
+    "duration": "4-6 ore, personalizzabili",
+    "mode": "Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.",
+    "profile": "mixed",
+    "profileDescription": "Per manager e team non tecnici; non richiede programmazione.",
+    "problem": "I processi qualità producono segnalazioni, audit, non conformità, azioni correttive, procedure ed evidenze. La difficoltà è mantenere coerenza e tracciabilità senza rallentare il lavoro. Il corso mostra come usare l'AI per ordinare segnalazioni, preparare report e supportare analisi causa-effetto.",
+    "audience": "Quality manager, responsabili qualità, audit interni, operations, produzione, supply chain e funzioni coinvolte in non conformità, CAPA e sistemi di gestione.",
+    "whenToChoose": "Quando l'azienda vuole migliorare analisi, classificazione e documentazione dei processi qualità, mantenendo validazione umana.",
+    "chooseIf": "Quando l'azienda vuole migliorare analisi, classificazione e documentazione dei processi qualità, mantenendo validazione umana.",
+    "outcomes": [
+      "Classificare non conformità e segnalazioni.",
+      "Preparare bozze di report qualità.",
+      "Supportare analisi causa-effetto.",
+      "Generare checklist di audit e follow-up.",
+      "Migliorare coerenza tra procedure, evidenze e azioni correttive."
+    ],
+    "modules": [
+      {
+        "title": "AI nei sistemi qualità",
+        "description": "Non conformità, reclami, audit, procedure, CAPA e reportistica."
+      },
+      {
+        "title": "Classificazione e cause",
+        "description": "Ordinare segnalazioni, individuare pattern e formulare ipotesi di causa."
+      },
+      {
+        "title": "Documentazione e audit",
+        "description": "Checklist, report audit, riepiloghi evidenze e piani follow-up."
+      },
+      {
+        "title": "Controllo e validazione",
+        "description": "Errori, verifiche, fonti, responsabilità, privacy e limiti regolati."
+      }
+    ],
+    "exercises": [
+      "Classificazione di non conformità simulate.",
+      "Creazione report audit.",
+      "Analisi causa-effetto.",
+      "Piano azioni correttive."
+    ],
+    "materials": [
+      "Template report non conformità.",
+      "Checklist audit assistita.",
+      "Schema analisi causa-effetto.",
+      "Matrice priorità/impatto/azione."
+    ],
+    "privacy": "Si lavora su casi simulati o anonimizzati, con criteri per proteggere dati cliente, dati fornitore, reclami e processi produttivi riservati.",
+    "prerequisites": "Conoscenza base dei processi qualità o sistemi di gestione. Non sono richieste competenze tecniche.",
+    "faqs": [
+      {
+        "question": "L'AI determina la causa?",
+        "answer": "Aiuta a formulare ipotesi e ordinare evidenze; la valutazione resta umana."
+      },
+      {
+        "question": "È adatto ad aziende certificate?",
+        "answer": "Sì, con attenzione a tracciabilità e controllo documentale."
+      },
+      {
+        "question": "Crea checklist di audit?",
+        "answer": "Sì, partendo da procedure o scenari."
+      },
+      {
+        "question": "Come evitare documentazione non verificata?",
+        "answer": "Con fonti esplicite, review e checklist di validazione."
+      }
+    ],
+    "output": "Workflow qualità con classificazione, report, checklist audit e piano azioni correttive.",
+    "searchIntents": [
+      "corso AI aziendale su AI per qualità e non conformità",
+      "formazione pratica per AI per qualità e non conformità",
+      "training AI per funzioni operative",
+      "percorso Artik Lab per Workflow qualità con classificazione, report, checklist audit e piano azioni correttive",
+      "come introdurre AI per qualità e non conformità nei processi aziendali"
+    ],
+    "needSignals": [
+      "Il tema AI per qualità e non conformità è già presente nelle conversazioni interne, ma manca un metodo condiviso per trasformarlo in pratica.",
+      "Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.",
+      "Il processo collegato a AI per qualità e non conformità assorbe tempo, genera passaggi manuali o produce output difficili da verificare.",
+      "La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.",
+      "Serve un risultato concreto dopo la formazione: Workflow qualità con classificazione, report, checklist audit e piano azioni correttive."
+    ],
+    "extraExamples": [
+      {
+        "title": "Dal corso generico al processo reale",
+        "description": "Un'azienda chiede formazione su AI per qualità e non conformità, ma il problema vero emerge durante la mappatura: attività ripetute, controlli informali e responsabilità distribuite. Il percorso usa esempi vicini al lavoro quotidiano e trasforma la formazione in un primo modello operativo, non in una lezione teorica."
+      },
+      {
+        "title": "Da sperimentazione individuale a pratica governata",
+        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Workflow qualità con classificazione, report, checklist audit e piano azioni correttive."
+      },
+      {
+        "title": "Da entusiasmo a decisione",
+        "description": "Il management vuole capire se AI per qualità e non conformità merita budget e continuità. Durante il laboratorio si distinguono benefici immediati, rischi operativi e dipendenze dai dati. L'azienda esce con criteri per decidere il passo successivo invece di accumulare demo isolate."
+      }
+    ],
+    "selectionCriteria": [
+      "Scegliere questo corso se il bisogno principale riguarda AI per qualità e non conformità e non una panoramica generica sull'AI.",
+      "Preferirlo quando esiste un processo, un documento, un flusso o una responsabilità aziendale su cui lavorare durante il training.",
+      "Rimandarlo se non esiste ancora sponsor interno o se il problema è solo acquistare una licenza software.",
+      "Abbinarlo ad AI Workflow Redesign Lab quando prima serve capire quali processi meritano priorità."
+    ],
+    "limits": [
+      "Non promette automazione completa o sostituzione delle responsabilità umane.",
+      "Non richiede di caricare dati riservati in ambienti non approvati.",
+      "Non è una consulenza legale, fiscale, HR o tecnica specialistica quando tali responsabilità restano a funzioni competenti.",
+      "Produce competenze, criteri e materiali riutilizzabili; l'adozione continua richiede sponsorship, governance e pratica interna."
+    ],
+    "relatedCourseIds": [
+      "workflow-redesign",
+      "managing-ai-general",
+      "ai-governance",
+      "ai-output-quality"
+    ],
+    "urls": {
+      "html": "https://ar-tik.com/corsi/ai-quality-management.html",
+      "markdown": "https://ar-tik.com/corsi/ai-quality-management.md",
+      "dossier": "https://ar-tik.com/corsi/ai-quality-management-dossier.md",
+      "json": "https://ar-tik.com/corsi/ai-quality-management.json",
+      "catalog": "https://ar-tik.com/corsi/",
+      "catalogMarkdown": "https://ar-tik.com/corsi/index.md"
+    }
+  }
+}

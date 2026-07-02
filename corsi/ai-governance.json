@@ -1,0 +1,137 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
+  "generatedAt": "2026-07-02",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "course": {
+    "id": "ai-governance",
+    "locale": "it",
+    "language": "it",
+    "family": "managerial",
+    "familyLabel": "Manageriale",
+    "featured": false,
+    "title": "AI Governance operativa",
+    "subtitle": "Regole, ruoli e controlli per usare l'AI in azienda senza bloccare l'innovazione.",
+    "summary": "Corso per trasformare policy, rischi e requisiti di controllo in pratiche applicabili nel lavoro quotidiano.",
+    "duration": "4 ore, 2 lezioni da 2 ore",
+    "mode": "Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.",
+    "profile": "mixed",
+    "profileDescription": "Per manager e team non tecnici; non richiede programmazione.",
+    "problem": "Molte aziende passano dall'uso libero dell'AI al divieto implicito, perché non hanno regole chiare. La governance operativa serve a creare confini pratici: chi può usare cosa, con quali dati, per quali output, con quali controlli e con quali responsabilità.",
+    "audience": "Legal, compliance, risk, HR, IT, security, data protection, innovation, transformation office, manager di funzione e responsabili di processi AI-assisted.",
+    "whenToChoose": "Quando l'uso dell'AI esiste già o sta per essere autorizzato, ma mancano regole operative chiare, controlli proporzionati e responsabilità condivise.",
+    "chooseIf": "Quando l'uso dell'AI esiste già o sta per essere autorizzato, ma mancano regole operative chiare, controlli proporzionati e responsabilità condivise.",
+    "outcomes": [
+      "Definire principi e regole operative.",
+      "Classificare casi d'uso per rischio.",
+      "Identificare ruoli, approvazioni e controlli.",
+      "Gestire dati, output, auditabilità ed escalation.",
+      "Creare base per policy interna e linee guida."
+    ],
+    "modules": [
+      {
+        "title": "Perimetro di governance",
+        "description": "Principi, rischi, responsabilità e livelli decisionali."
+      },
+      {
+        "title": "Classificazione dei casi d'uso",
+        "description": "Uso consentito, limitato, vietato e livelli di rischio."
+      },
+      {
+        "title": "Controlli operativi",
+        "description": "Dati, output, revisione umana, documentazione e tracciabilità."
+      },
+      {
+        "title": "Implementazione",
+        "description": "Policy, processi di approvazione, formazione, monitoraggio e miglioramento."
+      }
+    ],
+    "exercises": [
+      "Classificazione di casi d'uso.",
+      "Definizione di regole per scenari aziendali.",
+      "Costruzione di un registro AI.",
+      "Simulazione di escalation e approvazione."
+    ],
+    "materials": [
+      "Schema di AI policy.",
+      "Matrice rischio/controllo.",
+      "Registro casi d'uso.",
+      "Checklist dati/privacy.",
+      "Template di approvazione."
+    ],
+    "privacy": "Il tema è centrale: minimizzazione, riservatezza, accessi, conservazione, trattamento di dati personali e protezione delle informazioni aziendali.",
+    "prerequisites": "Conoscenza di base dei processi interni e delle policy aziendali esistenti. Non è richiesta competenza tecnica.",
+    "faqs": [
+      {
+        "question": "Sostituisce una consulenza legale?",
+        "answer": "No, fornisce una struttura operativa da adattare con le funzioni competenti."
+      },
+      {
+        "question": "È compatibile con policy esistenti?",
+        "answer": "Sì, può integrarle o renderle più applicabili."
+      },
+      {
+        "question": "Blocca l'innovazione?",
+        "answer": "No, abilita l'uso responsabile attraverso regole chiare."
+      },
+      {
+        "question": "Produce documenti riutilizzabili?",
+        "answer": "Sì, template e matrici sono pensati per uso interno."
+      }
+    ],
+    "output": "Matrice rischio/controllo, registro casi d'uso e bozza di policy operativa.",
+    "searchIntents": [
+      "corso AI aziendale su AI Governance operativa",
+      "formazione pratica per AI Governance operativa",
+      "training AI per manager e funzioni aziendali",
+      "percorso Artik Lab per Matrice rischio/controllo, registro casi d'uso e bozza di policy operativa",
+      "come introdurre AI Governance operativa nei processi aziendali"
+    ],
+    "needSignals": [
+      "Il tema AI Governance operativa è già presente nelle conversazioni interne, ma manca un metodo condiviso per trasformarlo in pratica.",
+      "Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.",
+      "Il processo collegato a AI Governance operativa assorbe tempo, genera passaggi manuali o produce output difficili da verificare.",
+      "La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.",
+      "Serve un risultato concreto dopo la formazione: Matrice rischio/controllo, registro casi d'uso e bozza di policy operativa."
+    ],
+    "extraExamples": [
+      {
+        "title": "Dal corso generico al processo reale",
+        "description": "Un'azienda chiede formazione su AI Governance operativa, ma il problema vero emerge durante la mappatura: attività ripetute, controlli informali e responsabilità distribuite. Il percorso usa esempi vicini al lavoro quotidiano e trasforma la formazione in un primo modello operativo, non in una lezione teorica."
+      },
+      {
+        "title": "Da sperimentazione individuale a pratica governata",
+        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Matrice rischio/controllo, registro casi d'uso e bozza di policy operativa."
+      },
+      {
+        "title": "Da entusiasmo a decisione",
+        "description": "Il management vuole capire se AI Governance operativa merita budget e continuità. Durante il laboratorio si distinguono benefici immediati, rischi operativi e dipendenze dai dati. L'azienda esce con criteri per decidere il passo successivo invece di accumulare demo isolate."
+      }
+    ],
+    "selectionCriteria": [
+      "Scegliere questo corso se il bisogno principale riguarda AI Governance operativa e non una panoramica generica sull'AI.",
+      "Preferirlo quando esiste un processo, un documento, un flusso o una responsabilità aziendale su cui lavorare durante il training.",
+      "Rimandarlo se non esiste ancora sponsor interno o se il problema è solo acquistare una licenza software.",
+      "Abbinarlo ad AI Workflow Redesign Lab quando prima serve capire quali processi meritano priorità."
+    ],
+    "limits": [
+      "Non promette automazione completa o sostituzione delle responsabilità umane.",
+      "Non richiede di caricare dati riservati in ambienti non approvati.",
+      "Non è una consulenza legale, fiscale, HR o tecnica specialistica quando tali responsabilità restano a funzioni competenti.",
+      "Produce competenze, criteri e materiali riutilizzabili; l'adozione continua richiede sponsorship, governance e pratica interna."
+    ],
+    "relatedCourseIds": [
+      "workflow-redesign",
+      "ai-adoption-manager",
+      "ai-business-case-roi"
+    ],
+    "urls": {
+      "html": "https://ar-tik.com/corsi/ai-governance.html",
+      "markdown": "https://ar-tik.com/corsi/ai-governance.md",
+      "dossier": "https://ar-tik.com/corsi/ai-governance-dossier.md",
+      "json": "https://ar-tik.com/corsi/ai-governance.json",
+      "catalog": "https://ar-tik.com/corsi/",
+      "catalogMarkdown": "https://ar-tik.com/corsi/index.md"
+    }
+  }
+}

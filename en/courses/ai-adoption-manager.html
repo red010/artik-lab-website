@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Adoption Manager / AI Champions - Artik Lab</title>
+  <meta name="description" content="Practical corporate course for applying AI to AI adoption champions, with exercises on realistic work, reusable materials and clear governance criteria.">
+  <meta name="author" content="Artik Lab s.r.l.">
+  <link rel="canonical" href="https://ar-tik.com/en/courses/ai-adoption-manager.html">
+  <link rel="alternate" type="text/markdown" title="Markdown mirror" href="https://ar-tik.com/en/courses/ai-adoption-manager.md">
+  <link rel="alternate" type="text/markdown" title="LLM dossier" href="https://ar-tik.com/en/courses/ai-adoption-manager-dossier.md">
+  <link rel="alternate" hreflang="it" href="https://ar-tik.com/corsi/ai-adoption-manager.html">
+  <link rel="alternate" hreflang="en" href="https://ar-tik.com/en/courses/ai-adoption-manager.html">
+  <link rel="alternate" hreflang="es" href="https://ar-tik.com/es/cursos/ai-adoption-manager.html">
+  <link rel="alternate" hreflang="fr" href="https://ar-tik.com/fr/cours/ai-adoption-manager.html">
+  <link rel="alternate" hreflang="pt-BR" href="https://ar-tik.com/pt-br/cursos/ai-adoption-manager.html">
+  <link rel="alternate" hreflang="x-default" href="https://ar-tik.com/corsi/ai-adoption-manager.html">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Artik Lab">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:locale:alternate" content="it_IT">
+  <meta property="og:locale:alternate" content="es_ES">
+  <meta property="og:locale:alternate" content="fr_FR">
+  <meta property="og:locale:alternate" content="pt_BR">
+  <meta property="og:url" content="https://ar-tik.com/en/courses/ai-adoption-manager.html">
+  <meta property="og:title" content="AI Adoption Manager / AI Champions - Artik Lab">
+  <meta property="og:description" content="Practical corporate course for applying AI to AI adoption champions, with exercises on realistic work, reusable materials and clear governance criteria.">
+  <meta property="og:image" content="https://ar-tik.com/assets/images/hero-ai-consulting.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="AI Adoption Manager / AI Champions - Artik Lab">
+  <meta name="twitter:description" content="Practical corporate course for applying AI to AI adoption champions, with exercises on realistic work, reusable materials and clear governance criteria.">
+  <meta name="twitter:image" content="https://ar-tik.com/assets/images/hero-ai-consulting.png">
+  <link rel="icon" type="image/svg+xml" href="/assets/images/artik-lab.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;700&family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: { navy: '#0D435B', teal: '#0E88A5', green: '#47B488', lime: '#9BC979', paper: '#F7FAF8' },
+          fontFamily: { heading: ['Playfair Display', 'Georgia', 'serif'], body: ['DM Sans', 'sans-serif'] }
+        }
+      }
+    };
+  </script>
+  <script src="https://unpkg.com/lucide@1.23.0/dist/umd/lucide.min.js"></script>
+  <link rel="stylesheet" href="/css/custom.css?v=20260702-type-scale-compact">
+  <script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://ar-tik.com/#organization",
+      "name": "Artik Lab",
+      "legalName": "Artik Lab s.r.l.",
+      "url": "https://ar-tik.com",
+      "logo": "https://ar-tik.com/assets/images/artik-lab.svg",
+      "description": "Artik Lab builds AI capabilities that remain inside the company: measurable processes, governance, operational training, agentic data analysis and controlled prototypes.",
+      "email": "dtr@ar-tik.com",
+      "vatID": "IT04120810041",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "dtr@ar-tik.com",
+        "contactType": "business inquiries",
+        "availableLanguage": [
+          "Italiano",
+          "English",
+          "Español",
+          "Français",
+          "Português do Brasil"
+        ]
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "IT"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://ar-tik.com/#website",
+      "name": "Artik Lab",
+      "url": "https://ar-tik.com",
+      "inLanguage": "en",
+      "publisher": {
+        "@id": "https://ar-tik.com/#organization"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ar-tik.com/en/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Corporate AI courses: choose the right path",
+          "item": "https://ar-tik.com/en/courses/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "AI Adoption Manager / AI Champions",
+          "item": "https://ar-tik.com/en/courses/ai-adoption-manager.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is the course tool-specific?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Patterns and workflows are adapted to the tools and policies chosen with the client."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can company data be used?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Only when accounts, contracts and internal policies allow it. Otherwise synthetic or anonymised data is used."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What remains after the course?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Reusable materials, examples, checklists and a clear set of next steps."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is it theoretical?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The course is built around practical exercises and decisions close to real work."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "name": "AI Adoption Manager / AI Champions",
+      "description": "Practical corporate course for applying AI to AI adoption champions, with exercises on realistic work, reusable materials and clear governance criteria.",
+      "url": "https://ar-tik.com/en/courses/ai-adoption-manager.html",
+      "provider": {
+        "@id": "https://ar-tik.com/#organization"
+      },
+      "areaServed": "IT",
+      "serviceType": "AI training and corporate education",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Course",
+      "name": "AI Adoption Manager / AI Champions",
+      "description": "Practical corporate course for applying AI to AI adoption champions, with exercises on realistic work, reusable materials and clear governance criteria.",
+      "url": "https://ar-tik.com/en/courses/ai-adoption-manager.html",
+      "provider": {
+        "@id": "https://ar-tik.com/#organization"
+      },
+      "inLanguage": "en",
+      "educationalLevel": "For company teams, operational functions and managers; no programming required.",
+      "coursePrerequisites": "No programming required. Familiarity with the business process is useful.",
+      "teaches": [
+        "Map the work and the decisions where AI can reduce friction.",
+        "Build practical instructions, checklists and review criteria.",
+        "Identify data, privacy and responsibility boundaries.",
+        "Create reusable examples for the team.",
+        "Define next steps for adoption and governance."
+      ],
+      "assesses": "Operating canvas for AI adoption champions.",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "For company teams, operational functions and managers; no programming required."
+      },
+      "hasCourseInstance": {
+        "@type": "CourseInstance",
+        "courseMode": "In-person or online lab, with guided exercises and materials adapted to the client.",
+        "courseWorkload": "6-8 hours, configurable"
+      }
+    }
+  ]
+}</script>
+</head>
+<body>
+<a class="skip-link" href="#content">Skip to content</a>
+<header id="site-header" class="site-header">
+  <div class="shell header-inner">
+    <a class="brand" href="/en/" aria-label="Artik Lab">
+      <img src="/assets/images/artik-lab.svg" alt="Artik Lab" width="142" height="50">
+    </a>
+    <nav class="desktop-nav" aria-label="Main navigation">
+      <a class="nav-link" href="/en/#method">Method</a>
+      <a class="nav-link" href="/en/#services">Services</a>
+      <a class="nav-link" href="/en/ai-applications-atlas.html">AI atlas</a>
+      <a class="nav-link" href="/en/agentic-data-analysis.html">Data analysis</a>
+      <a class="nav-link" href="/en/technical-software-development.html">Software</a>
+      <a class="nav-link active" href="/en/courses/">Courses</a>
+      <a class="nav-link" href="/en/ai-business-faq.html">FAQ</a>
+      <a class="nav-link" href="/en/#contact">Contact</a>
+    </nav>
+    <div class="header-actions">
+      <div class="language-switcher" aria-label="Language selector"><a class="lang-link" href="/corsi/ai-adoption-manager.html" hreflang="it">IT</a><span class="lang-current" aria-current="page">EN</span><a class="lang-link" href="/es/cursos/ai-adoption-manager.html" hreflang="es">ES</a><a class="lang-link" href="/fr/cours/ai-adoption-manager.html" hreflang="fr">FR</a><a class="lang-link" href="/pt-br/cursos/ai-adoption-manager.html" hreflang="pt-BR">PT</a></div>
+      <button id="menu-toggle" class="icon-button" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="mobile-menu">
+        <i data-lucide="menu" aria-hidden="true"></i>
+      </button>
+    </div>
+  </div>
+  <div id="mobile-menu" class="mobile-menu" hidden>
+    <div class="mobile-menu-panel">
+      <button id="menu-close" class="icon-button inverted" type="button" aria-label="Close menu">
+        <i data-lucide="x" aria-hidden="true"></i>
+      </button>
+      <nav aria-label="Mobile navigation">
+        <a class="nav-link" href="/en/#method">Method</a>
+        <a class="nav-link" href="/en/#services">Services</a>
+        <a class="nav-link" href="/en/ai-applications-atlas.html">AI atlas</a>
+        <a class="nav-link" href="/en/agentic-data-analysis.html">Data analysis</a>
+        <a class="nav-link" href="/en/technical-software-development.html">Software</a>
+        <a class="nav-link active" href="/en/courses/">Courses</a>
+        <a class="nav-link" href="/en/ai-business-faq.html">FAQ</a>
+        <a class="nav-link" href="/en/#contact">Contact</a>
+      </nav>
+      <div class="language-switcher mobile"><a class="lang-link" href="/corsi/ai-adoption-manager.html" hreflang="it">IT</a><span class="lang-current" aria-current="page">EN</span><a class="lang-link" href="/es/cursos/ai-adoption-manager.html" hreflang="es">ES</a><a class="lang-link" href="/fr/cours/ai-adoption-manager.html" hreflang="fr">FR</a><a class="lang-link" href="/pt-br/cursos/ai-adoption-manager.html" hreflang="pt-BR">PT</a></div>
+    </div>
+  </div>
+</header>
+<nav class="breadcrumbs shell" aria-label="Breadcrumb"><a href="https://ar-tik.com/en/">Home</a><span>/</span><a href="https://ar-tik.com/en/courses/">Corporate AI courses: choose the right path</a><span>/</span><span aria-current="page">AI Adoption Manager / AI Champions</span></nav>
+<main id="content">
+<section class="hero interior-hero course-detail-hero">
+  <div class="shell hero-content">
+    <p class="eyebrow light">Managerial · Program, outcomes and prerequisites</p>
+    <h1>AI Adoption Manager / AI Champions</h1>
+    <p class="hero-lead">Practical corporate course for applying AI to AI adoption champions, with exercises on realistic work, reusable materials and clear governance criteria.</p>
+    <div class="button-row">
+      <a class="button primary" href="#contatti">Request path adaptation</a>
+      <a class="button secondary" href="/en/courses/">All courses</a>
+    </div>
+  </div>
+</section>
+<section class="section course-overview">
+  <div class="shell two-column">
+    <div>
+      <p class="eyebrow">The problem it solves</p>
+      <h2>The problem it solves</h2>
+      <p class="large-text">Companies often approach AI adoption champions through scattered experiments: a few prompts, a few enthusiastic users, many doubts about data, quality and responsibility. This course turns that uncertainty into an operating method. Participants work on realistic scenarios, learn where AI helps, where human review remains essential and how to make the practice repeatable inside the company.</p>
+    </div>
+    <dl class="course-facts course-facts-rich">
+  <div><dt>Duration</dt><dd>6-8 hours, configurable</dd></div>
+  <div><dt>Mode</dt><dd>In-person or online lab, with guided exercises and materials adapted to the client.</dd></div>
+  <div><dt>Profile</dt><dd>For company teams, operational functions and managers; no programming required.</dd></div>
+  <div><dt>Final output</dt><dd>Operating canvas for AI adoption champions.</dd></div>
+</dl>
+  </div>
+</section>
+<section class="section paper-section">
+  <div class="shell course-detail-grid">
+    <article>
+      <p class="eyebrow">Audience</p>
+      <h2>Audience</h2>
+      <p>For company teams, operational functions and managers; no programming required.</p>
+    </article>
+    <article>
+      <p class="eyebrow">When to choose it</p>
+      <h2>When to choose it</h2>
+      <p>Choose this course when the company wants concrete progress on AI adoption champions and needs training that produces usable workflows, not abstract theory.</p>
+    </article>
+  </div>
+</section>
+<section class="section">
+  <div class="shell two-column">
+    <div>
+      <p class="eyebrow">Concrete outcomes</p>
+      <h2>Concrete outcomes</h2>
+    </div>
+    <ul class="check-list"><li>Map the work and the decisions where AI can reduce friction.</li><li>Build practical instructions, checklists and review criteria.</li><li>Identify data, privacy and responsibility boundaries.</li><li>Create reusable examples for the team.</li><li>Define next steps for adoption and governance.</li></ul>
+  </div>
+</section>
+<section class="section paper-section">
+  <div class="shell two-column">
+    <div>
+      <p class="eyebrow">Program</p>
+      <h2>Program</h2>
+    </div>
+    <ol class="process-list course-module-list"><li><span>1</span><div><strong>Shared understanding</strong><p>Capabilities, limits, responsibilities and business implications.</p></div></li><li><span>2</span><div><strong>Use-case evaluation</strong><p>Value, feasibility, risk, data and ownership.</p></div></li><li><span>3</span><div><strong>Governance and quality</strong><p>Rules, review, escalation and accountable decisions.</p></div></li><li><span>4</span><div><strong>Adoption roadmap</strong><p>Priorities, skills, metrics and next steps.</p></div></li></ol>
+  </div>
+</section>
+<section class="section">
+  <div class="shell course-detail-grid">
+    <article>
+      <p class="eyebrow">Practical exercises</p>
+      <h2>Practical exercises</h2>
+      <ul class="check-list"><li>Map a realistic process connected to AI adoption champions.</li><li>Create AI-assisted outputs and review them critically.</li><li>Define escalation and human review points.</li><li>Build a reusable checklist for daily work.</li></ul>
+    </article>
+    <article>
+      <p class="eyebrow">Materials delivered</p>
+      <h2>Materials delivered</h2>
+      <ul class="check-list"><li>Operating canvas for AI adoption champions.</li><li>Prompt and instruction templates.</li><li>Quality and privacy checklist.</li><li>Risk/control matrix.</li><li>Adoption notes for the team.</li></ul>
+    </article>
+  </div>
+</section>
+<section class="section split-highlight">
+  <div class="shell two-column">
+    <div>
+      <p class="eyebrow">Data, privacy and limits</p>
+      <h2>Data, privacy and limits</h2>
+    </div>
+    <div>
+      <p class="large-text">The course uses synthetic, public, anonymised or client-approved materials. It explains how to minimise data exposure, protect confidential information, verify outputs and keep human responsibility explicit.</p>
+      <h3 class="mini-heading">Prerequisites</h3>
+      <p>No programming required. Familiarity with the business process is useful.</p>
+    </div>
+  </div>
+</section>
+<section class="section faq-section">
+  <div class="shell narrow">
+    <p class="eyebrow">FAQ</p>
+    <h2>FAQ</h2>
+    <div class="faq-list"><details><summary>Is the course tool-specific?</summary><p>No. Patterns and workflows are adapted to the tools and policies chosen with the client.</p></details><details><summary>Can company data be used?</summary><p>Only when accounts, contracts and internal policies allow it. Otherwise synthetic or anonymised data is used.</p></details><details><summary>What remains after the course?</summary><p>Reusable materials, examples, checklists and a clear set of next steps.</p></details><details><summary>Is it theoretical?</summary><p>No. The course is built around practical exercises and decisions close to real work.</p></details></div>
+  </div>
+</section>
+<section id="contatti" class="section contact-section">
+  <div class="shell contact-grid">
+    <div>
+      <p class="eyebrow">Contact</p>
+      <h2>A short conversation is enough to understand where to start.</h2>
+      <p>The first 30-45 minute call clarifies the process, goal, available data, constraints and next useful step: training, consulting, data analysis or a controlled technical prototype.</p>
+      <a class="text-link light" href="mailto:dtr@ar-tik.com">Write to dtr@ar-tik.com</a>
+    </div>
+    <form id="contact-form" class="contact-form" data-lang="en">
+      <label>Name and role<input name="name" autocomplete="name" required></label>
+      <label>Company email<input name="email" type="email" autocomplete="email" required></label>
+      <label>Topic<input name="topic" required></label>
+      <label>Message<textarea name="message" rows="5" required></textarea></label>
+      <button class="button primary" type="submit"><i data-lucide="mail" aria-hidden="true"></i>Prepare email</button>
+    </form>
+  </div>
+</section>
+</main>
+<footer class="site-footer">
+  <div class="shell footer-grid">
+    <div>
+      <img src="/assets/images/artik-lab.svg" alt="Artik Lab" class="footer-logo" width="142" height="50">
+      <p>AI consulting for Italian SMEs</p>
+    </div>
+    <nav aria-label="Footer navigation">
+      <a href="/en/ai-applications-atlas.html">AI atlas</a>
+      <a href="/en/agentic-data-analysis.html">Data analysis</a>
+      <a href="/en/technical-software-development.html">Software</a>
+      <a href="/en/courses/">Courses</a>
+      <a href="/en/ai-business-faq.html">FAQ</a>
+      <a href="/en/#contact">Contact</a>
+      <a href="/llms.txt">llms.txt</a>
+    </nav>
+    <div class="footer-meta">
+      <p>Artik Lab s.r.l. - startup innovativa</p>
+      <p>P.IVA IT04120810041</p>
+      <p>Italia · dtr@ar-tik.com</p>
+    </div>
+  </div>
+  <div class="shell footer-bottom">
+    <p>© 2026 Artik Lab s.r.l. All rights reserved.</p>
+  </div>
+</footer>
+<script src="/js/main.js?v=20260702-type-scale-compact"></script>
+</body>
+</html>

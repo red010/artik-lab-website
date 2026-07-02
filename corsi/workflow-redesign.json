@@ -1,0 +1,138 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
+  "generatedAt": "2026-07-02",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "course": {
+    "id": "workflow-redesign",
+    "locale": "it",
+    "language": "it",
+    "family": "foundation",
+    "familyLabel": "Fondamentale",
+    "featured": true,
+    "title": "AI Workflow Redesign Lab",
+    "subtitle": "Il laboratorio fondamentale per ridisegnare attività, processi e flussi decisionali integrando l'AI generativa in modo utile, misurabile e governato.",
+    "summary": "Laboratorio centrale per passare dall'uso spontaneo dell'AI a flussi di lavoro uomo-AI governati, con mappa delle priorità e roadmap operativa.",
+    "duration": "8 ore, modulabili in 2 o 4 sessioni",
+    "mode": "Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.",
+    "profile": "all",
+    "profileDescription": "Per team aziendali, funzioni operative e manager; non richiede programmazione.",
+    "problem": "Molte aziende hanno già sperimentato strumenti AI, ma il lavoro quotidiano resta uguale: file copiati a mano, passaggi tra uffici poco chiari, decisioni lente, output difficili da verificare. Il rischio è accumulare esperimenti brillanti ma isolati. Questo laboratorio parte dai flussi reali e li ridisegna per capire dove l'AI può aiutare, dove serve supervisione e dove conviene non automatizzare.",
+    "audience": "Manager, responsabili di funzione, process owner, innovation team, HR, operations, marketing, sales, customer service, legal, compliance e figure coinvolte nella trasformazione dei processi.",
+    "whenToChoose": "Quando l'azienda ha già curiosità o sperimentazioni AI ma non ha ancora trasformato il lavoro. È il punto di partenza consigliato prima di corsi verticali, policy, piloti o acquisti tecnologici.",
+    "chooseIf": "Quando l'azienda ha già curiosità o sperimentazioni AI ma non ha ancora trasformato il lavoro. È il punto di partenza consigliato prima di corsi verticali, policy, piloti o acquisti tecnologici.",
+    "outcomes": [
+      "Identificare processi ad alto potenziale AI.",
+      "Distinguere attività automatizzabili, aumentabili e da mantenere umane.",
+      "Disegnare workflow ibridi con input, output, controlli e responsabilità.",
+      "Definire metriche operative su tempo, qualità, rischio e costo.",
+      "Costruire una roadmap di implementazione per priorità e dipendenze."
+    ],
+    "modules": [
+      {
+        "title": "Mappare il lavoro reale",
+        "description": "Attività, decisioni, passaggi informativi, colli di bottiglia e responsabilità implicite."
+      },
+      {
+        "title": "Valutare il potenziale AI",
+        "description": "Impatto, fattibilità, rischio, qualità del dato e livello di controllo necessario."
+      },
+      {
+        "title": "Ridisegnare il workflow",
+        "description": "Ruoli, input, output, verifiche, escalation e tracciabilità del flusso uomo-AI."
+      },
+      {
+        "title": "Portare in produzione",
+        "description": "Metriche, governance minima, roadmap, cambiamento organizzativo e ownership."
+      }
+    ],
+    "exercises": [
+      "Analisi di workflow aziendali reali o realistici.",
+      "Matrice impatto/fattibilità/rischio su processi candidati.",
+      "Redesign guidato di un processo prioritario.",
+      "Definizione di controlli umani e indicatori di performance."
+    ],
+    "materials": [
+      "Canvas di mappatura workflow.",
+      "Matrice di prioritizzazione AI.",
+      "Modello di workflow ibrido.",
+      "Checklist di readiness e schema roadmap.",
+      "Template per metriche e responsabilità."
+    ],
+    "privacy": "Si lavora su esempi anonimizzati, dati sintetici o materiali non sensibili. Il corso introduce minimizzazione, classificazione delle informazioni, controllo degli accessi, tracciabilità e uso responsabile dei dati nei flussi AI-assisted.",
+    "prerequisites": "Nessuna competenza tecnica richiesta. È utile conoscere i processi aziendali che si desidera analizzare.",
+    "faqs": [
+      {
+        "question": "Serve un team tecnico?",
+        "answer": "No. Il corso è pensato per figure decisionali e operative."
+      },
+      {
+        "question": "Si lavora su casi reali?",
+        "answer": "Sì, preferibilmente su workflow aziendali concreti, opportunamente anonimizzati."
+      },
+      {
+        "question": "Produce solo idee?",
+        "answer": "No. Produce mappe, priorità, workflow ridisegnati e roadmap."
+      },
+      {
+        "question": "È adatto come primo corso AI?",
+        "answer": "Sì, è il percorso fondamentale per trasformare l'AI in cambiamento organizzativo."
+      }
+    ],
+    "output": "Mappa dei workflow prioritari, prototipo di flusso uomo-AI e roadmap di adozione.",
+    "searchIntents": [
+      "corso AI aziendale su AI Workflow Redesign Lab",
+      "formazione pratica per AI Workflow Redesign Lab",
+      "training AI per workflow aziendali",
+      "percorso Artik Lab per Mappa dei workflow prioritari, prototipo di flusso uomo-AI e roadmap di adozione",
+      "come introdurre AI Workflow Redesign Lab nei processi aziendali"
+    ],
+    "needSignals": [
+      "Il tema AI Workflow Redesign Lab è già presente nelle conversazioni interne, ma manca un metodo condiviso per trasformarlo in pratica.",
+      "Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.",
+      "Il processo collegato a AI Workflow Redesign Lab assorbe tempo, genera passaggi manuali o produce output difficili da verificare.",
+      "La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.",
+      "Serve un risultato concreto dopo la formazione: Mappa dei workflow prioritari, prototipo di flusso uomo-AI e roadmap di adozione."
+    ],
+    "extraExamples": [
+      {
+        "title": "Dal corso generico al processo reale",
+        "description": "Un'azienda chiede formazione su AI Workflow Redesign Lab, ma il problema vero emerge durante la mappatura: attività ripetute, controlli informali e responsabilità distribuite. Il percorso usa esempi vicini al lavoro quotidiano e trasforma la formazione in un primo modello operativo, non in una lezione teorica."
+      },
+      {
+        "title": "Da sperimentazione individuale a pratica governata",
+        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Mappa dei workflow prioritari, prototipo di flusso uomo-AI e roadmap di adozione."
+      },
+      {
+        "title": "Da entusiasmo a decisione",
+        "description": "Il management vuole capire se AI Workflow Redesign Lab merita budget e continuità. Durante il laboratorio si distinguono benefici immediati, rischi operativi e dipendenze dai dati. L'azienda esce con criteri per decidere il passo successivo invece di accumulare demo isolate."
+      }
+    ],
+    "selectionCriteria": [
+      "Scegliere questo corso se il bisogno principale riguarda AI Workflow Redesign Lab e non una panoramica generica sull'AI.",
+      "Preferirlo quando esiste un processo, un documento, un flusso o una responsabilità aziendale su cui lavorare durante il training.",
+      "Rimandarlo se non esiste ancora sponsor interno o se il problema è solo acquistare una licenza software.",
+      "Usarlo come punto di partenza quando non è ancora chiaro quali processi meritano priorità."
+    ],
+    "limits": [
+      "Non promette automazione completa o sostituzione delle responsabilità umane.",
+      "Non richiede di caricare dati riservati in ambienti non approvati.",
+      "Non è una consulenza legale, fiscale, HR o tecnica specialistica quando tali responsabilità restano a funzioni competenti.",
+      "Produce competenze, criteri e materiali riutilizzabili; l'adozione continua richiede sponsorship, governance e pratica interna."
+    ],
+    "relatedCourseIds": [
+      "managing-ai",
+      "ai-literacy",
+      "ai-governance",
+      "ai-output-quality"
+    ],
+    "urls": {
+      "html": "https://ar-tik.com/corsi/workflow-redesign.html",
+      "markdown": "https://ar-tik.com/corsi/workflow-redesign.md",
+      "dossier": "https://ar-tik.com/corsi/workflow-redesign-dossier.md",
+      "json": "https://ar-tik.com/corsi/workflow-redesign.json",
+      "catalog": "https://ar-tik.com/corsi/",
+      "catalogMarkdown": "https://ar-tik.com/corsi/index.md"
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
+  "generatedAt": "2026-07-02",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "course": {
+    "id": "ai-brand-voice",
+    "locale": "it",
+    "language": "it",
+    "family": "operational",
+    "familyLabel": "Operativo",
+    "featured": false,
+    "title": "AI Brand Voice e comunicazione",
+    "subtitle": "Usare l'AI nella comunicazione senza perdere identità: tono, messaggi, linee guida e workflow editoriali.",
+    "summary": "Percorso per aziende che vogliono aumentare produzione comunicativa mantenendo una voce riconoscibile e verificabile.",
+    "duration": "4 ore, 2 lezioni da 2 ore",
+    "mode": "Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.",
+    "profile": "mixed",
+    "profileDescription": "Per manager e team non tecnici; non richiede programmazione.",
+    "problem": "L'AI può produrre molto testo in poco tempo, ma senza una guida chiara tende a rendere ogni marca simile alle altre. Il corso parte da posizionamento, parole da usare e da evitare, esempi approvati e controlli editoriali, così il team produce di più senza perdere identità.",
+    "audience": "Marketing, comunicazione, direzione, commerciale, employer branding, HR communication e team che producono materiali interni o esterni.",
+    "whenToChoose": "Quando l'azienda vuole usare l'AI per comunicare meglio ma teme contenuti generici, incoerenti o non aderenti alla propria identità.",
+    "chooseIf": "Quando l'azienda vuole usare l'AI per comunicare meglio ma teme contenuti generici, incoerenti o non aderenti alla propria identità.",
+    "outcomes": [
+      "Definire una brand voice operativa.",
+      "Creare linee guida per contenuti AI-assisted.",
+      "Produrre messaggi coerenti per canali diversi.",
+      "Controllare qualità, tono e coerenza.",
+      "Costruire workflow editoriale riutilizzabile."
+    ],
+    "modules": [
+      {
+        "title": "Voce e posizionamento",
+        "description": "Identità, tono, lessico, messaggi chiave e confini."
+      },
+      {
+        "title": "Prompt e istruzioni editoriali",
+        "description": "Come dare contesto, esempi, criteri e obiettivi."
+      },
+      {
+        "title": "Workflow di produzione",
+        "description": "Ideazione, bozza, revisione, adattamento canale e approvazione."
+      },
+      {
+        "title": "Governance della comunicazione",
+        "description": "Ruoli, controlli, archivi di esempi e misurazione."
+      }
+    ],
+    "exercises": [
+      "Costruzione di una brand voice sheet.",
+      "Riscrittura di contenuti in vari toni.",
+      "Produzione di materiali multicanale.",
+      "Revisione di output incoerenti."
+    ],
+    "materials": [
+      "Brand voice sheet.",
+      "Libreria istruzioni editoriali.",
+      "Checklist di review.",
+      "Workflow contenuti AI-assisted."
+    ],
+    "privacy": "Si usano materiali pubblici o approvati. Il corso tratta copyright, uso di dati cliente, contenuti sensibili e controlli prima della pubblicazione.",
+    "prerequisites": "Nessuna competenza tecnica. È utile avere materiali comunicativi esistenti.",
+    "faqs": [
+      {
+        "question": "È diverso dal corso marketing introduttivo?",
+        "answer": "Sì, qui il focus è la voce aziendale e il sistema editoriale."
+      },
+      {
+        "question": "Produce linee guida riutilizzabili?",
+        "answer": "Sì, pensate per team e fornitori."
+      },
+      {
+        "question": "Aiuta con canali diversi?",
+        "answer": "Sì, adatta messaggi a contesti diversi mantenendo coerenza."
+      },
+      {
+        "question": "È solo scrittura?",
+        "answer": "No, include processo, review e governance editoriale."
+      }
+    ],
+    "output": "Brand voice sheet e workflow editoriale AI-assisted.",
+    "searchIntents": [
+      "corso AI aziendale su AI Brand Voice e comunicazione",
+      "formazione pratica per AI Brand Voice e comunicazione",
+      "training AI per funzioni operative",
+      "percorso Artik Lab per Brand voice sheet e workflow editoriale AI-assisted",
+      "come introdurre AI Brand Voice e comunicazione nei processi aziendali"
+    ],
+    "needSignals": [
+      "Il tema AI Brand Voice e comunicazione è già presente nelle conversazioni interne, ma manca un metodo condiviso per trasformarlo in pratica.",
+      "Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.",
+      "Il processo collegato a AI Brand Voice e comunicazione assorbe tempo, genera passaggi manuali o produce output difficili da verificare.",
+      "La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.",
+      "Serve un risultato concreto dopo la formazione: Brand voice sheet e workflow editoriale AI-assisted."
+    ],
+    "extraExamples": [
+      {
+        "title": "Dal corso generico al processo reale",
+        "description": "Un'azienda chiede formazione su AI Brand Voice e comunicazione, ma il problema vero emerge durante la mappatura: attività ripetute, controlli informali e responsabilità distribuite. Il percorso usa esempi vicini al lavoro quotidiano e trasforma la formazione in un primo modello operativo, non in una lezione teorica."
+      },
+      {
+        "title": "Da sperimentazione individuale a pratica governata",
+        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Brand voice sheet e workflow editoriale AI-assisted."
+      },
+      {
+        "title": "Da entusiasmo a decisione",
+        "description": "Il management vuole capire se AI Brand Voice e comunicazione merita budget e continuità. Durante il laboratorio si distinguono benefici immediati, rischi operativi e dipendenze dai dati. L'azienda esce con criteri per decidere il passo successivo invece di accumulare demo isolate."
+      }
+    ],
+    "selectionCriteria": [
+      "Scegliere questo corso se il bisogno principale riguarda AI Brand Voice e comunicazione e non una panoramica generica sull'AI.",
+      "Preferirlo quando esiste un processo, un documento, un flusso o una responsabilità aziendale su cui lavorare durante il training.",
+      "Rimandarlo se non esiste ancora sponsor interno o se il problema è solo acquistare una licenza software.",
+      "Abbinarlo ad AI Workflow Redesign Lab quando prima serve capire quali processi meritano priorità."
+    ],
+    "limits": [
+      "Non promette automazione completa o sostituzione delle responsabilità umane.",
+      "Non richiede di caricare dati riservati in ambienti non approvati.",
+      "Non è una consulenza legale, fiscale, HR o tecnica specialistica quando tali responsabilità restano a funzioni competenti.",
+      "Produce competenze, criteri e materiali riutilizzabili; l'adozione continua richiede sponsorship, governance e pratica interna."
+    ],
+    "relatedCourseIds": [
+      "workflow-redesign",
+      "managing-ai-general",
+      "ai-governance",
+      "ai-output-quality"
+    ],
+    "urls": {
+      "html": "https://ar-tik.com/corsi/ai-brand-voice.html",
+      "markdown": "https://ar-tik.com/corsi/ai-brand-voice.md",
+      "dossier": "https://ar-tik.com/corsi/ai-brand-voice-dossier.md",
+      "json": "https://ar-tik.com/corsi/ai-brand-voice.json",
+      "catalog": "https://ar-tik.com/corsi/",
+      "catalogMarkdown": "https://ar-tik.com/corsi/index.md"
+    }
+  }
+}

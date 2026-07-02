@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Analisi dati agentica per asset operativi - Artik Lab</title>
+  <meta name="description" content="Analisi dati agentica per trasformare dati già disponibili in segnali verificati, decisioni operative e business case con limiti espliciti.">
+  <meta name="author" content="Artik Lab s.r.l.">
+  <link rel="canonical" href="https://ar-tik.com/analisi-dati-agentica.html">
+  <link rel="alternate" hreflang="it" href="https://ar-tik.com/analisi-dati-agentica.html">
+  <link rel="alternate" hreflang="en" href="https://ar-tik.com/en/agentic-data-analysis.html">
+  <link rel="alternate" hreflang="es" href="https://ar-tik.com/es/analisis-datos-agentico.html">
+  <link rel="alternate" hreflang="fr" href="https://ar-tik.com/fr/analyse-donnees-agentique.html">
+  <link rel="alternate" hreflang="pt-BR" href="https://ar-tik.com/pt-br/analise-dados-agentica.html">
+  <link rel="alternate" hreflang="x-default" href="https://ar-tik.com/analisi-dati-agentica.html">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Artik Lab">
+  <meta property="og:locale" content="it_IT">
+  <meta property="og:locale:alternate" content="en_US">
+  <meta property="og:locale:alternate" content="es_ES">
+  <meta property="og:locale:alternate" content="fr_FR">
+  <meta property="og:locale:alternate" content="pt_BR">
+  <meta property="og:url" content="https://ar-tik.com/analisi-dati-agentica.html">
+  <meta property="og:title" content="Analisi dati agentica per asset operativi - Artik Lab">
+  <meta property="og:description" content="Analisi dati agentica per trasformare dati già disponibili in segnali verificati, decisioni operative e business case con limiti espliciti.">
+  <meta property="og:image" content="https://ar-tik.com/assets/images/hero-ai-consulting.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Analisi dati agentica per asset operativi - Artik Lab">
+  <meta name="twitter:description" content="Analisi dati agentica per trasformare dati già disponibili in segnali verificati, decisioni operative e business case con limiti espliciti.">
+  <meta name="twitter:image" content="https://ar-tik.com/assets/images/hero-ai-consulting.png">
+  <link rel="icon" type="image/svg+xml" href="/assets/images/artik-lab.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;700&family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: { navy: '#0D435B', teal: '#0E88A5', green: '#47B488', lime: '#9BC979', paper: '#F7FAF8' },
+          fontFamily: { heading: ['Playfair Display', 'Georgia', 'serif'], body: ['DM Sans', 'sans-serif'] }
+        }
+      }
+    };
+  </script>
+  <script src="https://unpkg.com/lucide@1.23.0/dist/umd/lucide.min.js"></script>
+  <link rel="stylesheet" href="/css/custom.css?v=20260702-type-scale-compact">
+  <script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://ar-tik.com/#organization",
+      "name": "Artik Lab",
+      "legalName": "Artik Lab s.r.l.",
+      "url": "https://ar-tik.com",
+      "logo": "https://ar-tik.com/assets/images/artik-lab.svg",
+      "description": "Artik Lab costruisce capacità AI che restano in azienda: processi misurabili, governance, formazione operativa, analisi dati agentica e prototipi controllati.",
+      "email": "dtr@ar-tik.com",
+      "vatID": "IT04120810041",
+      "sameAs": [],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "dtr@ar-tik.com",
+        "contactType": "business inquiries",
+        "availableLanguage": [
+          "Italiano",
+          "English",
+          "Español",
+          "Français",
+          "Português do Brasil"
+        ]
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "IT"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://ar-tik.com/#website",
+      "name": "Artik Lab",
+      "url": "https://ar-tik.com",
+      "inLanguage": "it",
+      "publisher": {
+        "@id": "https://ar-tik.com/#organization"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ar-tik.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Analisi dati agentica",
+          "item": "https://ar-tik.com/analisi-dati-agentica.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "L'analisi dati agentica sostituisce la Business Intelligence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. La Business Intelligence controlla indicatori noti; l'analisi agentica diagnostica cause, cerca segnali non evidenti e collega il risultato a una decisione."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Serve già un data warehouse perfetto?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Il primo valore può essere proprio verificare se i dati esistenti sono adatti, quali limiti hanno e quali dati raccogliere dopo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Che cosa succede se il segnale non c'è?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Il metodo dichiara il verdetto negativo e indica quale investimento evitare o quale raccolta dati avviare prima di finanziare un modello."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "name": "Analisi dati agentica: segnali che diventano decisioni.",
+      "description": "Analisi dati agentica per trasformare dati già disponibili in segnali verificati, decisioni operative e business case con limiti espliciti.",
+      "url": "https://ar-tik.com/analisi-dati-agentica.html",
+      "provider": {
+        "@id": "https://ar-tik.com/#organization"
+      },
+      "areaServed": "IT",
+      "serviceType": "AI consulting",
+      "inLanguage": "it"
+    }
+  ]
+}</script>
+</head>
+<body>
+<a class="skip-link" href="#content">Salta al contenuto</a>
+<header id="site-header" class="site-header">
+  <div class="shell header-inner">
+    <a class="brand" href="/" aria-label="Artik Lab">
+      <img src="/assets/images/artik-lab.svg" alt="Artik Lab" width="142" height="50">
+    </a>
+    <nav class="desktop-nav" aria-label="Main navigation">
+      <a class="nav-link" href="/#metodo">Metodo</a>
+      <a class="nav-link" href="/#servizi">Servizi</a>
+        <a class="nav-link" href="/atlante-applicazioni-ai-imprese.html">Atlante AI</a>
+      <a class="nav-link active" href="/analisi-dati-agentica.html">Analisi dati</a>
+      <a class="nav-link" href="/sviluppo-software-tecnico-ai.html">Software</a>
+      <a class="nav-link" href="/corsi/">Corsi</a>
+      <a class="nav-link" href="/domande-frequenti-ai-aziende.html">FAQ</a>
+      <a class="nav-link" href="/#contatti">Contatti</a>
+    </nav>
+    <div class="header-actions">
+      <div class="language-switcher" aria-label="Language selector"><span class="lang-current" aria-current="page">IT</span><a class="lang-link" href="/en/agentic-data-analysis.html" hreflang="en">EN</a><a class="lang-link" href="/es/analisis-datos-agentico.html" hreflang="es">ES</a><a class="lang-link" href="/fr/analyse-donnees-agentique.html" hreflang="fr">FR</a><a class="lang-link" href="/pt-br/analise-dados-agentica.html" hreflang="pt-BR">PT</a></div>
+      <button id="menu-toggle" class="icon-button" type="button" aria-label="Apri menu" aria-expanded="false" aria-controls="mobile-menu">
+        <i data-lucide="menu" aria-hidden="true"></i>
+      </button>
+    </div>
+  </div>
+  <div id="mobile-menu" class="mobile-menu" hidden>
+    <div class="mobile-menu-panel">
+      <button id="menu-close" class="icon-button inverted" type="button" aria-label="Chiudi menu">
+        <i data-lucide="x" aria-hidden="true"></i>
+      </button>
+      <nav aria-label="Mobile navigation">
+        <a class="nav-link" href="/#metodo">Metodo</a>
+        <a class="nav-link" href="/#servizi">Servizi</a>
+        <a class="nav-link" href="/atlante-applicazioni-ai-imprese.html">Atlante AI</a>
+        <a class="nav-link" href="/analisi-dati-agentica.html">Analisi dati</a>
+        <a class="nav-link" href="/sviluppo-software-tecnico-ai.html">Software</a>
+        <a class="nav-link" href="/corsi/">Corsi</a>
+        <a class="nav-link" href="/domande-frequenti-ai-aziende.html">FAQ</a>
+        <a class="nav-link" href="/#contatti">Contatti</a>
+      </nav>
+      <div class="language-switcher mobile"><span class="lang-current" aria-current="page">IT</span><a class="lang-link" href="/en/agentic-data-analysis.html" hreflang="en">EN</a><a class="lang-link" href="/es/analisis-datos-agentico.html" hreflang="es">ES</a><a class="lang-link" href="/fr/analyse-donnees-agentique.html" hreflang="fr">FR</a><a class="lang-link" href="/pt-br/analise-dados-agentica.html" hreflang="pt-BR">PT</a></div>
+    </div>
+  </div>
+</header>
+<nav class="breadcrumbs shell" aria-label="Breadcrumb"><a href="https://ar-tik.com/">Home</a><span>/</span><span aria-current="page">Analisi dati agentica</span></nav>
+<main id="content">
+<section class="hero interior-hero">
+  <div class="shell hero-content">
+    <p class="eyebrow light">Oltre la dashboard</p>
+    <h1>Analisi dati agentica: segnali che diventano decisioni.</h1>
+    <p class="hero-lead">L&#x27;analisi dati agentica non produce grafici da archiviare: cerca segnali nei dati già disponibili, li collega a una decisione e dichiara dove il modello non conviene.</p>
+    <div class="button-row">
+      <a class="button primary" href="#contatti">Avviare una conversazione</a>
+      <a class="button secondary" href="/corsi/">Vedere i corsi</a>
+    </div>
+  </div>
+</section>
+<section class="section">
+  <div class="shell two-column">
+    <div>
+      <p class="eyebrow">Analisi dati</p>
+      <h2>Che cos&#x27;è l&#x27;analisi dati agentica</h2>
+    </div>
+    <p class="large-text">È un servizio che verifica dove i dati aziendali possono ridurre ritardi, sprechi, errori o rischi. Se il segnale non c'è, il risultato utile è sapere quale progetto non finanziare.</p>
+  </div>
+</section>
+<section class="section paper-section">
+  <div class="shell section-heading">
+    <p class="eyebrow">Oltre la dashboard</p>
+    <h2>La dashboard guarda indietro. Il segnale decide adesso.</h2>
+  </div>
+  <div class="shell">
+    <ol class="process-list wide"><li><span>1</span>Dati già disponibili</li><li><span>2</span>Domanda aziendale</li><li><span>3</span>Segnale verificato</li><li><span>4</span>Decisione possibile</li><li><span>5</span>Valore misurabile o stimabile</li><li><span>6</span>Nuova raccolta dati mirata</li></ol>
+  </div>
+</section>
+<section class="section">
+  <div class="shell section-heading">
+    <h2>Output che servono a decidere</h2>
+  </div>
+  <div class="shell card-grid four"><article class="surface-card">
+  <i data-lucide="file-check-2" aria-hidden="true"></i>
+  <h3>Executive Summary</h3>
+  <p>Risultato principale, decisione consigliata, valore in gioco, limiti e azioni nei prossimi 30, 90 o 180 giorni.</p>
+</article><article class="surface-card">
+  <i data-lucide="file-check-2" aria-hidden="true"></i>
+  <h3>Report tecnico</h3>
+  <p>Dati usati, controlli, metodi, metriche, riproducibilità e criteri con cui il modello supera un riferimento minimo.</p>
+</article><article class="surface-card">
+  <i data-lucide="file-check-2" aria-hidden="true"></i>
+  <h3>Piano di azione</h3>
+  <p>Pilota a basso rischio, responsabilità, tempi, misure da osservare e criterio per estendere, modificare o fermare.</p>
+</article><article class="surface-card">
+  <i data-lucide="file-check-2" aria-hidden="true"></i>
+  <h3>Piano di raccolta dati</h3>
+  <p>Quali dati raccogliere dopo, perché, con quale priorità e quale decisione renderebbero più solida.</p>
+</article></div>
+</section>
+<section class="section paper-section">
+  <div class="shell section-heading">
+    <h2>Le forme del valore</h2>
+  </div>
+  <div class="shell card-grid five"><article class="surface-card">
+  <i data-lucide="badge-check" aria-hidden="true"></i>
+  <h3>Valore recuperato</h3>
+  <p>Clienti, ordini, lotti o prenotazioni salvabili prima che il valore si perda.</p>
+</article><article class="surface-card">
+  <i data-lucide="badge-check" aria-hidden="true"></i>
+  <h3>Costo evitato</h3>
+  <p>Progetti predittivi da non finanziare quando i dati non contengono il segnale necessario.</p>
+</article><article class="surface-card">
+  <i data-lucide="badge-check" aria-hidden="true"></i>
+  <h3>Efficienza organizzativa</h3>
+  <p>Risorse riallocate su fasce orarie, prodotti, controlli o processi che contano davvero.</p>
+</article><article class="surface-card">
+  <i data-lucide="badge-check" aria-hidden="true"></i>
+  <h3>Promessa al cliente</h3>
+  <p>Consegne, disponibilità, tempi e comunicazioni più credibili perché basati su stime migliori.</p>
+</article><article class="surface-card">
+  <i data-lucide="badge-check" aria-hidden="true"></i>
+  <h3>Governance del dato</h3>
+  <p>Raccolta dati meno generica e più collegata a decisioni concrete.</p>
+</article></div>
+</section>
+<section class="section paper-section">
+  <div class="shell two-column">
+    <div>
+      <p class="eyebrow">Atlante AI</p>
+      <h2>Quando il segnale non è solo nei dati.</h2>
+    </div>
+    <div>
+      <p class="large-text">Molti progetti partono dai dati, ma il valore può vivere anche in documenti, email, procedure, software tecnico, governance o formazione. L'Atlante aiuta a riconoscere l'area giusta prima di impostare il primo progetto.</p>
+      <a class="button secondary dark compact" href="/atlante-applicazioni-ai-imprese.html"><i data-lucide="map" aria-hidden="true"></i>Esplorare l'Atlante</a>
+      <a class="button secondary dark compact" href="/domande-frequenti-ai-aziende.html"><i data-lucide="circle-help" aria-hidden="true"></i>Scegliere il primo passo</a>
+    </div>
+  </div>
+</section>
+<section class="section split-highlight">
+  <div class="shell two-column">
+    <div>
+      <p class="eyebrow">Come scegliere il primo progetto</p>
+      <h2>Prima domanda: quale decisione deve migliorare?</h2>
+    </div>
+    <ul class="check-list"><li>Decisione ricorrente: ordinare, pianificare, contattare, controllare.</li>
+<li>Costo visibile o sospetto: sprechi, ritardi, resi, guasti, penali.</li>
+<li>Dati già disponibili: transazioni, sensori, ordini, ticket, anagrafiche.</li>
+<li>Azione possibile: telefonata, controllo, modifica di processo, priorità diversa.</li></ul>
+  </div>
+</section>
+<section class="section use-case-section">
+  <div class="shell section-heading">
+    <p class="eyebrow">Analisi dati agentica</p>
+    <h2>Esempi anonimi di segnali e decisioni</h2>
+    <p>Ogni storia spiega il problema aziendale, quali dati operativi entrano nell’analisi, quale segnale emerge e quale decisione può essere presa. Non sono promesse standard; mostrano come dataset pubblici, anonimizzati o realistici, senza progetti cliente riconoscibili, possano diventare azioni verificabili.</p>
+  </div>
+  <div class="shell use-case-grid">
+    <details class="use-case-card" open>
+      <summary>
+        <div class="use-case-top"><span class="use-case-index">01</span><span class="use-case-domain">Ospitalità</span></div>
+        <h3>Capire quali prenotazioni rischiano di saltare</h3>
+        <p class="use-case-result">Un hotel può leggere il rischio già al momento della prenotazione: su oltre 119.000 prenotazioni, il sistema intercetta più di otto disdette su dieci.</p>
+      </summary>
+      <div class="use-case-body">
+      <p>La storia è semplice: la direzione vede le cancellazioni solo quando il danno è già arrivato. L’analisi dati agentica guarda invece i segnali disponibili prima del soggiorno, come anticipo della prenotazione, modalità di pagamento e storia del cliente.</p>
+      <p>Per un albergo, un residence o un gruppo hospitality, il dato del booking engine diventa una lista di priorità commerciale. Le prenotazioni più fragili possono essere confermate, richiamate o gestite con condizioni diverse.</p>
+        <div class="use-case-points">
+        <div class="use-case-point"><strong>Segnale utile</strong><span>Il sistema distingue le prenotazioni solide da quelle che meritano un intervento preventivo.</span></div>
+        <div class="use-case-point"><strong>Decisione possibile</strong><span>Confermare, richiamare o proteggere prima le prenotazioni più esposte.</span></div>
+        <div class="use-case-point"><strong>Dati utili dopo</strong><span>Esito del richiamo, valore recuperato e risposta del cliente.</span></div>
+        <div class="use-case-point"><strong>Limite da dichiarare</strong><span>L’analisi non elimina le cancellazioni; aiuta a scegliere dove intervenire per tempo.</span></div>
+        </div>
+      </div>
+    </details>
+    <details class="use-case-card" open>
+      <summary>
+        <div class="use-case-top"><span class="use-case-index">02</span><span class="use-case-domain">Food delivery</span></div>
+        <h3>Scoprire dove nasce un ordine perso</h3>
+        <p class="use-case-result">Quando la cucina non conferma l’ordine come pronto, il rischio di perderlo sale al 35,7%.</p>
+      </summary>
+      <div class="use-case-body">
+      <p>A prima vista il problema sembra nella consegna finale: un ordine non arriva, il cliente reclama, il ristorante perde fiducia. L’analisi mostra invece che il segnale nasce prima, dentro il flusso operativo della cucina.</p>
+      <p>Per una piattaforma di delivery o una catena di ristoranti, questo cambia la domanda: non “quale rider è in ritardo?”, ma “quale ordine sta uscendo dal processo prima ancora di essere consegnato?”.</p>
+        <div class="use-case-points">
+        <div class="use-case-point"><strong>Segnale utile</strong><span>L’assenza di una conferma intermedia diventa un avviso operativo.</span></div>
+        <div class="use-case-point"><strong>Decisione possibile</strong><span>Attivare subito un sollecito, una riassegnazione o una comunicazione al cliente.</span></div>
+        <div class="use-case-point"><strong>Dati utili dopo</strong><span>Causa registrata, recupero dell’ordine e costo del disservizio.</span></div>
+        <div class="use-case-point"><strong>Limite da dichiarare</strong><span>Il modello funziona se gli stati intermedi dell’ordine vengono registrati bene.</span></div>
+        </div>
+      </div>
+    </details>
+    <details class="use-case-card">
+      <summary>
+        <div class="use-case-top"><span class="use-case-index">03</span><span class="use-case-domain">Ultimo miglio</span></div>
+        <h3>Dare al cliente una finestra di consegna più credibile</h3>
+        <p class="use-case-result">La stima del tempo di consegna passa da un errore medio di circa 41 minuti a circa 17 minuti.</p>
+      </summary>
+      <div class="use-case-body">
+      <p>In molte aziende di logistica urbana il problema non è solo consegnare più in fretta. È promettere un orario realistico, così il cliente aspetta meno, l’assistenza riceve meno chiamate e la flotta viene coordinata meglio.</p>
+      <p>L’analisi parte dagli ordini e dai tempi storici, ma non si ferma alla media. Cerca condizioni ricorrenti che rendono una consegna più lenta o più rapida e le trasforma in una previsione più utile.</p>
+        <div class="use-case-points">
+        <div class="use-case-point"><strong>Segnale utile</strong><span>Una finestra di arrivo più affidabile per ogni consegna.</span></div>
+        <div class="use-case-point"><strong>Decisione possibile</strong><span>Aggiornare comunicazioni al cliente, priorità operative e pianificazione della flotta.</span></div>
+        <div class="use-case-point"><strong>Dati utili dopo</strong><span>Reclami, chiamate evitate e interventi manuali del team operativo.</span></div>
+        <div class="use-case-point"><strong>Limite da dichiarare</strong><span>Non promette consegne più veloci; promette stime più credibili.</span></div>
+        </div>
+      </div>
+    </details>
+    <details class="use-case-card">
+      <summary>
+        <div class="use-case-top"><span class="use-case-index">04</span><span class="use-case-domain">Energia</span></div>
+        <h3>Prevedere meglio la domanda del giorno dopo</h3>
+        <p class="use-case-result">La previsione riduce l’errore del 77% rispetto alla regola di riferimento.</p>
+      </summary>
+      <div class="use-case-body">
+      <p>Un operatore energetico o un grande consumatore deve decidere prima quanta energia acquistare, coprire o riservare. Se la previsione è troppo prudente, immobilizza risorse; se è troppo bassa, espone a costi e correzioni.</p>
+      <p>L’analisi legge la serie storica dei consumi orari e costruisce un profilo atteso del giorno successivo. Il risultato non è un grafico da archiviare, ma un supporto alla pianificazione energetica.</p>
+        <div class="use-case-points">
+        <div class="use-case-point"><strong>Segnale utile</strong><span>Un profilo orario atteso più affidabile della regola usata come confronto.</span></div>
+        <div class="use-case-point"><strong>Decisione possibile</strong><span>Comprare, coprirsi o pianificare capacità con meno margine difensivo.</span></div>
+        <div class="use-case-point"><strong>Dati utili dopo</strong><span>Prezzi, costi di sbilanciamento e regole di approvvigionamento.</span></div>
+        <div class="use-case-point"><strong>Limite da dichiarare</strong><span>Il risparmio economico va calcolato con i numeri reali del contratto energetico.</span></div>
+        </div>
+      </div>
+    </details>
+    <details class="use-case-card">
+      <summary>
+        <div class="use-case-top"><span class="use-case-index">05</span><span class="use-case-domain">Ristorazione</span></div>
+        <h3>Prepararsi alla settimana che sta arrivando</h3>
+        <p class="use-case-result">La previsione degli incassi migliora del 24% rispetto alla regola “come settimana scorsa”.</p>
+      </summary>
+      <div class="use-case-body">
+      <p>Un ristorante decide ogni settimana quanta materia prima ordinare e quante persone mettere in turno. Se decide a intuito, rischia sprechi nei giorni deboli e servizio insufficiente nei giorni forti.</p>
+      <p>L’analisi parte dallo storico degli incassi e riconosce il ritmo reale del locale. La previsione diventa uno strumento pratico per preparare cucina, sala e acquisti prima che la domanda arrivi.</p>
+        <div class="use-case-points">
+        <div class="use-case-point"><strong>Segnale utile</strong><span>Una stima degli incassi futuri più solida della regola empirica.</span></div>
+        <div class="use-case-point"><strong>Decisione possibile</strong><span>Affiancare la previsione alle scelte su acquisti, preparazioni e turni.</span></div>
+        <div class="use-case-point"><strong>Dati utili dopo</strong><span>Spreco reale, vendite perse e costo del personale.</span></div>
+        <div class="use-case-point"><strong>Limite da dichiarare</strong><span>Il valore nasce solo se la previsione cambia decisioni operative.</span></div>
+        </div>
+      </div>
+    </details>
+    <details class="use-case-card">
+      <summary>
+        <div class="use-case-top"><span class="use-case-index">06</span><span class="use-case-domain">Retail alimentare</span></div>
+        <h3>Salvare i lotti deperibili prima che diventino spreco</h3>
+        <p class="use-case-result">I lotti più rischiosi sprecano quasi tre volte quelli più sicuri.</p>
+      </summary>
+      <div class="use-case-body">
+      <p>In un supermercato o in una filiera alimentare, lo spreco non appare tutto insieme. Nasce da piccoli segnali: imballaggio, movimentazione, freddo, tempi di arrivo, priorità di vendita.</p>
+      <p>L’analisi legge questi segnali quando il lotto entra nel processo e crea una graduatoria di rischio. Il punto non è prevedere ogni perdita, ma decidere quali lotti controllare, ruotare o scontare prima.</p>
+        <div class="use-case-points">
+        <div class="use-case-point"><strong>Segnale utile</strong><span>Una lista di lotti che meritano attenzione prima del deterioramento visibile.</span></div>
+        <div class="use-case-point"><strong>Decisione possibile</strong><span>Concentrare controlli, rotazioni e ribassi preventivi sui lotti più esposti.</span></div>
+        <div class="use-case-point"><strong>Dati utili dopo</strong><span>Valore salvato, motivo dello spreco e margine dopo l’intervento.</span></div>
+        <div class="use-case-point"><strong>Limite da dichiarare</strong><span>Non tutto lo spreco è prevedibile; l’obiettivo è usare meglio le azioni preventive.</span></div>
+        </div>
+      </div>
+    </details>
+    <details class="use-case-card">
+      <summary>
+        <div class="use-case-top"><span class="use-case-index">07</span><span class="use-case-domain">Banca</span></div>
+        <h3>Riconoscere i clienti che stanno per andarsene</h3>
+        <p class="use-case-result">Il sistema riconosce circa tre clienti a rischio su quattro.</p>
+      </summary>
+      <div class="use-case-body">
+      <p>Una banca può vedere un cliente uscire solo quando il conto è già perso, oppure può leggere prima i segnali di raffreddamento della relazione. L’analisi distingue il rischio generico dalla leva commerciale su cui agire.</p>
+      <p>La storia utile non è “questo cliente abbandonerà”, ma “questo cliente mostra segnali di inattività e può essere riattivato con un’azione mirata”. È una differenza decisiva per costruire campagne credibili.</p>
+        <div class="use-case-points">
+        <div class="use-case-point"><strong>Segnale utile</strong><span>Una priorità di contatto basata su comportamento e rischio di abbandono.</span></div>
+        <div class="use-case-point"><strong>Decisione possibile</strong><span>Avviare campagne di riattivazione mirate, non comunicazioni uguali per tutti.</span></div>
+        <div class="use-case-point"><strong>Dati utili dopo</strong><span>Storico comportamentale, contatti fatti e valore trattenuto.</span></div>
+        <div class="use-case-point"><strong>Limite da dichiarare</strong><span>Riconoscere il rischio oggi non significa sempre prevederlo con largo anticipo.</span></div>
+        </div>
+      </div>
+    </details>
+    <details class="use-case-card">
+      <summary>
+        <div class="use-case-top"><span class="use-case-index">08</span><span class="use-case-domain">Ristorazione veloce</span></div>
+        <h3>Capire quali menu e fasce orarie reggono davvero il business</h3>
+        <p class="use-case-result">Pochi momenti della giornata e poche voci di menu generano quasi tre quarti del fatturato.</p>
+      </summary>
+      <div class="use-case-body">
+      <p>In una catena di ristorazione veloce, il problema non è solo vendere di più. È capire dove il fatturato nasce davvero: quali fasce orarie richiedono personale, quali prodotti meritano stock, quali voci occupano spazio senza rendere.</p>
+      <p>L’analisi descrittiva diventa una storia operativa: il menu non è tutto uguale e la giornata non pesa tutta allo stesso modo. Questo aiuta a decidere turni, scorte e promozioni con meno impressioni e più evidenza.</p>
+        <div class="use-case-points">
+        <div class="use-case-point"><strong>Segnale utile</strong><span>Una mappa dei prodotti e dei momenti che sostengono il conto economico.</span></div>
+        <div class="use-case-point"><strong>Decisione possibile</strong><span>Riallineare personale, acquisti, promozioni e revisione del menu.</span></div>
+        <div class="use-case-point"><strong>Dati utili dopo</strong><span>Margine per voce, tempi di preparazione e rotture di stock.</span></div>
+        <div class="use-case-point"><strong>Limite da dichiarare</strong><span>Non è una previsione; è una priorità operativa da completare con dati di margine.</span></div>
+        </div>
+      </div>
+    </details>
+    <details class="use-case-card">
+      <summary>
+        <div class="use-case-top"><span class="use-case-index">09</span><span class="use-case-domain">Cantina</span></div>
+        <h3>Proteggere presto i lotti di vino più promettenti</h3>
+        <p class="use-case-result">Con i dati di laboratorio, il sistema riconosce l’87% dei lotti di fascia alta.</p>
+      </summary>
+      <div class="use-case-body">
+      <p>Una cantina raccoglie già misure chimiche durante la produzione. Spesso quei dati restano tecnici, separati dalle scelte commerciali e dalle decisioni di destinazione del lotto.</p>
+      <p>L’analisi mostra che quei segnali possono aiutare a individuare presto i lotti con potenziale premium. Non sostituisce il giudizio dell’enologo; lo aiuta a proteggere valore prima che tagli o miscelazioni lo disperdano.</p>
+        <div class="use-case-points">
+        <div class="use-case-point"><strong>Segnale utile</strong><span>Una classificazione precoce dei lotti che meritano maggiore attenzione.</span></div>
+        <div class="use-case-point"><strong>Decisione possibile</strong><span>Dare priorità a degustazioni, affinamento e destinazione commerciale dei lotti promettenti.</span></div>
+        <div class="use-case-point"><strong>Dati utili dopo</strong><span>Destinazione finale, valore realizzato e giudizio qualitativo.</span></div>
+        <div class="use-case-point"><strong>Limite da dichiarare</strong><span>Il modello supporta il giudizio tecnico; non lo sostituisce.</span></div>
+        </div>
+      </div>
+    </details>
+    <details class="use-case-card">
+      <summary>
+        <div class="use-case-top"><span class="use-case-index">10</span><span class="use-case-domain">Manutenzione industriale</span></div>
+        <h3>Usare i sensori per riconoscere un guasto in corso</h3>
+        <p class="use-case-result">Con i sensori disponibili, l’analisi riconosce circa l’84% dei guasti osservati.</p>
+      </summary>
+      <div class="use-case-body">
+      <p>In fabbrica il guasto non è solo un evento tecnico: ferma persone, ordini e capacità produttiva. Molte macchine hanno già sensori, ma i segnali restano dispersi o vengono letti troppo tardi.</p>
+      <p>L’analisi costruisce un avviso quando il comportamento della macchina somiglia a situazioni di guasto già viste. È utile se attiva subito un ordine di lavoro, un controllo o una verifica sul campo.</p>
+        <div class="use-case-points">
+        <div class="use-case-point"><strong>Segnale utile</strong><span>Un allarme operativo quando la macchina mostra pattern compatibili con un guasto.</span></div>
+        <div class="use-case-point"><strong>Decisione possibile</strong><span>Collegare l’avviso a manutenzione, escalation e verifica del fermo evitato.</span></div>
+        <div class="use-case-point"><strong>Dati utili dopo</strong><span>Tempo di intervento, costo del fermo e ricambi usati.</span></div>
+        <div class="use-case-point"><strong>Limite da dichiarare</strong><span>Riconoscere un guasto in corso non è la stessa cosa che prevederlo settimane prima.</span></div>
+        </div>
+      </div>
+    </details>
+    <details class="use-case-card">
+      <summary>
+        <div class="use-case-top"><span class="use-case-index">11</span><span class="use-case-domain">Moda e resi</span></div>
+        <h3>Evitare un modello quando il dato giusto non c’è</h3>
+        <p class="use-case-result">Nei dati di catalogo, la variabile migliore spiega meno del 2% dei resi.</p>
+      </summary>
+      <div class="use-case-body">
+      <p>Un e-commerce moda potrebbe voler prevedere quali capi verranno restituiti. La tentazione è usare i dati già comodi: categoria, prezzo, colore, scheda prodotto.</p>
+      <p>L’analisi mostra che quei dati non bastano. Questa è una buona notizia manageriale: evita un investimento fragile e indica quali informazioni servono davvero, come vestibilità, storia cliente e motivo del reso.</p>
+        <div class="use-case-points">
+        <div class="use-case-point"><strong>Segnale utile</strong><span>Un verdetto negativo chiaro: il segnale non vive nel catalogo prodotto.</span></div>
+        <div class="use-case-point"><strong>Decisione possibile</strong><span>Non finanziare il modello predittivo prima di cambiare raccolta dati.</span></div>
+        <div class="use-case-point"><strong>Dati utili dopo</strong><span>Vestibilità, motivo del reso, misure e storico cliente.</span></div>
+        <div class="use-case-point"><strong>Limite da dichiarare</strong><span>Il “no” non chiude il problema; indica quali dati servono per renderlo affrontabile.</span></div>
+        </div>
+      </div>
+    </details>
+    <details class="use-case-card">
+      <summary>
+        <div class="use-case-top"><span class="use-case-index">12</span><span class="use-case-domain">Logistica</span></div>
+        <h3>Capire quando un modello non può prevedere il ritardo</h3>
+        <p class="use-case-result">Con i soli dati di pianificazione, il miglior modello resta vicino a una scelta casuale.</p>
+      </summary>
+      <div class="use-case-body">
+      <p>Un operatore logistico vuole sapere prima della partenza quali consegne arriveranno in ritardo. Se usa solo dati di piano, però, guarda una fotografia incompleta: mancano le cose che accadono durante il viaggio.</p>
+      <p>L’analisi evita di forzare una previsione debole. La decisione migliore è raccogliere eventi di viaggio, soste, scarico, meteo e anomalie operative prima di costruire un modello più ambizioso.</p>
+        <div class="use-case-points">
+        <div class="use-case-point"><strong>Segnale utile</strong><span>Assenza di segnale utile nei dati disponibili prima della partenza.</span></div>
+        <div class="use-case-point"><strong>Decisione possibile</strong><span>Fermare il modello e progettare una raccolta dati sugli eventi reali del trasporto.</span></div>
+        <div class="use-case-point"><strong>Dati utili dopo</strong><span>Soste, scarico, traffico, meteo, eccezioni e costo del ritardo.</span></div>
+        <div class="use-case-point"><strong>Limite da dichiarare</strong><span>Un algoritmo più complesso non crea informazione che il processo non registra.</span></div>
+        </div>
+      </div>
+    </details>
+    <details class="use-case-card">
+      <summary>
+        <div class="use-case-top"><span class="use-case-index">13</span><span class="use-case-domain">Compliance</span></div>
+        <h3>Mettere prima i controlli dove il rischio è più alto</h3>
+        <p class="use-case-result">Con lo stesso numero di verifiche, il ranking intercetta più casi gravi.</p>
+      </summary>
+      <div class="use-case-body">
+      <p>Un ente di controllo o una funzione compliance ha sempre più casi da verificare di quanti ne possa seguire subito. La domanda non è fare controlli infiniti, ma decidere l’ordine giusto.</p>
+      <p>L’analisi usa lo storico delle verifiche per costruire una lista di priorità. I controlli restano umani, ma l’agenda viene ordinata in modo da aumentare la probabilità di trovare prima i casi più seri.</p>
+        <div class="use-case-points">
+        <div class="use-case-point"><strong>Segnale utile</strong><span>Una graduatoria di rischio per programmare verifiche e follow-up.</span></div>
+        <div class="use-case-point"><strong>Decisione possibile</strong><span>Ordinare ispezioni, audit o controlli interni senza aumentare il budget.</span></div>
+        <div class="use-case-point"><strong>Dati utili dopo</strong><span>Esito del controllo, recidiva, gravità e tempo di rientro in conformità.</span></div>
+        <div class="use-case-point"><strong>Limite da dichiarare</strong><span>Il modello non decide sanzioni; aiuta a ordinare le priorità.</span></div>
+        </div>
+      </div>
+    </details>
+    <details class="use-case-card">
+      <summary>
+        <div class="use-case-top"><span class="use-case-index">14</span><span class="use-case-domain">Manifattura</span></div>
+        <h3>Vedere quando una macchina consuma senza rendere</h3>
+        <p class="use-case-result">Tra i profili operativi emerge un divario di 11,4 punti di efficienza.</p>
+      </summary>
+      <div class="use-case-body">
+      <p>In produzione, il consumo medio spesso nasconde storie diverse. La stessa macchina può lavorare in modi più o meno efficienti, ma il dato energetico grezzo non spiega subito perché.</p>
+      <p>L’analisi raggruppa i comportamenti della macchina e mostra quali profili meritano confronto. Prima di comprare nuovi sensori o impianti, l’azienda può chiedersi quali condizioni operative distinguono il profilo che rende da quello che spreca.</p>
+        <div class="use-case-points">
+        <div class="use-case-point"><strong>Segnale utile</strong><span>Una mappa dei profili di funzionamento, non solo del consumo medio.</span></div>
+        <div class="use-case-point"><strong>Decisione possibile</strong><span>Confrontare profili migliori e peggiori e avviare un pilota di riduzione sprechi.</span></div>
+        <div class="use-case-point"><strong>Dati utili dopo</strong><span>Costo energia, ore macchina, produzione e settaggi operativi.</span></div>
+        <div class="use-case-point"><strong>Limite da dichiarare</strong><span>Il valore in euro va stimato solo quando consumi e produzione sono collegati.</span></div>
+        </div>
+      </div>
+    </details>
+  </div>
+</section>
+<section class="section faq-section">
+  <div class="shell narrow">
+    <p class="eyebrow">Domande frequenti</p>
+    <h2>Domande frequenti</h2>
+    <div class="faq-list">
+      <details><summary>L&#x27;analisi dati agentica sostituisce la Business Intelligence?</summary><p>No. La Business Intelligence controlla indicatori noti; l&#x27;analisi agentica diagnostica cause, cerca segnali non evidenti e collega il risultato a una decisione.</p></details><details><summary>Serve già un data warehouse perfetto?</summary><p>No. Il primo valore può essere proprio verificare se i dati esistenti sono adatti, quali limiti hanno e quali dati raccogliere dopo.</p></details><details><summary>Che cosa succede se il segnale non c&#x27;è?</summary><p>Il metodo dichiara il verdetto negativo e indica quale investimento evitare o quale raccolta dati avviare prima di finanziare un modello.</p></details>
+    </div>
+  </div>
+</section>
+<section id="contatti" class="section contact-section">
+  <div class="shell contact-grid">
+    <div>
+      <p class="eyebrow">Contatti</p>
+      <h2>Una conversazione breve basta per capire da dove partire.</h2>
+      <p>La prima conversazione dura 30-45 minuti e serve a chiarire decisione, dati disponibili, vincoli e azione possibile prima di finanziare un modello o raccogliere nuovi dati.</p>
+      <a class="text-link light" href="mailto:dtr@ar-tik.com">Scrivere a dtr@ar-tik.com</a>
+    </div>
+    <form id="contact-form" class="contact-form" data-lang="it">
+      <label>Nome e ruolo<input name="name" autocomplete="name" required></label>
+      <label>Email aziendale<input name="email" type="email" autocomplete="email" required></label>
+      <label>Tema<input name="topic" required></label>
+      <label>Messaggio<textarea name="message" rows="5" required></textarea></label>
+      <button class="button primary" type="submit"><i data-lucide="mail" aria-hidden="true"></i>Preparare email</button>
+    </form>
+  </div>
+</section>
+</main>
+<footer class="site-footer">
+  <div class="shell footer-grid">
+    <div>
+      <img src="/assets/images/artik-lab.svg" alt="Artik Lab" class="footer-logo" width="142" height="50">
+      <p>Consulenza AI per PMI italiane</p>
+    </div>
+    <nav aria-label="Footer navigation">
+      <a href="/atlante-applicazioni-ai-imprese.html">Atlante AI</a>
+      <a href="/analisi-dati-agentica.html">Analisi dati</a>
+      <a href="/sviluppo-software-tecnico-ai.html">Software</a>
+      <a href="/corsi/">Corsi</a>
+      <a href="/domande-frequenti-ai-aziende.html">FAQ</a>
+      <a href="/#contatti">Contatti</a>
+      <a href="/llms.txt">llms.txt</a>
+    </nav>
+    <div class="footer-meta">
+      <p>Artik Lab s.r.l. - startup innovativa</p>
+      <p>P.IVA IT04120810041</p>
+      <p>Italia · dtr@ar-tik.com</p>
+    </div>
+  </div>
+  <div class="shell footer-bottom">
+    <p>© 2026 Artik Lab s.r.l. Tutti i diritti riservati.</p>
+  </div>
+</footer>
+<script src="/js/main.js?v=20260702-type-scale-compact"></script>
+</body>
+</html>

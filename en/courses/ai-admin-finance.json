@@ -1,0 +1,138 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
+  "generatedAt": "2026-07-02",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "course": {
+    "id": "ai-admin-finance",
+    "locale": "en",
+    "language": "en",
+    "family": "operational",
+    "familyLabel": "Operational",
+    "featured": false,
+    "title": "AI for administration and management control",
+    "subtitle": "Practical corporate course for applying AI to finance and management control, with exercises on realistic work, reusable materials and clear governance criteria.",
+    "summary": "Practical corporate course for applying AI to finance and management control, with exercises on realistic work, reusable materials and clear governance criteria.",
+    "duration": "4-6 hours, customisable",
+    "mode": "In-person or online lab, with guided exercises and materials adapted to the client.",
+    "profile": "mixed",
+    "profileDescription": "For managers and non-technical teams; no programming required.",
+    "problem": "Companies often approach finance and management control through scattered experiments: a few prompts, a few enthusiastic users, many doubts about data, quality and responsibility. This course turns that uncertainty into an operating method. Participants work on realistic scenarios, learn where AI helps, where human review remains essential and how to make the practice repeatable inside the company.",
+    "audience": "For managers and non-technical teams; no programming required.",
+    "whenToChoose": "Choose this course when the company wants concrete progress on finance and management control and needs training that produces usable workflows, not abstract theory.",
+    "chooseIf": "When the company wants concrete progress on finance and management control and needs training that produces usable workflows, not abstract theory.",
+    "outcomes": [
+      "Map the work and the decisions where AI can reduce friction.",
+      "Build practical instructions, checklists and review criteria.",
+      "Identify data, privacy and responsibility boundaries.",
+      "Create reusable examples for the team.",
+      "Define next steps for adoption and governance."
+    ],
+    "modules": [
+      {
+        "title": "Process map",
+        "description": "Recurring work, documents, decisions, exceptions and handoffs."
+      },
+      {
+        "title": "AI-assisted outputs",
+        "description": "Summaries, classifications, draft responses, reports and checklists."
+      },
+      {
+        "title": "Workflow controls",
+        "description": "Review, escalation, traceability and responsibility."
+      },
+      {
+        "title": "Operational adoption",
+        "description": "Metrics, materials, routines and governance."
+      }
+    ],
+    "exercises": [
+      "Map a realistic process connected to finance and management control.",
+      "Create AI-assisted outputs and review them critically.",
+      "Define escalation and human review points.",
+      "Build a reusable checklist for daily work."
+    ],
+    "materials": [
+      "Operating canvas for finance and management control.",
+      "Prompt and instruction templates.",
+      "Quality and privacy checklist.",
+      "Risk/control matrix.",
+      "Adoption notes for the team."
+    ],
+    "privacy": "The course uses synthetic, public, anonymised or client-approved materials. It explains how to minimise data exposure, protect confidential information, verify outputs and keep human responsibility explicit.",
+    "prerequisites": "No programming required. Familiarity with the business process is useful.",
+    "faqs": [
+      {
+        "question": "Is the course tool-specific?",
+        "answer": "No. Patterns and workflows are adapted to the tools and policies chosen with the client."
+      },
+      {
+        "question": "Can company data be used?",
+        "answer": "Only when accounts, contracts and internal policies allow it. Otherwise synthetic or anonymised data is used."
+      },
+      {
+        "question": "What remains after the course?",
+        "answer": "Reusable materials, examples, checklists and a clear set of next steps."
+      },
+      {
+        "question": "Is it theoretical?",
+        "answer": "No. The course is built around practical exercises and decisions close to real work."
+      }
+    ],
+    "output": "Operating canvas for finance and management control.",
+    "searchIntents": [
+      "corporate AI course on finance and management control",
+      "practical training for AI for administration and management control",
+      "AI training for business functions",
+      "Artik Lab path for Operating canvas for finance and management control",
+      "how to introduce finance and management control into company workflows"
+    ],
+    "needSignals": [
+      "finance and management control is already discussed internally, but there is no shared method for turning it into practice.",
+      "People experiment with AI tools on their own and the company does not yet see comparable criteria, controls and outcomes.",
+      "The process connected to finance and management control absorbs time, creates manual handoffs or produces outputs that are hard to verify.",
+      "Leadership needs to decide whether to invest, train or stop before introducing fragile automation.",
+      "The company needs a concrete training outcome: Operating canvas for finance and management control."
+    ],
+    "extraExamples": [
+      {
+        "title": "From generic training to the real process",
+        "description": "A company asks for training on finance and management control, but the real issue emerges during mapping: repeated tasks, informal checks and distributed responsibilities. The path uses examples close to daily work and turns training into an initial operating model, not a theory session."
+      },
+      {
+        "title": "From individual experimentation to governed practice",
+        "description": "Some people have already found shortcuts with AI while others are blocked. The course creates a shared base: what can be done, what must be reviewed, which data should not be exposed and when escalation is needed. The result is Operating canvas for finance and management control."
+      },
+      {
+        "title": "From enthusiasm to decision",
+        "description": "Management needs to understand whether finance and management control deserves budget and continuity. The lab separates immediate benefits, operational risks and data dependencies. The company leaves with criteria for the next step instead of more isolated demos."
+      }
+    ],
+    "selectionCriteria": [
+      "Choose this course if the main need concerns finance and management control, not a generic overview of AI.",
+      "Prefer it when there is a process, document, workflow or responsibility to work on during training.",
+      "Postpone it if there is no internal sponsor yet or if the issue is only buying a software licence.",
+      "Pair it with AI Workflow Redesign Lab when the company first needs to understand which processes deserve priority."
+    ],
+    "limits": [
+      "It does not promise full automation or replacement of human responsibility.",
+      "It does not require confidential data to be uploaded into unapproved environments.",
+      "It is not legal, tax, HR or specialist technical advice when those responsibilities remain with competent functions.",
+      "It produces skills, criteria and reusable materials; continued adoption requires sponsorship, governance and internal practice."
+    ],
+    "relatedCourseIds": [
+      "workflow-redesign",
+      "managing-ai-general",
+      "ai-governance",
+      "ai-output-quality"
+    ],
+    "urls": {
+      "html": "https://ar-tik.com/en/courses/ai-admin-finance.html",
+      "markdown": "https://ar-tik.com/en/courses/ai-admin-finance.md",
+      "dossier": "https://ar-tik.com/en/courses/ai-admin-finance-dossier.md",
+      "json": "https://ar-tik.com/en/courses/ai-admin-finance.json",
+      "catalog": "https://ar-tik.com/en/courses/",
+      "catalogMarkdown": "https://ar-tik.com/en/courses/index.md"
+    }
+  }
+}

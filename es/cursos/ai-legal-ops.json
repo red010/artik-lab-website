@@ -1,0 +1,138 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
+  "generatedAt": "2026-07-02",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "course": {
+    "id": "ai-legal-ops",
+    "locale": "es",
+    "language": "es",
+    "family": "operational",
+    "familyLabel": "Operativo",
+    "featured": false,
+    "title": "AI Legal Ops y compliance documental",
+    "subtitle": "Curso corporativo práctico para aplicar IA a legal operations y compliance documental, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.",
+    "summary": "Curso corporativo práctico para aplicar IA a legal operations y compliance documental, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.",
+    "duration": "4-6 horas, personalizables",
+    "mode": "Laboratorio presencial u online, con ejercicios guiados y materiales adaptados al cliente.",
+    "profile": "mixed",
+    "profileDescription": "Para managers y equipos no técnicos; no requiere programación.",
+    "problem": "Muchas empresas abordan legal operations y compliance documental con experimentos dispersos: algunas instrucciones, usuarios entusiastas y muchas dudas sobre datos, calidad y responsabilidad. El curso convierte esa incertidumbre en método operativo. Los participantes trabajan sobre escenarios realistas, aprenden dónde la IA ayuda, dónde sigue siendo esencial la revisión humana y cómo repetir la práctica en la empresa.",
+    "audience": "Para managers y equipos no técnicos; no requiere programación.",
+    "whenToChoose": "Elegir este curso cuando la empresa quiere avanzar de forma concreta en legal operations y compliance documental y necesita formación que produzca flujos de trabajo utilizables, no teoría abstracta.",
+    "chooseIf": "Cuando la empresa quiere avanzar de forma concreta en legal operations y compliance documental y necesita formación que produzca flujos de trabajo utilizables, no teoría abstracta.",
+    "outcomes": [
+      "Mapear trabajo y decisiones donde la IA puede reducir fricción.",
+      "Construir instrucciones, checklists y criterios de revisión.",
+      "Identificar límites de datos, privacidad y responsabilidad.",
+      "Crear ejemplos reutilizables para el equipo.",
+      "Definir próximos pasos de adopción y gobernanza."
+    ],
+    "modules": [
+      {
+        "title": "Mapa del proceso",
+        "description": "Trabajo recurrente, documentos, decisiones, excepciones y traspasos."
+      },
+      {
+        "title": "Resultados asistidos por IA",
+        "description": "Síntesis, clasificaciones, borradores, informes y checklists."
+      },
+      {
+        "title": "Controles del flujo",
+        "description": "Revisión, escalado, trazabilidad y responsabilidad."
+      },
+      {
+        "title": "Adopción operativa",
+        "description": "Métricas, materiales, rutinas y gobernanza."
+      }
+    ],
+    "exercises": [
+      "Mapear un proceso realista conectado con legal operations y compliance documental.",
+      "Crear resultados asistidos por IA y revisarlos críticamente.",
+      "Definir puntos de escalado y revisión humana.",
+      "Construir una checklist reutilizable para el trabajo diario."
+    ],
+    "materials": [
+      "Canvas operativo para legal operations y compliance documental.",
+      "Plantillas de instrucciones.",
+      "Checklist de calidad y privacidad.",
+      "Matriz riesgo/control.",
+      "Notas de adopción para el equipo."
+    ],
+    "privacy": "El curso usa materiales sintéticos, públicos, anonimizados o aprobados por el cliente. Explica cómo minimizar exposición de datos, proteger información confidencial, verificar resultados y mantener explícita la responsabilidad humana.",
+    "prerequisites": "No requiere programación. Es útil conocer el proceso de negocio.",
+    "faqs": [
+      {
+        "question": "¿Depende de una herramienta?",
+        "answer": "No. Los patrones se adaptan a las herramientas y políticas elegidas con el cliente."
+      },
+      {
+        "question": "¿Se pueden usar datos de empresa?",
+        "answer": "Solo cuando cuentas, contratos y políticas internas lo permiten; si no, se usan datos sintéticos o anonimizados."
+      },
+      {
+        "question": "¿Qué queda después del curso?",
+        "answer": "Materiales reutilizables, ejemplos, checklists y próximos pasos claros."
+      },
+      {
+        "question": "¿Es teórico?",
+        "answer": "No. Está construido sobre ejercicios prácticos y decisiones cercanas al trabajo real."
+      }
+    ],
+    "output": "Canvas operativo para legal operations y compliance documental.",
+    "searchIntents": [
+      "curso AI empresarial sobre legal operations y compliance documental",
+      "formación práctica para AI Legal Ops y compliance documental",
+      "training AI para funciones operativas",
+      "recorrido Artik Lab para Canvas operativo para legal operations y compliance documental",
+      "cómo introducir legal operations y compliance documental en procesos empresariales"
+    ],
+    "needSignals": [
+      "legal operations y compliance documental ya aparece en conversaciones internas, pero falta un método compartido para convertirlo en práctica.",
+      "Las personas prueban herramientas AI de forma autónoma y la empresa aún no ve criterios, controles y resultados comparables.",
+      "El proceso conectado con legal operations y compliance documental consume tiempo, genera pasos manuales u outputs difíciles de verificar.",
+      "La dirección necesita decidir si invertir, formar o detenerse antes de introducir automatizaciones frágiles.",
+      "La empresa necesita un resultado concreto: Canvas operativo para legal operations y compliance documental."
+    ],
+    "extraExamples": [
+      {
+        "title": "Del curso genérico al proceso real",
+        "description": "Una empresa pide formación sobre legal operations y compliance documental, pero el problema real emerge al mapear el trabajo: tareas repetidas, controles informales y responsabilidades distribuidas. El recorrido usa ejemplos cercanos al trabajo diario y convierte la formación en un primer modelo operativo, no en teoría."
+      },
+      {
+        "title": "De experimentación individual a práctica gobernada",
+        "description": "Algunas personas ya encontraron atajos con AI y otras están bloqueadas. El curso crea una base común: qué se puede hacer, qué debe revisarse, qué datos no deben exponerse y cuándo escalar. El resultado es Canvas operativo para legal operations y compliance documental."
+      },
+      {
+        "title": "Del entusiasmo a la decisión",
+        "description": "La dirección necesita saber si legal operations y compliance documental merece presupuesto y continuidad. El laboratorio separa beneficios inmediatos, riesgos operativos y dependencias de datos. La empresa sale con criterios para decidir el siguiente paso."
+      }
+    ],
+    "selectionCriteria": [
+      "Elegir este curso si la necesidad principal es legal operations y compliance documental, no una panorámica genérica sobre AI.",
+      "Preferirlo cuando existe un proceso, documento, workflow o responsabilidad empresarial sobre la que trabajar.",
+      "Aplazarlo si aún no hay sponsor interno o si el problema es solo comprar una licencia software.",
+      "Combinarlo con AI Workflow Redesign Lab cuando primero hace falta entender qué procesos priorizar."
+    ],
+    "limits": [
+      "No promete automatización completa ni sustitución de responsabilidades humanas.",
+      "No exige cargar datos confidenciales en entornos no aprobados.",
+      "No es asesoría legal, fiscal, HR o técnica especializada cuando esas responsabilidades corresponden a funciones competentes.",
+      "Produce competencias, criterios y materiales reutilizables; la adopción continua requiere sponsorship, gobernanza y práctica interna."
+    ],
+    "relatedCourseIds": [
+      "workflow-redesign",
+      "managing-ai-general",
+      "ai-governance",
+      "ai-output-quality"
+    ],
+    "urls": {
+      "html": "https://ar-tik.com/es/cursos/ai-legal-ops.html",
+      "markdown": "https://ar-tik.com/es/cursos/ai-legal-ops.md",
+      "dossier": "https://ar-tik.com/es/cursos/ai-legal-ops-dossier.md",
+      "json": "https://ar-tik.com/es/cursos/ai-legal-ops.json",
+      "catalog": "https://ar-tik.com/es/cursos/",
+      "catalogMarkdown": "https://ar-tik.com/es/cursos/index.md"
+    }
+  }
+}

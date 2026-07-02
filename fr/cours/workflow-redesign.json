@@ -1,0 +1,138 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
+  "generatedAt": "2026-07-02",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "course": {
+    "id": "workflow-redesign",
+    "locale": "fr",
+    "language": "fr",
+    "family": "foundation",
+    "familyLabel": "Fondamental",
+    "featured": true,
+    "title": "AI Workflow Redesign Lab",
+    "subtitle": "Cours d'entreprise pratique pour appliquer l'IA à refonte des flux de travail, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.",
+    "summary": "Cours d'entreprise pratique pour appliquer l'IA à refonte des flux de travail, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.",
+    "duration": "8 heures, modulables en 2 ou 4 sessions",
+    "mode": "Laboratoire en présentiel ou en ligne, avec exercices guidés et matériaux adaptés au client.",
+    "profile": "all",
+    "profileDescription": "Pour équipes d'entreprise, fonctions opérationnelles et managers; aucune programmation requise.",
+    "problem": "Beaucoup d'entreprises abordent refonte des flux de travail par expérimentations dispersées: quelques instructions, quelques utilisateurs motivés et beaucoup de doutes sur données, qualité et responsabilité. Le cours transforme cette incertitude en méthode opérationnelle. Les participants travaillent sur des scénarios réalistes, apprennent où l'IA aide, où la revue humaine reste essentielle et comment rendre la pratique répétable.",
+    "audience": "Pour équipes d'entreprise, fonctions opérationnelles et managers; aucune programmation requise.",
+    "whenToChoose": "Choisir ce cours lorsque l'entreprise veut progresser concrètement sur refonte des flux de travail et a besoin d'une formation qui produit des flux de travail utilisables, pas de théorie abstraite.",
+    "chooseIf": "Quand l'entreprise veut progresser concrètement sur refonte des flux de travail et a besoin d'une formation qui produit des flux de travail utilisables, pas de théorie abstraite.",
+    "outcomes": [
+      "Cartographier le travail et les décisions où l'IA peut réduire les frictions.",
+      "Construire instructions, checklists et critères de revue.",
+      "Identifier limites de données, confidentialité et responsabilité.",
+      "Créer des exemples réutilisables pour l'équipe.",
+      "Définir les prochaines étapes d'adoption et de gouvernance."
+    ],
+    "modules": [
+      {
+        "title": "Cartographier le travail réel",
+        "description": "Activités, décisions, passages d'information et goulots d'étranglement."
+      },
+      {
+        "title": "Évaluer le potentiel IA",
+        "description": "Impact, faisabilité, risque, qualité des données et niveau de contrôle."
+      },
+      {
+        "title": "Repenser le flux de travail",
+        "description": "Rôles, entrées, sorties, revues, escalade et traçabilité."
+      },
+      {
+        "title": "Passer à l'adoption",
+        "description": "Métriques, gouvernance minimale, roadmap et responsabilité opérationnelle."
+      }
+    ],
+    "exercises": [
+      "Cartographier un processus réaliste lié à refonte des flux de travail.",
+      "Créer des résultats assistés par IA et les revoir de façon critique.",
+      "Définir points d'escalade et revue humaine.",
+      "Construire une checklist réutilisable pour le quotidien."
+    ],
+    "materials": [
+      "Canvas opérationnel pour refonte des flux de travail.",
+      "Modèles d'instructions.",
+      "Checklist qualité et confidentialité.",
+      "Matrice risque/contrôle.",
+      "Notes d'adoption pour l'équipe."
+    ],
+    "privacy": "Le cours utilise des supports synthétiques, publics, anonymisés ou approuvés par le client. Il explique comment minimiser l'exposition des données, protéger les informations confidentielles, vérifier les résultats et garder la responsabilité humaine explicite.",
+    "prerequisites": "Aucune programmation requise. La connaissance du processus métier est utile.",
+    "faqs": [
+      {
+        "question": "Le cours dépend-il d'un outil?",
+        "answer": "Non. Les patterns sont adaptés aux outils et politiques choisis avec le client."
+      },
+      {
+        "question": "Peut-on utiliser des données d'entreprise?",
+        "answer": "Uniquement si comptes, contrats et politiques internes le permettent; sinon on utilise des données synthétiques ou anonymisées."
+      },
+      {
+        "question": "Que reste-t-il après le cours?",
+        "answer": "Matériaux réutilisables, exemples, checklists et prochaines étapes claires."
+      },
+      {
+        "question": "Est-ce théorique?",
+        "answer": "Non. Le cours repose sur exercices pratiques et décisions proches du travail réel."
+      }
+    ],
+    "output": "Canvas opérationnel pour refonte des flux de travail.",
+    "searchIntents": [
+      "cours AI d'entreprise sur refonte des flux de travail",
+      "formation pratique pour AI Workflow Redesign Lab",
+      "training AI pour workflows d'entreprise",
+      "parcours Artik Lab pour Canvas opérationnel pour refonte des flux de travail",
+      "comment introduire refonte des flux de travail dans les processus d'entreprise"
+    ],
+    "needSignals": [
+      "refonte des flux de travail est déjà présent dans les discussions internes, mais il manque une méthode partagée pour le transformer en pratique.",
+      "Les personnes expérimentent des outils AI de façon autonome et l'entreprise ne voit pas encore critères, contrôles et résultats comparables.",
+      "Le processus lié à refonte des flux de travail absorbe du temps, crée des passages manuels ou produit des outputs difficiles à vérifier.",
+      "La direction doit décider d'investir, former ou arrêter avant d'introduire des automatisations fragiles.",
+      "L'entreprise a besoin d'un résultat concret: Canvas opérationnel pour refonte des flux de travail."
+    ],
+    "extraExamples": [
+      {
+        "title": "De la formation générique au processus réel",
+        "description": "Une entreprise demande une formation sur refonte des flux de travail, mais le vrai sujet apparaît lors de la cartographie: tâches répétées, contrôles informels et responsabilités distribuées. Le parcours utilise des exemples proches du quotidien et transforme la formation en premier modèle opérationnel."
+      },
+      {
+        "title": "De l'expérimentation individuelle à la pratique gouvernée",
+        "description": "Certaines personnes ont déjà trouvé des raccourcis avec l'AI, d'autres restent bloquées. Le cours crée une base commune: ce qui peut être fait, ce qui doit être revu, quelles données ne pas exposer et quand escalader. Le résultat est Canvas opérationnel pour refonte des flux de travail."
+      },
+      {
+        "title": "De l'enthousiasme à la décision",
+        "description": "La direction doit comprendre si refonte des flux de travail mérite budget et continuité. Le laboratoire sépare bénéfices immédiats, risques opérationnels et dépendances de données. L'entreprise repart avec des critères pour décider la suite."
+      }
+    ],
+    "selectionCriteria": [
+      "Choisir ce cours si le besoin principal concerne refonte des flux de travail, pas une vue générique de l'AI.",
+      "Le privilégier lorsqu'il existe un processus, document, workflow ou responsabilité à travailler pendant la formation.",
+      "Le reporter s'il n'y a pas encore de sponsor interne ou si le sujet est seulement l'achat d'une licence software.",
+      "L'utiliser comme point de départ lorsqu'il n'est pas encore clair quels processus prioriser."
+    ],
+    "limits": [
+      "Il ne promet pas l'automatisation complète ni le remplacement des responsabilités humaines.",
+      "Il n'exige pas de charger des données confidentielles dans des environnements non approuvés.",
+      "Ce n'est pas un conseil juridique, fiscal, RH ou technique spécialisé lorsque ces responsabilités restent aux fonctions compétentes.",
+      "Il produit compétences, critères et matériaux réutilisables; l'adoption continue demande sponsorship, gouvernance et pratique interne."
+    ],
+    "relatedCourseIds": [
+      "managing-ai",
+      "ai-literacy",
+      "ai-governance",
+      "ai-output-quality"
+    ],
+    "urls": {
+      "html": "https://ar-tik.com/fr/cours/workflow-redesign.html",
+      "markdown": "https://ar-tik.com/fr/cours/workflow-redesign.md",
+      "dossier": "https://ar-tik.com/fr/cours/workflow-redesign-dossier.md",
+      "json": "https://ar-tik.com/fr/cours/workflow-redesign.json",
+      "catalog": "https://ar-tik.com/fr/cours/",
+      "catalogMarkdown": "https://ar-tik.com/fr/cours/index.md"
+    }
+  }
+}

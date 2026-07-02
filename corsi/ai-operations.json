@@ -1,0 +1,137 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
+  "generatedAt": "2026-07-02",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "course": {
+    "id": "ai-operations",
+    "locale": "it",
+    "language": "it",
+    "family": "operational",
+    "familyLabel": "Operativo",
+    "featured": false,
+    "title": "AI Operations",
+    "subtitle": "Applicare l'AI ai processi operativi: procedure, report, coordinamento attività, colli di bottiglia e standardizzazione.",
+    "summary": "Percorso per migliorare efficienza, controllo e leggibilità dei processi operativi senza aggiungere dashboard inutili.",
+    "duration": "4 ore, 2 lezioni da 2 ore",
+    "mode": "Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.",
+    "profile": "mixed",
+    "profileDescription": "Per manager e team non tecnici; non richiede programmazione.",
+    "problem": "Le operations vivono di passaggi, eccezioni, comunicazioni tra funzioni e decisioni rapide. Quando informazioni e procedure sono sparse, ogni coordinamento diventa più lento. Il corso mostra come usare l'AI per trasformare note destrutturate in procedure, leggere rischi e rendere più chiari i prossimi passi.",
+    "audience": "Operations manager, project operations, back office, responsabili di processo, supply chain, produzione, logistica, service operations e team trasversali.",
+    "whenToChoose": "Quando l'azienda vuole migliorare efficienza, standardizzazione e controllo dei processi operativi senza automatizzare decisioni critiche senza supervisione.",
+    "chooseIf": "Quando l'azienda vuole migliorare efficienza, standardizzazione e controllo dei processi operativi senza automatizzare decisioni critiche senza supervisione.",
+    "outcomes": [
+      "Mappare processi e attività ricorrenti.",
+      "Creare procedure operative e checklist.",
+      "Sintetizzare report, meeting note e aggiornamenti.",
+      "Individuare colli di bottiglia e rischi.",
+      "Costruire workflow assistiti per attività ripetitive."
+    ],
+    "modules": [
+      {
+        "title": "AI nei processi operativi",
+        "description": "Procedure, report, pianificazione, coordinamento e knowledge base."
+      },
+      {
+        "title": "Standardizzazione",
+        "description": "Trasformare prassi operative in istruzioni, checklist e schede processo."
+      },
+      {
+        "title": "Analisi e coordinamento",
+        "description": "Sintetizzare aggiornamenti, dipendenze, priorità, rischi e blocchi."
+      },
+      {
+        "title": "Governance operativa",
+        "description": "Controlli, ruoli, dati utilizzabili, limiti e misurazione impatto."
+      }
+    ],
+    "exercises": [
+      "Mappatura di un processo operativo.",
+      "Creazione di una procedura da note destrutturate.",
+      "Sintesi di un report operativo.",
+      "Analisi di colli di bottiglia e azioni."
+    ],
+    "materials": [
+      "Template procedura operativa.",
+      "Checklist processo AI-assisted.",
+      "Schema report operations.",
+      "Matrice priorità/rischio/impatto."
+    ],
+    "privacy": "Si usano scenari simulati o anonimizzati. Vengono definite regole per proteggere informazioni operative, dati cliente, dati fornitore e documentazione riservata.",
+    "prerequisites": "Esperienza base in processi aziendali o coordinamento operativo. Non sono richieste competenze tecniche.",
+    "faqs": [
+      {
+        "question": "Può automatizzare un processo?",
+        "answer": "Può supportare standardizzazione, sintesi e controllo; l'automazione completa richiede analisi tecnica."
+      },
+      {
+        "question": "È adatto a processi non documentati?",
+        "answer": "Sì, trasforma conoscenza operativa destrutturata in procedure."
+      },
+      {
+        "question": "Aiuta sulle priorità?",
+        "answer": "Sì, se criteri e vincoli sono chiari."
+      },
+      {
+        "question": "Come si misura il beneficio?",
+        "answer": "Con tempo risparmiato, rilavorazioni ridotte, qualità documentale e velocità di allineamento."
+      }
+    ],
+    "output": "Workflow operativo ridisegnato con procedure, checklist e report assistiti da AI.",
+    "searchIntents": [
+      "corso AI aziendale su AI Operations",
+      "formazione pratica per AI Operations",
+      "training AI per funzioni operative",
+      "percorso Artik Lab per Workflow operativo ridisegnato con procedure, checklist e report assistiti da AI",
+      "come introdurre AI Operations nei processi aziendali"
+    ],
+    "needSignals": [
+      "Il tema AI Operations è già presente nelle conversazioni interne, ma manca un metodo condiviso per trasformarlo in pratica.",
+      "Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.",
+      "Il processo collegato a AI Operations assorbe tempo, genera passaggi manuali o produce output difficili da verificare.",
+      "La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.",
+      "Serve un risultato concreto dopo la formazione: Workflow operativo ridisegnato con procedure, checklist e report assistiti da AI."
+    ],
+    "extraExamples": [
+      {
+        "title": "Dal corso generico al processo reale",
+        "description": "Un'azienda chiede formazione su AI Operations, ma il problema vero emerge durante la mappatura: attività ripetute, controlli informali e responsabilità distribuite. Il percorso usa esempi vicini al lavoro quotidiano e trasforma la formazione in un primo modello operativo, non in una lezione teorica."
+      },
+      {
+        "title": "Da sperimentazione individuale a pratica governata",
+        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Workflow operativo ridisegnato con procedure, checklist e report assistiti da AI."
+      },
+      {
+        "title": "Da entusiasmo a decisione",
+        "description": "Il management vuole capire se AI Operations merita budget e continuità. Durante il laboratorio si distinguono benefici immediati, rischi operativi e dipendenze dai dati. L'azienda esce con criteri per decidere il passo successivo invece di accumulare demo isolate."
+      }
+    ],
+    "selectionCriteria": [
+      "Scegliere questo corso se il bisogno principale riguarda AI Operations e non una panoramica generica sull'AI.",
+      "Preferirlo quando esiste un processo, un documento, un flusso o una responsabilità aziendale su cui lavorare durante il training.",
+      "Rimandarlo se non esiste ancora sponsor interno o se il problema è solo acquistare una licenza software.",
+      "Abbinarlo ad AI Workflow Redesign Lab quando prima serve capire quali processi meritano priorità."
+    ],
+    "limits": [
+      "Non promette automazione completa o sostituzione delle responsabilità umane.",
+      "Non richiede di caricare dati riservati in ambienti non approvati.",
+      "Non è una consulenza legale, fiscale, HR o tecnica specialistica quando tali responsabilità restano a funzioni competenti.",
+      "Produce competenze, criteri e materiali riutilizzabili; l'adozione continua richiede sponsorship, governance e pratica interna."
+    ],
+    "relatedCourseIds": [
+      "workflow-redesign",
+      "managing-ai-general",
+      "ai-governance",
+      "ai-output-quality"
+    ],
+    "urls": {
+      "html": "https://ar-tik.com/corsi/ai-operations.html",
+      "markdown": "https://ar-tik.com/corsi/ai-operations.md",
+      "dossier": "https://ar-tik.com/corsi/ai-operations-dossier.md",
+      "json": "https://ar-tik.com/corsi/ai-operations.json",
+      "catalog": "https://ar-tik.com/corsi/",
+      "catalogMarkdown": "https://ar-tik.com/corsi/index.md"
+    }
+  }
+}

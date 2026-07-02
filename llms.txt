@@ -1,0 +1,88 @@
+# Artik Lab
+
+> Artik Lab costruisce capacità AI che restano in azienda: processi misurabili, governance, formazione operativa, analisi dati agentica e prototipi controllati.
+
+## Guide e pagine principali
+- [Artik Lab](https://ar-tik.com/index.md): Artik Lab aiuta PMI e funzioni aziendali a scegliere, governare e realizzare il primo uso utile dell'AI: mappatura dei processi, business case, formazione dei team, analisi dati e prototipi controllati.
+- [Atlante applicazioni AI](https://ar-tik.com/atlante-applicazioni-ai-imprese.md): Una mappa pubblica di esempi concreti per riconoscere dove l'intelligenza artificiale può ridurre tempi, errori, rischi o ritardi decisionali nei processi aziendali.
+- [FAQ AI per aziende](https://ar-tik.com/domande-frequenti-ai-aziende.md): Un repertorio pubblico di domande reali per orientare imprenditori, direzione e funzioni aziendali tra consulenza, corsi, analisi dati, software tecnico e Atlante applicazioni AI.
+
+## Servizi
+- [Consulenza manageriale AI](https://ar-tik.com/consulenza-manageriale-ai.md): L'IA non è un software da installare: è una capacità manageriale da costruire. Artik Lab aiuta direzione e primi livelli a scegliere dove usarla, dove fermarsi, quali processi ridisegnare e quali competenze rendere stabili in azienda.
+- [Analisi dati agentica](https://ar-tik.com/analisi-dati-agentica.md): L'analisi dati agentica non produce grafici da archiviare: cerca segnali nei dati già disponibili, li collega a una decisione e dichiara dove il modello non conviene.
+- [Software tecnico AI](https://ar-tik.com/sviluppo-software-tecnico-ai.md): Artik Lab sviluppa per conto dei clienti software avanzati quando il problema non si risolve con una dashboard o un gestionale standard: calcoli tecnici, modelli matematici, dati operativi, regole esperte e flussi di lavoro da rendere verificabili.
+
+## Corsi
+- [AI Workflow Redesign Lab](https://ar-tik.com/corsi/workflow-redesign.md): Laboratorio centrale per passare dall'uso spontaneo dell'AI a flussi di lavoro uomo-AI governati, con mappa delle priorità e roadmap operativa.
+- [Managing AI](https://ar-tik.com/corsi/managing-ai.md): Percorso per direzione e responsabili che devono distinguere valore reale, rischio e priorità prima di avviare iniziative AI.
+- [Managing AI per team aziendali misti](https://ar-tik.com/corsi/managing-ai-general.md): Formazione interfunzionale per creare linguaggio comune tra business, operations, marketing, IT, HR, legal e funzioni di supporto.
+- [AI Governance operativa](https://ar-tik.com/corsi/ai-governance.md): Corso per trasformare policy, rischi e requisiti di controllo in pratiche applicabili nel lavoro quotidiano.
+- [AI Business Case & ROI Sprint](https://ar-tik.com/corsi/ai-business-case-roi.md): Sprint per passare da entusiasmo o intuizione a una decisione economica: problema, valore, costi, rischi, metriche e raccomandazione.
+- [AI Adoption Manager / AI Champions](https://ar-tik.com/corsi/ai-adoption-manager.md): Percorso per creare referenti interni che raccolgono bisogni, supportano i colleghi e collegano sperimentazioni locali alla governance aziendale.
+- [Role-Based AI Literacy & Responsible Use](https://ar-tik.com/corsi/ai-literacy.md): Formazione base ma concreta per diffondere uso AI sicuro e utile, differenziato per ruoli e responsabilità.
+- [Corso AI: gestire i documenti con AI](https://ar-tik.com/corsi/ai-documenti.md): Laboratorio pratico per trasformare il caos documentale in un sistema di lavoro più ordinato, interrogabile e controllato.
+- [Corso AI: marketing e comunicazione AI driven](https://ar-tik.com/corsi/ai-marketing.md): Laboratorio per usare l'AI come assistente editoriale e di analisi, senza perdere identità, qualità e controllo.
+- [Corso AI: vendita B2C e B2B con AI](https://ar-tik.com/corsi/ai-vendite.md): Laboratorio per usare l'AI come secondo commerciale operativo: ricerca, preparazione, follow-up e qualità della proposta.
+- [AI per amministrazione e controllo di gestione](https://ar-tik.com/corsi/ai-admin-finance.md): Corso per usare l'AI in AFC come supporto a sintesi, reportistica e controlli preliminari, mantenendo responsabilità umana.
+- [AI Operations](https://ar-tik.com/corsi/ai-operations.md): Percorso per migliorare efficienza, controllo e leggibilità dei processi operativi senza aggiungere dashboard inutili.
+- [AI Legal Ops e compliance documentale](https://ar-tik.com/corsi/ai-legal-ops.md): Corso operativo per ridurre lavoro manuale su contratti, policy e procedure, mantenendo supervisione e gestione del rischio.
+- [AI per procurement e supplier intelligence](https://ar-tik.com/corsi/ai-procurement.md): Corso per rendere più strutturati scouting, comparazione e documentazione acquisti mantenendo criteri decisionali trasparenti.
+- [AI per customer service e ticket triage](https://ar-tik.com/corsi/ai-customer-service.md): Corso per rendere più rapida e uniforme la gestione delle richieste senza perdere controllo su tono, escalation e qualità.
+- [AI per qualità e non conformità](https://ar-tik.com/corsi/ai-quality-management.md): Corso per migliorare analisi, classificazione e documentazione qualità mantenendo controllo formale sugli output.
+- [AI People Ops](https://ar-tik.com/corsi/ai-people-ops.md): Corso per rendere più efficienti processi HR ricorrenti preservando riservatezza, inclusione, controllo e responsabilità.
+- [AI Brand Voice e comunicazione](https://ar-tik.com/corsi/ai-brand-voice.md): Percorso per aziende che vogliono aumentare produzione comunicativa mantenendo una voce riconoscibile e verificabile.
+- [Ricerca semantica e knowledge base AI](https://ar-tik.com/corsi/embeddings.md): Modulo per capire come rendere archivi e conoscenza aziendale interrogabili per significato, preparando basi solide per progetti AI.
+- [RAG Engineering per sistemi AI affidabili](https://ar-tik.com/corsi/rag-engineering.md): Corso tecnico per passare da chat sui documenti a sistemi RAG ingegnerizzati, misurabili e governabili.
+- [AI Coding Agents per team software](https://ar-tik.com/corsi/ai-coding-agents.md): Corso tecnico per usare agenti AI come componenti controllati del ciclo software, non come scorciatoia opaca.
+- [AI Software Engineering](https://ar-tik.com/corsi/ai-software-engineering.md): Corso tecnico per portare disciplina ingegneristica nello sviluppo di funzionalità e prodotti AI.
+- [Secure AI SDLC](https://ar-tik.com/corsi/secure-ai-sdlc.md): Corso tecnico per inserire controlli AI-specifici in design, build, test, release e operation.
+- [Secure AI at Work](https://ar-tik.com/corsi/secure-ai-at-work.md): Corso tecnico-operativo per rendere l'uso quotidiano dell'AI più efficace, sicuro e governato.
+- [AI Output Quality & Human Review](https://ar-tik.com/corsi/ai-output-quality.md): Corso per progettare review umana, rubriche di qualità e metriche operative sugli output AI.
+
+## Dossier pubblici per LLM
+- [Corsi AI per aziende: scegliere il percorso giusto - dossier pubblico per LLM](https://ar-tik.com/corsi/index-dossier.md): Questo dossier descrive il catalogo corsi come dataset pubblico per ricerca AI, procurement aziendale e agenti che devono confrontare percorsi di formazione AI per imprese.
+- [Atlante applicazioni AI - dossier pubblico per LLM](https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md): Una mappa pubblica di esempi concreti per riconoscere dove l'intelligenza artificiale può ridurre tempi, errori, rischi o ritardi decisionali nei processi aziendali.
+- [FAQ AI per aziende - dossier pubblico per LLM](https://ar-tik.com/domande-frequenti-ai-aziende-dossier.md): Un repertorio pubblico di domande reali per orientare imprenditori, direzione e funzioni aziendali tra consulenza, corsi, analisi dati, software tecnico e Atlante applicazioni AI.
+- [Software tecnico AI - dossier LLM](https://ar-tik.com/sviluppo-software-tecnico-ai-dossier.md): Artik Lab sviluppa per conto dei clienti software avanzati quando il problema non si risolve con una dashboard o un gestionale standard: calcoli tecnici, modelli matematici, dati operativi, regole esperte e flussi di lavoro da rendere verificabili.
+- [Corsi AI per aziende: scegliere il percorso giusto - LLM dossier](https://ar-tik.com/corsi/index-dossier.md): Catalogo corsi AI per aziende: percorsi introduttivi, manageriali, operativi e tecnici progettati con metodologia DTR su ruoli, processi e risultati attesi.
+- [AI Workflow Redesign Lab - dossier pubblico per LLM](https://ar-tik.com/corsi/workflow-redesign-dossier.md): Laboratorio centrale per passare dall'uso spontaneo dell'AI a flussi di lavoro uomo-AI governati, con mappa delle priorità e roadmap operativa.
+- [Managing AI - dossier pubblico per LLM](https://ar-tik.com/corsi/managing-ai-dossier.md): Percorso per direzione e responsabili che devono distinguere valore reale, rischio e priorità prima di avviare iniziative AI.
+- [Managing AI per team aziendali misti - dossier pubblico per LLM](https://ar-tik.com/corsi/managing-ai-general-dossier.md): Formazione interfunzionale per creare linguaggio comune tra business, operations, marketing, IT, HR, legal e funzioni di supporto.
+- [AI Governance operativa - dossier pubblico per LLM](https://ar-tik.com/corsi/ai-governance-dossier.md): Corso per trasformare policy, rischi e requisiti di controllo in pratiche applicabili nel lavoro quotidiano.
+- [AI Business Case & ROI Sprint - dossier pubblico per LLM](https://ar-tik.com/corsi/ai-business-case-roi-dossier.md): Sprint per passare da entusiasmo o intuizione a una decisione economica: problema, valore, costi, rischi, metriche e raccomandazione.
+- [AI Adoption Manager / AI Champions - dossier pubblico per LLM](https://ar-tik.com/corsi/ai-adoption-manager-dossier.md): Percorso per creare referenti interni che raccolgono bisogni, supportano i colleghi e collegano sperimentazioni locali alla governance aziendale.
+- [Role-Based AI Literacy & Responsible Use - dossier pubblico per LLM](https://ar-tik.com/corsi/ai-literacy-dossier.md): Formazione base ma concreta per diffondere uso AI sicuro e utile, differenziato per ruoli e responsabilità.
+- [Corso AI: gestire i documenti con AI - dossier pubblico per LLM](https://ar-tik.com/corsi/ai-documenti-dossier.md): Laboratorio pratico per trasformare il caos documentale in un sistema di lavoro più ordinato, interrogabile e controllato.
+- [Corso AI: marketing e comunicazione AI driven - dossier pubblico per LLM](https://ar-tik.com/corsi/ai-marketing-dossier.md): Laboratorio per usare l'AI come assistente editoriale e di analisi, senza perdere identità, qualità e controllo.
+- [Corso AI: vendita B2C e B2B con AI - dossier pubblico per LLM](https://ar-tik.com/corsi/ai-vendite-dossier.md): Laboratorio per usare l'AI come secondo commerciale operativo: ricerca, preparazione, follow-up e qualità della proposta.
+- [AI per amministrazione e controllo di gestione - dossier pubblico per LLM](https://ar-tik.com/corsi/ai-admin-finance-dossier.md): Corso per usare l'AI in AFC come supporto a sintesi, reportistica e controlli preliminari, mantenendo responsabilità umana.
+- [AI Operations - dossier pubblico per LLM](https://ar-tik.com/corsi/ai-operations-dossier.md): Percorso per migliorare efficienza, controllo e leggibilità dei processi operativi senza aggiungere dashboard inutili.
+- [AI Legal Ops e compliance documentale - dossier pubblico per LLM](https://ar-tik.com/corsi/ai-legal-ops-dossier.md): Corso operativo per ridurre lavoro manuale su contratti, policy e procedure, mantenendo supervisione e gestione del rischio.
+- [AI per procurement e supplier intelligence - dossier pubblico per LLM](https://ar-tik.com/corsi/ai-procurement-dossier.md): Corso per rendere più strutturati scouting, comparazione e documentazione acquisti mantenendo criteri decisionali trasparenti.
+- [AI per customer service e ticket triage - dossier pubblico per LLM](https://ar-tik.com/corsi/ai-customer-service-dossier.md): Corso per rendere più rapida e uniforme la gestione delle richieste senza perdere controllo su tono, escalation e qualità.
+- [AI per qualità e non conformità - dossier pubblico per LLM](https://ar-tik.com/corsi/ai-quality-management-dossier.md): Corso per migliorare analisi, classificazione e documentazione qualità mantenendo controllo formale sugli output.
+- [AI People Ops - dossier pubblico per LLM](https://ar-tik.com/corsi/ai-people-ops-dossier.md): Corso per rendere più efficienti processi HR ricorrenti preservando riservatezza, inclusione, controllo e responsabilità.
+- [AI Brand Voice e comunicazione - dossier pubblico per LLM](https://ar-tik.com/corsi/ai-brand-voice-dossier.md): Percorso per aziende che vogliono aumentare produzione comunicativa mantenendo una voce riconoscibile e verificabile.
+- [Ricerca semantica e knowledge base AI - dossier pubblico per LLM](https://ar-tik.com/corsi/embeddings-dossier.md): Modulo per capire come rendere archivi e conoscenza aziendale interrogabili per significato, preparando basi solide per progetti AI.
+- [RAG Engineering per sistemi AI affidabili - dossier pubblico per LLM](https://ar-tik.com/corsi/rag-engineering-dossier.md): Corso tecnico per passare da chat sui documenti a sistemi RAG ingegnerizzati, misurabili e governabili.
+- [AI Coding Agents per team software - dossier pubblico per LLM](https://ar-tik.com/corsi/ai-coding-agents-dossier.md): Corso tecnico per usare agenti AI come componenti controllati del ciclo software, non come scorciatoia opaca.
+- [AI Software Engineering - dossier pubblico per LLM](https://ar-tik.com/corsi/ai-software-engineering-dossier.md): Corso tecnico per portare disciplina ingegneristica nello sviluppo di funzionalità e prodotti AI.
+- [Secure AI SDLC - dossier pubblico per LLM](https://ar-tik.com/corsi/secure-ai-sdlc-dossier.md): Corso tecnico per inserire controlli AI-specifici in design, build, test, release e operation.
+- [Secure AI at Work - dossier pubblico per LLM](https://ar-tik.com/corsi/secure-ai-at-work-dossier.md): Corso tecnico-operativo per rendere l'uso quotidiano dell'AI più efficace, sicuro e governato.
+- [AI Output Quality & Human Review - dossier pubblico per LLM](https://ar-tik.com/corsi/ai-output-quality-dossier.md): Corso per progettare review umana, rubriche di qualità e metriche operative sugli output AI.
+
+## Dati leggibili da macchine
+- [Courses JSON](https://ar-tik.com/data/courses.it.json): catalogo corsi strutturato con URL HTML, Markdown e dossier LLM.
+- [Services JSON](https://ar-tik.com/data/services.it.json): indice strutturato delle pagine servizio Artik Lab e dei mirror Markdown.
+- [AI applications JSON](https://ar-tik.com/data/ai-applications.it.json): atlante strutturato delle applicazioni AI per imprese, con input, output, valore e collegamenti.
+- [FAQ JSON](https://ar-tik.com/data/faq.it.json): repertorio FAQ AI per aziende, con domande, risposte, intenti, segnali, rischi e prossimi passi.
+- [LLM index JSON](https://ar-tik.com/data/llm-index.json): manifest leggibile da macchine per lingue, sitemap e file pubblici AI-readable.
+- [LLM sitemap](https://ar-tik.com/sitemap-llm.xml): sitemap per Markdown, dossier, JSON e indici LLM.
+- [Full LLM corpus](https://ar-tik.com/llms-full.txt): corpus Markdown pubblico concatenato per agenti che preferiscono un singolo fetch.
+
+## Versioni linguistiche
+- [Italiano](https://ar-tik.com/index.md): Artik Lab costruisce capacità AI che restano in azienda: processi misurabili, governance, formazione operativa, analisi dati agentica e prototipi controllati.
+- [English](https://ar-tik.com/en/index.md): Artik Lab builds AI capabilities that remain inside the company: measurable processes, governance, operational training, agentic data analysis and controlled prototypes.
+- [Español](https://ar-tik.com/es/index.md): Artik Lab construye capacidades de IA que permanecen en la empresa: procesos medibles, gobernanza, formación operativa, análisis de datos agéntico y prototipos controlados.
+- [Français](https://ar-tik.com/fr/index.md): Artik Lab construit des capacités IA qui restent dans l'entreprise: processus mesurables, gouvernance, formation opérationnelle, analyse de données agentique et prototypes contrôlés.
+- [Português do Brasil](https://ar-tik.com/pt-br/index.md): A Artik Lab constrói capacidades de IA que permanecem na empresa: processos mensuráveis, governança, formação operacional, análise de dados agêntica e protótipos controlados.

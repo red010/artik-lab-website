@@ -1,0 +1,138 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
+  "generatedAt": "2026-07-02",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "course": {
+    "id": "rag-engineering",
+    "locale": "it",
+    "language": "it",
+    "family": "technical",
+    "familyLabel": "Tecnico",
+    "featured": false,
+    "title": "RAG Engineering per sistemi AI affidabili",
+    "subtitle": "Progettare, valutare e portare in produzione architetture Retrieval-Augmented Generation basate su dati e documenti aziendali.",
+    "summary": "Corso tecnico per passare da chat sui documenti a sistemi RAG ingegnerizzati, misurabili e governabili.",
+    "duration": "5 ore, 2 lezioni da 2,5 ore",
+    "mode": "Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.",
+    "profile": "technical",
+    "profileDescription": "Per team tecnici con basi di programmazione e architetture software.",
+    "problem": "Molti prototipi RAG funzionano in demo ma falliscono con documenti reali, permessi, versioni, linguaggio tecnico e requisiti di audit. Il corso affronta ingestion, retrieval, qualità delle risposte, sicurezza e manutenzione, collegando architettura e gestione operativa.",
+    "audience": "Team software, data engineer, AI engineer, architect, responsabili IT, innovation team e buyer tecnici che devono valutare o costruire sistemi RAG interni.",
+    "whenToChoose": "Quando esistono knowledge base, documentazione tecnica, procedure, ticket, contratti o repository da rendere interrogabili senza perdere controllo su fonti e qualità.",
+    "chooseIf": "Quando esistono knowledge base, documentazione tecnica, procedure, ticket, contratti o repository da rendere interrogabili senza perdere controllo su fonti e qualità.",
+    "outcomes": [
+      "Disegnare architettura RAG target.",
+      "Impostare pipeline di ingestion.",
+      "Definire chunking e retrieval.",
+      "Costruire criteri di valutazione e metriche.",
+      "Gestire fonti, permessi, sicurezza e osservabilità."
+    ],
+    "modules": [
+      {
+        "title": "Fondamenti RAG",
+        "description": "Retrieval, grounding, contesto e limiti dei modelli generativi."
+      },
+      {
+        "title": "Data pipeline",
+        "description": "Parsing, normalizzazione, chunking, metadati e aggiornamenti."
+      },
+      {
+        "title": "Retrieval e risposta",
+        "description": "Ranking, filtri, query transformation, citazioni e fallback."
+      },
+      {
+        "title": "Produzione",
+        "description": "Evaluation set, monitoraggio, permessi, audit, costi e manutenzione."
+      }
+    ],
+    "exercises": [
+      "Disegno pipeline RAG.",
+      "Confronto strategie di chunking.",
+      "Costruzione test set.",
+      "Analisi risposte errate.",
+      "Controlli su fonti e permessi."
+    ],
+    "materials": [
+      "Canvas architetturale.",
+      "Checklist RAG production-ready.",
+      "Template evaluation set.",
+      "Matrice rischi.",
+      "Schema governance documentale."
+    ],
+    "privacy": "Lavora su dataset sintetici o documenti approvati. Le scelte tecniche considerano segregazione, retention, access control e tracciabilità.",
+    "prerequisites": "Conoscenza base di API, dati strutturati/non strutturati e architetture software.",
+    "faqs": [
+      {
+        "question": "Serve avere già un sistema RAG?",
+        "answer": "No, copre progettazione da zero e revisione di prototipi."
+      },
+      {
+        "question": "Si usa uno stack specifico?",
+        "answer": "No, i pattern si adattano allo stack scelto."
+      },
+      {
+        "question": "È adatto a team non data science?",
+        "answer": "Sì, se c'è familiarità con sistemi software e dati."
+      },
+      {
+        "question": "Produce codice?",
+        "answer": "Può includere prototipi, ma l'obiettivo è progettare sistemi robusti e valutabili."
+      }
+    ],
+    "output": "Architettura RAG target, evaluation set e checklist production-ready.",
+    "searchIntents": [
+      "corso AI aziendale su RAG Engineering per sistemi AI affidabili",
+      "formazione pratica per RAG Engineering per sistemi AI affidabili",
+      "training AI per team tecnici",
+      "percorso Artik Lab per Architettura RAG target, evaluation set e checklist production-ready",
+      "come introdurre RAG Engineering per sistemi AI affidabili nei processi aziendali"
+    ],
+    "needSignals": [
+      "Il tema RAG Engineering per sistemi AI affidabili è già presente nelle conversazioni interne, ma manca un metodo condiviso per trasformarlo in pratica.",
+      "Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.",
+      "Il processo collegato a RAG Engineering per sistemi AI affidabili assorbe tempo, genera passaggi manuali o produce output difficili da verificare.",
+      "La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.",
+      "Serve un risultato concreto dopo la formazione: Architettura RAG target, evaluation set e checklist production-ready."
+    ],
+    "extraExamples": [
+      {
+        "title": "Dal corso generico al processo reale",
+        "description": "Un'azienda chiede formazione su RAG Engineering per sistemi AI affidabili, ma il problema vero emerge durante la mappatura: attività ripetute, controlli informali e responsabilità distribuite. Il percorso usa esempi vicini al lavoro quotidiano e trasforma la formazione in un primo modello operativo, non in una lezione teorica."
+      },
+      {
+        "title": "Da sperimentazione individuale a pratica governata",
+        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Architettura RAG target, evaluation set e checklist production-ready."
+      },
+      {
+        "title": "Da entusiasmo a decisione",
+        "description": "Il management vuole capire se RAG Engineering per sistemi AI affidabili merita budget e continuità. Durante il laboratorio si distinguono benefici immediati, rischi operativi e dipendenze dai dati. L'azienda esce con criteri per decidere il passo successivo invece di accumulare demo isolate."
+      }
+    ],
+    "selectionCriteria": [
+      "Scegliere questo corso se il bisogno principale riguarda RAG Engineering per sistemi AI affidabili e non una panoramica generica sull'AI.",
+      "Preferirlo quando esiste un processo, un documento, un flusso o una responsabilità aziendale su cui lavorare durante il training.",
+      "Rimandarlo se non esiste ancora sponsor interno o se il problema è solo acquistare una licenza software.",
+      "Abbinarlo ad AI Workflow Redesign Lab quando prima serve capire quali processi meritano priorità."
+    ],
+    "limits": [
+      "Non promette automazione completa o sostituzione delle responsabilità umane.",
+      "Non richiede di caricare dati riservati in ambienti non approvati.",
+      "Non è una consulenza legale, fiscale, HR o tecnica specialistica quando tali responsabilità restano a funzioni competenti.",
+      "Produce competenze, criteri e materiali riutilizzabili; l'adozione continua richiede sponsorship, governance e pratica interna."
+    ],
+    "relatedCourseIds": [
+      "workflow-redesign",
+      "secure-ai-sdlc",
+      "ai-output-quality"
+    ],
+    "urls": {
+      "html": "https://ar-tik.com/corsi/rag-engineering.html",
+      "markdown": "https://ar-tik.com/corsi/rag-engineering.md",
+      "dossier": "https://ar-tik.com/corsi/rag-engineering-dossier.md",
+      "json": "https://ar-tik.com/corsi/rag-engineering.json",
+      "catalog": "https://ar-tik.com/corsi/",
+      "catalogMarkdown": "https://ar-tik.com/corsi/index.md"
+    }
+  }
+}

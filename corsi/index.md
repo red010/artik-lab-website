@@ -1,0 +1,291 @@
+# Corsi AI per aziende: scegliere il percorso giusto
+
+L'intelligenza artificiale produce valore quando entra nel lavoro quotidiano con metodo: nei documenti, nelle decisioni ricorrenti, nei passaggi tra funzioni, nei controlli di qualità e nelle responsabilità operative.
+
+I corsi Artik Lab non sono un catalogo generico di lezioni sull'AI. Sono percorsi progettati sui processi del cliente, costruiti per trasformare l'uso individuale degli strumenti AI in pratiche aziendali governabili, misurabili e ripetibili.
+
+## Partire da AI Workflow Redesign Lab
+
+Per la maggior parte delle aziende, il primo problema non è scegliere uno strumento AI. Il primo problema è capire quali attività meritano di essere ripensate, quali dati possono essere usati, quali rischi vanno governati e quali competenze devono restare in azienda.
+
+## Formazione adattata al contesto aziendale, non lezioni standard.
+
+Dynamic Training Rework è la metodologia proprietaria di Artik Lab: il percorso non resta uguale dalla prima all'ultima sessione, ma viene ricalibrato su processi, ruoli, materiali e priorità che emergono dal confronto con i partecipanti.
+
+Le aziende sono bombardate da corsi AI generici, spesso pieni di esempi lontani dal lavoro reale. Il DTR nasce per evitare questo spreco e trasformare gli strumenti AI più avanzati in pratiche davvero utilizzabili.
+
+## Prima di scegliere il formato, riconoscere il processo.
+
+L'Atlante raccoglie esempi concreti di applicazioni AI per documenti, operations, HR, marketing, software, governance, produzione, formazione e dati. Serve a capire se il bisogno richiede consulenza, analisi dati, sviluppo tecnico o formazione.
+
+[Aprire l'Atlante](https://ar-tik.com/atlante-applicazioni-ai-imprese.md)
+
+## Catalogo corsi
+
+### AI Workflow Redesign Lab
+
+Laboratorio centrale per passare dall'uso spontaneo dell'AI a flussi di lavoro uomo-AI governati, con mappa delle priorità e roadmap operativa.
+
+- Durata: 8 ore, modulabili in 2 o 4 sessioni
+- Sceglierlo se: Quando l'azienda ha già curiosità o sperimentazioni AI ma non ha ancora trasformato il lavoro. È il punto di partenza consigliato prima di corsi verticali, policy, piloti o acquisti tecnologici.
+- Profilo: Per team aziendali, funzioni operative e manager; non richiede programmazione.
+- Output finale: Mappa dei workflow prioritari, prototipo di flusso uomo-AI e roadmap di adozione.
+- URL: https://ar-tik.com/corsi/workflow-redesign.html
+
+### Managing AI
+
+Percorso per direzione e responsabili che devono distinguere valore reale, rischio e priorità prima di avviare iniziative AI.
+
+- Durata: 4 ore, 2 lezioni da 2 ore
+- Sceglierlo se: Quando serve una base comune di comprensione manageriale prima di definire policy, progetti, investimenti o programmi di adozione più ampi.
+- Profilo: Per manager e team non tecnici; non richiede programmazione.
+- Output finale: Matrice casi d'uso e criteri manageriali per decidere priorità, rischi e prossimi passi.
+- URL: https://ar-tik.com/corsi/managing-ai.html
+
+### Managing AI per team aziendali misti
+
+Formazione interfunzionale per creare linguaggio comune tra business, operations, marketing, IT, HR, legal e funzioni di supporto.
+
+- Durata: 4 ore, 2 lezioni da 2 ore
+- Sceglierlo se: Quando l'AI coinvolge più funzioni e genera disallineamento tra obiettivi, aspettative, vincoli tecnici, rischi e responsabilità operative.
+- Profilo: Per manager e team non tecnici; non richiede programmazione.
+- Output finale: Mappa interfunzionale di casi d'uso, ownership e criteri di decisione.
+- URL: https://ar-tik.com/corsi/managing-ai-general.html
+
+### AI Governance operativa
+
+Corso per trasformare policy, rischi e requisiti di controllo in pratiche applicabili nel lavoro quotidiano.
+
+- Durata: 4 ore, 2 lezioni da 2 ore
+- Sceglierlo se: Quando l'uso dell'AI esiste già o sta per essere autorizzato, ma mancano regole operative chiare, controlli proporzionati e responsabilità condivise.
+- Profilo: Per manager e team non tecnici; non richiede programmazione.
+- Output finale: Matrice rischio/controllo, registro casi d'uso e bozza di policy operativa.
+- URL: https://ar-tik.com/corsi/ai-governance.html
+
+### AI Business Case & ROI Sprint
+
+Sprint per passare da entusiasmo o intuizione a una decisione economica: problema, valore, costi, rischi, metriche e raccomandazione.
+
+- Durata: 4 ore o sprint da mezza giornata
+- Sceglierlo se: Quando esistono idee o richieste AI ma manca una valutazione economica e operativa solida prima di budget, pilota o proposta al management.
+- Profilo: Per manager e team non tecnici; non richiede programmazione.
+- Output finale: Business case AI pronto per valutazione interna.
+- URL: https://ar-tik.com/corsi/ai-business-case-roi.html
+
+### AI Adoption Manager / AI Champions
+
+Percorso per creare referenti interni che raccolgono bisogni, supportano i colleghi e collegano sperimentazioni locali alla governance aziendale.
+
+- Durata: 6-8 ore, modulabili
+- Sceglierlo se: Quando l'azienda vuole scalare l'adozione AI oltre la formazione iniziale, creando una rete interna di facilitatori competenti e riconoscibili.
+- Profilo: Per team aziendali, funzioni operative e manager; non richiede programmazione.
+- Output finale: Playbook e modello operativo per rete interna di AI Champion.
+- URL: https://ar-tik.com/corsi/ai-adoption-manager.html
+
+### Role-Based AI Literacy & Responsible Use
+
+Formazione base ma concreta per diffondere uso AI sicuro e utile, differenziato per ruoli e responsabilità.
+
+- Durata: 4-8 ore, adattabili per ruolo
+- Sceglierlo se: Quando l'azienda vuole diffondere cultura AI comune, evitando sia entusiasmo non governato sia blocco operativo.
+- Profilo: Per team aziendali, funzioni operative e manager; non richiede programmazione.
+- Output finale: Schede di uso responsabile per ruolo e checklist operative.
+- URL: https://ar-tik.com/corsi/ai-literacy.html
+
+### Corso AI: gestire i documenti con AI
+
+Laboratorio pratico per trasformare il caos documentale in un sistema di lavoro più ordinato, interrogabile e controllato.
+
+- Durata: 8 ore, personalizzabili
+- Sceglierlo se: Quando documenti, contratti, fatture, scansioni o email assorbono tempo e rendono difficile recuperare informazioni affidabili.
+- Profilo: Per team aziendali, funzioni operative e manager; non richiede programmazione.
+- Output finale: Workflow documentale AI-assisted e template per ricerca, sintesi, estrazione e classificazione.
+- URL: https://ar-tik.com/corsi/ai-documenti.html
+
+### Corso AI: marketing e comunicazione AI driven
+
+Laboratorio per usare l'AI come assistente editoriale e di analisi, senza perdere identità, qualità e controllo.
+
+- Durata: 8 ore, personalizzabili
+- Sceglierlo se: Quando comunicazione, contenuti e analisi competitor richiedono continuità, ma il team deve mantenere coerenza di marca e qualità.
+- Profilo: Per team aziendali, funzioni operative e manager; non richiede programmazione.
+- Output finale: Sistema operativo per contenuti, calendario, voce di marca e analisi competitor.
+- URL: https://ar-tik.com/corsi/ai-marketing.html
+
+### Corso AI: vendita B2C e B2B con AI
+
+Laboratorio per usare l'AI come secondo commerciale operativo: ricerca, preparazione, follow-up e qualità della proposta.
+
+- Durata: 8 ore, personalizzabili
+- Sceglierlo se: Quando il team commerciale perde tempo in preparazione, personalizzazione offerte, follow-up o gestione di lead non qualificati.
+- Profilo: Per team aziendali, funzioni operative e manager; non richiede programmazione.
+- Output finale: Workflow commerciale AI-assisted per profili cliente, offerte, obiezioni e follow-up.
+- URL: https://ar-tik.com/corsi/ai-vendite.html
+
+### AI per amministrazione e controllo di gestione
+
+Corso per usare l'AI in AFC come supporto a sintesi, reportistica e controlli preliminari, mantenendo responsabilità umana.
+
+- Durata: 4-6 ore, personalizzabili
+- Sceglierlo se: Quando l'azienda vuole rendere più rapidi e tracciabili analisi, reporting e controllo, senza trasformare l'AI in un decisore contabile.
+- Profilo: Per manager e team non tecnici; non richiede programmazione.
+- Output finale: Set di template per report, analisi scostamenti e controlli AFC.
+- URL: https://ar-tik.com/corsi/ai-admin-finance.html
+
+### AI Operations
+
+Percorso per migliorare efficienza, controllo e leggibilità dei processi operativi senza aggiungere dashboard inutili.
+
+- Durata: 4 ore, 2 lezioni da 2 ore
+- Sceglierlo se: Quando l'azienda vuole migliorare efficienza, standardizzazione e controllo dei processi operativi senza automatizzare decisioni critiche senza supervisione.
+- Profilo: Per manager e team non tecnici; non richiede programmazione.
+- Output finale: Workflow operativo ridisegnato con procedure, checklist e report assistiti da AI.
+- URL: https://ar-tik.com/corsi/ai-operations.html
+
+### AI Legal Ops e compliance documentale
+
+Corso operativo per ridurre lavoro manuale su contratti, policy e procedure, mantenendo supervisione e gestione del rischio.
+
+- Durata: 4-6 ore, personalizzabili
+- Sceglierlo se: Quando l'azienda vuole ridurre lavoro manuale su documenti legal/compliance senza affidare all'AI interpretazioni definitive o decisioni vincolanti.
+- Profilo: Per manager e team non tecnici; non richiede programmazione.
+- Output finale: Checklist e workflow per analisi documentale, confronto versioni e riepiloghi legal/compliance.
+- URL: https://ar-tik.com/corsi/ai-legal-ops.html
+
+### AI per procurement e supplier intelligence
+
+Corso per rendere più strutturati scouting, comparazione e documentazione acquisti mantenendo criteri decisionali trasparenti.
+
+- Durata: 4-6 ore, personalizzabili
+- Sceglierlo se: Quando l'azienda vuole rendere più strutturati scouting, comparazione, documentazione e analisi preliminare dei fornitori.
+- Profilo: Per manager e team non tecnici; non richiede programmazione.
+- Output finale: Griglia di supplier intelligence e workflow di comparazione offerte.
+- URL: https://ar-tik.com/corsi/ai-procurement.html
+
+### AI per customer service e ticket triage
+
+Corso per rendere più rapida e uniforme la gestione delle richieste senza perdere controllo su tono, escalation e qualità.
+
+- Durata: 4-6 ore, personalizzabili
+- Sceglierlo se: Quando l'azienda vuole rendere più rapida e uniforme la gestione delle richieste, mantenendo controllo su escalation e qualità della risposta.
+- Profilo: Per manager e team non tecnici; non richiede programmazione.
+- Output finale: Tassonomia ticket, workflow di triage e modello di risposta assistita.
+- URL: https://ar-tik.com/corsi/ai-customer-service.html
+
+### AI per qualità e non conformità
+
+Corso per migliorare analisi, classificazione e documentazione qualità mantenendo controllo formale sugli output.
+
+- Durata: 4-6 ore, personalizzabili
+- Sceglierlo se: Quando l'azienda vuole migliorare analisi, classificazione e documentazione dei processi qualità, mantenendo validazione umana.
+- Profilo: Per manager e team non tecnici; non richiede programmazione.
+- Output finale: Workflow qualità con classificazione, report, checklist audit e piano azioni correttive.
+- URL: https://ar-tik.com/corsi/ai-quality-management.html
+
+### AI People Ops
+
+Corso per rendere più efficienti processi HR ricorrenti preservando riservatezza, inclusione, controllo e responsabilità.
+
+- Durata: 4-6 ore, personalizzabili
+- Sceglierlo se: Quando l'azienda vuole usare l'AI per processi HR ricorrenti senza compromettere privacy, inclusione e responsabilità.
+- Profilo: Per manager e team non tecnici; non richiede programmazione.
+- Output finale: Kit People Ops per onboarding, comunicazioni, FAQ e sintesi feedback.
+- URL: https://ar-tik.com/corsi/ai-people-ops.html
+
+### AI Brand Voice e comunicazione
+
+Percorso per aziende che vogliono aumentare produzione comunicativa mantenendo una voce riconoscibile e verificabile.
+
+- Durata: 4 ore, 2 lezioni da 2 ore
+- Sceglierlo se: Quando l'azienda vuole usare l'AI per comunicare meglio ma teme contenuti generici, incoerenti o non aderenti alla propria identità.
+- Profilo: Per manager e team non tecnici; non richiede programmazione.
+- Output finale: Brand voice sheet e workflow editoriale AI-assisted.
+- URL: https://ar-tik.com/corsi/ai-brand-voice.html
+
+### Ricerca semantica e knowledge base AI
+
+Modulo per capire come rendere archivi e conoscenza aziendale interrogabili per significato, preparando basi solide per progetti AI.
+
+- Durata: 60-90 minuti o modulo breve
+- Sceglierlo se: Quando l'organizzazione vuole migliorare accesso alla conoscenza, ridurre tempi di ricerca, supportare operatori o preparare basi informative per applicazioni AI.
+- Profilo: Per team tecnici con basi di programmazione e architetture software.
+- Output finale: Blueprint per knowledge base semantica e criteri di indicizzazione.
+- URL: https://ar-tik.com/corsi/embeddings.html
+
+### RAG Engineering per sistemi AI affidabili
+
+Corso tecnico per passare da chat sui documenti a sistemi RAG ingegnerizzati, misurabili e governabili.
+
+- Durata: 5 ore, 2 lezioni da 2,5 ore
+- Sceglierlo se: Quando esistono knowledge base, documentazione tecnica, procedure, ticket, contratti o repository da rendere interrogabili senza perdere controllo su fonti e qualità.
+- Profilo: Per team tecnici con basi di programmazione e architetture software.
+- Output finale: Architettura RAG target, evaluation set e checklist production-ready.
+- URL: https://ar-tik.com/corsi/rag-engineering.html
+
+### AI Coding Agents per team software
+
+Corso tecnico per usare agenti AI come componenti controllati del ciclo software, non come scorciatoia opaca.
+
+- Durata: 4 ore, 2 lezioni da 2 ore
+- Sceglierlo se: Quando un team vuole adottare agenti di coding in modo serio: come capacità integrata in repository, review, test e delivery.
+- Profilo: Per team tecnici con basi di programmazione e architetture software.
+- Output finale: Playbook agentico per sviluppo, review, test e policy repository.
+- URL: https://ar-tik.com/corsi/ai-coding-agents.html
+
+### AI Software Engineering
+
+Corso tecnico per portare disciplina ingegneristica nello sviluppo di funzionalità e prodotti AI.
+
+- Durata: 5 ore, 2 lezioni da 2,5 ore
+- Sceglierlo se: Quando si deve costruire o industrializzare una funzionalità AI in prodotto, portale, workflow interno, applicazione enterprise o piattaforma dati.
+- Profilo: Per team tecnici con basi di programmazione e architetture software.
+- Output finale: Blueprint AI-native e criteri di evaluation/go-live.
+- URL: https://ar-tik.com/corsi/ai-software-engineering.html
+
+### Secure AI SDLC
+
+Corso tecnico per inserire controlli AI-specifici in design, build, test, release e operation.
+
+- Durata: 4-6 ore, personalizzabili
+- Sceglierlo se: Quando un'organizzazione sta sviluppando applicazioni AI e vuole evitare che sicurezza e governance arrivino solo alla fine.
+- Profilo: Per team tecnici con basi di programmazione e architetture software.
+- Output finale: Threat model AI e checklist Secure AI SDLC.
+- URL: https://ar-tik.com/corsi/secure-ai-sdlc.html
+
+### Secure AI at Work
+
+Corso tecnico-operativo per rendere l'uso quotidiano dell'AI più efficace, sicuro e governato.
+
+- Durata: 4 ore, adattabili per funzione
+- Sceglierlo se: Quando l'AI è già usata nei team o sta per essere introdotta come capacità trasversale e serve una base comune tra produttività, sicurezza e responsabilità.
+- Profilo: Per team aziendali, funzioni operative e manager; non richiede programmazione.
+- Output finale: Policy operativa e checklist per uso sicuro dell'AI nel lavoro quotidiano.
+- URL: https://ar-tik.com/corsi/secure-ai-at-work.html
+
+### AI Output Quality & Human Review
+
+Corso per progettare review umana, rubriche di qualità e metriche operative sugli output AI.
+
+- Durata: 4-6 ore, personalizzabili
+- Sceglierlo se: Quando output AI supportano decisioni, documentazione, assistenza, analisi, reportistica, coding, knowledge base o workflow che richiedono controllo qualità.
+- Profilo: Per team aziendali, funzioni operative e manager; non richiede programmazione.
+- Output finale: Rubrica qualità, processo human review e metriche di accettazione output AI.
+- URL: https://ar-tik.com/corsi/ai-output-quality.html
+
+## Domande frequenti
+
+### Perché partire da AI Workflow Redesign Lab?
+
+Perché prima di introdurre strumenti o automazioni serve capire quali flussi di lavoro hanno davvero potenziale, quali dati possono essere usati e quali controlli sono necessari.
+
+### I corsi sono standard o personalizzati?
+
+La struttura è stabile, ma contenuti, esempi, esercizi e priorità vengono adattati ai processi del cliente.
+
+### Serve saper programmare?
+
+No per i percorsi introduttivi, manageriali e operativi. È richiesto solo nei percorsi tecnici.
+
+### Cosa resta dopo il corso?
+
+Materiali operativi, esempi adattati al contesto, criteri di utilizzo e una lettura dei processi ad alto potenziale.

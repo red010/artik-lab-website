@@ -1,0 +1,137 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
+  "generatedAt": "2026-07-02",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "course": {
+    "id": "secure-ai-sdlc",
+    "locale": "es",
+    "language": "es",
+    "family": "technical",
+    "familyLabel": "Técnico",
+    "featured": false,
+    "title": "Secure AI SDLC",
+    "subtitle": "Curso corporativo práctico para aplicar IA a ciclo de vida seguro para software con IA, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.",
+    "summary": "Curso corporativo práctico para aplicar IA a ciclo de vida seguro para software con IA, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.",
+    "duration": "4-6 horas, personalizables",
+    "mode": "Laboratorio presencial u online, con ejercicios guiados y materiales adaptados al cliente.",
+    "profile": "technical",
+    "profileDescription": "Para equipos técnicos con bases de programación y arquitectura software.",
+    "problem": "Muchas empresas abordan ciclo de vida seguro para software con IA con experimentos dispersos: algunas instrucciones, usuarios entusiastas y muchas dudas sobre datos, calidad y responsabilidad. El curso convierte esa incertidumbre en método operativo. Los participantes trabajan sobre escenarios realistas, aprenden dónde la IA ayuda, dónde sigue siendo esencial la revisión humana y cómo repetir la práctica en la empresa.",
+    "audience": "Para equipos técnicos con bases de programación y arquitectura software.",
+    "whenToChoose": "Elegir este curso cuando la empresa quiere avanzar de forma concreta en ciclo de vida seguro para software con IA y necesita formación que produzca flujos de trabajo utilizables, no teoría abstracta.",
+    "chooseIf": "Cuando la empresa quiere avanzar de forma concreta en ciclo de vida seguro para software con IA y necesita formación que produzca flujos de trabajo utilizables, no teoría abstracta.",
+    "outcomes": [
+      "Mapear trabajo y decisiones donde la IA puede reducir fricción.",
+      "Construir instrucciones, checklists y criterios de revisión.",
+      "Identificar límites de datos, privacidad y responsabilidad.",
+      "Crear ejemplos reutilizables para el equipo.",
+      "Definir próximos pasos de adopción y gobernanza."
+    ],
+    "modules": [
+      {
+        "title": "Arquitectura y requisitos",
+        "description": "Objetivos, límites, datos, servicios y supuestos de riesgo."
+      },
+      {
+        "title": "Construcción e integración",
+        "description": "Flujos técnicos, interfaces, contexto, permisos y pruebas."
+      },
+      {
+        "title": "Evaluación y calidad",
+        "description": "Métricas, revisión, pruebas de regresión y modos de fallo."
+      },
+      {
+        "title": "Producción y gobernanza",
+        "description": "Monitorización, seguridad, auditoría, costes y mantenimiento."
+      }
+    ],
+    "exercises": [
+      "Mapear un proceso realista conectado con ciclo de vida seguro para software con IA.",
+      "Crear resultados asistidos por IA y revisarlos críticamente.",
+      "Definir puntos de escalado y revisión humana.",
+      "Construir una checklist reutilizable para el trabajo diario."
+    ],
+    "materials": [
+      "Canvas operativo para ciclo de vida seguro para software con IA.",
+      "Plantillas de instrucciones.",
+      "Checklist de calidad y privacidad.",
+      "Matriz riesgo/control.",
+      "Notas de adopción para el equipo."
+    ],
+    "privacy": "El curso usa materiales sintéticos, públicos, anonimizados o aprobados por el cliente. Explica cómo minimizar exposición de datos, proteger información confidencial, verificar resultados y mantener explícita la responsabilidad humana.",
+    "prerequisites": "Se recomienda familiaridad técnica básica con software, datos o arquitectura de sistemas.",
+    "faqs": [
+      {
+        "question": "¿Depende de una herramienta?",
+        "answer": "No. Los patrones se adaptan a las herramientas y políticas elegidas con el cliente."
+      },
+      {
+        "question": "¿Se pueden usar datos de empresa?",
+        "answer": "Solo cuando cuentas, contratos y políticas internas lo permiten; si no, se usan datos sintéticos o anonimizados."
+      },
+      {
+        "question": "¿Qué queda después del curso?",
+        "answer": "Materiales reutilizables, ejemplos, checklists y próximos pasos claros."
+      },
+      {
+        "question": "¿Es teórico?",
+        "answer": "No. Está construido sobre ejercicios prácticos y decisiones cercanas al trabajo real."
+      }
+    ],
+    "output": "Canvas operativo para ciclo de vida seguro para software con IA.",
+    "searchIntents": [
+      "curso AI empresarial sobre ciclo de vida seguro para software con IA",
+      "formación práctica para Secure AI SDLC",
+      "training AI para equipos técnicos",
+      "recorrido Artik Lab para Canvas operativo para ciclo de vida seguro para software con IA",
+      "cómo introducir ciclo de vida seguro para software con IA en procesos empresariales"
+    ],
+    "needSignals": [
+      "ciclo de vida seguro para software con IA ya aparece en conversaciones internas, pero falta un método compartido para convertirlo en práctica.",
+      "Las personas prueban herramientas AI de forma autónoma y la empresa aún no ve criterios, controles y resultados comparables.",
+      "El proceso conectado con ciclo de vida seguro para software con IA consume tiempo, genera pasos manuales u outputs difíciles de verificar.",
+      "La dirección necesita decidir si invertir, formar o detenerse antes de introducir automatizaciones frágiles.",
+      "La empresa necesita un resultado concreto: Canvas operativo para ciclo de vida seguro para software con IA."
+    ],
+    "extraExamples": [
+      {
+        "title": "Del curso genérico al proceso real",
+        "description": "Una empresa pide formación sobre ciclo de vida seguro para software con IA, pero el problema real emerge al mapear el trabajo: tareas repetidas, controles informales y responsabilidades distribuidas. El recorrido usa ejemplos cercanos al trabajo diario y convierte la formación en un primer modelo operativo, no en teoría."
+      },
+      {
+        "title": "De experimentación individual a práctica gobernada",
+        "description": "Algunas personas ya encontraron atajos con AI y otras están bloqueadas. El curso crea una base común: qué se puede hacer, qué debe revisarse, qué datos no deben exponerse y cuándo escalar. El resultado es Canvas operativo para ciclo de vida seguro para software con IA."
+      },
+      {
+        "title": "Del entusiasmo a la decisión",
+        "description": "La dirección necesita saber si ciclo de vida seguro para software con IA merece presupuesto y continuidad. El laboratorio separa beneficios inmediatos, riesgos operativos y dependencias de datos. La empresa sale con criterios para decidir el siguiente paso."
+      }
+    ],
+    "selectionCriteria": [
+      "Elegir este curso si la necesidad principal es ciclo de vida seguro para software con IA, no una panorámica genérica sobre AI.",
+      "Preferirlo cuando existe un proceso, documento, workflow o responsabilidad empresarial sobre la que trabajar.",
+      "Aplazarlo si aún no hay sponsor interno o si el problema es solo comprar una licencia software.",
+      "Combinarlo con AI Workflow Redesign Lab cuando primero hace falta entender qué procesos priorizar."
+    ],
+    "limits": [
+      "No promete automatización completa ni sustitución de responsabilidades humanas.",
+      "No exige cargar datos confidenciales en entornos no aprobados.",
+      "No es asesoría legal, fiscal, HR o técnica especializada cuando esas responsabilidades corresponden a funciones competentes.",
+      "Produce competencias, criterios y materiales reutilizables; la adopción continua requiere sponsorship, gobernanza y práctica interna."
+    ],
+    "relatedCourseIds": [
+      "workflow-redesign",
+      "rag-engineering",
+      "ai-output-quality"
+    ],
+    "urls": {
+      "html": "https://ar-tik.com/es/cursos/secure-ai-sdlc.html",
+      "markdown": "https://ar-tik.com/es/cursos/secure-ai-sdlc.md",
+      "dossier": "https://ar-tik.com/es/cursos/secure-ai-sdlc-dossier.md",
+      "json": "https://ar-tik.com/es/cursos/secure-ai-sdlc.json",
+      "catalog": "https://ar-tik.com/es/cursos/",
+      "catalogMarkdown": "https://ar-tik.com/es/cursos/index.md"
+    }
+  }
+}

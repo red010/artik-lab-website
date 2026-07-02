@@ -1,0 +1,138 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
+  "generatedAt": "2026-07-02",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "course": {
+    "id": "embeddings",
+    "locale": "it",
+    "language": "it",
+    "family": "technical",
+    "familyLabel": "Tecnico",
+    "featured": false,
+    "title": "Ricerca semantica e knowledge base AI",
+    "subtitle": "Trasformare documenti, procedure e conoscenza interna in sistemi di ricerca intelligenti, navigabili e governati.",
+    "summary": "Modulo per capire come rendere archivi e conoscenza aziendale interrogabili per significato, preparando basi solide per progetti AI.",
+    "duration": "60-90 minuti o modulo breve",
+    "mode": "Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.",
+    "profile": "technical",
+    "profileDescription": "Per team tecnici con basi di programmazione e architetture software.",
+    "problem": "La conoscenza aziendale è spesso distribuita tra cartelle, wiki, ticket, manuali e repository. La ricerca tradizionale restituisce risultati rumorosi o incompleti. La ricerca semantica consente di trovare concetti e risposte, ma richiede progettazione accurata di fonti, metadati e governance.",
+    "audience": "Team IT, data, knowledge management, supporto tecnico, software, operations, document management e responsabili di piattaforme interne.",
+    "whenToChoose": "Quando l'organizzazione vuole migliorare accesso alla conoscenza, ridurre tempi di ricerca, supportare operatori o preparare basi informative per applicazioni AI.",
+    "chooseIf": "Quando l'organizzazione vuole migliorare accesso alla conoscenza, ridurre tempi di ricerca, supportare operatori o preparare basi informative per applicazioni AI.",
+    "outcomes": [
+      "Disegnare un modello di knowledge base.",
+      "Definire strategia di indicizzazione.",
+      "Progettare tassonomia e metadati.",
+      "Stabilire criteri di ranking e qualità.",
+      "Preparare roadmap per integrazione AI."
+    ],
+    "modules": [
+      {
+        "title": "Ricerca semantica",
+        "description": "Embedding, similarità, ranking, limiti e casi d'uso."
+      },
+      {
+        "title": "Knowledge design",
+        "description": "Fonti, tassonomie, metadati, versioning e ownership."
+      },
+      {
+        "title": "Esperienza di ricerca",
+        "description": "Query, filtri, snippet, citazioni e feedback utente."
+      },
+      {
+        "title": "Governance e scalabilità",
+        "description": "Aggiornamenti, permessi, qualità contenuti e monitoraggio."
+      }
+    ],
+    "exercises": [
+      "Mappatura fonti informative.",
+      "Definizione metadati.",
+      "Progettazione indice semantico.",
+      "Valutazione qualità risultati."
+    ],
+    "materials": [
+      "Knowledge base blueprint.",
+      "Schema metadati.",
+      "Checklist contenuti.",
+      "Modello evaluation query.",
+      "Matrice ownership."
+    ],
+    "privacy": "Include gestione di accessi, contenuti riservati, versioni documentali e audit. Si lavora su dati sintetici o contenuti approvati.",
+    "prerequisites": "Conoscenza dei sistemi documentali o informativi aziendali. Utile familiarità con API, database o piattaforme dati.",
+    "faqs": [
+      {
+        "question": "È diverso da RAG Engineering?",
+        "answer": "Sì, qui il focus è ricerca semantica e knowledge base; RAG può essere fase successiva."
+      },
+      {
+        "question": "Serve avere documenti ordinati?",
+        "answer": "No, aiuta a definire pulizia e metadatazione."
+      },
+      {
+        "question": "Supporta help desk?",
+        "answer": "Sì, è uno dei casi d'uso più forti."
+      },
+      {
+        "question": "Lo stack è predefinito?",
+        "answer": "No, l'architettura si adatta allo stack scelto."
+      }
+    ],
+    "output": "Blueprint per knowledge base semantica e criteri di indicizzazione.",
+    "searchIntents": [
+      "corso AI aziendale su Ricerca semantica e knowledge base AI",
+      "formazione pratica per Ricerca semantica e knowledge base AI",
+      "training AI per team tecnici",
+      "percorso Artik Lab per Blueprint per knowledge base semantica e criteri di indicizzazione",
+      "come introdurre Ricerca semantica e knowledge base AI nei processi aziendali"
+    ],
+    "needSignals": [
+      "Il tema Ricerca semantica e knowledge base AI è già presente nelle conversazioni interne, ma manca un metodo condiviso per trasformarlo in pratica.",
+      "Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.",
+      "Il processo collegato a Ricerca semantica e knowledge base AI assorbe tempo, genera passaggi manuali o produce output difficili da verificare.",
+      "La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.",
+      "Serve un risultato concreto dopo la formazione: Blueprint per knowledge base semantica e criteri di indicizzazione."
+    ],
+    "extraExamples": [
+      {
+        "title": "Dal corso generico al processo reale",
+        "description": "Un'azienda chiede formazione su Ricerca semantica e knowledge base AI, ma il problema vero emerge durante la mappatura: attività ripetute, controlli informali e responsabilità distribuite. Il percorso usa esempi vicini al lavoro quotidiano e trasforma la formazione in un primo modello operativo, non in una lezione teorica."
+      },
+      {
+        "title": "Da sperimentazione individuale a pratica governata",
+        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Blueprint per knowledge base semantica e criteri di indicizzazione."
+      },
+      {
+        "title": "Da entusiasmo a decisione",
+        "description": "Il management vuole capire se Ricerca semantica e knowledge base AI merita budget e continuità. Durante il laboratorio si distinguono benefici immediati, rischi operativi e dipendenze dai dati. L'azienda esce con criteri per decidere il passo successivo invece di accumulare demo isolate."
+      }
+    ],
+    "selectionCriteria": [
+      "Scegliere questo corso se il bisogno principale riguarda Ricerca semantica e knowledge base AI e non una panoramica generica sull'AI.",
+      "Preferirlo quando esiste un processo, un documento, un flusso o una responsabilità aziendale su cui lavorare durante il training.",
+      "Rimandarlo se non esiste ancora sponsor interno o se il problema è solo acquistare una licenza software.",
+      "Abbinarlo ad AI Workflow Redesign Lab quando prima serve capire quali processi meritano priorità."
+    ],
+    "limits": [
+      "Non promette automazione completa o sostituzione delle responsabilità umane.",
+      "Non richiede di caricare dati riservati in ambienti non approvati.",
+      "Non è una consulenza legale, fiscale, HR o tecnica specialistica quando tali responsabilità restano a funzioni competenti.",
+      "Produce competenze, criteri e materiali riutilizzabili; l'adozione continua richiede sponsorship, governance e pratica interna."
+    ],
+    "relatedCourseIds": [
+      "workflow-redesign",
+      "secure-ai-sdlc",
+      "rag-engineering",
+      "ai-output-quality"
+    ],
+    "urls": {
+      "html": "https://ar-tik.com/corsi/embeddings.html",
+      "markdown": "https://ar-tik.com/corsi/embeddings.md",
+      "dossier": "https://ar-tik.com/corsi/embeddings-dossier.md",
+      "json": "https://ar-tik.com/corsi/embeddings.json",
+      "catalog": "https://ar-tik.com/corsi/",
+      "catalogMarkdown": "https://ar-tik.com/corsi/index.md"
+    }
+  }
+}

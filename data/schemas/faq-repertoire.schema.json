@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ar-tik.com/data/schemas/faq-repertoire.schema.json",
+  "title": "Artik Lab corporate AI FAQ repertoire",
+  "type": "object",
+  "required": [
+    "generatedAt",
+    "locale",
+    "language",
+    "categories",
+    "faqs"
+  ],
+  "properties": {
+    "generatedAt": {
+      "type": "string"
+    },
+    "locale": {
+      "type": "string"
+    },
+    "language": {
+      "type": "string"
+    },
+    "categories": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "faqs": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    }
+  }
+}

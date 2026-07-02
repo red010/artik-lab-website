@@ -1,0 +1,3005 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/ai-applications-atlas.schema.json",
+  "generatedAt": "2026-07-02",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "locale": "es",
+  "language": "es",
+  "title": "Qué puede hacer la IA en una empresa.",
+  "description": "dataset estructurado de aplicaciones IA para empresas, con datos de entrada, resultados, valor, servicios relacionados, cursos, intenciones de búsqueda y señales de necesidad.",
+  "urls": {
+    "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html",
+    "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md",
+    "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md",
+    "json": "https://ar-tik.com/data/ai-applications.es.json"
+  },
+  "areas": [
+    {
+      "id": "documents",
+      "label": "Documentos y conocimiento",
+      "hint": "Cuando el trabajo pasa por PDF, escaneos, contratos o procedimientos.",
+      "applicationCount": 4
+    },
+    {
+      "id": "operations",
+      "label": "Procesos operativos",
+      "hint": "Cuando decisiones, prioridades y pasos manuales ralentizan el proceso.",
+      "applicationCount": 6
+    },
+    {
+      "id": "people",
+      "label": "Personas y RR. HH.",
+      "hint": "Cuando competencias, onboarding o feedback quedan dispersos entre áreas.",
+      "applicationCount": 3
+    },
+    {
+      "id": "customer",
+      "label": "Cliente, marketing y ventas",
+      "hint": "Cuando clientes, contenidos y ventas generan señales que nadie lee.",
+      "applicationCount": 4
+    },
+    {
+      "id": "technical",
+      "label": "Área técnica y software",
+      "hint": "Cuando reglas, código, planos o sistemas técnicos deben ser verificables.",
+      "applicationCount": 4
+    },
+    {
+      "id": "governance",
+      "label": "Gobernanza, compliance y riesgo",
+      "hint": "Cuando uso de IA, privacidad, riesgo y responsabilidades no tienen límites claros.",
+      "applicationCount": 3
+    },
+    {
+      "id": "production",
+      "label": "Producción, calidad y mantenimiento",
+      "hint": "Cuando producción, calidad o mantenimiento tienen datos que llegan tarde.",
+      "applicationCount": 3
+    },
+    {
+      "id": "training",
+      "label": "Formación y memoria interna",
+      "hint": "Cuando conocimiento interno y materiales formativos deben seguir accesibles.",
+      "applicationCount": 2
+    },
+    {
+      "id": "data",
+      "label": "Data science y decisiones",
+      "hint": "Cuando existen históricos, KPI o señales que validar antes de construir.",
+      "applicationCount": 5
+    },
+    {
+      "id": "transversal",
+      "label": "Herramientas transversales",
+      "hint": "Cuando la IA sirve para explorar, sintetizar o preparar decisiones transversales.",
+      "applicationCount": 2
+    }
+  ],
+  "applications": [
+    {
+      "id": "document-structure-extraction",
+      "locale": "es",
+      "language": "es",
+      "area": "documents",
+      "areaLabel": "Documentos y conocimiento",
+      "title": "Extraer datos de documentos y escaneos",
+      "description": "PDF, imágenes y formularios se convierten en texto, tablas y campos estructurados reutilizables.",
+      "input": [
+        "PDF y adjuntos",
+        "escaneos e imágenes",
+        "formularios completados"
+      ],
+      "output": [
+        "base de datos estructurada",
+        "informe operativo"
+      ],
+      "businessValue": [
+        "reducción de tiempos",
+        "menos errores",
+        "trazabilidad"
+      ],
+      "relatedServiceIds": [
+        "technical-software-development"
+      ],
+      "relatedServices": [
+        {
+          "id": "technical-software-development",
+          "title": "Software técnico de IA",
+          "url": "https://ar-tik.com/es/desarrollo-software-tecnico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-documenti",
+        "embeddings"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-documenti",
+          "title": "Curso AI: gestionar documentos con AI",
+          "url": "https://ar-tik.com/es/cursos/ai-documenti.html"
+        },
+        {
+          "id": "embeddings",
+          "title": "Búsqueda semántica y bases de conocimiento AI",
+          "url": "https://ar-tik.com/es/cursos/embeddings.html"
+        }
+      ],
+      "applicableSectors": [
+        "servicios profesionales",
+        "HSE, seguridad y servicios técnicos",
+        "manufactura"
+      ],
+      "searchIntents": [
+        "IA para extraer datos de documentos y escaneos",
+        "aplicaciones IA para documentos y conocimiento",
+        "cómo usar IA en empresa para extraer datos de documentos y escaneos"
+      ],
+      "needSignals": [
+        "documentos dispersos y difíciles de consultar",
+        "copias manuales entre emails, hojas y sistemas"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan pdf y adjuntos para producir base de datos estructurada y apoyar reducción de tiempos, con revisión humana recomendada.",
+      "privacyNotes": "Usar datos autorizados, minimizar información personal y mantener revisión humana sobre outputs relevantes.",
+      "humanReview": "recomendada",
+      "humanReviewCode": "recommended",
+      "riskLevel": "medio",
+      "riskLevelCode": "medium",
+      "tags": [
+        "ocr",
+        "documenti",
+        "estrazione"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#document-structure-extraction",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Extraer datos de documentos y escaneos",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Extraer datos de documentos y escaneos",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "document-coherence-audit",
+      "locale": "es",
+      "language": "es",
+      "area": "documents",
+      "areaLabel": "Documentos y conocimiento",
+      "title": "Verificar coherencia entre documentos",
+      "description": "Informes, contratos, pliegos y procedimientos se comparan para detectar discrepancias y definiciones no alineadas.",
+      "input": [
+        "PDF y adjuntos",
+        "documentación interna",
+        "contratos y políticas",
+        "licitaciones y pliegos"
+      ],
+      "output": [
+        "informe operativo",
+        "mapa de riesgos"
+      ],
+      "businessValue": [
+        "menos errores",
+        "reducción de riesgo",
+        "trazabilidad"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting",
+        "technical-software-development"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        },
+        {
+          "id": "technical-software-development",
+          "title": "Software técnico de IA",
+          "url": "https://ar-tik.com/es/desarrollo-software-tecnico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-documenti",
+        "ai-legal-ops",
+        "ai-output-quality"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-documenti",
+          "title": "Curso AI: gestionar documentos con AI",
+          "url": "https://ar-tik.com/es/cursos/ai-documenti.html"
+        },
+        {
+          "id": "ai-legal-ops",
+          "title": "AI Legal Ops y compliance documental",
+          "url": "https://ar-tik.com/es/cursos/ai-legal-ops.html"
+        },
+        {
+          "id": "ai-output-quality",
+          "title": "AI Output Quality & Human Review",
+          "url": "https://ar-tik.com/es/cursos/ai-output-quality.html"
+        }
+      ],
+      "applicableSectors": [
+        "servicios profesionales",
+        "oficinas técnicas e ingeniería",
+        "HSE, seguridad y servicios técnicos"
+      ],
+      "searchIntents": [
+        "IA para verificar coherencia entre documentos",
+        "aplicaciones IA para documentos y conocimiento",
+        "cómo usar IA en empresa para verificar coherencia entre documentos"
+      ],
+      "needSignals": [
+        "errores recurrentes en documentos, procedimientos o controles",
+        "documentos dispersos y difíciles de consultar"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan pdf y adjuntos para producir informe operativo y apoyar menos errores, con revisión humana obligatoria.",
+      "privacyNotes": "Requiere anonimización, control de accesos y revisión especializada cuando toca datos personales, legales, RR. HH. o regulados.",
+      "humanReview": "obligatoria",
+      "humanReviewCode": "required",
+      "riskLevel": "medio",
+      "riskLevelCode": "medium",
+      "tags": [
+        "coerenza",
+        "contratti",
+        "capitolati"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#document-coherence-audit",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Verificar coherencia entre documentos",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Verificar coherencia entre documentos",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "semantic-knowledge-search",
+      "locale": "es",
+      "language": "es",
+      "area": "documents",
+      "areaLabel": "Documentos y conocimiento",
+      "title": "Hacer consultable el conocimiento empresarial",
+      "description": "Manuales, procedimientos y bases de conocimiento se convierten en búsqueda semántica con fuentes citables.",
+      "input": [
+        "documentación interna",
+        "PDF y adjuntos",
+        "manuales y material formativo"
+      ],
+      "output": [
+        "búsqueda semántica",
+        "FAQ y respuestas"
+      ],
+      "businessValue": [
+        "conocimiento transferible",
+        "decisiones más rápidas",
+        "servicio más uniforme"
+      ],
+      "relatedServiceIds": [
+        "technical-software-development"
+      ],
+      "relatedServices": [
+        {
+          "id": "technical-software-development",
+          "title": "Software técnico de IA",
+          "url": "https://ar-tik.com/es/desarrollo-software-tecnico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "embeddings",
+        "rag-engineering",
+        "ai-customer-service"
+      ],
+      "relatedCourses": [
+        {
+          "id": "embeddings",
+          "title": "Búsqueda semántica y bases de conocimiento AI",
+          "url": "https://ar-tik.com/es/cursos/embeddings.html"
+        },
+        {
+          "id": "rag-engineering",
+          "title": "RAG Engineering para sistemas AI fiables",
+          "url": "https://ar-tik.com/es/cursos/rag-engineering.html"
+        },
+        {
+          "id": "ai-customer-service",
+          "title": "AI para atención al cliente y triage de tickets",
+          "url": "https://ar-tik.com/es/cursos/ai-customer-service.html"
+        }
+      ],
+      "applicableSectors": [
+        "funciones empresariales transversales",
+        "oficinas técnicas e ingeniería",
+        "formación y organizaciones intensivas en conocimiento"
+      ],
+      "searchIntents": [
+        "IA para hacer consultable el conocimiento empresarial",
+        "aplicaciones IA para documentos y conocimiento",
+        "cómo usar IA en empresa para hacer consultable el conocimiento empresarial"
+      ],
+      "needSignals": [
+        "documentos dispersos y difíciles de consultar",
+        "conocimiento crítico concentrado en pocas personas"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan documentación interna para producir búsqueda semántica y apoyar conocimiento transferible, con revisión humana recomendada.",
+      "privacyNotes": "Usar datos autorizados, minimizar información personal y mantener revisión humana sobre outputs relevantes.",
+      "humanReview": "recomendada",
+      "humanReviewCode": "recommended",
+      "riskLevel": "medio",
+      "riskLevelCode": "medium",
+      "tags": [
+        "knowledge-base",
+        "rag",
+        "ricerca"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#semantic-knowledge-search",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Hacer consultable el conocimiento empresarial",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Hacer consultable el conocimiento empresarial",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "meeting-email-decision-memory",
+      "locale": "es",
+      "language": "es",
+      "area": "operations",
+      "areaLabel": "Procesos operativos",
+      "title": "Convertir reuniones, emails y tickets en memoria operativa",
+      "description": "Transcripciones e hilos se limpian, resumen y convierten en decisiones, tareas, fechas y riesgos trazables.",
+      "input": [
+        "emails y tickets",
+        "transcripciones y notas",
+        "tickets y solicitudes"
+      ],
+      "output": [
+        "digest accionable",
+        "roadmap y prioridades"
+      ],
+      "businessValue": [
+        "trazabilidad",
+        "decisiones más rápidas",
+        "conocimiento transferible"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-operations",
+        "workflow-redesign"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-operations",
+          "title": "AI Operations",
+          "url": "https://ar-tik.com/es/cursos/ai-operations.html"
+        },
+        {
+          "id": "workflow-redesign",
+          "title": "AI Workflow Redesign Lab",
+          "url": "https://ar-tik.com/es/cursos/workflow-redesign.html"
+        }
+      ],
+      "applicableSectors": [
+        "funciones empresariales transversales",
+        "servicios profesionales",
+        "oficinas técnicas e ingeniería"
+      ],
+      "searchIntents": [
+        "IA para convertir reuniones, emails y tickets en memoria operativa",
+        "aplicaciones IA para procesos operativos",
+        "cómo usar IA en empresa para convertir reuniones, emails y tickets en memoria operativa"
+      ],
+      "needSignals": [
+        "decisiones recurrentes lentas o basadas en información incompleta",
+        "conocimiento crítico concentrado en pocas personas"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan emails y tickets para producir digest accionable y apoyar trazabilidad, con revisión humana recomendada.",
+      "privacyNotes": "Usar datos autorizados, minimizar información personal y mantener revisión humana sobre outputs relevantes.",
+      "humanReview": "recomendada",
+      "humanReviewCode": "recommended",
+      "riskLevel": "bajo",
+      "riskLevelCode": "low",
+      "tags": [
+        "riunioni",
+        "email",
+        "task"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#meeting-email-decision-memory",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Convertir reuniones, emails y tickets en memoria operativa",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Convertir reuniones, emails y tickets en memoria operativa",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "controlled-document-generation",
+      "locale": "es",
+      "language": "es",
+      "area": "documents",
+      "areaLabel": "Documentos y conocimiento",
+      "title": "Generar documentos controlados desde plantillas",
+      "description": "Informes, cartas, contratos, FAQ y comunicaciones se producen desde datos y plantillas con revisión humana.",
+      "input": [
+        "base de datos estructurada",
+        "documentación interna",
+        "contratos y políticas"
+      ],
+      "output": [
+        "borradores controlados",
+        "FAQ y respuestas"
+      ],
+      "businessValue": [
+        "reducción de tiempos",
+        "menos errores",
+        "compliance más gobernable"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-documenti",
+        "ai-legal-ops",
+        "ai-output-quality"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-documenti",
+          "title": "Curso AI: gestionar documentos con AI",
+          "url": "https://ar-tik.com/es/cursos/ai-documenti.html"
+        },
+        {
+          "id": "ai-legal-ops",
+          "title": "AI Legal Ops y compliance documental",
+          "url": "https://ar-tik.com/es/cursos/ai-legal-ops.html"
+        },
+        {
+          "id": "ai-output-quality",
+          "title": "AI Output Quality & Human Review",
+          "url": "https://ar-tik.com/es/cursos/ai-output-quality.html"
+        }
+      ],
+      "applicableSectors": [
+        "servicios profesionales",
+        "finanzas, control y servicios regulados",
+        "HSE, seguridad y servicios técnicos"
+      ],
+      "searchIntents": [
+        "IA para generar documentos controlados desde plantillas",
+        "aplicaciones IA para documentos y conocimiento",
+        "cómo usar IA en empresa para generar documentos controlados desde plantillas"
+      ],
+      "needSignals": [
+        "copias manuales entre emails, hojas y sistemas",
+        "errores recurrentes en documentos, procedimientos o controles"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan base de datos estructurada para producir borradores controlados y apoyar reducción de tiempos, con revisión humana obligatoria.",
+      "privacyNotes": "Requiere anonimización, control de accesos y revisión especializada cuando toca datos personales, legales, RR. HH. o regulados.",
+      "humanReview": "obligatoria",
+      "humanReviewCode": "required",
+      "riskLevel": "medio",
+      "riskLevelCode": "medium",
+      "tags": [
+        "template",
+        "documenti",
+        "report"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#controlled-document-generation",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Generar documentos controlados desde plantillas",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Generar documentos controlados desde plantillas",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "process-mapping-redesign",
+      "locale": "es",
+      "language": "es",
+      "area": "operations",
+      "areaLabel": "Procesos operativos",
+      "title": "Mapear procesos y rediseñar flujos de trabajo",
+      "description": "El trabajo real se reconstruye as-is, se lee por cuellos de botella y se transforma en un escenario objetivo.",
+      "input": [
+        "transcripciones y notas",
+        "logs y estados de proceso",
+        "emails y tickets",
+        "hojas de cálculo"
+      ],
+      "output": [
+        "roadmap y prioridades",
+        "business case"
+      ],
+      "businessValue": [
+        "prioridades más claras",
+        "decisiones más rápidas",
+        "costes evitados"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "workflow-redesign",
+        "ai-business-case-roi"
+      ],
+      "relatedCourses": [
+        {
+          "id": "workflow-redesign",
+          "title": "AI Workflow Redesign Lab",
+          "url": "https://ar-tik.com/es/cursos/workflow-redesign.html"
+        },
+        {
+          "id": "ai-business-case-roi",
+          "title": "AI Business Case & ROI Sprint",
+          "url": "https://ar-tik.com/es/cursos/ai-business-case-roi.html"
+        }
+      ],
+      "applicableSectors": [
+        "funciones empresariales transversales",
+        "manufactura",
+        "servicios profesionales"
+      ],
+      "searchIntents": [
+        "IA para mapear procesos y rediseñar flujos de trabajo",
+        "aplicaciones IA para procesos operativos",
+        "cómo usar IA en empresa para mapear procesos y rediseñar flujos de trabajo"
+      ],
+      "needSignals": [
+        "decisiones recurrentes lentas o basadas en información incompleta",
+        "copias manuales entre emails, hojas y sistemas",
+        "uso de IA ya presente sin reglas compartidas"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan transcripciones y notas para producir roadmap y prioridades y apoyar prioridades más claras, con revisión humana recomendada.",
+      "privacyNotes": "Usar datos autorizados, minimizar información personal y mantener revisión humana sobre outputs relevantes.",
+      "humanReview": "recomendada",
+      "humanReviewCode": "recommended",
+      "riskLevel": "medio",
+      "riskLevelCode": "medium",
+      "tags": [
+        "processi",
+        "workflow",
+        "roadmap"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#process-mapping-redesign",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Mapear procesos y rediseñar flujos de trabajo",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Mapear procesos y rediseñar flujos de trabajo",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "email-ticket-triage",
+      "locale": "es",
+      "language": "es",
+      "area": "operations",
+      "areaLabel": "Procesos operativos",
+      "title": "Hacer triage de emails, tickets y solicitudes",
+      "description": "Las comunicaciones entrantes se clasifican por urgencia, tema, responsable y acción requerida.",
+      "input": [
+        "emails y tickets",
+        "tickets y solicitudes",
+        "documentación interna"
+      ],
+      "output": [
+        "digest accionable",
+        "borradores controlados",
+        "ranking de prioridad"
+      ],
+      "businessValue": [
+        "reducción de tiempos",
+        "servicio más uniforme",
+        "prioridades más claras"
+      ],
+      "relatedServiceIds": [
+        "technical-software-development"
+      ],
+      "relatedServices": [
+        {
+          "id": "technical-software-development",
+          "title": "Software técnico de IA",
+          "url": "https://ar-tik.com/es/desarrollo-software-tecnico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-customer-service",
+        "ai-operations"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-customer-service",
+          "title": "AI para atención al cliente y triage de tickets",
+          "url": "https://ar-tik.com/es/cursos/ai-customer-service.html"
+        },
+        {
+          "id": "ai-operations",
+          "title": "AI Operations",
+          "url": "https://ar-tik.com/es/cursos/ai-operations.html"
+        }
+      ],
+      "applicableSectors": [
+        "funciones empresariales transversales",
+        "HSE, seguridad y servicios técnicos",
+        "oficinas técnicas e ingeniería"
+      ],
+      "searchIntents": [
+        "IA para hacer triage de emails, tickets y solicitudes",
+        "aplicaciones IA para procesos operativos",
+        "cómo usar IA en empresa para hacer triage de emails, tickets y solicitudes"
+      ],
+      "needSignals": [
+        "copias manuales entre emails, hojas y sistemas",
+        "decisiones recurrentes lentas o basadas en información incompleta"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan emails y tickets para producir digest accionable y apoyar reducción de tiempos, con revisión humana recomendada.",
+      "privacyNotes": "Usar datos autorizados, minimizar información personal y mantener revisión humana sobre outputs relevantes.",
+      "humanReview": "recomendada",
+      "humanReviewCode": "recommended",
+      "riskLevel": "medio",
+      "riskLevelCode": "medium",
+      "tags": [
+        "triage",
+        "email",
+        "ticket"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#email-ticket-triage",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Hacer triage de emails, tickets y solicitudes",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Hacer triage de emails, tickets y solicitudes",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "scheduling-resource-allocation",
+      "locale": "es",
+      "language": "es",
+      "area": "operations",
+      "areaLabel": "Procesos operativos",
+      "title": "Planificar turnos, recursos y prioridades",
+      "description": "Disponibilidad, restricciones, competencias, ausencias y demanda se combinan en planes factibles.",
+      "input": [
+        "hojas de cálculo",
+        "ERP y sistemas de gestión",
+        "KPI y series históricas"
+      ],
+      "output": [
+        "plan y asignaciones",
+        "dashboards y vistas filtrables"
+      ],
+      "businessValue": [
+        "eficiencia productiva",
+        "decisiones más rápidas",
+        "costes evitados"
+      ],
+      "relatedServiceIds": [
+        "technical-software-development",
+        "agentic-data-analysis"
+      ],
+      "relatedServices": [
+        {
+          "id": "technical-software-development",
+          "title": "Software técnico de IA",
+          "url": "https://ar-tik.com/es/desarrollo-software-tecnico.html"
+        },
+        {
+          "id": "agentic-data-analysis",
+          "title": "Análisis de datos agéntico",
+          "url": "https://ar-tik.com/es/analisis-datos-agentico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-operations"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-operations",
+          "title": "AI Operations",
+          "url": "https://ar-tik.com/es/cursos/ai-operations.html"
+        }
+      ],
+      "applicableSectors": [
+        "manufactura",
+        "logística y supply chain",
+        "HSE, seguridad y servicios técnicos"
+      ],
+      "searchIntents": [
+        "IA para planificar turnos, recursos y prioridades",
+        "aplicaciones IA para procesos operativos",
+        "cómo usar IA en empresa para planificar turnos, recursos y prioridades"
+      ],
+      "needSignals": [
+        "planificación todavía muy manual",
+        "datos históricos disponibles pero no convertidos en señales"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan hojas de cálculo para producir plan y asignaciones y apoyar eficiencia productiva, con revisión humana obligatoria.",
+      "privacyNotes": "Usar datos autorizados, minimizar información personal y mantener revisión humana sobre outputs relevantes.",
+      "humanReview": "obligatoria",
+      "humanReviewCode": "required",
+      "riskLevel": "medio",
+      "riskLevelCode": "medium",
+      "tags": [
+        "pianificazione",
+        "turni",
+        "risorse"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#scheduling-resource-allocation",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Planificar turnos, recursos y prioridades",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Planificar turnos, recursos y prioridades",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "demand-workload-forecast",
+      "locale": "es",
+      "language": "es",
+      "area": "operations",
+      "areaLabel": "Procesos operativos",
+      "title": "Prever demanda y carga operativa",
+      "description": "Históricos de pedidos, ingresos, tickets o producción se convierten en previsiones operativas.",
+      "input": [
+        "transacciones y compras",
+        "KPI y series históricas",
+        "datos de producción"
+      ],
+      "output": [
+        "previsión verificable",
+        "dashboards y vistas filtrables"
+      ],
+      "businessValue": [
+        "decisiones más rápidas",
+        "costes evitados",
+        "eficiencia productiva"
+      ],
+      "relatedServiceIds": [
+        "agentic-data-analysis"
+      ],
+      "relatedServices": [
+        {
+          "id": "agentic-data-analysis",
+          "title": "Análisis de datos agéntico",
+          "url": "https://ar-tik.com/es/analisis-datos-agentico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-business-case-roi",
+        "ai-operations"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-business-case-roi",
+          "title": "AI Business Case & ROI Sprint",
+          "url": "https://ar-tik.com/es/cursos/ai-business-case-roi.html"
+        },
+        {
+          "id": "ai-operations",
+          "title": "AI Operations",
+          "url": "https://ar-tik.com/es/cursos/ai-operations.html"
+        }
+      ],
+      "applicableSectors": [
+        "retail y e-commerce",
+        "manufactura",
+        "logística y supply chain"
+      ],
+      "searchIntents": [
+        "IA para prever demanda y carga operativa",
+        "aplicaciones IA para procesos operativos",
+        "cómo usar IA en empresa para prever demanda y carga operativa"
+      ],
+      "needSignals": [
+        "datos históricos disponibles pero no convertidos en señales",
+        "planificación todavía muy manual"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan transacciones y compras para producir previsión verificable y apoyar decisiones más rápidas, con revisión humana recomendada.",
+      "privacyNotes": "Usar datos autorizados, minimizar información personal y mantener revisión humana sobre outputs relevantes.",
+      "humanReview": "recomendada",
+      "humanReviewCode": "recommended",
+      "riskLevel": "medio",
+      "riskLevelCode": "medium",
+      "tags": [
+        "forecast",
+        "domanda",
+        "capacita"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#demand-workload-forecast",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Prever demanda y carga operativa",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Prever demanda y carga operativa",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "project-requirements-memory",
+      "locale": "es",
+      "language": "es",
+      "area": "operations",
+      "areaLabel": "Procesos operativos",
+      "title": "Mantener vivos requisitos, decisiones y stakeholders",
+      "description": "Reuniones y documentos de proyecto alimentan un dossier evolutivo con requisitos y conflictos latentes.",
+      "input": [
+        "transcripciones y notas",
+        "requisitos y especificaciones",
+        "documentación interna"
+      ],
+      "output": [
+        "roadmap y prioridades",
+        "mapa de riesgos"
+      ],
+      "businessValue": [
+        "trazabilidad",
+        "menos errores",
+        "conocimiento transferible"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting",
+        "technical-software-development"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        },
+        {
+          "id": "technical-software-development",
+          "title": "Software técnico de IA",
+          "url": "https://ar-tik.com/es/desarrollo-software-tecnico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "workflow-redesign",
+        "ai-software-engineering"
+      ],
+      "relatedCourses": [
+        {
+          "id": "workflow-redesign",
+          "title": "AI Workflow Redesign Lab",
+          "url": "https://ar-tik.com/es/cursos/workflow-redesign.html"
+        },
+        {
+          "id": "ai-software-engineering",
+          "title": "AI Software Engineering",
+          "url": "https://ar-tik.com/es/cursos/ai-software-engineering.html"
+        }
+      ],
+      "applicableSectors": [
+        "oficinas técnicas e ingeniería",
+        "servicios profesionales",
+        "manufactura"
+      ],
+      "searchIntents": [
+        "IA para mantener vivos requisitos, decisiones y stakeholders",
+        "aplicaciones IA para procesos operativos",
+        "cómo usar IA en empresa para mantener vivos requisitos, decisiones y stakeholders"
+      ],
+      "needSignals": [
+        "decisiones recurrentes lentas o basadas en información incompleta",
+        "conocimiento crítico concentrado en pocas personas"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan transcripciones y notas para producir roadmap y prioridades y apoyar trazabilidad, con revisión humana obligatoria.",
+      "privacyNotes": "Usar datos autorizados, minimizar información personal y mantener revisión humana sobre outputs relevantes.",
+      "humanReview": "obligatoria",
+      "humanReviewCode": "required",
+      "riskLevel": "medio",
+      "riskLevelCode": "medium",
+      "tags": [
+        "requisiti",
+        "progetto",
+        "decisioni"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#project-requirements-memory",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Mantener vivos requisitos, decisiones y stakeholders",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Mantener vivos requisitos, decisiones y stakeholders",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "customer-feedback-intelligence",
+      "locale": "es",
+      "language": "es",
+      "area": "customer",
+      "areaLabel": "Cliente, marketing y ventas",
+      "title": "Leer feedback, reseñas y tickets de cliente",
+      "description": "Textos no estructurados se agregan por temas, sentimiento, necesidades recurrentes y acciones.",
+      "input": [
+        "feedback textual",
+        "tickets y solicitudes",
+        "fuentes públicas"
+      ],
+      "output": [
+        "informe operativo",
+        "ranking de prioridad"
+      ],
+      "businessValue": [
+        "servicio más uniforme",
+        "valor comercial recuperado",
+        "prioridades más claras"
+      ],
+      "relatedServiceIds": [
+        "agentic-data-analysis"
+      ],
+      "relatedServices": [
+        {
+          "id": "agentic-data-analysis",
+          "title": "Análisis de datos agéntico",
+          "url": "https://ar-tik.com/es/analisis-datos-agentico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-customer-service",
+        "ai-marketing"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-customer-service",
+          "title": "AI para atención al cliente y triage de tickets",
+          "url": "https://ar-tik.com/es/cursos/ai-customer-service.html"
+        },
+        {
+          "id": "ai-marketing",
+          "title": "Curso AI: marketing y comunicación AI driven",
+          "url": "https://ar-tik.com/es/cursos/ai-marketing.html"
+        }
+      ],
+      "applicableSectors": [
+        "retail y e-commerce",
+        "funciones empresariales transversales",
+        "servicios profesionales"
+      ],
+      "searchIntents": [
+        "IA para leer feedback, reseñas y tickets de cliente",
+        "aplicaciones IA para cliente, marketing y ventas",
+        "cómo usar IA en empresa para leer feedback, reseñas y tickets de cliente"
+      ],
+      "needSignals": [
+        "feedback abundante pero no analizado",
+        "decisiones recurrentes lentas o basadas en información incompleta"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan feedback textual para producir informe operativo y apoyar servicio más uniforme, con revisión humana recomendada.",
+      "privacyNotes": "Usar datos autorizados, minimizar información personal y mantener revisión humana sobre outputs relevantes.",
+      "humanReview": "recomendada",
+      "humanReviewCode": "recommended",
+      "riskLevel": "medio",
+      "riskLevelCode": "medium",
+      "tags": [
+        "feedback",
+        "sentiment",
+        "cliente"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#customer-feedback-intelligence",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Leer feedback, reseñas y tickets de cliente",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Leer feedback, reseñas y tickets de cliente",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "market-customer-discovery",
+      "locale": "es",
+      "language": "es",
+      "area": "customer",
+      "areaLabel": "Cliente, marketing y ventas",
+      "title": "Descubrir necesidades de mercado y target",
+      "description": "Fuentes públicas y materiales se sintetizan en mapas de pain point, lenguaje, segmentos y oportunidades.",
+      "input": [
+        "fuentes públicas",
+        "feedback textual",
+        "documentación interna"
+      ],
+      "output": [
+        "informe operativo",
+        "business case"
+      ],
+      "businessValue": [
+        "valor comercial recuperado",
+        "prioridades más claras",
+        "decisiones más rápidas"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-marketing",
+        "ai-vendite"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-marketing",
+          "title": "Curso AI: marketing y comunicación AI driven",
+          "url": "https://ar-tik.com/es/cursos/ai-marketing.html"
+        },
+        {
+          "id": "ai-vendite",
+          "title": "Curso AI: venta B2C y B2B con AI",
+          "url": "https://ar-tik.com/es/cursos/ai-vendite.html"
+        }
+      ],
+      "applicableSectors": [
+        "retail y e-commerce",
+        "servicios profesionales",
+        "entidades públicas y territorio"
+      ],
+      "searchIntents": [
+        "IA para descubrir necesidades de mercado y target",
+        "aplicaciones IA para cliente, marketing y ventas",
+        "cómo usar IA en empresa para descubrir necesidades de mercado y target"
+      ],
+      "needSignals": [
+        "feedback abundante pero no analizado",
+        "decisiones recurrentes lentas o basadas en información incompleta"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan fuentes públicas para producir informe operativo y apoyar valor comercial recuperado, con revisión humana recomendada.",
+      "privacyNotes": "Usar datos autorizados, minimizar información personal y mantener revisión humana sobre outputs relevantes.",
+      "humanReview": "recomendada",
+      "humanReviewCode": "recommended",
+      "riskLevel": "medio",
+      "riskLevelCode": "medium",
+      "tags": [
+        "mercato",
+        "target",
+        "discovery"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#market-customer-discovery",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Descubrir necesidades de mercado y target",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Descubrir necesidades de mercado y target",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "brand-voice-content-engine",
+      "locale": "es",
+      "language": "es",
+      "area": "customer",
+      "areaLabel": "Cliente, marketing y ventas",
+      "title": "Codificar voz de marca y contenidos",
+      "description": "Entrevistas, ejemplos aprobados y material comercial se convierten en guías y borradores multicanal.",
+      "input": [
+        "documentación interna",
+        "feedback textual",
+        "fuentes públicas"
+      ],
+      "output": [
+        "políticas y guardrails",
+        "borradores controlados"
+      ],
+      "businessValue": [
+        "reducción de tiempos",
+        "valor comercial recuperado",
+        "trazabilidad"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-brand-voice",
+        "ai-marketing"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-brand-voice",
+          "title": "AI Brand Voice y comunicación",
+          "url": "https://ar-tik.com/es/cursos/ai-brand-voice.html"
+        },
+        {
+          "id": "ai-marketing",
+          "title": "Curso AI: marketing y comunicación AI driven",
+          "url": "https://ar-tik.com/es/cursos/ai-marketing.html"
+        }
+      ],
+      "applicableSectors": [
+        "funciones empresariales transversales",
+        "retail y e-commerce",
+        "entidades públicas y territorio"
+      ],
+      "searchIntents": [
+        "IA para codificar voz de marca y contenidos",
+        "aplicaciones IA para cliente, marketing y ventas",
+        "cómo usar IA en empresa para codificar voz de marca y contenidos"
+      ],
+      "needSignals": [
+        "errores recurrentes en documentos, procedimientos o controles",
+        "copias manuales entre emails, hojas y sistemas"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan documentación interna para producir políticas y guardrails y apoyar reducción de tiempos, con revisión humana obligatoria.",
+      "privacyNotes": "Usar datos autorizados, minimizar información personal y mantener revisión humana sobre outputs relevantes.",
+      "humanReview": "obligatoria",
+      "humanReviewCode": "required",
+      "riskLevel": "bajo",
+      "riskLevelCode": "low",
+      "tags": [
+        "brand",
+        "copy",
+        "contenuti"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#brand-voice-content-engine",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Codificar voz de marca y contenidos",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Codificar voz de marca y contenidos",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "sales-pricing-recommendations",
+      "locale": "es",
+      "language": "es",
+      "area": "customer",
+      "areaLabel": "Cliente, marketing y ventas",
+      "title": "Apoyar ventas, pricing y recomendaciones",
+      "description": "Históricos de compra, catálogos e información competitiva ayudan a crear pitches, bundles y escenarios de precio.",
+      "input": [
+        "transacciones y compras",
+        "documentación interna",
+        "fuentes públicas"
+      ],
+      "output": [
+        "recomendaciones operativas",
+        "business case"
+      ],
+      "businessValue": [
+        "valor comercial recuperado",
+        "decisiones más rápidas",
+        "prioridades más claras"
+      ],
+      "relatedServiceIds": [
+        "agentic-data-analysis"
+      ],
+      "relatedServices": [
+        {
+          "id": "agentic-data-analysis",
+          "title": "Análisis de datos agéntico",
+          "url": "https://ar-tik.com/es/analisis-datos-agentico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-vendite",
+        "ai-business-case-roi"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-vendite",
+          "title": "Curso AI: venta B2C y B2B con AI",
+          "url": "https://ar-tik.com/es/cursos/ai-vendite.html"
+        },
+        {
+          "id": "ai-business-case-roi",
+          "title": "AI Business Case & ROI Sprint",
+          "url": "https://ar-tik.com/es/cursos/ai-business-case-roi.html"
+        }
+      ],
+      "applicableSectors": [
+        "retail y e-commerce",
+        "funciones empresariales transversales"
+      ],
+      "searchIntents": [
+        "IA para apoyar ventas, pricing y recomendaciones",
+        "aplicaciones IA para cliente, marketing y ventas",
+        "cómo usar IA en empresa para apoyar ventas, pricing y recomendaciones"
+      ],
+      "needSignals": [
+        "datos históricos disponibles pero no convertidos en señales",
+        "decisiones recurrentes lentas o basadas en información incompleta"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan transacciones y compras para producir recomendaciones operativas y apoyar valor comercial recuperado, con revisión humana obligatoria.",
+      "privacyNotes": "Usar datos autorizados, minimizar información personal y mantener revisión humana sobre outputs relevantes.",
+      "humanReview": "obligatoria",
+      "humanReviewCode": "required",
+      "riskLevel": "medio",
+      "riskLevelCode": "medium",
+      "tags": [
+        "vendite",
+        "pricing",
+        "raccomandazioni"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#sales-pricing-recommendations",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Apoyar ventas, pricing y recomendaciones",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Apoyar ventas, pricing y recomendaciones",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "hr-competence-map",
+      "locale": "es",
+      "language": "es",
+      "area": "people",
+      "areaLabel": "Personas y RR. HH.",
+      "title": "Mapear competencias y necesidades",
+      "description": "Competencias, roles, objetivos futuros y tendencias se conectan para priorizar desarrollo y reskilling.",
+      "input": [
+        "datos RR. HH. agregados",
+        "documentación interna",
+        "fuentes públicas"
+      ],
+      "output": [
+        "roadmap y prioridades",
+        "informe operativo"
+      ],
+      "businessValue": [
+        "conocimiento transferible",
+        "prioridades más claras",
+        "formación más rápida"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-people-ops",
+        "ai-adoption-manager"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-people-ops",
+          "title": "AI People Ops",
+          "url": "https://ar-tik.com/es/cursos/ai-people-ops.html"
+        },
+        {
+          "id": "ai-adoption-manager",
+          "title": "AI Adoption Manager / AI Champions",
+          "url": "https://ar-tik.com/es/cursos/ai-adoption-manager.html"
+        }
+      ],
+      "applicableSectors": [
+        "funciones empresariales transversales",
+        "formación y organizaciones intensivas en conocimiento"
+      ],
+      "searchIntents": [
+        "IA para mapear competencias y necesidades",
+        "aplicaciones IA para personas y rr. hh.",
+        "cómo usar IA en empresa para mapear competencias y necesidades"
+      ],
+      "needSignals": [
+        "conocimiento crítico concentrado en pocas personas",
+        "uso de IA ya presente sin reglas compartidas"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan datos rr. hh. agregados para producir roadmap y prioridades y apoyar conocimiento transferible, con revisión humana obligatoria.",
+      "privacyNotes": "Requiere anonimización, control de accesos y revisión especializada cuando toca datos personales, legales, RR. HH. o regulados.",
+      "humanReview": "obligatoria",
+      "humanReviewCode": "required",
+      "riskLevel": "medio",
+      "riskLevelCode": "medium",
+      "tags": [
+        "hr",
+        "competenze",
+        "upskilling"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#hr-competence-map",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Mapear competencias y necesidades",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Mapear competencias y necesidades",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "recruiting-onboarding-support",
+      "locale": "es",
+      "language": "es",
+      "area": "people",
+      "areaLabel": "Personas y RR. HH.",
+      "title": "Apoyar recruiting y onboarding",
+      "description": "Job descriptions, candidaturas y materiales de entrada se estructuran para evaluaciones y recorridos iniciales.",
+      "input": [
+        "CV y candidaturas",
+        "datos RR. HH. agregados",
+        "manuales y material formativo"
+      ],
+      "output": [
+        "informe operativo",
+        "borradores controlados"
+      ],
+      "businessValue": [
+        "reducción de tiempos",
+        "menos errores",
+        "formación más rápida"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-people-ops"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-people-ops",
+          "title": "AI People Ops",
+          "url": "https://ar-tik.com/es/cursos/ai-people-ops.html"
+        }
+      ],
+      "applicableSectors": [
+        "funciones empresariales transversales",
+        "formación y organizaciones intensivas en conocimiento"
+      ],
+      "searchIntents": [
+        "IA para apoyar recruiting y onboarding",
+        "aplicaciones IA para personas y rr. hh.",
+        "cómo usar IA en empresa para apoyar recruiting y onboarding"
+      ],
+      "needSignals": [
+        "copias manuales entre emails, hojas y sistemas",
+        "conocimiento crítico concentrado en pocas personas"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan cv y candidaturas para producir informe operativo y apoyar reducción de tiempos, con revisión humana obligatoria.",
+      "privacyNotes": "Requiere anonimización, control de accesos y revisión especializada cuando toca datos personales, legales, RR. HH. o regulados.",
+      "humanReview": "obligatoria",
+      "humanReviewCode": "required",
+      "riskLevel": "alto",
+      "riskLevelCode": "high",
+      "tags": [
+        "recruiting",
+        "onboarding",
+        "hr"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#recruiting-onboarding-support",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Apoyar recruiting y onboarding",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Apoyar recruiting y onboarding",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "hr-policy-requests",
+      "locale": "es",
+      "language": "es",
+      "area": "people",
+      "areaLabel": "Personas y RR. HH.",
+      "title": "Simplificar políticas y solicitudes RR. HH.",
+      "description": "Políticas, beneficios, procedimientos y solicitudes recurrentes se convierten en FAQ y recorridos guiados.",
+      "input": [
+        "datos RR. HH. agregados",
+        "documentación interna",
+        "contratos y políticas"
+      ],
+      "output": [
+        "FAQ y respuestas",
+        "borradores controlados"
+      ],
+      "businessValue": [
+        "servicio más uniforme",
+        "reducción de tiempos",
+        "compliance más gobernable"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-people-ops",
+        "secure-ai-at-work"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-people-ops",
+          "title": "AI People Ops",
+          "url": "https://ar-tik.com/es/cursos/ai-people-ops.html"
+        },
+        {
+          "id": "secure-ai-at-work",
+          "title": "Secure AI at Work",
+          "url": "https://ar-tik.com/es/cursos/secure-ai-at-work.html"
+        }
+      ],
+      "applicableSectors": [
+        "funciones empresariales transversales"
+      ],
+      "searchIntents": [
+        "IA para simplificar políticas y solicitudes RR. HH.",
+        "aplicaciones IA para personas y rr. hh.",
+        "cómo usar IA en empresa para simplificar políticas y solicitudes RR. HH."
+      ],
+      "needSignals": [
+        "copias manuales entre emails, hojas y sistemas",
+        "documentos dispersos y difíciles de consultar"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan datos rr. hh. agregados para producir faq y respuestas y apoyar servicio más uniforme, con revisión humana obligatoria.",
+      "privacyNotes": "Requiere anonimización, control de accesos y revisión especializada cuando toca datos personales, legales, RR. HH. o regulados.",
+      "humanReview": "obligatoria",
+      "humanReviewCode": "required",
+      "riskLevel": "alto",
+      "riskLevelCode": "high",
+      "tags": [
+        "policy",
+        "hr",
+        "faq"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#hr-policy-requests",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Simplificar políticas y solicitudes RR. HH",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Simplificar políticas y solicitudes RR. HH",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "software-requirements-and-mvp",
+      "locale": "es",
+      "language": "es",
+      "area": "technical",
+      "areaLabel": "Área técnica y software",
+      "title": "Definir requisitos, MVP y criterios de aceptación",
+      "description": "Una necesidad técnica se transforma en requisitos, user stories, restricciones y límites del primer release.",
+      "input": [
+        "requisitos y especificaciones",
+        "transcripciones y notas",
+        "documentación interna"
+      ],
+      "output": [
+        "roadmap y prioridades",
+        "tests y checklist"
+      ],
+      "businessValue": [
+        "menos errores",
+        "trazabilidad",
+        "costes evitados"
+      ],
+      "relatedServiceIds": [
+        "technical-software-development"
+      ],
+      "relatedServices": [
+        {
+          "id": "technical-software-development",
+          "title": "Software técnico de IA",
+          "url": "https://ar-tik.com/es/desarrollo-software-tecnico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-software-engineering",
+        "ai-coding-agents"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-software-engineering",
+          "title": "AI Software Engineering",
+          "url": "https://ar-tik.com/es/cursos/ai-software-engineering.html"
+        },
+        {
+          "id": "ai-coding-agents",
+          "title": "AI Coding Agents para equipos software",
+          "url": "https://ar-tik.com/es/cursos/ai-coding-agents.html"
+        }
+      ],
+      "applicableSectors": [
+        "oficinas técnicas e ingeniería",
+        "manufactura"
+      ],
+      "searchIntents": [
+        "IA para definir requisitos, MVP y criterios de aceptación",
+        "aplicaciones IA para área técnica y software",
+        "cómo usar IA en empresa para definir requisitos, MVP y criterios de aceptación"
+      ],
+      "needSignals": [
+        "decisiones recurrentes lentas o basadas en información incompleta",
+        "errores recurrentes en documentos, procedimientos o controles"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan requisitos y especificaciones para producir roadmap y prioridades y apoyar menos errores, con revisión humana obligatoria.",
+      "privacyNotes": "Tratar código, pliegos, datos industriales e imágenes operativas como propiedad intelectual; publicar solo ejemplos anonimizados.",
+      "humanReview": "obligatoria",
+      "humanReviewCode": "required",
+      "riskLevel": "medio",
+      "riskLevelCode": "medium",
+      "tags": [
+        "requisiti",
+        "mvp",
+        "software"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#software-requirements-and-mvp",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Definir requisitos, MVP y criterios de aceptación",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Definir requisitos, MVP y criterios de aceptación",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "ai-assisted-coding-quality",
+      "locale": "es",
+      "language": "es",
+      "area": "technical",
+      "areaLabel": "Área técnica y software",
+      "title": "Acelerar desarrollo, refactoring y tests",
+      "description": "Código existente y especificaciones guían generación controlada, tests, refactoring y auditoría de calidad.",
+      "input": [
+        "código y repositorios",
+        "requisitos y especificaciones"
+      ],
+      "output": [
+        "tests y checklist",
+        "informe operativo"
+      ],
+      "businessValue": [
+        "reducción de tiempos",
+        "menos errores",
+        "trazabilidad"
+      ],
+      "relatedServiceIds": [
+        "technical-software-development"
+      ],
+      "relatedServices": [
+        {
+          "id": "technical-software-development",
+          "title": "Software técnico de IA",
+          "url": "https://ar-tik.com/es/desarrollo-software-tecnico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-coding-agents",
+        "secure-ai-sdlc",
+        "ai-software-engineering"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-coding-agents",
+          "title": "AI Coding Agents para equipos software",
+          "url": "https://ar-tik.com/es/cursos/ai-coding-agents.html"
+        },
+        {
+          "id": "secure-ai-sdlc",
+          "title": "Secure AI SDLC",
+          "url": "https://ar-tik.com/es/cursos/secure-ai-sdlc.html"
+        },
+        {
+          "id": "ai-software-engineering",
+          "title": "AI Software Engineering",
+          "url": "https://ar-tik.com/es/cursos/ai-software-engineering.html"
+        }
+      ],
+      "applicableSectors": [
+        "oficinas técnicas e ingeniería"
+      ],
+      "searchIntents": [
+        "IA para acelerar desarrollo, refactoring y tests",
+        "aplicaciones IA para área técnica y software",
+        "cómo usar IA en empresa para acelerar desarrollo, refactoring y tests"
+      ],
+      "needSignals": [
+        "errores recurrentes en documentos, procedimientos o controles",
+        "copias manuales entre emails, hojas y sistemas"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan código y repositorios para producir tests y checklist y apoyar reducción de tiempos, con revisión humana obligatoria.",
+      "privacyNotes": "Tratar código, pliegos, datos industriales e imágenes operativas como propiedad intelectual; publicar solo ejemplos anonimizados.",
+      "humanReview": "obligatoria",
+      "humanReviewCode": "required",
+      "riskLevel": "alto",
+      "riskLevelCode": "high",
+      "tags": [
+        "coding",
+        "test",
+        "refactoring"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#ai-assisted-coding-quality",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Acelerar desarrollo, refactoring y tests",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Acelerar desarrollo, refactoring y tests",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "technical-tender-documentation",
+      "locale": "es",
+      "language": "es",
+      "area": "technical",
+      "areaLabel": "Área técnica y software",
+      "title": "Leer pliegos y producir documentación técnica",
+      "description": "Licitaciones, pliegos, informes y fichas técnicas se analizan para requisitos críticos y riesgos.",
+      "input": [
+        "licitaciones y pliegos",
+        "documentación interna",
+        "planos técnicos"
+      ],
+      "output": [
+        "informe operativo",
+        "borradores controlados",
+        "mapa de riesgos"
+      ],
+      "businessValue": [
+        "reducción de riesgo",
+        "menos errores",
+        "trazabilidad"
+      ],
+      "relatedServiceIds": [
+        "technical-software-development"
+      ],
+      "relatedServices": [
+        {
+          "id": "technical-software-development",
+          "title": "Software técnico de IA",
+          "url": "https://ar-tik.com/es/desarrollo-software-tecnico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-documenti",
+        "ai-output-quality"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-documenti",
+          "title": "Curso AI: gestionar documentos con AI",
+          "url": "https://ar-tik.com/es/cursos/ai-documenti.html"
+        },
+        {
+          "id": "ai-output-quality",
+          "title": "AI Output Quality & Human Review",
+          "url": "https://ar-tik.com/es/cursos/ai-output-quality.html"
+        }
+      ],
+      "applicableSectors": [
+        "oficinas técnicas e ingeniería",
+        "servicios profesionales",
+        "manufactura"
+      ],
+      "searchIntents": [
+        "IA para leer pliegos y producir documentación técnica",
+        "aplicaciones IA para área técnica y software",
+        "cómo usar IA en empresa para leer pliegos y producir documentación técnica"
+      ],
+      "needSignals": [
+        "documentos dispersos y difíciles de consultar",
+        "errores recurrentes en documentos, procedimientos o controles"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan licitaciones y pliegos para producir informe operativo y apoyar reducción de riesgo, con revisión humana obligatoria.",
+      "privacyNotes": "Tratar código, pliegos, datos industriales e imágenes operativas como propiedad intelectual; publicar solo ejemplos anonimizados.",
+      "humanReview": "obligatoria",
+      "humanReviewCode": "required",
+      "riskLevel": "alto",
+      "riskLevelCode": "high",
+      "tags": [
+        "capitolati",
+        "gare",
+        "documentazione"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#technical-tender-documentation",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Leer pliegos y producir documentación técnica",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Leer pliegos y producir documentación técnica",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "visual-technical-analysis",
+      "locale": "es",
+      "language": "es",
+      "area": "technical",
+      "areaLabel": "Área técnica y software",
+      "title": "Interpretar imágenes, planos y material técnico",
+      "description": "Fotos, planos y renders se convierten en fichas, análisis de componentes, cotas y narrativas técnicas.",
+      "input": [
+        "fotografías operativas",
+        "planos técnicos",
+        "documentación interna"
+      ],
+      "output": [
+        "informe operativo",
+        "borradores controlados"
+      ],
+      "businessValue": [
+        "conocimiento transferible",
+        "decisiones más rápidas",
+        "menos errores"
+      ],
+      "relatedServiceIds": [
+        "technical-software-development"
+      ],
+      "relatedServices": [
+        {
+          "id": "technical-software-development",
+          "title": "Software técnico de IA",
+          "url": "https://ar-tik.com/es/desarrollo-software-tecnico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-software-engineering",
+        "ai-output-quality"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-software-engineering",
+          "title": "AI Software Engineering",
+          "url": "https://ar-tik.com/es/cursos/ai-software-engineering.html"
+        },
+        {
+          "id": "ai-output-quality",
+          "title": "AI Output Quality & Human Review",
+          "url": "https://ar-tik.com/es/cursos/ai-output-quality.html"
+        }
+      ],
+      "applicableSectors": [
+        "oficinas técnicas e ingeniería",
+        "manufactura"
+      ],
+      "searchIntents": [
+        "IA para interpretar imágenes, planos y material técnico",
+        "aplicaciones IA para área técnica y software",
+        "cómo usar IA en empresa para interpretar imágenes, planos y material técnico"
+      ],
+      "needSignals": [
+        "conocimiento crítico concentrado en pocas personas",
+        "documentos dispersos y difíciles de consultar"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan fotografías operativas para producir informe operativo y apoyar conocimiento transferible, con revisión humana obligatoria.",
+      "privacyNotes": "Tratar código, pliegos, datos industriales e imágenes operativas como propiedad intelectual; publicar solo ejemplos anonimizados.",
+      "humanReview": "obligatoria",
+      "humanReviewCode": "required",
+      "riskLevel": "medio",
+      "riskLevelCode": "medium",
+      "tags": [
+        "vision",
+        "disegni",
+        "tecnico"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#visual-technical-analysis",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Interpretar imágenes, planos y material técnico",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Interpretar imágenes, planos y material técnico",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "ai-governance-policy-risk",
+      "locale": "es",
+      "language": "es",
+      "area": "governance",
+      "areaLabel": "Gobernanza, compliance y riesgo",
+      "title": "Construir gobernanza, políticas y matriz de riesgo IA",
+      "description": "Actividades, datos y decisiones se clasifican en zonas de autonomía, supervisión o exclusión.",
+      "input": [
+        "documentación interna",
+        "políticas y guías",
+        "transcripciones y notas"
+      ],
+      "output": [
+        "políticas y guardrails",
+        "mapa de riesgos",
+        "roadmap y prioridades"
+      ],
+      "businessValue": [
+        "reducción de riesgo",
+        "compliance más gobernable",
+        "prioridades más claras"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-governance",
+        "secure-ai-at-work",
+        "managing-ai"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-governance",
+          "title": "Gobernanza operativa de AI",
+          "url": "https://ar-tik.com/es/cursos/ai-governance.html"
+        },
+        {
+          "id": "secure-ai-at-work",
+          "title": "Secure AI at Work",
+          "url": "https://ar-tik.com/es/cursos/secure-ai-at-work.html"
+        },
+        {
+          "id": "managing-ai",
+          "title": "Managing AI",
+          "url": "https://ar-tik.com/es/cursos/managing-ai.html"
+        }
+      ],
+      "applicableSectors": [
+        "funciones empresariales transversales",
+        "finanzas, control y servicios regulados",
+        "HSE, seguridad y servicios técnicos"
+      ],
+      "searchIntents": [
+        "IA para construir gobernanza, políticas y matriz de riesgo IA",
+        "aplicaciones IA para gobernanza, compliance y riesgo",
+        "cómo usar IA en empresa para construir gobernanza, políticas y matriz de riesgo IA"
+      ],
+      "needSignals": [
+        "uso de IA ya presente sin reglas compartidas",
+        "decisiones recurrentes lentas o basadas en información incompleta"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan documentación interna para producir políticas y guardrails y apoyar reducción de riesgo, con revisión humana obligatoria.",
+      "privacyNotes": "Requiere anonimización, control de accesos y revisión especializada cuando toca datos personales, legales, RR. HH. o regulados.",
+      "humanReview": "obligatoria",
+      "humanReviewCode": "required",
+      "riskLevel": "alto",
+      "riskLevelCode": "high",
+      "tags": [
+        "governance",
+        "policy",
+        "rischio"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#ai-governance-policy-risk",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Construir gobernanza, políticas y matriz de riesgo IA",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Construir gobernanza, políticas y matriz de riesgo IA",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "compliance-legal-privacy-drafting",
+      "locale": "es",
+      "language": "es",
+      "area": "governance",
+      "areaLabel": "Gobernanza, compliance y riesgo",
+      "title": "Preparar documentos de compliance, legales y privacidad",
+      "description": "Contratos, informativas, registros, procedimientos y cartas se preparan como apoyo preliminar revisable.",
+      "input": [
+        "contratos y políticas",
+        "documentación interna",
+        "formularios completados"
+      ],
+      "output": [
+        "borradores controlados",
+        "mapa de riesgos"
+      ],
+      "businessValue": [
+        "reducción de tiempos",
+        "compliance más gobernable",
+        "reducción de riesgo"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-legal-ops",
+        "ai-governance"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-legal-ops",
+          "title": "AI Legal Ops y compliance documental",
+          "url": "https://ar-tik.com/es/cursos/ai-legal-ops.html"
+        },
+        {
+          "id": "ai-governance",
+          "title": "Gobernanza operativa de AI",
+          "url": "https://ar-tik.com/es/cursos/ai-governance.html"
+        }
+      ],
+      "applicableSectors": [
+        "servicios profesionales",
+        "finanzas, control y servicios regulados",
+        "funciones empresariales transversales"
+      ],
+      "searchIntents": [
+        "IA para preparar documentos de compliance, legales y privacidad",
+        "aplicaciones IA para gobernanza, compliance y riesgo",
+        "cómo usar IA en empresa para preparar documentos de compliance, legales y privacidad"
+      ],
+      "needSignals": [
+        "copias manuales entre emails, hojas y sistemas",
+        "errores recurrentes en documentos, procedimientos o controles"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan contratos y políticas para producir borradores controlados y apoyar reducción de tiempos, con revisión humana obligatoria.",
+      "privacyNotes": "Requiere anonimización, control de accesos y revisión especializada cuando toca datos personales, legales, RR. HH. o regulados.",
+      "humanReview": "obligatoria",
+      "humanReviewCode": "required",
+      "riskLevel": "alto",
+      "riskLevelCode": "high",
+      "tags": [
+        "compliance",
+        "privacy",
+        "legale"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#compliance-legal-privacy-drafting",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Preparar documentos de compliance, legales y privacidad",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Preparar documentos de compliance, legales y privacidad",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "ai-system-security-tests",
+      "locale": "es",
+      "language": "es",
+      "area": "governance",
+      "areaLabel": "Gobernanza, compliance y riesgo",
+      "title": "Probar asistentes IA contra usos indebidos",
+      "description": "Chatbots y asistentes se prueban contra manipulación, fuga de datos e instrucciones conflictivas.",
+      "input": [
+        "documentación interna",
+        "requisitos y especificaciones",
+        "políticas y guías"
+      ],
+      "output": [
+        "tests y checklist",
+        "políticas y guardrails",
+        "informe operativo"
+      ],
+      "businessValue": [
+        "reducción de riesgo",
+        "compliance más gobernable",
+        "servicio más uniforme"
+      ],
+      "relatedServiceIds": [
+        "technical-software-development"
+      ],
+      "relatedServices": [
+        {
+          "id": "technical-software-development",
+          "title": "Software técnico de IA",
+          "url": "https://ar-tik.com/es/desarrollo-software-tecnico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "secure-ai-sdlc",
+        "secure-ai-at-work"
+      ],
+      "relatedCourses": [
+        {
+          "id": "secure-ai-sdlc",
+          "title": "Secure AI SDLC",
+          "url": "https://ar-tik.com/es/cursos/secure-ai-sdlc.html"
+        },
+        {
+          "id": "secure-ai-at-work",
+          "title": "Secure AI at Work",
+          "url": "https://ar-tik.com/es/cursos/secure-ai-at-work.html"
+        }
+      ],
+      "applicableSectors": [
+        "oficinas técnicas e ingeniería",
+        "funciones empresariales transversales"
+      ],
+      "searchIntents": [
+        "IA para probar asistentes IA contra usos indebidos",
+        "aplicaciones IA para gobernanza, compliance y riesgo",
+        "cómo usar IA en empresa para probar asistentes IA contra usos indebidos"
+      ],
+      "needSignals": [
+        "uso de IA ya presente sin reglas compartidas",
+        "errores recurrentes en documentos, procedimientos o controles"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan documentación interna para producir tests y checklist y apoyar reducción de riesgo, con revisión humana obligatoria.",
+      "privacyNotes": "Tratar código, pliegos, datos industriales e imágenes operativas como propiedad intelectual; publicar solo ejemplos anonimizados.",
+      "humanReview": "obligatoria",
+      "humanReviewCode": "required",
+      "riskLevel": "alto",
+      "riskLevelCode": "high",
+      "tags": [
+        "security",
+        "chatbot",
+        "guardrail"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#ai-system-security-tests",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Probar asistentes IA contra usos indebidos",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Probar asistentes IA contra usos indebidos",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "hse-visual-inspection",
+      "locale": "es",
+      "language": "es",
+      "area": "production",
+      "areaLabel": "Producción, calidad y mantenimiento",
+      "title": "Analizar anomalías HSE desde imágenes operativas",
+      "description": "Fotos de inspección o área se leen para detectar no conformidades, riesgos y medidas preventivas.",
+      "input": [
+        "fotografías operativas",
+        "documentación interna"
+      ],
+      "output": [
+        "informe operativo",
+        "mapa de riesgos"
+      ],
+      "businessValue": [
+        "reducción de riesgo",
+        "decisiones más rápidas",
+        "compliance más gobernable"
+      ],
+      "relatedServiceIds": [
+        "technical-software-development"
+      ],
+      "relatedServices": [
+        {
+          "id": "technical-software-development",
+          "title": "Software técnico de IA",
+          "url": "https://ar-tik.com/es/desarrollo-software-tecnico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-quality-management",
+        "ai-operations"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-quality-management",
+          "title": "AI para calidad y no conformidades",
+          "url": "https://ar-tik.com/es/cursos/ai-quality-management.html"
+        },
+        {
+          "id": "ai-operations",
+          "title": "AI Operations",
+          "url": "https://ar-tik.com/es/cursos/ai-operations.html"
+        }
+      ],
+      "applicableSectors": [
+        "HSE, seguridad y servicios técnicos",
+        "manufactura"
+      ],
+      "searchIntents": [
+        "IA para analizar anomalías HSE desde imágenes operativas",
+        "aplicaciones IA para producción, calidad y mantenimiento",
+        "cómo usar IA en empresa para analizar anomalías HSE desde imágenes operativas"
+      ],
+      "needSignals": [
+        "errores recurrentes en documentos, procedimientos o controles",
+        "copias manuales entre emails, hojas y sistemas"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan fotografías operativas para producir informe operativo y apoyar reducción de riesgo, con revisión humana obligatoria.",
+      "privacyNotes": "Tratar código, pliegos, datos industriales e imágenes operativas como propiedad intelectual; publicar solo ejemplos anonimizados.",
+      "humanReview": "obligatoria",
+      "humanReviewCode": "required",
+      "riskLevel": "alto",
+      "riskLevelCode": "high",
+      "tags": [
+        "hse",
+        "vision",
+        "sicurezza"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#hse-visual-inspection",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Analizar anomalías HSE desde imágenes operativas",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Analizar anomalías HSE desde imágenes operativas",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "production-planning-quality",
+      "locale": "es",
+      "language": "es",
+      "area": "production",
+      "areaLabel": "Producción, calidad y mantenimiento",
+      "title": "Optimizar producción, pedidos y calidad",
+      "description": "Programas cliente, ERP, ciclos, no conformidades y costes históricos apoyan prioridades y acciones.",
+      "input": [
+        "ERP y sistemas de gestión",
+        "datos de producción",
+        "hojas de cálculo"
+      ],
+      "output": [
+        "plan y asignaciones",
+        "informe operativo",
+        "recomendaciones operativas"
+      ],
+      "businessValue": [
+        "eficiencia productiva",
+        "menos errores",
+        "costes evitados"
+      ],
+      "relatedServiceIds": [
+        "technical-software-development",
+        "agentic-data-analysis"
+      ],
+      "relatedServices": [
+        {
+          "id": "technical-software-development",
+          "title": "Software técnico de IA",
+          "url": "https://ar-tik.com/es/desarrollo-software-tecnico.html"
+        },
+        {
+          "id": "agentic-data-analysis",
+          "title": "Análisis de datos agéntico",
+          "url": "https://ar-tik.com/es/analisis-datos-agentico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-operations",
+        "ai-quality-management"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-operations",
+          "title": "AI Operations",
+          "url": "https://ar-tik.com/es/cursos/ai-operations.html"
+        },
+        {
+          "id": "ai-quality-management",
+          "title": "AI para calidad y no conformidades",
+          "url": "https://ar-tik.com/es/cursos/ai-quality-management.html"
+        }
+      ],
+      "applicableSectors": [
+        "manufactura",
+        "logística y supply chain"
+      ],
+      "searchIntents": [
+        "IA para optimizar producción, pedidos y calidad",
+        "aplicaciones IA para producción, calidad y mantenimiento",
+        "cómo usar IA en empresa para optimizar producción, pedidos y calidad"
+      ],
+      "needSignals": [
+        "planificación todavía muy manual",
+        "errores recurrentes en documentos, procedimientos o controles"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan erp y sistemas de gestión para producir plan y asignaciones y apoyar eficiencia productiva, con revisión humana obligatoria.",
+      "privacyNotes": "Tratar código, pliegos, datos industriales e imágenes operativas como propiedad intelectual; publicar solo ejemplos anonimizados.",
+      "humanReview": "obligatoria",
+      "humanReviewCode": "required",
+      "riskLevel": "medio",
+      "riskLevelCode": "medium",
+      "tags": [
+        "produzione",
+        "qualita",
+        "erp"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#production-planning-quality",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Optimizar producción, pedidos y calidad",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Optimizar producción, pedidos y calidad",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "maintenance-and-asset-risk",
+      "locale": "es",
+      "language": "es",
+      "area": "production",
+      "areaLabel": "Producción, calidad y mantenimiento",
+      "title": "Gestionar mantenimiento, activos y recambios",
+      "description": "Histórico de fallos, sensores e intervenciones se convierten en prioridades y alertas operativas.",
+      "input": [
+        "sensores y telemetría",
+        "datos de producción",
+        "logs y estados de proceso"
+      ],
+      "output": [
+        "alertas y umbrales",
+        "ranking de prioridad",
+        "dashboards y vistas filtrables"
+      ],
+      "businessValue": [
+        "eficiencia productiva",
+        "costes evitados",
+        "reducción de riesgo"
+      ],
+      "relatedServiceIds": [
+        "agentic-data-analysis"
+      ],
+      "relatedServices": [
+        {
+          "id": "agentic-data-analysis",
+          "title": "Análisis de datos agéntico",
+          "url": "https://ar-tik.com/es/analisis-datos-agentico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-operations",
+        "ai-business-case-roi"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-operations",
+          "title": "AI Operations",
+          "url": "https://ar-tik.com/es/cursos/ai-operations.html"
+        },
+        {
+          "id": "ai-business-case-roi",
+          "title": "AI Business Case & ROI Sprint",
+          "url": "https://ar-tik.com/es/cursos/ai-business-case-roi.html"
+        }
+      ],
+      "applicableSectors": [
+        "manufactura",
+        "logística y supply chain"
+      ],
+      "searchIntents": [
+        "IA para gestionar mantenimiento, activos y recambios",
+        "aplicaciones IA para producción, calidad y mantenimiento",
+        "cómo usar IA en empresa para gestionar mantenimiento, activos y recambios"
+      ],
+      "needSignals": [
+        "datos históricos disponibles pero no convertidos en señales",
+        "planificación todavía muy manual"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan sensores y telemetría para producir alertas y umbrales y apoyar eficiencia productiva, con revisión humana obligatoria.",
+      "privacyNotes": "Tratar código, pliegos, datos industriales e imágenes operativas como propiedad intelectual; publicar solo ejemplos anonimizados.",
+      "humanReview": "obligatoria",
+      "humanReviewCode": "required",
+      "riskLevel": "medio",
+      "riskLevelCode": "medium",
+      "tags": [
+        "manutenzione",
+        "asset",
+        "sensori"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#maintenance-and-asset-risk",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Gestionar mantenimiento, activos y recambios",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Gestionar mantenimiento, activos y recambios",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "internal-training-assets",
+      "locale": "es",
+      "language": "es",
+      "area": "training",
+      "areaLabel": "Formación y memoria interna",
+      "title": "Crear formación, quiz y slides desde materiales internos",
+      "description": "Manuales, slides y documentos dispersos se convierten en syllabus, quiz y casos por rol.",
+      "input": [
+        "manuales y material formativo",
+        "documentación interna",
+        "transcripciones y notas"
+      ],
+      "output": [
+        "FAQ y respuestas",
+        "borradores controlados"
+      ],
+      "businessValue": [
+        "formación más rápida",
+        "conocimiento transferible",
+        "servicio más uniforme"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-literacy",
+        "managing-ai-general",
+        "ai-documenti"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-literacy",
+          "title": "Alfabetización AI por rol y uso responsable",
+          "url": "https://ar-tik.com/es/cursos/ai-literacy.html"
+        },
+        {
+          "id": "managing-ai-general",
+          "title": "Managing AI para equipos empresariales mixtos",
+          "url": "https://ar-tik.com/es/cursos/managing-ai-general.html"
+        },
+        {
+          "id": "ai-documenti",
+          "title": "Curso AI: gestionar documentos con AI",
+          "url": "https://ar-tik.com/es/cursos/ai-documenti.html"
+        }
+      ],
+      "applicableSectors": [
+        "formación y organizaciones intensivas en conocimiento",
+        "funciones empresariales transversales"
+      ],
+      "searchIntents": [
+        "IA para crear formación, quiz y slides desde materiales internos",
+        "aplicaciones IA para formación y memoria interna",
+        "cómo usar IA en empresa para crear formación, quiz y slides desde materiales internos"
+      ],
+      "needSignals": [
+        "conocimiento crítico concentrado en pocas personas",
+        "documentos dispersos y difíciles de consultar"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan manuales y material formativo para producir faq y respuestas y apoyar formación más rápida, con revisión humana recomendada.",
+      "privacyNotes": "Usar datos autorizados, minimizar información personal y mantener revisión humana sobre outputs relevantes.",
+      "humanReview": "recomendada",
+      "humanReviewCode": "recommended",
+      "riskLevel": "bajo",
+      "riskLevelCode": "low",
+      "tags": [
+        "formazione",
+        "quiz",
+        "slide"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#internal-training-assets",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Crear formación, quiz y slides desde materiales internos",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Crear formación, quiz y slides desde materiales internos",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "company-memory-assistants",
+      "locale": "es",
+      "language": "es",
+      "area": "training",
+      "areaLabel": "Formación y memoria interna",
+      "title": "Construir asistentes para memoria empresarial",
+      "description": "La documentación interna alimenta asistentes Q&A, incluso vocales, con fuentes y límites claros.",
+      "input": [
+        "documentación interna",
+        "manuales y material formativo",
+        "políticas y guías"
+      ],
+      "output": [
+        "búsqueda semántica",
+        "FAQ y respuestas",
+        "políticas y guardrails"
+      ],
+      "businessValue": [
+        "conocimiento transferible",
+        "servicio más uniforme",
+        "reducción de tiempos"
+      ],
+      "relatedServiceIds": [
+        "technical-software-development"
+      ],
+      "relatedServices": [
+        {
+          "id": "technical-software-development",
+          "title": "Software técnico de IA",
+          "url": "https://ar-tik.com/es/desarrollo-software-tecnico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "rag-engineering",
+        "embeddings",
+        "secure-ai-at-work"
+      ],
+      "relatedCourses": [
+        {
+          "id": "rag-engineering",
+          "title": "RAG Engineering para sistemas AI fiables",
+          "url": "https://ar-tik.com/es/cursos/rag-engineering.html"
+        },
+        {
+          "id": "embeddings",
+          "title": "Búsqueda semántica y bases de conocimiento AI",
+          "url": "https://ar-tik.com/es/cursos/embeddings.html"
+        },
+        {
+          "id": "secure-ai-at-work",
+          "title": "Secure AI at Work",
+          "url": "https://ar-tik.com/es/cursos/secure-ai-at-work.html"
+        }
+      ],
+      "applicableSectors": [
+        "funciones empresariales transversales",
+        "manufactura",
+        "formación y organizaciones intensivas en conocimiento"
+      ],
+      "searchIntents": [
+        "IA para construir asistentes para memoria empresarial",
+        "aplicaciones IA para formación y memoria interna",
+        "cómo usar IA en empresa para construir asistentes para memoria empresarial"
+      ],
+      "needSignals": [
+        "conocimiento crítico concentrado en pocas personas",
+        "documentos dispersos y difíciles de consultar"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan documentación interna para producir búsqueda semántica y apoyar conocimiento transferible, con revisión humana obligatoria.",
+      "privacyNotes": "Usar datos autorizados, minimizar información personal y mantener revisión humana sobre outputs relevantes.",
+      "humanReview": "obligatoria",
+      "humanReviewCode": "required",
+      "riskLevel": "medio",
+      "riskLevelCode": "medium",
+      "tags": [
+        "assistenti",
+        "memoria",
+        "knowledge"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#company-memory-assistants",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Construir asistentes para memoria empresarial",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Construir asistentes para memoria empresarial",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "executive-reports-visual-assets",
+      "locale": "es",
+      "language": "es",
+      "area": "transversal",
+      "areaLabel": "Herramientas transversales",
+      "title": "Producir informes ejecutivos y activos visuales",
+      "description": "Datos, KPI y materiales heterogéneos se transforman en informes narrativos, infografías y presentaciones.",
+      "input": [
+        "KPI y series históricas",
+        "hojas de cálculo",
+        "documentación interna"
+      ],
+      "output": [
+        "informe operativo",
+        "dashboards y vistas filtrables",
+        "borradores controlados"
+      ],
+      "businessValue": [
+        "decisiones más rápidas",
+        "trazabilidad",
+        "valor comercial recuperado"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-output-quality",
+        "ai-brand-voice"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-output-quality",
+          "title": "AI Output Quality & Human Review",
+          "url": "https://ar-tik.com/es/cursos/ai-output-quality.html"
+        },
+        {
+          "id": "ai-brand-voice",
+          "title": "AI Brand Voice y comunicación",
+          "url": "https://ar-tik.com/es/cursos/ai-brand-voice.html"
+        }
+      ],
+      "applicableSectors": [
+        "funciones empresariales transversales"
+      ],
+      "searchIntents": [
+        "IA para producir informes ejecutivos y activos visuales",
+        "aplicaciones IA para herramientas transversales",
+        "cómo usar IA en empresa para producir informes ejecutivos y activos visuales"
+      ],
+      "needSignals": [
+        "datos históricos disponibles pero no convertidos en señales",
+        "copias manuales entre emails, hojas y sistemas"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan kpi y series históricas para producir informe operativo y apoyar decisiones más rápidas, con revisión humana recomendada.",
+      "privacyNotes": "Usar datos autorizados, minimizar información personal y mantener revisión humana sobre outputs relevantes.",
+      "humanReview": "recomendada",
+      "humanReviewCode": "recommended",
+      "riskLevel": "bajo",
+      "riskLevelCode": "low",
+      "tags": [
+        "report",
+        "visual",
+        "executive"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#executive-reports-visual-assets",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Producir informes ejecutivos y activos visuales",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Producir informes ejecutivos y activos visuales",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "predictive-maintenance-anomalies",
+      "locale": "es",
+      "language": "es",
+      "area": "data",
+      "areaLabel": "Data science y decisiones",
+      "title": "Detectar anomalías y degradación en maquinaria",
+      "description": "Series temporales y sensores industriales se usan para alertas, degradación y mantenimiento predictivo.",
+      "input": [
+        "sensores y telemetría",
+        "datos de producción",
+        "KPI y series históricas"
+      ],
+      "output": [
+        "alertas y umbrales",
+        "previsión verificable",
+        "dashboards y vistas filtrables"
+      ],
+      "businessValue": [
+        "eficiencia productiva",
+        "costes evitados",
+        "reducción de riesgo"
+      ],
+      "relatedServiceIds": [
+        "agentic-data-analysis",
+        "technical-software-development"
+      ],
+      "relatedServices": [
+        {
+          "id": "agentic-data-analysis",
+          "title": "Análisis de datos agéntico",
+          "url": "https://ar-tik.com/es/analisis-datos-agentico.html"
+        },
+        {
+          "id": "technical-software-development",
+          "title": "Software técnico de IA",
+          "url": "https://ar-tik.com/es/desarrollo-software-tecnico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-business-case-roi",
+        "ai-operations"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-business-case-roi",
+          "title": "AI Business Case & ROI Sprint",
+          "url": "https://ar-tik.com/es/cursos/ai-business-case-roi.html"
+        },
+        {
+          "id": "ai-operations",
+          "title": "AI Operations",
+          "url": "https://ar-tik.com/es/cursos/ai-operations.html"
+        }
+      ],
+      "applicableSectors": [
+        "manufactura",
+        "logística y supply chain"
+      ],
+      "searchIntents": [
+        "IA para detectar anomalías y degradación en maquinaria",
+        "aplicaciones IA para data science y decisiones",
+        "cómo usar IA en empresa para detectar anomalías y degradación en maquinaria"
+      ],
+      "needSignals": [
+        "datos históricos disponibles pero no convertidos en señales",
+        "planificación todavía muy manual"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan sensores y telemetría para producir alertas y umbrales y apoyar eficiencia productiva, con revisión humana obligatoria.",
+      "privacyNotes": "Tratar código, pliegos, datos industriales e imágenes operativas como propiedad intelectual; publicar solo ejemplos anonimizados.",
+      "humanReview": "obligatoria",
+      "humanReviewCode": "required",
+      "riskLevel": "medio",
+      "riskLevelCode": "medium",
+      "tags": [
+        "predittiva",
+        "anomaly",
+        "macchine"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#predictive-maintenance-anomalies",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Detectar anomalías y degradación en maquinaria",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Detectar anomalías y degradación en maquinaria",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "customer-segmentation-churn-crosssell",
+      "locale": "es",
+      "language": "es",
+      "area": "data",
+      "areaLabel": "Data science y decisiones",
+      "title": "Segmentar clientes, churn y cross-selling",
+      "description": "Históricos transaccionales y de comportamiento se convierten en segmentos, riesgo y acciones comerciales.",
+      "input": [
+        "transacciones y compras",
+        "feedback textual",
+        "KPI y series históricas"
+      ],
+      "output": [
+        "ranking de prioridad",
+        "recomendaciones operativas",
+        "business case"
+      ],
+      "businessValue": [
+        "valor comercial recuperado",
+        "prioridades más claras",
+        "servicio más uniforme"
+      ],
+      "relatedServiceIds": [
+        "agentic-data-analysis"
+      ],
+      "relatedServices": [
+        {
+          "id": "agentic-data-analysis",
+          "title": "Análisis de datos agéntico",
+          "url": "https://ar-tik.com/es/analisis-datos-agentico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-vendite",
+        "ai-business-case-roi"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-vendite",
+          "title": "Curso AI: venta B2C y B2B con AI",
+          "url": "https://ar-tik.com/es/cursos/ai-vendite.html"
+        },
+        {
+          "id": "ai-business-case-roi",
+          "title": "AI Business Case & ROI Sprint",
+          "url": "https://ar-tik.com/es/cursos/ai-business-case-roi.html"
+        }
+      ],
+      "applicableSectors": [
+        "retail y e-commerce",
+        "finanzas, control y servicios regulados"
+      ],
+      "searchIntents": [
+        "IA para segmentar clientes, churn y cross-selling",
+        "aplicaciones IA para data science y decisiones",
+        "cómo usar IA en empresa para segmentar clientes, churn y cross-selling"
+      ],
+      "needSignals": [
+        "datos históricos disponibles pero no convertidos en señales",
+        "feedback abundante pero no analizado"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan transacciones y compras para producir ranking de prioridad y apoyar valor comercial recuperado, con revisión humana obligatoria.",
+      "privacyNotes": "Requiere anonimización, control de accesos y revisión especializada cuando toca datos personales, legales, RR. HH. o regulados.",
+      "humanReview": "obligatoria",
+      "humanReviewCode": "required",
+      "riskLevel": "medio",
+      "riskLevelCode": "medium",
+      "tags": [
+        "segmentazione",
+        "churn",
+        "cross-sell"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#customer-segmentation-churn-crosssell",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Segmentar clientes, churn y cross-selling",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Segmentar clientes, churn y cross-selling",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "energy-line-optimization",
+      "locale": "es",
+      "language": "es",
+      "area": "data",
+      "areaLabel": "Data science y decisiones",
+      "title": "Optimizar energía, calidad y rendimiento de línea",
+      "description": "Telemetría, consumos, calidad y parámetros máquina revelan perfiles eficientes y desperdicios.",
+      "input": [
+        "sensores y telemetría",
+        "datos de producción",
+        "KPI y series históricas"
+      ],
+      "output": [
+        "dashboards y vistas filtrables",
+        "recomendaciones operativas",
+        "business case"
+      ],
+      "businessValue": [
+        "eficiencia productiva",
+        "costes evitados",
+        "decisiones más rápidas"
+      ],
+      "relatedServiceIds": [
+        "agentic-data-analysis"
+      ],
+      "relatedServices": [
+        {
+          "id": "agentic-data-analysis",
+          "title": "Análisis de datos agéntico",
+          "url": "https://ar-tik.com/es/analisis-datos-agentico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-business-case-roi",
+        "ai-quality-management"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-business-case-roi",
+          "title": "AI Business Case & ROI Sprint",
+          "url": "https://ar-tik.com/es/cursos/ai-business-case-roi.html"
+        },
+        {
+          "id": "ai-quality-management",
+          "title": "AI para calidad y no conformidades",
+          "url": "https://ar-tik.com/es/cursos/ai-quality-management.html"
+        }
+      ],
+      "applicableSectors": [
+        "manufactura"
+      ],
+      "searchIntents": [
+        "IA para optimizar energía, calidad y rendimiento de línea",
+        "aplicaciones IA para data science y decisiones",
+        "cómo usar IA en empresa para optimizar energía, calidad y rendimiento de línea"
+      ],
+      "needSignals": [
+        "datos históricos disponibles pero no convertidos en señales",
+        "errores recurrentes en documentos, procedimientos o controles"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan sensores y telemetría para producir dashboards y vistas filtrables y apoyar eficiencia productiva, con revisión humana obligatoria.",
+      "privacyNotes": "Tratar código, pliegos, datos industriales e imágenes operativas como propiedad intelectual; publicar solo ejemplos anonimizados.",
+      "humanReview": "obligatoria",
+      "humanReviewCode": "required",
+      "riskLevel": "medio",
+      "riskLevelCode": "medium",
+      "tags": [
+        "energia",
+        "qualita",
+        "linea"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#energy-line-optimization",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Optimizar energía, calidad y rendimiento de línea",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Optimizar energía, calidad y rendimiento de línea",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "territorial-profitability-analytics",
+      "locale": "es",
+      "language": "es",
+      "area": "data",
+      "areaLabel": "Data science y decisiones",
+      "title": "Analizar territorios, rentabilidad y tendencias",
+      "description": "Datos fiscales, territoriales o comerciales agregados se convierten en mapas, clusters y drivers de margen.",
+      "input": [
+        "transacciones y compras",
+        "fuentes públicas",
+        "KPI y series históricas"
+      ],
+      "output": [
+        "dashboards y vistas filtrables",
+        "informe operativo",
+        "business case"
+      ],
+      "businessValue": [
+        "decisiones más rápidas",
+        "prioridades más claras",
+        "valor comercial recuperado"
+      ],
+      "relatedServiceIds": [
+        "agentic-data-analysis"
+      ],
+      "relatedServices": [
+        {
+          "id": "agentic-data-analysis",
+          "title": "Análisis de datos agéntico",
+          "url": "https://ar-tik.com/es/analisis-datos-agentico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-business-case-roi"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-business-case-roi",
+          "title": "AI Business Case & ROI Sprint",
+          "url": "https://ar-tik.com/es/cursos/ai-business-case-roi.html"
+        }
+      ],
+      "applicableSectors": [
+        "entidades públicas y territorio",
+        "retail y e-commerce",
+        "finanzas, control y servicios regulados"
+      ],
+      "searchIntents": [
+        "IA para analizar territorios, rentabilidad y tendencias",
+        "aplicaciones IA para data science y decisiones",
+        "cómo usar IA en empresa para analizar territorios, rentabilidad y tendencias"
+      ],
+      "needSignals": [
+        "datos históricos disponibles pero no convertidos en señales",
+        "decisiones recurrentes lentas o basadas en información incompleta"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan transacciones y compras para producir dashboards y vistas filtrables y apoyar decisiones más rápidas, con revisión humana recomendada.",
+      "privacyNotes": "Usar datos autorizados, minimizar información personal y mantener revisión humana sobre outputs relevantes.",
+      "humanReview": "recomendada",
+      "humanReviewCode": "recommended",
+      "riskLevel": "medio",
+      "riskLevelCode": "medium",
+      "tags": [
+        "territorio",
+        "redditivita",
+        "trend"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#territorial-profitability-analytics",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Analizar territorios, rentabilidad y tendencias",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Analizar territorios, rentabilidad y tendencias",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "data-quality-go-no-go",
+      "locale": "es",
+      "language": "es",
+      "area": "data",
+      "areaLabel": "Data science y decisiones",
+      "title": "Saber cuándo no construir un modelo",
+      "description": "El primer valor puede ser un veredicto negativo: el dato disponible aún no contiene la señal útil.",
+      "input": [
+        "KPI y series históricas",
+        "transacciones y compras",
+        "logs y estados de proceso"
+      ],
+      "output": [
+        "informe operativo",
+        "business case",
+        "roadmap y prioridades"
+      ],
+      "businessValue": [
+        "costes evitados",
+        "prioridades más claras",
+        "trazabilidad"
+      ],
+      "relatedServiceIds": [
+        "agentic-data-analysis"
+      ],
+      "relatedServices": [
+        {
+          "id": "agentic-data-analysis",
+          "title": "Análisis de datos agéntico",
+          "url": "https://ar-tik.com/es/analisis-datos-agentico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "ai-business-case-roi"
+      ],
+      "relatedCourses": [
+        {
+          "id": "ai-business-case-roi",
+          "title": "AI Business Case & ROI Sprint",
+          "url": "https://ar-tik.com/es/cursos/ai-business-case-roi.html"
+        }
+      ],
+      "applicableSectors": [
+        "funciones empresariales transversales"
+      ],
+      "searchIntents": [
+        "IA para saber cuándo no construir un modelo",
+        "aplicaciones IA para data science y decisiones",
+        "cómo usar IA en empresa para saber cuándo no construir un modelo"
+      ],
+      "needSignals": [
+        "datos históricos disponibles pero no convertidos en señales",
+        "decisiones recurrentes lentas o basadas en información incompleta"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan kpi y series históricas para producir informe operativo y apoyar costes evitados, con revisión humana recomendada.",
+      "privacyNotes": "Usar datos autorizados, minimizar información personal y mantener revisión humana sobre outputs relevantes.",
+      "humanReview": "recomendada",
+      "humanReviewCode": "recommended",
+      "riskLevel": "bajo",
+      "riskLevelCode": "low",
+      "tags": [
+        "go-no-go",
+        "dati",
+        "fattibilita"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#data-quality-go-no-go",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Saber cuándo no construir un modelo",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Saber cuándo no construir un modelo",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    },
+    {
+      "id": "creative-rnd-discovery",
+      "locale": "es",
+      "language": "es",
+      "area": "transversal",
+      "areaLabel": "Herramientas transversales",
+      "title": "Usar la IA como laboratorio de descubrimiento",
+      "description": "Casos, materiales y restricciones se exploran para generar hipótesis, escenarios, conceptos y oportunidades.",
+      "input": [
+        "documentación interna",
+        "feedback textual",
+        "fuentes públicas"
+      ],
+      "output": [
+        "informe operativo",
+        "recomendaciones operativas",
+        "borradores controlados"
+      ],
+      "businessValue": [
+        "valor comercial recuperado",
+        "prioridades más claras",
+        "decisiones más rápidas"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "workflow-redesign",
+        "ai-output-quality",
+        "ai-brand-voice"
+      ],
+      "relatedCourses": [
+        {
+          "id": "workflow-redesign",
+          "title": "AI Workflow Redesign Lab",
+          "url": "https://ar-tik.com/es/cursos/workflow-redesign.html"
+        },
+        {
+          "id": "ai-output-quality",
+          "title": "AI Output Quality & Human Review",
+          "url": "https://ar-tik.com/es/cursos/ai-output-quality.html"
+        },
+        {
+          "id": "ai-brand-voice",
+          "title": "AI Brand Voice y comunicación",
+          "url": "https://ar-tik.com/es/cursos/ai-brand-voice.html"
+        }
+      ],
+      "applicableSectors": [
+        "funciones empresariales transversales"
+      ],
+      "searchIntents": [
+        "IA para usar la IA como laboratorio de descubrimiento",
+        "aplicaciones IA para herramientas transversales",
+        "cómo usar IA en empresa para usar la IA como laboratorio de descubrimiento"
+      ],
+      "needSignals": [
+        "decisiones recurrentes lentas o basadas en información incompleta",
+        "feedback abundante pero no analizado"
+      ],
+      "operationalExample": "Cuando el proceso muestra una necesidad similar, se usan documentación interna para producir informe operativo y apoyar valor comercial recuperado, con revisión humana recomendada.",
+      "privacyNotes": "Usar datos autorizados, minimizar información personal y mantener revisión humana sobre outputs relevantes.",
+      "humanReview": "recomendada",
+      "humanReviewCode": "recommended",
+      "riskLevel": "bajo",
+      "riskLevelCode": "low",
+      "tags": [
+        "discovery",
+        "creativita",
+        "scenari"
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html#creative-rnd-discovery",
+        "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md#Usar la IA como laboratorio de descubrimiento",
+        "dossier": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md#Usar la IA como laboratorio de descubrimiento",
+        "json": "https://ar-tik.com/data/ai-applications.es.json"
+      }
+    }
+  ]
+}
