@@ -44,7 +44,7 @@
     };
   </script>
   <script src="https://unpkg.com/lucide@1.23.0/dist/umd/lucide.min.js"></script>
-  <link rel="stylesheet" href="/css/custom.css?v=20260702-type-scale-compact">
+  <link rel="stylesheet" href="/css/custom.css?v=20260708-value-calc">
   <script type="application/ld+json">{
   "@context": "https://schema.org",
   "@graph": [
@@ -227,7 +227,7 @@
   <div class="hero-overlay"></div>
   <div class="shell hero-content">
     <p class="eyebrow light">Consultoría de IA para pymes italianas</p>
-    <h1>Consultoría, cursos y software de IA para transformar procesos empresariales en resultados medibles.</h1>
+    <h1>Consultoría, cursos y software de IA para reducir costes y retrasos en las decisiones, con resultados medibles.</h1>
     <p class="hero-lead">Artik Lab ayuda a pymes y funciones empresariales a elegir, gobernar y realizar el primer uso útil de la IA: mapa de procesos, business case, formación de equipos, análisis de datos y prototipos controlados.</p>
     <div class="button-row">
       <a class="button primary" href="#contatti">Hablar de un proceso</a>
@@ -243,7 +243,7 @@
     </div>
     <p class="large-text">No se compra una licencia esperando que funcione. Se elige un proceso, se mide el coste, se define el KPI y se decide si formar, rediseñar o construir.</p>
   </div>
-  <div class="shell metrics-grid"><div class="metric"><strong>95%</strong><span>de los proyectos de IA enterprise no genera el retorno esperado cuando falta gobernanza directiva.</span></div><div class="metric"><strong>70%</strong><span>del valor de la IA depende de personas, procesos y cambio organizativo.</span></div><div class="metric"><strong>25</strong><span>cursos y laboratorios llevan competencias AI a procesos empresariales específicos.</span></div><div class="metric"><strong>5</strong><span>idiomas publicados con contenido legible por personas, motores de búsqueda y agentes de IA.</span></div></div>
+  <div class="shell metrics-grid"><div class="metric"><strong>95%</strong><span>de los proyectos de IA enterprise no genera el retorno esperado cuando falta gobernanza directiva.</span></div><div class="metric"><strong>70%</strong><span>del valor de la IA depende de personas, procesos y cambio organizativo.</span></div><div class="metric"><strong>25</strong><span>cursos y laboratorios llevan competencias AI a procesos empresariales específicos.</span></div><div class="metric"><strong>67%</strong><span>de éxito en los proyectos de IA confiados a un socio externo especializado, el doble de los desarrollados internamente (33%).</span></div></div>
 </section>
 <section class="section asset-section">
   <div class="shell asset-board">
@@ -325,6 +325,41 @@
   </div>
 </article></div>
 </section>
+<section id="valore" class="section paper-section calc-section">
+  <div class="shell section-heading">
+    <p class="eyebrow">Business case</p>
+    <h2>¿Cuánto cuesta cada año el tiempo dedicado a una tarea repetitiva?</h2>
+    <p>Una estimación rápida para abrir el business case: el coste anual del tiempo dedicado a una tarea manual y cuánto se puede liberar con la IA. Es un orden de magnitud según los valores introducidos, no una promesa de resultados.</p>
+  </div>
+  <div class="shell calc-grid" data-value-calculator data-locale="es-ES" data-currency="EUR" data-weeks="45">
+    <form class="calc-form" novalidate>
+      <label>Personas que realizan la tarea
+        <input type="number" name="people" min="0" step="1" value="4" inputmode="numeric">
+      </label>
+      <label>Horas por semana y persona
+        <input type="number" name="hours" min="0" step="0.5" value="6" inputmode="decimal">
+      </label>
+      <label>Coste medio por hora (€)
+        <input type="number" name="rate" min="0" step="1" value="30" inputmode="decimal">
+      </label>
+      <label>Parte del tiempo liberable con la IA
+        <select name="share">
+          <option value="0.2">20% — apoyo puntual</option>
+          <option value="0.3" selected>30% — automatización parcial</option>
+          <option value="0.5">50% — rediseño del flujo</option>
+        </select>
+      </label>
+    </form>
+    <div class="calc-result" aria-live="polite">
+      <p class="calc-figure-label">Coste anual del tiempo dedicado</p>
+      <p class="calc-figure" data-calc-cost>—</p>
+      <p class="calc-figure-label accent">Valor liberable cada año con la IA</p>
+      <p class="calc-figure accent" data-calc-save>—</p>
+      <p class="calc-disclaimer">Estimación indicativa según los valores introducidos, sobre 45 semanas laborables. No es una previsión de resultados ni un presupuesto.</p>
+      <a class="button primary compact" href="#contatti">Validar el business case</a>
+    </div>
+  </div>
+</section>
 <section class="section split-highlight">
   <div class="shell two-column">
     <div>
@@ -374,6 +409,30 @@
     </div>
   </div>
 </section>
+<section class="section proof-section">
+  <div class="shell section-heading">
+    <p class="eyebrow">Resultados</p>
+    <h2>Resultados medibles, declarados con sus límites.</h2>
+    <p>Ejemplos reales y anónimos del análisis de datos agéntico: cada caso parte de los datos ya disponibles, lleva a una decisión y declara su propio límite.</p>
+  </div>
+  <div class="shell proof-grid">
+    <a class="metric proof-metric" href="/es/analisis-datos-agentico.html">
+      <em class="proof-domain">Hostelería</em>
+      <strong>8 de cada 10</strong>
+      <span>cancelaciones detectadas ya en el momento de la reserva, sobre más de 119.000 reservas analizadas.</span>
+    </a>
+    <a class="metric proof-metric" href="/es/analisis-datos-agentico.html">
+      <em class="proof-domain">Energía</em>
+      <strong>−77%</strong>
+      <span>de error en la previsión de la demanda frente a la regla de referencia.</span>
+    </a>
+    <a class="metric proof-metric" href="/es/analisis-datos-agentico.html">
+      <em class="proof-domain">Última milla</em>
+      <strong>41 → 17 min</strong>
+      <span>de error medio en la ventana de entrega prometida al cliente.</span>
+    </a>
+  </div>
+</section>
 <section id="contatti" class="section contact-section">
   <div class="shell contact-grid">
     <div>
@@ -417,6 +476,6 @@
     <p>© 2026 Artik Lab s.r.l. Tutti i diritti riservati.</p>
   </div>
 </footer>
-<script src="/js/main.js?v=20260702-type-scale-compact"></script>
+<script src="/js/main.js?v=20260708-value-calc"></script>
 </body>
 </html>

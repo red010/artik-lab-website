@@ -1,4 +1,4 @@
-# Conseil, cours et logiciels IA pour transformer les processus métier en résultats mesurables.
+# Conseil, cours et logiciels IA pour réduire les coûts et les retards de décision, avec des résultats mesurables.
 
 Artik Lab aide PME et fonctions métier à choisir, gouverner et réaliser le premier usage utile de l'IA: cartographie des processus, business case, formation des équipes, analyse de données et prototypes contrôlés.
 

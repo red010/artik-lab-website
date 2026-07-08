@@ -44,7 +44,7 @@
     };
   </script>
   <script src="https://unpkg.com/lucide@1.23.0/dist/umd/lucide.min.js"></script>
-  <link rel="stylesheet" href="/css/custom.css?v=20260702-type-scale-compact">
+  <link rel="stylesheet" href="/css/custom.css?v=20260708-value-calc">
   <script type="application/ld+json">{
   "@context": "https://schema.org",
   "@graph": [
@@ -227,7 +227,7 @@
   <div class="hero-overlay"></div>
   <div class="shell hero-content">
     <p class="eyebrow light">AI consulting for Italian SMEs</p>
-    <h1>AI consulting, courses and software to turn business processes into measurable results.</h1>
+    <h1>AI consulting, courses and software to reduce costs and decision delays, with measurable results.</h1>
     <p class="hero-lead">Artik Lab helps SMEs and business functions choose, govern and deliver the first useful use of AI: process mapping, business cases, team training, data analysis and controlled prototypes.</p>
     <div class="button-row">
       <a class="button primary" href="#contatti">Discuss a process</a>
@@ -243,7 +243,7 @@
     </div>
     <p class="large-text">Do not buy a license and hope it works. Choose a process, measure its cost, define the KPI, then decide whether to train, redesign or build.</p>
   </div>
-  <div class="shell metrics-grid"><div class="metric"><strong>95%</strong><span>of enterprise AI projects fail to produce expected economic return when managerial governance is missing.</span></div><div class="metric"><strong>70%</strong><span>of AI value depends on people, processes and organisational change.</span></div><div class="metric"><strong>25</strong><span>courses and labs bring AI capability into specific business processes.</span></div><div class="metric"><strong>5</strong><span>published languages with content readable by people, search engines and AI agents.</span></div></div>
+  <div class="shell metrics-grid"><div class="metric"><strong>95%</strong><span>of enterprise AI projects fail to produce expected economic return when managerial governance is missing.</span></div><div class="metric"><strong>70%</strong><span>of AI value depends on people, processes and organisational change.</span></div><div class="metric"><strong>25</strong><span>courses and labs bring AI capability into specific business processes.</span></div><div class="metric"><strong>67%</strong><span>success rate for AI projects entrusted to a specialised external partner, double the in-house rate (33%).</span></div></div>
 </section>
 <section class="section asset-section">
   <div class="shell asset-board">
@@ -318,6 +318,41 @@
   </div>
 </article></div>
 </section>
+<section id="valore" class="section paper-section calc-section">
+  <div class="shell section-heading">
+    <p class="eyebrow">Business case</p>
+    <h2>How much does the time spent on a repetitive task cost each year?</h2>
+    <p>A quick estimate to open the business case: the annual cost of time spent on a manual task, and how much of it AI can free up. It is an order of magnitude based on the values entered, not a promise of results.</p>
+  </div>
+  <div class="shell calc-grid" data-value-calculator data-locale="en-GB" data-currency="EUR" data-weeks="45">
+    <form class="calc-form" novalidate>
+      <label>People who perform the task
+        <input type="number" name="people" min="0" step="1" value="4" inputmode="numeric">
+      </label>
+      <label>Hours per week per person
+        <input type="number" name="hours" min="0" step="0.5" value="6" inputmode="decimal">
+      </label>
+      <label>Average hourly cost (€)
+        <input type="number" name="rate" min="0" step="1" value="30" inputmode="decimal">
+      </label>
+      <label>Share of time AI can free up
+        <select name="share">
+          <option value="0.2">20% — targeted support</option>
+          <option value="0.3" selected>30% — partial automation</option>
+          <option value="0.5">50% — workflow redesign</option>
+        </select>
+      </label>
+    </form>
+    <div class="calc-result" aria-live="polite">
+      <p class="calc-figure-label">Annual cost of time spent</p>
+      <p class="calc-figure" data-calc-cost>—</p>
+      <p class="calc-figure-label accent">Value freed up each year with AI</p>
+      <p class="calc-figure accent" data-calc-save>—</p>
+      <p class="calc-disclaimer">Indicative estimate based on the values entered, over 45 working weeks. Not a forecast of results or a quote.</p>
+      <a class="button primary compact" href="#contatti">Validate the business case</a>
+    </div>
+  </div>
+</section>
 <section class="section split-highlight">
   <div class="shell two-column">
     <div>
@@ -367,6 +402,30 @@
     </div>
   </div>
 </section>
+<section class="section proof-section">
+  <div class="shell section-heading">
+    <p class="eyebrow">Results</p>
+    <h2>Measurable results, stated with their limits.</h2>
+    <p>Real, anonymised examples from agentic data analysis: each case starts from data already available, leads to a decision and states its own limit.</p>
+  </div>
+  <div class="shell proof-grid">
+    <a class="metric proof-metric" href="/en/agentic-data-analysis.html">
+      <em class="proof-domain">Hospitality</em>
+      <strong>8 out of 10</strong>
+      <span>cancellations flagged at booking time, across more than 119,000 bookings analysed.</span>
+    </a>
+    <a class="metric proof-metric" href="/en/agentic-data-analysis.html">
+      <em class="proof-domain">Energy</em>
+      <strong>−77%</strong>
+      <span>forecasting error on demand compared with the baseline rule.</span>
+    </a>
+    <a class="metric proof-metric" href="/en/agentic-data-analysis.html">
+      <em class="proof-domain">Last mile</em>
+      <strong>41 → 17 min</strong>
+      <span>average error on the delivery window promised to the customer.</span>
+    </a>
+  </div>
+</section>
 <section id="contatti" class="section contact-section">
   <div class="shell contact-grid">
     <div>
@@ -410,6 +469,6 @@
     <p>© 2026 Artik Lab s.r.l. Tutti i diritti riservati.</p>
   </div>
 </footer>
-<script src="/js/main.js?v=20260702-type-scale-compact"></script>
+<script src="/js/main.js?v=20260708-value-calc"></script>
 </body>
 </html>

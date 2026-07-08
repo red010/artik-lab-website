@@ -1,4 +1,4 @@
-# AI consulting, courses and software to turn business processes into measurable results.
+# AI consulting, courses and software to reduce costs and decision delays, with measurable results.
 
 Artik Lab helps SMEs and business functions choose, govern and deliver the first useful use of AI: process mapping, business cases, team training, data analysis and controlled prototypes.
 

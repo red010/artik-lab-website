@@ -19937,7 +19937,7 @@ No. The course is built around practical exercises and decisions close to real w
 
 <!-- https://ar-tik.com/en/index.md -->
 
-# AI consulting, courses and software to turn business processes into measurable results.
+# AI consulting, courses and software to reduce costs and decision delays, with measurable results.
 
 Artik Lab helps SMEs and business functions choose, govern and deliver the first useful use of AI: process mapping, business cases, team training, data analysis and controlled prototypes.
 
@@ -28527,7 +28527,7 @@ El proyecto trabaja con perímetros, accesos, datos y materiales acordados. Los 
 
 <!-- https://ar-tik.com/es/index.md -->
 
-# Consultoría, cursos y software de IA para transformar procesos empresariales en resultados medibles.
+# Consultoría, cursos y software de IA para reducir costes y retrasos en las decisiones, con resultados medibles.
 
 Artik Lab ayuda a pymes y funciones empresariales a elegir, gobernar y realizar el primer uso útil de la IA: mapa de procesos, business case, formación de equipos, análisis de datos y prototipos controlados.
 
@@ -38763,7 +38763,7 @@ Le projet travaille avec périmètres, accès, données et matériaux convenus. 
 
 <!-- https://ar-tik.com/fr/index.md -->
 
-# Conseil, cours et logiciels IA pour transformer les processus métier en résultats mesurables.
+# Conseil, cours et logiciels IA pour réduire les coûts et les retards de décision, avec des résultats mesurables.
 
 Artik Lab aide PME et fonctions métier à choisir, gouverner et réaliser le premier usage utile de l'IA: cartographie des processus, business case, formation des équipes, analyse de données et prototypes contrôlés.
 
@@ -40670,7 +40670,7 @@ Pour démarrer, réunir un processus à améliorer, un exemple de matériau ou d
 
 <!-- https://ar-tik.com/index.md -->
 
-# Consulenza, corsi e software AI per trasformare processi aziendali in risultati misurabili.
+# Consulenza, corsi e software AI per ridurre costi e ritardi decisionali, con risultati misurabili.
 
 Artik Lab aiuta PMI e funzioni aziendali a scegliere, governare e realizzare il primo uso utile dell'AI: mappatura dei processi, business case, formazione dei team, analisi dati e prototipi controllati.
 
@@ -49093,7 +49093,7 @@ O projeto trabalha com perímetros, acessos, dados e materiais acordados. Os exe
 
 <!-- https://ar-tik.com/pt-br/index.md -->
 
-# Consultoria, cursos e software de IA para transformar processos empresariais em resultados mensuráveis.
+# Consultoria, cursos e software de IA para reduzir custos e atrasos nas decisões, com resultados mensuráveis.
 
 A Artik Lab ajuda PMEs e áreas de negócio a escolher, governar e realizar o primeiro uso útil da IA: mapa de processos, business case, treinamento de equipes, análise de dados e protótipos controlados.
 

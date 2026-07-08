@@ -211,4 +211,38 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   });
   setupPairedDetailGrid('.faq-repertoire-grid', '.faq-card');
+
+  document.querySelectorAll('[data-value-calculator]').forEach(function (calc) {
+    var locale = calc.getAttribute('data-locale') || 'it-IT';
+    var currency = calc.getAttribute('data-currency') || 'EUR';
+    var weeks = parseFloat(calc.getAttribute('data-weeks')) || 45;
+    var costOut = calc.querySelector('[data-calc-cost]');
+    var saveOut = calc.querySelector('[data-calc-save]');
+    var fields = Array.prototype.slice.call(calc.querySelectorAll('input, select'));
+    var formatter;
+    try {
+      formatter = new Intl.NumberFormat(locale, { style: 'currency', currency: currency, maximumFractionDigits: 0, useGrouping: 'always' });
+    } catch (error) {
+      formatter = new Intl.NumberFormat('it-IT', { style: 'currency', currency: 'EUR', maximumFractionDigits: 0, useGrouping: 'always' });
+    }
+
+    function value(name) {
+      var field = calc.querySelector('[name="' + name + '"]');
+      var parsed = field ? parseFloat(field.value) : 0;
+      return isNaN(parsed) || parsed < 0 ? 0 : parsed;
+    }
+
+    function update() {
+      var annualCost = value('people') * value('hours') * weeks * value('rate');
+      var recoverable = annualCost * value('share');
+      if (costOut) costOut.textContent = formatter.format(Math.round(annualCost));
+      if (saveOut) saveOut.textContent = formatter.format(Math.round(recoverable));
+    }
+
+    fields.forEach(function (field) {
+      field.addEventListener('input', update);
+      field.addEventListener('change', update);
+    });
+    update();
+  });
 });

@@ -1,4 +1,4 @@
-# Consultoría, cursos y software de IA para transformar procesos empresariales en resultados medibles.
+# Consultoría, cursos y software de IA para reducir costes y retrasos en las decisiones, con resultados medibles.
 
 Artik Lab ayuda a pymes y funciones empresariales a elegir, gobernar y realizar el primer uso útil de la IA: mapa de procesos, business case, formación de equipos, análisis de datos y prototipos controlados.
 

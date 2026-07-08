@@ -1,4 +1,4 @@
-# Consulenza, corsi e software AI per trasformare processi aziendali in risultati misurabili.
+# Consulenza, corsi e software AI per ridurre costi e ritardi decisionali, con risultati misurabili.
 
 Artik Lab aiuta PMI e funzioni aziendali a scegliere, governare e realizzare il primo uso utile dell'AI: mappatura dei processi, business case, formazione dei team, analisi dati e prototipi controllati.
 
