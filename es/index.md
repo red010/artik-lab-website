@@ -72,9 +72,23 @@ Desarrollo de sistemas técnicos, motores de cálculo, lectores de datos heredad
 
 Página dedicada: https://ar-tik.com/es/desarrollo-software-tecnico.md
 
+## ¿Cuánto cuesta cada año el tiempo dedicado a una tarea repetitiva?
+
+La página principal incluye una calculadora de valor interactiva: a partir de cuatro datos simples (personas implicadas, horas por semana, coste medio por hora y parte del tiempo liberable con la IA) estima el coste anual del tiempo dedicado a una tarea manual y el valor liberable cada año. Es una estimación indicativa sobre 45 semanas laborables, no una previsión de resultados ni un presupuesto.
+
 ## Cursos para gobernar la IA, no para perseguir herramientas.
 
 El catálogo lleva la IA a los procesos que importan: rediseño de flujos de trabajo, decisiones directivas, gobernanza, operaciones, documentos, comunicación y sistemas técnicos.
+
+## Resultados medibles, declarados con sus límites.
+
+Ejemplos reales y anónimos del análisis de datos agéntico: cada caso parte de los datos ya disponibles, lleva a una decisión y declara su propio límite.
+
+* Hostelería: 8 de cada 10 cancelaciones detectadas ya en el momento de la reserva, sobre más de 119.000 reservas analizadas.
+* Energía: −77% de error en la previsión de la demanda frente a la regla de referencia.
+* Última milla: error medio en la ventana de entrega prometida al cliente reducido de 41 a 17 minutos.
+
+Detalles: https://ar-tik.com/es/analisis-datos-agentico.md
 
 ## Preguntas frecuentes
 

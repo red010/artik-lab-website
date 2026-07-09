@@ -20011,9 +20011,23 @@ Development of technical systems, calculation engines, legacy data readers and v
 
 Dedicated page: https://ar-tik.com/en/technical-software-development.md
 
+## How much does the time spent on a repetitive task cost each year?
+
+The homepage includes an interactive value calculator: from four simple inputs (people involved, hours per week, average hourly cost and the share of time AI can free up) it estimates the annual cost of the time spent on a manual task and the value that can be freed up each year. It is an indicative estimate over 45 working weeks, not a forecast of results or a quote.
+
 ## Courses to govern AI, not chase tools.
 
 The catalog brings AI into the workflows that matter: workflow redesign, managerial decisions, governance, operations, documents, communication and technical systems.
+
+## Measurable results, stated with their limits.
+
+Real, anonymised examples from agentic data analysis: each case starts from data already available, leads to a decision and states its own limit.
+
+* Hospitality: 8 out of 10 cancellations flagged at booking time, across more than 119,000 bookings analysed.
+* Energy: −77% forecasting error on demand compared with the baseline rule.
+* Last mile: average error on the promised delivery window reduced from 41 to 17 minutes.
+
+Details: https://ar-tik.com/en/agentic-data-analysis.md
 
 ## Frequently asked questions
 
@@ -28601,9 +28615,23 @@ Desarrollo de sistemas técnicos, motores de cálculo, lectores de datos heredad
 
 Página dedicada: https://ar-tik.com/es/desarrollo-software-tecnico.md
 
+## ¿Cuánto cuesta cada año el tiempo dedicado a una tarea repetitiva?
+
+La página principal incluye una calculadora de valor interactiva: a partir de cuatro datos simples (personas implicadas, horas por semana, coste medio por hora y parte del tiempo liberable con la IA) estima el coste anual del tiempo dedicado a una tarea manual y el valor liberable cada año. Es una estimación indicativa sobre 45 semanas laborables, no una previsión de resultados ni un presupuesto.
+
 ## Cursos para gobernar la IA, no para perseguir herramientas.
 
 El catálogo lleva la IA a los procesos que importan: rediseño de flujos de trabajo, decisiones directivas, gobernanza, operaciones, documentos, comunicación y sistemas técnicos.
+
+## Resultados medibles, declarados con sus límites.
+
+Ejemplos reales y anónimos del análisis de datos agéntico: cada caso parte de los datos ya disponibles, lleva a una decisión y declara su propio límite.
+
+* Hostelería: 8 de cada 10 cancelaciones detectadas ya en el momento de la reserva, sobre más de 119.000 reservas analizadas.
+* Energía: −77% de error en la previsión de la demanda frente a la regla de referencia.
+* Última milla: error medio en la ventana de entrega prometida al cliente reducido de 41 a 17 minutos.
+
+Detalles: https://ar-tik.com/es/analisis-datos-agentico.md
 
 ## Preguntas frecuentes
 
@@ -38837,9 +38865,23 @@ Développement de systèmes techniques, moteurs de calcul, lecteurs de données 
 
 Page dédiée: https://ar-tik.com/fr/developpement-logiciels-techniques.md
 
+## Combien coûte chaque année le temps passé sur une tâche répétitive ?
+
+La page d'accueil inclut un calculateur de valeur interactif : à partir de quatre données simples (personnes impliquées, heures par semaine, coût horaire moyen et part du temps libérable par l'IA), il estime le coût annuel du temps consacré à une tâche manuelle et la valeur libérable chaque année. C'est une estimation indicative sur 45 semaines de travail, ni une prévision de résultats ni un devis.
+
 ## Cours pour gouverner l'IA, pas pour courir après les outils.
 
 Le catalogue amène l'IA dans les processus qui comptent: refonte des flux de travail, décisions managériales, gouvernance, opérations, documents, communication et systèmes techniques.
+
+## Des résultats mesurables, énoncés avec leurs limites.
+
+Exemples réels et anonymisés de l'analyse de données agentique : chaque cas part des données déjà disponibles, mène à une décision et énonce sa propre limite.
+
+* Hôtellerie : 8 annulations sur 10 détectées dès la réservation, sur plus de 119 000 réservations analysées.
+* Énergie : −77% d'erreur de prévision de la demande par rapport à la règle de référence.
+* Dernier kilomètre : erreur moyenne sur le créneau de livraison promis au client réduite de 41 à 17 minutes.
+
+Détails : https://ar-tik.com/fr/analyse-donnees-agentique.md
 
 ## Questions fréquentes
 
@@ -40744,9 +40786,23 @@ Risposte concrete per scegliere tra consulenza, corsi, analisi dati, software te
 
 Pagina dedicata: https://ar-tik.com/domande-frequenti-ai-aziende.md
 
+## Quanto costa ogni anno il tempo speso in un'attività ripetitiva?
+
+La homepage include un calcolatore di valore interattivo: da quattro dati semplici (persone coinvolte, ore a settimana, costo orario medio e quota di tempo liberabile con l'AI) stima il costo annuo del tempo dedicato a un'attività manuale e il valore liberabile ogni anno. È una stima indicativa calcolata su 45 settimane lavorative, non una previsione di risultato né un preventivo.
+
 ## Corsi per governare l'IA, non per rincorrere tool.
 
 Il catalogo porta l'AI nei processi che contano: ridisegno dei flussi di lavoro, decisioni manageriali, governance, operations, documenti, comunicazione e sistemi tecnici.
+
+## Risultati misurabili, dichiarati con i loro limiti.
+
+Esempi reali e anonimi dall'analisi dati agentica: ogni caso parte dai dati già disponibili, porta a una decisione e dichiara il proprio limite.
+
+* Ospitalità: 8 disdette su 10 intercettate già al momento della prenotazione, su oltre 119.000 prenotazioni analizzate.
+* Energia: −77% di errore nella previsione della domanda rispetto alla regola di riferimento.
+* Ultimo miglio: errore medio sulla finestra di consegna promessa al cliente ridotto da 41 a 17 minuti.
+
+Dettagli: https://ar-tik.com/analisi-dati-agentica.md
 
 ## Domande frequenti
 
@@ -49167,9 +49223,23 @@ Desenvolvimento de sistemas técnicos, motores de cálculo, leitores de dados le
 
 Página dedicada: https://ar-tik.com/pt-br/desenvolvimento-software-tecnico.md
 
+## Quanto custa por ano o tempo gasto em uma tarefa repetitiva?
+
+A página inicial inclui uma calculadora de valor interativa: a partir de quatro dados simples (pessoas envolvidas, horas por semana, custo médio por hora e parte do tempo liberável com a IA), ela estima o custo anual do tempo dedicado a uma tarefa manual e o valor liberável a cada ano. É uma estimativa indicativa em 45 semanas úteis, não uma previsão de resultados nem um orçamento.
+
 ## Cursos para governar IA, não para perseguir ferramentas.
 
 O catálogo leva IA aos processos que importam: redesenho de fluxos de trabalho, decisões gerenciais, governança, operações, documentos, comunicação e sistemas técnicos.
+
+## Resultados mensuráveis, declarados com seus limites.
+
+Exemplos reais e anônimos da análise de dados agêntica: cada caso parte dos dados já disponíveis, leva a uma decisão e declara seu próprio limite.
+
+* Hotelaria: 8 em cada 10 cancelamentos detectados já no momento da reserva, em mais de 119.000 reservas analisadas.
+* Energia: −77% de erro na previsão da demanda em relação à regra de referência.
+* Última milha: erro médio na janela de entrega prometida ao cliente reduzido de 41 para 17 minutos.
+
+Detalhes: https://ar-tik.com/pt-br/analise-dados-agentica.md
 
 ## Perguntas frequentes
 

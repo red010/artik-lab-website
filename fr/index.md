@@ -72,9 +72,23 @@ Développement de systèmes techniques, moteurs de calcul, lecteurs de données 
 
 Page dédiée: https://ar-tik.com/fr/developpement-logiciels-techniques.md
 
+## Combien coûte chaque année le temps passé sur une tâche répétitive ?
+
+La page d'accueil inclut un calculateur de valeur interactif : à partir de quatre données simples (personnes impliquées, heures par semaine, coût horaire moyen et part du temps libérable par l'IA), il estime le coût annuel du temps consacré à une tâche manuelle et la valeur libérable chaque année. C'est une estimation indicative sur 45 semaines de travail, ni une prévision de résultats ni un devis.
+
 ## Cours pour gouverner l'IA, pas pour courir après les outils.
 
 Le catalogue amène l'IA dans les processus qui comptent: refonte des flux de travail, décisions managériales, gouvernance, opérations, documents, communication et systèmes techniques.
+
+## Des résultats mesurables, énoncés avec leurs limites.
+
+Exemples réels et anonymisés de l'analyse de données agentique : chaque cas part des données déjà disponibles, mène à une décision et énonce sa propre limite.
+
+* Hôtellerie : 8 annulations sur 10 détectées dès la réservation, sur plus de 119 000 réservations analysées.
+* Énergie : −77% d'erreur de prévision de la demande par rapport à la règle de référence.
+* Dernier kilomètre : erreur moyenne sur le créneau de livraison promis au client réduite de 41 à 17 minutes.
+
+Détails : https://ar-tik.com/fr/analyse-donnees-agentique.md
 
 ## Questions fréquentes
 

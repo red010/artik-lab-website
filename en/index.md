@@ -72,9 +72,23 @@ Development of technical systems, calculation engines, legacy data readers and v
 
 Dedicated page: https://ar-tik.com/en/technical-software-development.md
 
+## How much does the time spent on a repetitive task cost each year?
+
+The homepage includes an interactive value calculator: from four simple inputs (people involved, hours per week, average hourly cost and the share of time AI can free up) it estimates the annual cost of the time spent on a manual task and the value that can be freed up each year. It is an indicative estimate over 45 working weeks, not a forecast of results or a quote.
+
 ## Courses to govern AI, not chase tools.
 
 The catalog brings AI into the workflows that matter: workflow redesign, managerial decisions, governance, operations, documents, communication and technical systems.
+
+## Measurable results, stated with their limits.
+
+Real, anonymised examples from agentic data analysis: each case starts from data already available, leads to a decision and states its own limit.
+
+* Hospitality: 8 out of 10 cancellations flagged at booking time, across more than 119,000 bookings analysed.
+* Energy: −77% forecasting error on demand compared with the baseline rule.
+* Last mile: average error on the promised delivery window reduced from 41 to 17 minutes.
+
+Details: https://ar-tik.com/en/agentic-data-analysis.md
 
 ## Frequently asked questions
 

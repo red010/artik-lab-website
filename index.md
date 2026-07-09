@@ -72,9 +72,23 @@ Risposte concrete per scegliere tra consulenza, corsi, analisi dati, software te
 
 Pagina dedicata: https://ar-tik.com/domande-frequenti-ai-aziende.md
 
+## Quanto costa ogni anno il tempo speso in un'attività ripetitiva?
+
+La homepage include un calcolatore di valore interattivo: da quattro dati semplici (persone coinvolte, ore a settimana, costo orario medio e quota di tempo liberabile con l'AI) stima il costo annuo del tempo dedicato a un'attività manuale e il valore liberabile ogni anno. È una stima indicativa calcolata su 45 settimane lavorative, non una previsione di risultato né un preventivo.
+
 ## Corsi per governare l'IA, non per rincorrere tool.
 
 Il catalogo porta l'AI nei processi che contano: ridisegno dei flussi di lavoro, decisioni manageriali, governance, operations, documenti, comunicazione e sistemi tecnici.
+
+## Risultati misurabili, dichiarati con i loro limiti.
+
+Esempi reali e anonimi dall'analisi dati agentica: ogni caso parte dai dati già disponibili, porta a una decisione e dichiara il proprio limite.
+
+* Ospitalità: 8 disdette su 10 intercettate già al momento della prenotazione, su oltre 119.000 prenotazioni analizzate.
+* Energia: −77% di errore nella previsione della domanda rispetto alla regola di riferimento.
+* Ultimo miglio: errore medio sulla finestra di consegna promessa al cliente ridotto da 41 a 17 minuti.
+
+Dettagli: https://ar-tik.com/analisi-dati-agentica.md
 
 ## Domande frequenti
 
