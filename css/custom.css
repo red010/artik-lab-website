@@ -935,9 +935,9 @@ a:focus-visible, button:focus-visible, summary:focus-visible, input:focus-visibl
 .calc-disclaimer { margin: 16px 0 0; font-size: 0.8rem; line-height: 1.5; color: rgba(255,255,255,0.58); }
 .calc-result .button { margin-top: 20px; align-self: flex-start; }
 .calc-hint { display: block; font-weight: 400; font-size: 0.82rem; line-height: 1.35; color: var(--navy); opacity: 0.72; }
-.calc-upsell { margin: 24px auto 0; max-width: 720px; text-align: center; font-size: 0.95rem; line-height: 1.55; color: var(--navy); }
-.calc-upsell a { color: var(--navy); font-weight: 700; text-decoration: underline; text-underline-offset: 3px; white-space: nowrap; }
-.calc-upsell a:hover { color: var(--teal); }
+.calc-section .calc-upsell { margin: 24px auto 0; max-width: 760px; text-align: center; font-size: 1.02rem; line-height: 1.55; font-weight: 500; color: var(--navy); }
+.calc-section .calc-upsell a { color: var(--navy); font-weight: 700; text-decoration: underline; text-underline-offset: 3px; }
+.calc-section .calc-upsell a:hover { color: var(--teal); }
 
 /* Proof band (anonymised outcomes) */
 .proof-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-top: 42px; }
