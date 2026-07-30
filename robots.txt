@@ -42,5 +42,7 @@ Allow: /
 
 Sitemap: https://ar-tik.com/sitemap.xml
 Sitemap: https://ar-tik.com/sitemap-llm.xml
-LLMS: https://ar-tik.com/llms.txt
-LLMS-Full: https://ar-tik.com/llms-full.txt
+
+# LLM-readable indexes (comments, not directives: `LLMS:` is not part of RFC 9309)
+#   https://ar-tik.com/llms.txt
+#   https://ar-tik.com/llms-full.txt
