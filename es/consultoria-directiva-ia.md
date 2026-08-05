@@ -102,6 +102,6 @@ Sí. La consultoría directiva de IA define gobernanza, prioridades, competencia
 
 No. El objetivo es evitar empezar por la herramienta. Primero se aclara qué proceso mejorar, qué decisión apoyar y qué riesgo gobernar.
 
-### ¿Encaja con pymes sin equipo IT interno?
+### ¿Encaja con empresas sin equipo IT interno?
 
 Sí. El servicio está pensado para empresas con fuerte conocimiento de dominio y capacidad técnica limitada. La parte técnica llega solo cuando el perímetro directivo está claro.

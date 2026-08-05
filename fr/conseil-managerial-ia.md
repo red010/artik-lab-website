@@ -102,6 +102,6 @@ Oui. Le conseil managérial IA définit gouvernance, priorités, compétences et
 
 Non. L’objectif est d’éviter de commencer par l’outil. On clarifie d’abord quel processus améliorer, quelle décision soutenir et quel risque gouverner.
 
-### Est-ce adapté aux PME sans équipe IT interne?
+### Est-ce adapté aux entreprises sans équipe IT interne?
 
 Oui. Le service est conçu pour des entreprises avec forte connaissance de domaine et capacité technique limitée. La partie technique arrive seulement lorsque le périmètre managérial est clair.

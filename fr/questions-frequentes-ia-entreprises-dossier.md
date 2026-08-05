@@ -63,7 +63,7 @@ Les bons candidats sont emails répétitifs, documents à lire, priorités à af
 - Risk or limit: Commencer par le modèle ou l'outil crée souvent des essais isolés sans retour mesurable.
 - Next step: Apporter le cas au premier échange avec processus, objectif, données disponibles et contraintes.
 
-### Une PME sans équipe IT interne peut-elle commencer?
+### Une entreprise sans équipe IT interne peut-elle commencer?
 
 Oui, si elle part des décisions, processus et compétences avant la technologie.
 

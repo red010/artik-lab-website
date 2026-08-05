@@ -212,15 +212,15 @@
       "language": "fr",
       "category": "start",
       "categoryLabel": "Par où commencer",
-      "question": "Une PME sans équipe IT interne peut-elle commencer?",
+      "question": "Une entreprise sans équipe IT interne peut-elle commencer?",
       "shortAnswer": "Oui, si elle part des décisions, processus et compétences avant la technologie.",
       "detailedAnswer": "Beaucoup d'activités initiales n'exigent pas de développement logiciel: cartographie, critères de risque, formation ciblée et choix du premier cas comptent d'abord. La technique arrive quand le périmètre est clair.",
       "audience": "dirigeants et propriétaires",
       "searchIntent": "orientation initiale",
       "searchQueries": [
-        "Une PME sans équipe IT interne peut-elle commencer?",
-        "une pme sans équipe it interne peut-elle commencer",
-        "Par où commencer une pme sans équipe it interne peut-elle commencer"
+        "Une entreprise sans équipe IT interne peut-elle commencer?",
+        "une entreprise sans équipe it interne peut-elle commencer",
+        "Par où commencer une entreprise sans équipe it interne peut-elle commencer"
       ],
       "needSignals": [
         "intérêt pour l'IA sans projet défini",
@@ -260,8 +260,8 @@
       "nextStep": "Choisir un cours ou atelier si le besoin principal est de transférer la méthode à l'équipe.",
       "urls": {
         "html": "https://ar-tik.com/fr/questions-frequentes-ia-entreprises.html#start-pmi-no-it",
-        "markdown": "https://ar-tik.com/fr/questions-frequentes-ia-entreprises.md#Une PME sans équipe IT interne peut-elle commencer?",
-        "dossier": "https://ar-tik.com/fr/questions-frequentes-ia-entreprises-dossier.md#Une PME sans équipe IT interne peut-elle commencer?",
+        "markdown": "https://ar-tik.com/fr/questions-frequentes-ia-entreprises.md#Une entreprise sans équipe IT interne peut-elle commencer?",
+        "dossier": "https://ar-tik.com/fr/questions-frequentes-ia-entreprises-dossier.md#Une entreprise sans équipe IT interne peut-elle commencer?",
         "json": "https://ar-tik.com/data/faq.fr.json"
       }
     },

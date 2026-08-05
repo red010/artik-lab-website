@@ -27,7 +27,7 @@ L'Atlante raccoglie esempi concreti di applicazioni AI per documenti, operations
 - Corsi AI per aziende: scegliere il percorso giusto
 - AI Workflow Redesign Lab
 - formazione AI personalizzata per aziende
-- corsi AI pratici per PMI
+- corsi AI pratici per le imprese
 - training AI con metodologia DTR
 
 ## Catalogo esteso

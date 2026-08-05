@@ -1,6 +1,6 @@
 # Consulenza, corsi e software AI per ridurre costi e ritardi decisionali, con risultati misurabili.
 
-Artik Lab aiuta PMI e funzioni aziendali a scegliere, governare e realizzare il primo uso utile dell'AI: mappatura dei processi, business case, formazione dei team, analisi dati e prototipi controllati.
+Artik Lab aiuta imprese e funzioni aziendali a scegliere, governare e realizzare il primo uso utile dell'AI: mappatura dei processi, business case, formazione dei team, analisi dati e prototipi controllati.
 
 ## Artik Lab costruisce capacità AI che restano in azienda.
 
@@ -94,7 +94,7 @@ Dettagli: https://ar-tik.com/analisi-dati-agentica.md
 
 ### Che cosa fa Artik Lab?
 
-Artik Lab aiuta PMI e funzioni aziendali a scegliere, governare e realizzare il primo uso utile dell'AI: mappatura dei processi, business case, formazione dei team, analisi dati e prototipi controllati.
+Artik Lab aiuta imprese e funzioni aziendali a scegliere, governare e realizzare il primo uso utile dell'AI: mappatura dei processi, business case, formazione dei team, analisi dati e prototipi controllati.
 
 ### Da dove conviene partire?
 

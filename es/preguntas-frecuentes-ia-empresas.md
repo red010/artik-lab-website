@@ -48,7 +48,7 @@ Límite a considerar: Empezar por el modelo o la herramienta suele crear pruebas
 
 Próximo paso: Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.
 
-### ¿Puede empezar una pyme sin equipo IT interno?
+### ¿Puede empezar una empresa sin equipo IT interno?
 
 Respuesta breve: Sí, si empieza por decisiones, procesos y competencias antes que tecnología.
 

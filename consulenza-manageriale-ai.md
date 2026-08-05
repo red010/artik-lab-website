@@ -102,6 +102,6 @@ Sì. La consulenza manageriale AI definisce governance, priorità, competenze e 
 
 No. Il punto è evitare di partire dal tool. Prima si chiarisce quale processo migliorare, quale decisione sostenere e quale rischio governare.
 
-### È adatta anche a PMI senza team IT interno?
+### È adatta anche a imprese senza team IT interno?
 
 Sì. Il servizio è pensato proprio per aziende che hanno conoscenza di dominio forte ma capacità tecnica limitata. La parte tecnica arriva solo quando il perimetro manageriale è chiaro.

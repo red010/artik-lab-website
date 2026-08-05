@@ -1,6 +1,6 @@
 # Consultoría, cursos y software de IA para reducir costes y retrasos en las decisiones, con resultados medibles.
 
-Artik Lab ayuda a pymes y funciones empresariales a elegir, gobernar y realizar el primer uso útil de la IA: mapa de procesos, business case, formación de equipos, análisis de datos y prototipos controlados.
+Artik Lab ayuda a empresas y áreas de negocio a elegir, gobernar y realizar el primer uso útil de la IA: mapa de procesos, business case, formación de equipos, análisis de datos y prototipos controlados.
 
 ## Artik Lab construye capacidades de IA que permanecen en la empresa.
 
@@ -94,7 +94,7 @@ Detalles: https://ar-tik.com/es/analisis-datos-agentico.md
 
 ### ¿Qué hace Artik Lab?
 
-Artik Lab ayuda a pymes y funciones empresariales a elegir, gobernar y realizar el primer uso útil de la IA: mapa de procesos, business case, formación de equipos, análisis de datos y prototipos controlados.
+Artik Lab ayuda a empresas y áreas de negocio a elegir, gobernar y realizar el primer uso útil de la IA: mapa de procesos, business case, formación de equipos, análisis de datos y prototipos controlados.
 
 ### ¿Por dónde conviene empezar?
 

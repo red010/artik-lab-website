@@ -48,7 +48,7 @@ Limite da considerare: Partire dal modello o dal tool crea spesso prove isolate 
 
 Prossimo passo: Portare il caso nella prima conversazione con processo, obiettivo, dati disponibili e vincoli.
 
-### Una PMI senza team IT interno può iniziare?
+### Un'impresa senza team IT interno può iniziare?
 
 Risposta breve: Sì, se parte da decisioni, processi e competenze prima della tecnologia.
 

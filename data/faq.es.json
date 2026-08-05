@@ -212,15 +212,15 @@
       "language": "es",
       "category": "start",
       "categoryLabel": "Por dónde empezar",
-      "question": "¿Puede empezar una pyme sin equipo IT interno?",
+      "question": "¿Puede empezar una empresa sin equipo IT interno?",
       "shortAnswer": "Sí, si empieza por decisiones, procesos y competencias antes que tecnología.",
       "detailedAnswer": "Muchas actividades iniciales no requieren desarrollo software: importan mapa de procesos, criterios de riesgo, formación dirigida y elección del primer caso. La parte técnica llega cuando el perímetro está claro.",
       "audience": "dirección y propietarios",
       "searchIntent": "orientación inicial",
       "searchQueries": [
-        "¿Puede empezar una pyme sin equipo IT interno?",
-        "¿puede empezar una pyme sin equipo it interno",
-        "Por dónde empezar ¿puede empezar una pyme sin equipo it interno"
+        "¿Puede empezar una empresa sin equipo IT interno?",
+        "¿puede empezar una empresa sin equipo it interno",
+        "Por dónde empezar ¿puede empezar una empresa sin equipo it interno"
       ],
       "needSignals": [
         "interés por la IA sin proyecto definido",
@@ -260,8 +260,8 @@
       "nextStep": "Elegir un curso o laboratorio si la necesidad principal es transferir método al equipo.",
       "urls": {
         "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#start-pmi-no-it",
-        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Puede empezar una pyme sin equipo IT interno?",
-        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Puede empezar una pyme sin equipo IT interno?",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Puede empezar una empresa sin equipo IT interno?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Puede empezar una empresa sin equipo IT interno?",
         "json": "https://ar-tik.com/data/faq.es.json"
       }
     },

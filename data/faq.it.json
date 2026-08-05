@@ -212,15 +212,15 @@
       "language": "it",
       "category": "start",
       "categoryLabel": "Da dove iniziare",
-      "question": "Una PMI senza team IT interno può iniziare?",
+      "question": "Un'impresa senza team IT interno può iniziare?",
       "shortAnswer": "Sì, se parte da decisioni, processi e competenze prima della tecnologia.",
       "detailedAnswer": "Molte attività iniziali non richiedono sviluppo software: servono mappa dei processi, criteri di rischio, formazione mirata e scelta del primo caso. La parte tecnica arriva solo quando il perimetro è chiaro.",
       "audience": "direzione e imprenditori",
       "searchIntent": "orientamento iniziale",
       "searchQueries": [
-        "Una PMI senza team IT interno può iniziare?",
-        "una pmi senza team it interno può iniziare",
-        "Da dove iniziare una pmi senza team it interno può iniziare"
+        "Un'impresa senza team IT interno può iniziare?",
+        "un'impresa senza team it interno può iniziare",
+        "Da dove iniziare un'impresa senza team it interno può iniziare"
       ],
       "needSignals": [
         "interesse per l'AI senza progetto definito",
@@ -260,8 +260,8 @@
       "nextStep": "Scegliere un corso o laboratorio se il bisogno principale è trasferire metodo al team.",
       "urls": {
         "html": "https://ar-tik.com/domande-frequenti-ai-aziende.html#start-pmi-no-it",
-        "markdown": "https://ar-tik.com/domande-frequenti-ai-aziende.md#Una PMI senza team IT interno può iniziare?",
-        "dossier": "https://ar-tik.com/domande-frequenti-ai-aziende-dossier.md#Una PMI senza team IT interno può iniziare?",
+        "markdown": "https://ar-tik.com/domande-frequenti-ai-aziende.md#Un'impresa senza team IT interno può iniziare?",
+        "dossier": "https://ar-tik.com/domande-frequenti-ai-aziende-dossier.md#Un'impresa senza team IT interno può iniziare?",
         "json": "https://ar-tik.com/data/faq.it.json"
       }
     },

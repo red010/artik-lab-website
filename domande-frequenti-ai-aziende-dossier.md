@@ -63,7 +63,7 @@ Sono buoni candidati i passaggi con email ripetitive, documenti da leggere, prio
 - Risk or limit: Partire dal modello o dal tool crea spesso prove isolate senza ritorno misurabile.
 - Next step: Portare il caso nella prima conversazione con processo, obiettivo, dati disponibili e vincoli.
 
-### Una PMI senza team IT interno può iniziare?
+### Un'impresa senza team IT interno può iniziare?
 
 Sì, se parte da decisioni, processi e competenze prima della tecnologia.
 

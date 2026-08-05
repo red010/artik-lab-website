@@ -1640,7 +1640,7 @@ Sì. La consulenza manageriale AI definisce governance, priorità, competenze e 
 
 No. Il punto è evitare di partire dal tool. Prima si chiarisce quale processo migliorare, quale decisione sostenere e quale rischio governare.
 
-### È adatta anche a PMI senza team IT interno?
+### È adatta anche a imprese senza team IT interno?
 
 Sì. Il servizio è pensato proprio per aziende che hanno conoscenza di dominio forte ma capacità tecnica limitata. La parte tecnica arriva solo quando il perimetro manageriale è chiaro.
 
@@ -6119,7 +6119,7 @@ L'Atlante raccoglie esempi concreti di applicazioni AI per documenti, operations
 - Corsi AI per aziende: scegliere il percorso giusto
 - AI Workflow Redesign Lab
 - formazione AI personalizzata per aziende
-- corsi AI pratici per PMI
+- corsi AI pratici per le imprese
 - training AI con metodologia DTR
 
 ## Catalogo esteso
@@ -8214,7 +8214,7 @@ Sono buoni candidati i passaggi con email ripetitive, documenti da leggere, prio
 - Risk or limit: Partire dal modello o dal tool crea spesso prove isolate senza ritorno misurabile.
 - Next step: Portare il caso nella prima conversazione con processo, obiettivo, dati disponibili e vincoli.
 
-### Una PMI senza team IT interno può iniziare?
+### Un'impresa senza team IT interno può iniziare?
 
 Sì, se parte da decisioni, processi e competenze prima della tecnologia.
 
@@ -9297,7 +9297,7 @@ Limite da considerare: Partire dal modello o dal tool crea spesso prove isolate 
 
 Prossimo passo: Portare il caso nella prima conversazione con processo, obiettivo, dati disponibili e vincoli.
 
-### Una PMI senza team IT interno può iniziare?
+### Un'impresa senza team IT interno può iniziare?
 
 Risposta breve: Sì, se parte da decisioni, processi e competenze prima della tecnologia.
 
@@ -21850,7 +21850,7 @@ Sí. La consultoría directiva de IA define gobernanza, prioridades, competencia
 
 No. El objetivo es evitar empezar por la herramienta. Primero se aclara qué proceso mejorar, qué decisión apoyar y qué riesgo gobernar.
 
-### ¿Encaja con pymes sin equipo IT interno?
+### ¿Encaja con empresas sin equipo IT interno?
 
 Sí. El servicio está pensado para empresas con fuerte conocimiento de dominio y capacidad técnica limitada. La parte técnica llega solo cuando el perímetro directivo está claro.
 
@@ -28543,7 +28543,7 @@ El proyecto trabaja con perímetros, accesos, datos y materiales acordados. Los 
 
 # Consultoría, cursos y software de IA para reducir costes y retrasos en las decisiones, con resultados medibles.
 
-Artik Lab ayuda a pymes y funciones empresariales a elegir, gobernar y realizar el primer uso útil de la IA: mapa de procesos, business case, formación de equipos, análisis de datos y prototipos controlados.
+Artik Lab ayuda a empresas y áreas de negocio a elegir, gobernar y realizar el primer uso útil de la IA: mapa de procesos, business case, formación de equipos, análisis de datos y prototipos controlados.
 
 ## Artik Lab construye capacidades de IA que permanecen en la empresa.
 
@@ -28637,7 +28637,7 @@ Detalles: https://ar-tik.com/es/analisis-datos-agentico.md
 
 ### ¿Qué hace Artik Lab?
 
-Artik Lab ayuda a pymes y funciones empresariales a elegir, gobernar y realizar el primer uso útil de la IA: mapa de procesos, business case, formación de equipos, análisis de datos y prototipos controlados.
+Artik Lab ayuda a empresas y áreas de negocio a elegir, gobernar y realizar el primer uso útil de la IA: mapa de procesos, business case, formación de equipos, análisis de datos y prototipos controlados.
 
 ### ¿Por dónde conviene empezar?
 
@@ -28714,7 +28714,7 @@ Buenos candidatos son correos repetitivos, documentos que leer, prioridades que 
 - Risk or limit: Empezar por el modelo o la herramienta suele crear pruebas aisladas sin retorno medible.
 - Next step: Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.
 
-### ¿Puede empezar una pyme sin equipo IT interno?
+### ¿Puede empezar una empresa sin equipo IT interno?
 
 Sí, si empieza por decisiones, procesos y competencias antes que tecnología.
 
@@ -29797,7 +29797,7 @@ Límite a considerar: Empezar por el modelo o la herramienta suele crear pruebas
 
 Próximo paso: Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.
 
-### ¿Puede empezar una pyme sin equipo IT interno?
+### ¿Puede empezar una empresa sin equipo IT interno?
 
 Respuesta breve: Sí, si empieza por decisiones, procesos y competencias antes que tecnología.
 
@@ -32100,7 +32100,7 @@ Oui. Le conseil managérial IA définit gouvernance, priorités, compétences et
 
 Non. L’objectif est d’éviter de commencer par l’outil. On clarifie d’abord quel processus améliorer, quelle décision soutenir et quel risque gouverner.
 
-### Est-ce adapté aux PME sans équipe IT interne?
+### Est-ce adapté aux entreprises sans équipe IT interne?
 
 Oui. Le service est conçu pour des entreprises avec forte connaissance de domaine et capacité technique limitée. La partie technique arrive seulement lorsque le périmètre managérial est clair.
 
@@ -38793,7 +38793,7 @@ Le projet travaille avec périmètres, accès, données et matériaux convenus. 
 
 # Conseil, cours et logiciels IA pour réduire les coûts et les retards de décision, avec des résultats mesurables.
 
-Artik Lab aide PME et fonctions métier à choisir, gouverner et réaliser le premier usage utile de l'IA: cartographie des processus, business case, formation des équipes, analyse de données et prototypes contrôlés.
+Artik Lab aide les entreprises et les fonctions métier à choisir, gouverner et réaliser le premier usage utile de l'IA: cartographie des processus, business case, formation des équipes, analyse de données et prototypes contrôlés.
 
 ## Artik Lab construit des capacités IA qui restent dans l'entreprise.
 
@@ -38887,7 +38887,7 @@ Détails : https://ar-tik.com/fr/analyse-donnees-agentique.md
 
 ### Que fait Artik Lab?
 
-Artik Lab aide PME et fonctions métier à choisir, gouverner et réaliser le premier usage utile de l'IA: cartographie des processus, business case, formation des équipes, analyse de données et prototypes contrôlés.
+Artik Lab aide les entreprises et les fonctions métier à choisir, gouverner et réaliser le premier usage utile de l'IA: cartographie des processus, business case, formation des équipes, analyse de données et prototypes contrôlés.
 
 ### Par où commencer?
 
@@ -38964,7 +38964,7 @@ Les bons candidats sont emails répétitifs, documents à lire, priorités à af
 - Risk or limit: Commencer par le modèle ou l'outil crée souvent des essais isolés sans retour mesurable.
 - Next step: Apporter le cas au premier échange avec processus, objectif, données disponibles et contraintes.
 
-### Une PME sans équipe IT interne peut-elle commencer?
+### Une entreprise sans équipe IT interne peut-elle commencer?
 
 Oui, si elle part des décisions, processus et compétences avant la technologie.
 
@@ -40047,7 +40047,7 @@ Limite à considérer: Commencer par le modèle ou l'outil crée souvent des ess
 
 Prochaine étape: Apporter le cas au premier échange avec processus, objectif, données disponibles et contraintes.
 
-### Une PME sans équipe IT interne peut-elle commencer?
+### Une entreprise sans équipe IT interne peut-elle commencer?
 
 Réponse courte: Oui, si elle part des décisions, processus et compétences avant la technologie.
 
@@ -40714,7 +40714,7 @@ Pour démarrer, réunir un processus à améliorer, un exemple de matériau ou d
 
 # Consulenza, corsi e software AI per ridurre costi e ritardi decisionali, con risultati misurabili.
 
-Artik Lab aiuta PMI e funzioni aziendali a scegliere, governare e realizzare il primo uso utile dell'AI: mappatura dei processi, business case, formazione dei team, analisi dati e prototipi controllati.
+Artik Lab aiuta imprese e funzioni aziendali a scegliere, governare e realizzare il primo uso utile dell'AI: mappatura dei processi, business case, formazione dei team, analisi dati e prototipi controllati.
 
 ## Artik Lab costruisce capacità AI che restano in azienda.
 
@@ -40808,7 +40808,7 @@ Dettagli: https://ar-tik.com/analisi-dati-agentica.md
 
 ### Che cosa fa Artik Lab?
 
-Artik Lab aiuta PMI e funzioni aziendali a scegliere, governare e realizzare il primo uso utile dell'AI: mappatura dei processi, business case, formazione dei team, analisi dati e prototipi controllati.
+Artik Lab aiuta imprese e funzioni aziendali a scegliere, governare e realizzare il primo uso utile dell'AI: mappatura dei processi, business case, formazione dei team, analisi dati e prototipi controllati.
 
 ### Da dove conviene partire?
 

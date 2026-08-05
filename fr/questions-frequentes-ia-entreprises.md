@@ -48,7 +48,7 @@ Limite à considérer: Commencer par le modèle ou l'outil crée souvent des ess
 
 Prochaine étape: Apporter le cas au premier échange avec processus, objectif, données disponibles et contraintes.
 
-### Une PME sans équipe IT interne peut-elle commencer?
+### Une entreprise sans équipe IT interne peut-elle commencer?
 
 Réponse courte: Oui, si elle part des décisions, processus et compétences avant la technologie.
 

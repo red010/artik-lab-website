@@ -63,7 +63,7 @@ Buenos candidatos son correos repetitivos, documentos que leer, prioridades que 
 - Risk or limit: Empezar por el modelo o la herramienta suele crear pruebas aisladas sin retorno medible.
 - Next step: Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.
 
-### ¿Puede empezar una pyme sin equipo IT interno?
+### ¿Puede empezar una empresa sin equipo IT interno?
 
 Sí, si empieza por decisiones, procesos y competencias antes que tecnología.
 
