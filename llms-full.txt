@@ -26346,9 +26346,9 @@ El Atlas reúne ejemplos concretos de aplicaciones IA para documentos, operacion
 
 - Cursos de IA para empresas: elegir el recorrido adecuado
 - AI Workflow Redesign Lab
-- custom corporate AI training
-- practical AI courses for companies
-- AI training with DTR methodology
+- formación en IA personalizada para empresas
+- cursos de IA prácticos para empresas
+- formación en IA con metodología DTR
 
 ## Catálogo ampliado
 
@@ -36596,9 +36596,9 @@ L'Atlas rassemble des exemples concrets d'applications IA pour documents, opéra
 
 - Cours d'IA pour entreprises: choisir le bon parcours
 - AI Workflow Redesign Lab
-- custom corporate AI training
-- practical AI courses for companies
-- AI training with DTR methodology
+- formation IA personnalisée pour entreprises
+- cours d'IA pratiques pour entreprises
+- formation IA avec méthodologie DTR
 
 ## Catalogue étendu
 
@@ -46954,9 +46954,9 @@ O Atlas reúne exemplos concretos de aplicações IA para documentos, operaçõe
 
 - Cursos de IA para empresas: escolher a trilha certa
 - AI Workflow Redesign Lab
-- custom corporate AI training
-- practical AI courses for companies
-- AI training with DTR methodology
+- treinamento de IA personalizado para empresas
+- cursos de IA práticos para empresas
+- treinamento de IA com metodologia DTR
 
 ## Catálogo ampliado
 

@@ -26,9 +26,9 @@ El Atlas reúne ejemplos concretos de aplicaciones IA para documentos, operacion
 
 - Cursos de IA para empresas: elegir el recorrido adecuado
 - AI Workflow Redesign Lab
-- custom corporate AI training
-- practical AI courses for companies
-- AI training with DTR methodology
+- formación en IA personalizada para empresas
+- cursos de IA prácticos para empresas
+- formación en IA con metodología DTR
 
 ## Catálogo ampliado
 
