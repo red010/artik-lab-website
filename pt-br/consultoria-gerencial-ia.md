@@ -102,6 +102,6 @@ Sim. A consultoria gerencial de IA define governança, prioridades, competência
 
 Não. O objetivo é evitar começar pela ferramenta. Primeiro se esclarece qual processo melhorar, qual decisão apoiar e qual risco governar.
 
-### Serve para PMEs sem equipe interna de TI?
+### Serve para empresas sem equipe interna de TI?
 
 Sim. O serviço foi pensado para empresas com forte conhecimento de domínio e capacidade técnica limitada. A parte técnica chega apenas quando o perímetro gerencial está claro.

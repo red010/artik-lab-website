@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/services-catalog.schema.json",
-  "generatedAt": "2026-07-02",
+  "generatedAt": "2026-08-05",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "locale": "pt",
@@ -12,7 +12,7 @@
       "locale": "pt",
       "language": "pt-BR",
       "title": "Artik Lab",
-      "description": "A Artik Lab ajuda PMEs e áreas de negócio a escolher, governar e realizar o primeiro uso útil da IA: mapa de processos, business case, treinamento de equipes, análise de dados e protótipos controlados.",
+      "description": "A Artik Lab ajuda empresas e áreas de negócio a escolher, governar e realizar o primeiro uso útil da IA: mapa de processos, business case, treinamento de equipes, análise de dados e protótipos controlados.",
       "urls": {
         "html": "https://ar-tik.com/pt-br/",
         "markdown": "https://ar-tik.com/pt-br/index.md"

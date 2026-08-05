@@ -27,7 +27,7 @@ The Atlas gathers concrete AI application examples across documents, operations,
 - Corporate AI courses: choose the right path
 - AI Workflow Redesign Lab
 - custom corporate AI training
-- practical AI courses for SMEs
+- practical AI courses for companies
 - AI training with DTR methodology
 
 ## Extended catalog

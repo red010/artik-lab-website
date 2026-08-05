@@ -63,7 +63,7 @@ Bons candidatos incluem emails repetitivos, documentos a ler, prioridades a atri
 - Risk or limit: Começar pelo modelo ou ferramenta costuma criar testes isolados sem retorno mensurável.
 - Next step: Levar o caso à primeira conversa com processo, objetivo, dados disponíveis e restrições.
 
-### Uma PME sem equipe interna de IT pode começar?
+### Uma empresa sem equipe interna de TI pode começar?
 
 Sim, se começar por decisões, processos e competências antes da tecnologia.
 
@@ -166,7 +166,7 @@ O diagnóstico pode indicar treinamento, mapa de oportunidades, validação de d
 
 Pelo menos quem conhece o processo e quem pode decidir prioridades.
 
-Direção, área envolvida e referência operacional evitam leituras parciais. Se há dados ou sistemas, também pode ajudar IT ou quem gerencia as ferramentas.
+Direção, área envolvida e referência operacional evitam leituras parciais. Se há dados ou sistemas, também pode ajudar TI ou quem gerencia as ferramentas.
 
 - ID: discovery-stakeholders
 - Área: Primeira conversa e método

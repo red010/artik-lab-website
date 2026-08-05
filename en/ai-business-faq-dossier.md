@@ -63,7 +63,7 @@ Good candidates include repeated emails, documents to read, priorities to assign
 - Risk or limit: Starting from the model or tool often creates isolated trials with no measurable return.
 - Next step: Bring the case to the first conversation with process, goal, available data and constraints.
 
-### Can an SME without an internal IT team start?
+### Can a company without an internal IT team start?
 
 Yes, if it starts from decisions, processes and skills before technology.
 

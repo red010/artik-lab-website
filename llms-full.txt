@@ -11561,7 +11561,7 @@ Good candidates include repeated emails, documents to read, priorities to assign
 - Risk or limit: Starting from the model or tool often creates isolated trials with no measurable return.
 - Next step: Bring the case to the first conversation with process, goal, available data and constraints.
 
-### Can an SME without an internal IT team start?
+### Can a company without an internal IT team start?
 
 Yes, if it starts from decisions, processes and skills before technology.
 
@@ -12644,7 +12644,7 @@ Limit to consider: Starting from the model or tool often creates isolated trials
 
 Next step: Bring the case to the first conversation with process, goal, available data and constraints.
 
-### Can an SME without an internal IT team start?
+### Can a company without an internal IT team start?
 
 Short answer: Yes, if it starts from decisions, processes and skills before technology.
 
@@ -13413,7 +13413,7 @@ Yes. AI management consulting defines governance, priorities, skills and roadmap
 
 No. The point is to avoid starting from the tool. First clarify which process to improve, which decision to support and which risk to govern.
 
-### Does it fit SMEs without an internal IT team?
+### Does it fit companies without an internal IT team?
 
 Yes. The service is designed for companies with strong domain knowledge and limited technical capacity. Technical work starts only once the management perimeter is clear.
 
@@ -17910,7 +17910,7 @@ The Atlas gathers concrete AI application examples across documents, operations,
 - Corporate AI courses: choose the right path
 - AI Workflow Redesign Lab
 - custom corporate AI training
-- practical AI courses for SMEs
+- practical AI courses for companies
 - AI training with DTR methodology
 
 ## Extended catalog
@@ -19939,7 +19939,7 @@ No. The course is built around practical exercises and decisions close to real w
 
 # AI consulting, courses and software to reduce costs and decision delays, with measurable results.
 
-Artik Lab helps SMEs and business functions choose, govern and deliver the first useful use of AI: process mapping, business cases, team training, data analysis and controlled prototypes.
+Artik Lab helps companies and business functions choose, govern and deliver the first useful use of AI: process mapping, business cases, team training, data analysis and controlled prototypes.
 
 ## Artik Lab builds AI capabilities that stay inside the company.
 
@@ -20033,7 +20033,7 @@ Details: https://ar-tik.com/en/agentic-data-analysis.md
 
 ### What does Artik Lab do?
 
-Artik Lab helps SMEs and business functions choose, govern and deliver the first useful use of AI: process mapping, business cases, team training, data analysis and controlled prototypes.
+Artik Lab helps companies and business functions choose, govern and deliver the first useful use of AI: process mapping, business cases, team training, data analysis and controlled prototypes.
 
 ### Where should a company start?
 
@@ -26347,7 +26347,7 @@ El Atlas reúne ejemplos concretos de aplicaciones IA para documentos, operacion
 - Cursos de IA para empresas: elegir el recorrido adecuado
 - AI Workflow Redesign Lab
 - custom corporate AI training
-- practical AI courses for SMEs
+- practical AI courses for companies
 - AI training with DTR methodology
 
 ## Catálogo ampliado
@@ -36597,7 +36597,7 @@ L'Atlas rassemble des exemples concrets d'applications IA pour documents, opéra
 - Cours d'IA pour entreprises: choisir le bon parcours
 - AI Workflow Redesign Lab
 - custom corporate AI training
-- practical AI courses for SMEs
+- practical AI courses for companies
 - AI training with DTR methodology
 
 ## Catalogue étendu
@@ -42458,7 +42458,7 @@ Sim. A consultoria gerencial de IA define governança, prioridades, competência
 
 Não. O objetivo é evitar começar pela ferramenta. Primeiro se esclarece qual processo melhorar, qual decisão apoiar e qual risco governar.
 
-### Serve para PMEs sem equipe interna de TI?
+### Serve para empresas sem equipe interna de TI?
 
 Sim. O serviço foi pensado para empresas com forte conhecimento de domínio e capacidade técnica limitada. A parte técnica chega apenas quando o perímetro gerencial está claro.
 
@@ -46955,7 +46955,7 @@ O Atlas reúne exemplos concretos de aplicações IA para documentos, operaçõe
 - Cursos de IA para empresas: escolher a trilha certa
 - AI Workflow Redesign Lab
 - custom corporate AI training
-- practical AI courses for SMEs
+- practical AI courses for companies
 - AI training with DTR methodology
 
 ## Catálogo ampliado
@@ -49151,7 +49151,7 @@ O projeto trabalha com perímetros, acessos, dados e materiais acordados. Os exe
 
 # Consultoria, cursos e software de IA para reduzir custos e atrasos nas decisões, com resultados mensuráveis.
 
-A Artik Lab ajuda PMEs e áreas de negócio a escolher, governar e realizar o primeiro uso útil da IA: mapa de processos, business case, treinamento de equipes, análise de dados e protótipos controlados.
+A Artik Lab ajuda empresas e áreas de negócio a escolher, governar e realizar o primeiro uso útil da IA: mapa de processos, business case, treinamento de equipes, análise de dados e protótipos controlados.
 
 ## A Artik Lab constrói capacidades de IA que permanecem na empresa.
 
@@ -49245,7 +49245,7 @@ Detalhes: https://ar-tik.com/pt-br/analise-dados-agentica.md
 
 ### O que faz a Artik Lab?
 
-A Artik Lab ajuda PMEs e áreas de negócio a escolher, governar e realizar o primeiro uso útil da IA: mapa de processos, business case, treinamento de equipes, análise de dados e protótipos controlados.
+A Artik Lab ajuda empresas e áreas de negócio a escolher, governar e realizar o primeiro uso útil da IA: mapa de processos, business case, treinamento de equipes, análise de dados e protótipos controlados.
 
 ### Por onde começar?
 
@@ -49322,7 +49322,7 @@ Bons candidatos incluem emails repetitivos, documentos a ler, prioridades a atri
 - Risk or limit: Começar pelo modelo ou ferramenta costuma criar testes isolados sem retorno mensurável.
 - Next step: Levar o caso à primeira conversa com processo, objetivo, dados disponíveis e restrições.
 
-### Uma PME sem equipe interna de IT pode começar?
+### Uma empresa sem equipe interna de TI pode começar?
 
 Sim, se começar por decisões, processos e competências antes da tecnologia.
 
@@ -49425,7 +49425,7 @@ O diagnóstico pode indicar treinamento, mapa de oportunidades, validação de d
 
 Pelo menos quem conhece o processo e quem pode decidir prioridades.
 
-Direção, área envolvida e referência operacional evitam leituras parciais. Se há dados ou sistemas, também pode ajudar IT ou quem gerencia as ferramentas.
+Direção, área envolvida e referência operacional evitam leituras parciais. Se há dados ou sistemas, também pode ajudar TI ou quem gerencia as ferramentas.
 
 - ID: discovery-stakeholders
 - Área: Primeira conversa e método
@@ -50405,7 +50405,7 @@ Limite a considerar: Começar pelo modelo ou ferramenta costuma criar testes iso
 
 Próximo passo: Levar o caso à primeira conversa com processo, objetivo, dados disponíveis e restrições.
 
-### Uma PME sem equipe interna de IT pode começar?
+### Uma empresa sem equipe interna de TI pode começar?
 
 Resposta breve: Sim, se começar por decisões, processos e competências antes da tecnologia.
 
@@ -50472,7 +50472,7 @@ Próximo passo: Abrir uma trilha de consultoria para esclarecer prioridades, gov
 
 Resposta breve: Pelo menos quem conhece o processo e quem pode decidir prioridades.
 
-Detalhe operacional: Direção, área envolvida e referência operacional evitam leituras parciais. Se há dados ou sistemas, também pode ajudar IT ou quem gerencia as ferramentas.
+Detalhe operacional: Direção, área envolvida e referência operacional evitam leituras parciais. Se há dados ou sistemas, também pode ajudar TI ou quem gerencia as ferramentas.
 
 Limite a considerar: Um diagnóstico genérico não basta para escolher investimento, responsabilidade e dados.
 

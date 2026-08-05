@@ -27,7 +27,7 @@ L'Atlas rassemble des exemples concrets d'applications IA pour documents, opéra
 - Cours d'IA pour entreprises: choisir le bon parcours
 - AI Workflow Redesign Lab
 - custom corporate AI training
-- practical AI courses for SMEs
+- practical AI courses for companies
 - AI training with DTR methodology
 
 ## Catalogue étendu

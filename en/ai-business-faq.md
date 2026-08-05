@@ -48,7 +48,7 @@ Limit to consider: Starting from the model or tool often creates isolated trials
 
 Next step: Bring the case to the first conversation with process, goal, available data and constraints.
 
-### Can an SME without an internal IT team start?
+### Can a company without an internal IT team start?
 
 Short answer: Yes, if it starts from decisions, processes and skills before technology.
 

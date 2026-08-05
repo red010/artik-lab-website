@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/services-catalog.schema.json",
-  "generatedAt": "2026-07-02",
+  "generatedAt": "2026-08-05",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "locale": "en",
@@ -12,7 +12,7 @@
       "locale": "en",
       "language": "en",
       "title": "Artik Lab",
-      "description": "Artik Lab helps SMEs and business functions choose, govern and deliver the first useful use of AI: process mapping, business cases, team training, data analysis and controlled prototypes.",
+      "description": "Artik Lab helps companies and business functions choose, govern and deliver the first useful use of AI: process mapping, business cases, team training, data analysis and controlled prototypes.",
       "urls": {
         "html": "https://ar-tik.com/en/",
         "markdown": "https://ar-tik.com/en/index.md"

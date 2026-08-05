@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/faq-repertoire.schema.json",
-  "generatedAt": "2026-07-02",
+  "generatedAt": "2026-08-05",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "locale": "pt",
@@ -212,15 +212,15 @@
       "language": "pt-BR",
       "category": "start",
       "categoryLabel": "Por onde começar",
-      "question": "Uma PME sem equipe interna de IT pode começar?",
+      "question": "Uma empresa sem equipe interna de TI pode começar?",
       "shortAnswer": "Sim, se começar por decisões, processos e competências antes da tecnologia.",
       "detailedAnswer": "Muitas atividades iniciais não exigem desenvolvimento de software: mapa de processos, critérios de risco, treinamento direcionado e escolha do primeiro caso vêm primeiro. A parte técnica chega quando o escopo está claro.",
       "audience": "direção e sócios",
       "searchIntent": "orientação inicial",
       "searchQueries": [
-        "Uma PME sem equipe interna de IT pode começar?",
-        "uma pme sem equipe interna de it pode começar",
-        "Por onde começar uma pme sem equipe interna de it pode começar"
+        "Uma empresa sem equipe interna de TI pode começar?",
+        "uma empresa sem equipe interna de ti pode começar",
+        "Por onde começar uma empresa sem equipe interna de ti pode começar"
       ],
       "needSignals": [
         "interesse por IA sem projeto definido",
@@ -260,8 +260,8 @@
       "nextStep": "Escolher um curso ou laboratório se a principal necessidade é transferir método à equipe.",
       "urls": {
         "html": "https://ar-tik.com/pt-br/perguntas-frequentes-ia-empresas.html#start-pmi-no-it",
-        "markdown": "https://ar-tik.com/pt-br/perguntas-frequentes-ia-empresas.md#Uma PME sem equipe interna de IT pode começar?",
-        "dossier": "https://ar-tik.com/pt-br/perguntas-frequentes-ia-empresas-dossier.md#Uma PME sem equipe interna de IT pode começar?",
+        "markdown": "https://ar-tik.com/pt-br/perguntas-frequentes-ia-empresas.md#Uma empresa sem equipe interna de TI pode começar?",
+        "dossier": "https://ar-tik.com/pt-br/perguntas-frequentes-ia-empresas-dossier.md#Uma empresa sem equipe interna de TI pode começar?",
         "json": "https://ar-tik.com/data/faq.pt-br.json"
       }
     },
@@ -521,7 +521,7 @@
       "categoryLabel": "Primeira conversa e método",
       "question": "Quem deve participar da primeira conversa?",
       "shortAnswer": "Pelo menos quem conhece o processo e quem pode decidir prioridades.",
-      "detailedAnswer": "Direção, área envolvida e referência operacional evitam leituras parciais. Se há dados ou sistemas, também pode ajudar IT ou quem gerencia as ferramentas.",
+      "detailedAnswer": "Direção, área envolvida e referência operacional evitam leituras parciais. Se há dados ou sistemas, também pode ajudar TI ou quem gerencia as ferramentas.",
       "audience": "direção e sócios",
       "searchIntent": "orientação inicial",
       "searchQueries": [

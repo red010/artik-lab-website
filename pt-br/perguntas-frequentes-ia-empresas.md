@@ -48,7 +48,7 @@ Limite a considerar: Começar pelo modelo ou ferramenta costuma criar testes iso
 
 Próximo passo: Levar o caso à primeira conversa com processo, objetivo, dados disponíveis e restrições.
 
-### Uma PME sem equipe interna de IT pode começar?
+### Uma empresa sem equipe interna de TI pode começar?
 
 Resposta breve: Sim, se começar por decisões, processos e competências antes da tecnologia.
 
@@ -115,7 +115,7 @@ Próximo passo: Abrir uma trilha de consultoria para esclarecer prioridades, gov
 
 Resposta breve: Pelo menos quem conhece o processo e quem pode decidir prioridades.
 
-Detalhe operacional: Direção, área envolvida e referência operacional evitam leituras parciais. Se há dados ou sistemas, também pode ajudar IT ou quem gerencia as ferramentas.
+Detalhe operacional: Direção, área envolvida e referência operacional evitam leituras parciais. Se há dados ou sistemas, também pode ajudar TI ou quem gerencia as ferramentas.
 
 Limite a considerar: Um diagnóstico genérico não basta para escolher investimento, responsabilidade e dados.
 

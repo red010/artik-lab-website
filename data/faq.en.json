@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/faq-repertoire.schema.json",
-  "generatedAt": "2026-07-02",
+  "generatedAt": "2026-08-05",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "locale": "en",
@@ -212,15 +212,15 @@
       "language": "en",
       "category": "start",
       "categoryLabel": "Where to start",
-      "question": "Can an SME without an internal IT team start?",
+      "question": "Can a company without an internal IT team start?",
       "shortAnswer": "Yes, if it starts from decisions, processes and skills before technology.",
       "detailedAnswer": "Many initial activities do not require software development: process mapping, risk criteria, focused training and first-case selection matter first. Technical work arrives only when the scope is clear.",
       "audience": "leaders and owners",
       "searchIntent": "initial orientation",
       "searchQueries": [
-        "Can an SME without an internal IT team start?",
-        "can an sme without an internal it team start",
-        "Where to start can an sme without an internal it team start"
+        "Can a company without an internal IT team start?",
+        "can a company without an internal it team start",
+        "Where to start can a company without an internal it team start"
       ],
       "needSignals": [
         "interest in AI with no defined project",
@@ -260,8 +260,8 @@
       "nextStep": "Choose a course or lab if the main need is transferring method to the team.",
       "urls": {
         "html": "https://ar-tik.com/en/ai-business-faq.html#start-pmi-no-it",
-        "markdown": "https://ar-tik.com/en/ai-business-faq.md#Can an SME without an internal IT team start?",
-        "dossier": "https://ar-tik.com/en/ai-business-faq-dossier.md#Can an SME without an internal IT team start?",
+        "markdown": "https://ar-tik.com/en/ai-business-faq.md#Can a company without an internal IT team start?",
+        "dossier": "https://ar-tik.com/en/ai-business-faq-dossier.md#Can a company without an internal IT team start?",
         "json": "https://ar-tik.com/data/faq.en.json"
       }
     },

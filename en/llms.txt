@@ -3,7 +3,7 @@
 > Artik Lab builds AI capabilities that remain inside the company: measurable processes, governance, operational training, agentic data analysis and controlled prototypes.
 
 ## Guides and main pages
-- [Artik Lab](https://ar-tik.com/en/index.md): Artik Lab helps SMEs and business functions choose, govern and deliver the first useful use of AI: process mapping, business cases, team training, data analysis and controlled prototypes.
+- [Artik Lab](https://ar-tik.com/en/index.md): Artik Lab helps companies and business functions choose, govern and deliver the first useful use of AI: process mapping, business cases, team training, data analysis and controlled prototypes.
 - [AI applications atlas](https://ar-tik.com/en/ai-applications-atlas.md): A public map of concrete examples to recognise where artificial intelligence can reduce time, errors, risk or decision delays in company workflows.
 - [Corporate AI FAQ](https://ar-tik.com/en/ai-business-faq.md): A public question set for owners, leaders and business functions choosing between consulting, courses, data analysis, technical software and the AI applications Atlas.
 

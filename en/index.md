@@ -1,6 +1,6 @@
 # AI consulting, courses and software to reduce costs and decision delays, with measurable results.
 
-Artik Lab helps SMEs and business functions choose, govern and deliver the first useful use of AI: process mapping, business cases, team training, data analysis and controlled prototypes.
+Artik Lab helps companies and business functions choose, govern and deliver the first useful use of AI: process mapping, business cases, team training, data analysis and controlled prototypes.
 
 ## Artik Lab builds AI capabilities that stay inside the company.
 
@@ -94,7 +94,7 @@ Details: https://ar-tik.com/en/agentic-data-analysis.md
 
 ### What does Artik Lab do?
 
-Artik Lab helps SMEs and business functions choose, govern and deliver the first useful use of AI: process mapping, business cases, team training, data analysis and controlled prototypes.
+Artik Lab helps companies and business functions choose, govern and deliver the first useful use of AI: process mapping, business cases, team training, data analysis and controlled prototypes.
 
 ### Where should a company start?
 

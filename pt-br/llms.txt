@@ -3,7 +3,7 @@
 > A Artik Lab constrói capacidades de IA que permanecem na empresa: processos mensuráveis, governança, formação operacional, análise de dados agêntica e protótipos controlados.
 
 ## Guias e páginas principais
-- [Artik Lab](https://ar-tik.com/pt-br/index.md): A Artik Lab ajuda PMEs e áreas de negócio a escolher, governar e realizar o primeiro uso útil da IA: mapa de processos, business case, treinamento de equipes, análise de dados e protótipos controlados.
+- [Artik Lab](https://ar-tik.com/pt-br/index.md): A Artik Lab ajuda empresas e áreas de negócio a escolher, governar e realizar o primeiro uso útil da IA: mapa de processos, business case, treinamento de equipes, análise de dados e protótipos controlados.
 - [Atlas de aplicações IA](https://ar-tik.com/pt-br/atlas-aplicacoes-ia-empresas.md): Um mapa público de exemplos concretos para reconhecer onde a inteligência artificial pode reduzir tempos, erros, riscos ou atrasos decisórios nos processos empresariais.
 - [FAQ de IA para empresas](https://ar-tik.com/pt-br/perguntas-frequentes-ia-empresas.md): Um repertório público de perguntas reais para orientar direção e áreas de negócio entre consultoria, cursos, análise de dados, software técnico e Atlas de aplicações IA.
 

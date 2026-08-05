@@ -102,6 +102,6 @@ Yes. AI management consulting defines governance, priorities, skills and roadmap
 
 No. The point is to avoid starting from the tool. First clarify which process to improve, which decision to support and which risk to govern.
 
-### Does it fit SMEs without an internal IT team?
+### Does it fit companies without an internal IT team?
 
 Yes. The service is designed for companies with strong domain knowledge and limited technical capacity. Technical work starts only once the management perimeter is clear.
