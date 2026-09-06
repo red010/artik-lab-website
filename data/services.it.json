@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/services-catalog.schema.json",
-  "generatedAt": "2026-08-05",
+  "generatedAt": "2026-09-06",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "locale": "it",
@@ -36,7 +36,7 @@
       "locale": "it",
       "language": "it",
       "title": "Analisi dati agentica",
-      "description": "L'analisi dati agentica non produce grafici da archiviare: cerca segnali nei dati già disponibili, li collega a una decisione e dichiara dove il modello non conviene.",
+      "description": "L'analisi dati agentica non produce grafici da archiviare: cerca i segnali (anche quelli più deboli) nei dati già disponibili, suggerisce azioni concrete e giustifica le scelte fatte con delle spiegazioni chiare e accurate.",
       "urls": {
         "html": "https://ar-tik.com/analisi-dati-agentica.html",
         "markdown": "https://ar-tik.com/analisi-dati-agentica.md"
@@ -79,6 +79,19 @@
         "html": "https://ar-tik.com/sviluppo-software-tecnico-ai.html",
         "markdown": "https://ar-tik.com/sviluppo-software-tecnico-ai.md",
         "dossier": "https://ar-tik.com/sviluppo-software-tecnico-ai-dossier.md"
+      }
+    },
+    {
+      "id": "operational-start",
+      "type": "service",
+      "locale": "it",
+      "language": "it",
+      "title": "Operatività immediata",
+      "description": "Si parte da un lavoro che oggi ruba tempo: offerte da mettere insieme, plichi di documenti, confronto tra fornitori, posta della settimana. A fine giornata resta una procedura scritta, da ripetere senza Artik in sala. I file restano in azienda. Non è un corso. Non è un software da installare. Il gestionale non si tocca.",
+      "urls": {
+        "html": "https://ar-tik.com/avvio-operativo/",
+        "markdown": "https://ar-tik.com/avvio-operativo/index.md",
+        "dossier": "https://ar-tik.com/avvio-operativo/index-dossier.md"
       }
     },
     {

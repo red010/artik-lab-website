@@ -1,0 +1,92 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/avvio-catalog.schema.json",
+  "generatedAt": "2026-09-06",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "locale": "en",
+  "language": "en",
+  "catalog": {
+    "title": "Operational start",
+    "description": "One day on site. What remains is the written procedure on the assistant in the company's name. Files stay in the company. The ERP is not touched.",
+    "urls": {
+      "html": "https://ar-tik.com/en/operational-start/",
+      "markdown": "https://ar-tik.com/en/operational-start/index.md",
+      "dossier": "https://ar-tik.com/en/operational-start/index-dossier.md"
+    }
+  },
+  "activities": [
+    {
+      "id": "offerte-da-posta",
+      "locale": "en",
+      "language": "en",
+      "family": "documents",
+      "title": "Quotes and price lists from mail and files",
+      "subtitle": "A request arrives by mail, sometimes with a PDF. What remains is a draft on the company template, for whoever sells to reread.",
+      "summary": "From mail and PDFs to a draft quote or price list for whoever sells to reread. One day on site. The ERP is not touched.",
+      "duration": "One day on site",
+      "problem": "An updated quote or price list is needed, with attached sheets, without whoever sells recopying from three folders. The job — negotiating, closing, entering the order — stays with the person. What is lightened is the work around it: gathering from mail and files, assembling, flagging gaps.",
+      "notFor": [
+        "The «quote» is a take-off from drawings (PriMus, AutoCAD) or a site-hour estimate: that is the job.",
+        "Negotiation, closing a discount, or a bid pricing strategy is required.",
+        "The order or confirmation must be written into the ERP.",
+        "The request arrives once or twice a year.",
+        "Price lists and sheets do not exist, or exist only in one person's head and cannot be exported.",
+        "An assistant that sends the quote on its own is requested."
+      ],
+      "prerequisites": [
+        "Assistant in the company's name.",
+        "Internal owner (usually whoever already assembles quotes).",
+        "A quote or price-list template, even an imperfect one.",
+        "A folder or export to pick lists and sheets from, without entering the ERP."
+      ],
+      "outcomes": [
+        "A written procedure: where to pick from, how to assemble, where a person stops.",
+        "At least one real draft to reread, on the company template.",
+        "An internal owner named and a metric stated before the day.",
+        "Messy samples on which to rerun the procedure after a model change."
+      ],
+      "searchIntents": [
+        "quotes from email",
+        "price lists and sheets from PDFs",
+        "draft quote from mail"
+      ],
+      "needSignals": [
+        "Quote requests arrive by mail with messy attachments.",
+        "Whoever sells spends time copying lists and sheets from several folders.",
+        "The ERP click stays with the person: the draft before that click is missing."
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/en/operational-start/quotes-from-mail.html",
+        "markdown": "https://ar-tik.com/en/operational-start/quotes-from-mail.md",
+        "dossier": "https://ar-tik.com/en/operational-start/quotes-from-mail-dossier.md",
+        "json": "https://ar-tik.com/en/operational-start/quotes-from-mail.json"
+      }
+    }
+  ],
+  "formProcesses": [
+    {
+      "id": "a",
+      "label": "Quotes, price lists and sheets to assemble from mail and PDFs, for whoever sells to reread."
+    },
+    {
+      "id": "b",
+      "label": "The document pack that clients, tenders, auditors or shippers ask for every time."
+    },
+    {
+      "id": "c",
+      "label": "Compare three supplier quotes and have a table before whoever negotiates."
+    },
+    {
+      "id": "d",
+      "label": "Sort certified and ordinary mail for the week."
+    },
+    {
+      "id": "e",
+      "label": "Attach sheets, certificates and packing lists to a shipment or an order already decided."
+    },
+    {
+      "id": "f",
+      "label": "A report from an Excel export for the owner or the sales lead."
+    }
+  ]
+}

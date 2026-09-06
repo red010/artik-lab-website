@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/llm-index.schema.json",
-  "generatedAt": "2026-08-05",
+  "generatedAt": "2026-09-06",
   "canonicalDomain": "https://ar-tik.com",
   "publisher": "Artik Lab s.r.l.",
   "description": "Public AI-readable index for Artik Lab static website, Markdown mirrors, LLM dossiers, JSON data files and sitemap resources.",

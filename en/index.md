@@ -42,6 +42,12 @@ Assessment, opportunity map, governance and a 30/60/90-day roadmap with KPIs bef
 
 Dedicated page: https://ar-tik.com/en/ai-management-consulting.md
 
+### Operational start
+
+One day on site. What remains is the written procedure on the assistant in the company's name. Files stay in the company. The ERP is not touched.
+
+Dedicated page: https://ar-tik.com/en/operational-start/index.md
+
 ### AI applications atlas
 
 Concrete examples to recognise where AI can help: documents, operations, HR, marketing, software, governance, production, training and data.

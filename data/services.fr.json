@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/services-catalog.schema.json",
-  "generatedAt": "2026-08-05",
+  "generatedAt": "2026-09-06",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "locale": "fr",
@@ -79,6 +79,19 @@
         "html": "https://ar-tik.com/fr/developpement-logiciels-techniques.html",
         "markdown": "https://ar-tik.com/fr/developpement-logiciels-techniques.md",
         "dossier": "https://ar-tik.com/fr/developpement-logiciels-techniques-dossier.md"
+      }
+    },
+    {
+      "id": "operational-start",
+      "type": "service",
+      "locale": "fr",
+      "language": "fr",
+      "title": "Démarrage opérationnel",
+      "description": "L'entreprise peut utiliser l'intelligence artificielle tout de suite, sur les processus qui prennent le plus de temps. Ce n'est pas un cours. Ce n'est pas un logiciel. Le logiciel de gestion n'est pas touché.",
+      "urls": {
+        "html": "https://ar-tik.com/fr/demarrage-operationnel/",
+        "markdown": "https://ar-tik.com/fr/demarrage-operationnel/index.md",
+        "dossier": "https://ar-tik.com/fr/demarrage-operationnel/index-dossier.md"
       }
     },
     {

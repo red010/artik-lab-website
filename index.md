@@ -42,6 +42,12 @@ Assessment, mappa delle opportunità, governance e roadmap 30/60/90 giorni con K
 
 Pagina dedicata: https://ar-tik.com/consulenza-manageriale-ai.md
 
+### Operatività immediata
+
+Un giorno in sede. Resta una procedura scritta, da usare subito, sui file dell'azienda. Il gestionale non si tocca.
+
+Pagina dedicata: https://ar-tik.com/avvio-operativo/index.md
+
 ### Atlante delle applicazioni AI
 
 Esempi concreti per riconoscere dove l'AI può aiutare: documenti, operations, HR, marketing, software, governance, produzione, formazione e dati.

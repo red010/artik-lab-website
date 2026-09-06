@@ -11,6 +11,11 @@
 - [Consultoria gerencial de IA](https://ar-tik.com/pt-br/consultoria-gerencial-ia.md): IA não é software para instalar: é uma capacidade gerencial a construir. A Artik Lab ajuda a liderança a decidir onde usá-la, onde parar, quais processos redesenhar e quais competências devem permanecer na empresa.
 - [Análise de dados agêntica](https://ar-tik.com/pt-br/analise-dados-agentica.md): A análise de dados agêntica não produz gráficos para arquivar: encontra sinais em dados já disponíveis, conecta-os a uma decisão e declara onde o modelo não compensa.
 - [Software técnico de IA](https://ar-tik.com/pt-br/desenvolvimento-software-tecnico.md): A Artik Lab desenvolve software avançado para clientes quando o problema não se resolve com um dashboard ou uma aplicação padrão: cálculos técnicos, modelos matemáticos, dados operacionais, regras especializadas e fluxos de trabalho que precisam se tornar verificáveis.
+- [Início operacional](https://ar-tik.com/pt-br/inicio-operacional/index.md): A empresa pode usar a inteligência artificial de imediato, nos processos que hoje roubam mais tempo. Não é um curso. Não é um software. O sistema de gestão não é tocado.
+
+## Início operacional
+- [Início operacional](https://ar-tik.com/pt-br/inicio-operacional/index.md): Um dia na sede. Resta o procedimento escrito no assistente em nome da empresa. Os dados ficam na empresa. O sistema de gestão não é tocado.
+- [Ofertas e listas de preços a partir do correio e dos arquivos](https://ar-tik.com/pt-br/inicio-operacional/ofertas-do-correio.md): De correio e PDF a um rascunho de oferta ou lista de preços para quem vende reler. Um dia na sede. O sistema de gestão não é tocado.
 
 ## Cursos
 - [AI Workflow Redesign Lab](https://ar-tik.com/pt-br/cursos/workflow-redesign.md): Curso corporativo prático para aplicar IA a redesenho de fluxos de trabalho, com exercícios sobre trabalho realista, materiais reutilizáveis e critérios claros de governança.
@@ -44,6 +49,7 @@
 - [Atlas de aplicações IA - dossiê público para LLM](https://ar-tik.com/pt-br/atlas-aplicacoes-ia-empresas-dossier.md): Um mapa público de exemplos concretos para reconhecer onde a inteligência artificial pode reduzir tempos, erros, riscos ou atrasos decisórios nos processos empresariais.
 - [FAQ de IA para empresas - dossiê público para LLM](https://ar-tik.com/pt-br/perguntas-frequentes-ia-empresas-dossier.md): Um repertório público de perguntas reais para orientar direção e áreas de negócio entre consultoria, cursos, análise de dados, software técnico e Atlas de aplicações IA.
 - [Software técnico de IA - dossiê LLM](https://ar-tik.com/pt-br/desenvolvimento-software-tecnico-dossier.md): A Artik Lab desenvolve software avançado para clientes quando o problema não se resolve com um dashboard ou uma aplicação padrão: cálculos técnicos, modelos matemáticos, dados operacionais, regras especializadas e fluxos de trabalho que precisam se tornar verificáveis.
+- [Início operacional - dossiê público para LLM](https://ar-tik.com/pt-br/inicio-operacional/index-dossier.md): A empresa pode usar a inteligência artificial de imediato, nos processos que hoje roubam mais tempo. Não é um curso. Não é um software. O sistema de gestão não é tocado.
 - [Cursos de IA para empresas: escolher a trilha certa - LLM dossier](https://ar-tik.com/pt-br/cursos/index-dossier.md): Catálogo de cursos de IA para empresas: trilhas introdutórias, gerenciais, operacionais e técnicas desenhadas com DTR sobre papéis, processos e resultados esperados.
 - [AI Workflow Redesign Lab - dossiê público para LLM](https://ar-tik.com/pt-br/cursos/workflow-redesign-dossier.md): Curso corporativo prático para aplicar IA a redesenho de fluxos de trabalho, com exercícios sobre trabalho realista, materiais reutilizáveis e critérios claros de governança.
 - [Managing AI - dossiê público para LLM](https://ar-tik.com/pt-br/cursos/managing-ai-dossier.md): Curso corporativo prático para aplicar IA a adoção gerencial de IA, com exercícios sobre trabalho realista, materiais reutilizáveis e critérios claros de governança.
@@ -70,10 +76,12 @@
 - [Secure AI SDLC - dossiê público para LLM](https://ar-tik.com/pt-br/cursos/secure-ai-sdlc-dossier.md): Curso corporativo prático para aplicar IA a ciclo de vida seguro para software com IA, com exercícios sobre trabalho realista, materiais reutilizáveis e critérios claros de governança.
 - [Secure AI at Work - dossiê público para LLM](https://ar-tik.com/pt-br/cursos/secure-ai-at-work-dossier.md): Curso corporativo prático para aplicar IA a uso seguro de IA no trabalho, com exercícios sobre trabalho realista, materiais reutilizáveis e critérios claros de governança.
 - [AI Output Quality & Human Review - dossiê público para LLM](https://ar-tik.com/pt-br/cursos/ai-output-quality-dossier.md): Curso corporativo prático para aplicar IA a qualidade de resultados de IA e revisão humana, com exercícios sobre trabalho realista, materiais reutilizáveis e critérios claros de governança.
+- [Ofertas e listas de preços a partir do correio e dos arquivos - dossiê público para LLM](https://ar-tik.com/pt-br/inicio-operacional/ofertas-do-correio-dossier.md): De correio e PDF a um rascunho de oferta ou lista de preços para quem vende reler. Um dia na sede. O sistema de gestão não é tocado.
 
 ## Dados legíveis por máquina
 - [Courses JSON](https://ar-tik.com/data/courses.pt-br.json): catálogo estruturado de cursos com URLs HTML, Markdown e dossiê LLM.
 - [Services JSON](https://ar-tik.com/data/services.pt-br.json): índice estruturado das páginas de serviço Artik Lab e espelhos Markdown.
+- [Avvio JSON](https://ar-tik.com/data/avvio.pt-br.json): índice público do Início operacional: hub, atividades publicadas, processos do formulário, limites e ligações.
 - [AI applications JSON](https://ar-tik.com/data/ai-applications.pt-br.json): atlas estruturado de aplicações IA para empresas, com input, output, valor e conexões.
 - [FAQ JSON](https://ar-tik.com/data/faq.pt-br.json): repertório FAQ de IA para empresas, com perguntas, respostas, intenções, sinais, riscos e próximos passos.
 - [LLM index JSON](https://ar-tik.com/data/llm-index.json): manifest legível por máquina para idiomas, sitemaps e arquivos públicos AI-readable.

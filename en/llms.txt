@@ -11,6 +11,11 @@
 - [AI management consulting](https://ar-tik.com/en/ai-management-consulting.md): AI is not software to install: it is a management capability to build. Artik Lab helps leadership decide where to use it, where to stop, which processes to redesign and which skills must remain inside the company.
 - [Agentic data analysis](https://ar-tik.com/en/agentic-data-analysis.md): Agentic data analysis does not produce charts to archive: it finds signals in already available data, connects them to a decision and states where the model is not worth building.
 - [Technical AI software](https://ar-tik.com/en/technical-software-development.md): Artik Lab develops advanced software for clients when the problem cannot be solved by a dashboard or a standard business application: technical calculations, mathematical models, operational data, expert rules and workflows that need to become verifiable.
+- [Operational start](https://ar-tik.com/en/operational-start/index.md): The company can use artificial intelligence at once, on the processes that now steal the most time. This is not a course. This is not software. The ERP is not touched.
+
+## Operational start
+- [Operational start](https://ar-tik.com/en/operational-start/index.md): One day on site. What remains is the written procedure on the assistant in the company's name. Files stay in the company. The ERP is not touched.
+- [Quotes and price lists from mail and files](https://ar-tik.com/en/operational-start/quotes-from-mail.md): From mail and PDFs to a draft quote or price list for whoever sells to reread. One day on site. The ERP is not touched.
 
 ## Courses
 - [AI Workflow Redesign Lab](https://ar-tik.com/en/courses/workflow-redesign.md): Practical corporate course for applying AI to workflow redesign, with exercises on realistic work, reusable materials and clear governance criteria.
@@ -44,6 +49,7 @@
 - [AI applications atlas - public LLM dossier](https://ar-tik.com/en/ai-applications-atlas-dossier.md): A public map of concrete examples to recognise where artificial intelligence can reduce time, errors, risk or decision delays in company workflows.
 - [Corporate AI FAQ - public LLM dossier](https://ar-tik.com/en/ai-business-faq-dossier.md): A public question set for owners, leaders and business functions choosing between consulting, courses, data analysis, technical software and the AI applications Atlas.
 - [Technical AI software - LLM dossier](https://ar-tik.com/en/technical-software-development-dossier.md): Artik Lab develops advanced software for clients when the problem cannot be solved by a dashboard or a standard business application: technical calculations, mathematical models, operational data, expert rules and workflows that need to become verifiable.
+- [Operational start - public LLM dossier](https://ar-tik.com/en/operational-start/index-dossier.md): The company can use artificial intelligence at once, on the processes that now steal the most time. This is not a course. This is not software. The ERP is not touched.
 - [Corporate AI courses: choose the right path - LLM dossier](https://ar-tik.com/en/courses/index-dossier.md): Corporate AI course catalog: introductory, managerial, operational and technical paths designed with DTR around roles, workflows and expected outcomes.
 - [AI Workflow Redesign Lab - public LLM dossier](https://ar-tik.com/en/courses/workflow-redesign-dossier.md): Practical corporate course for applying AI to workflow redesign, with exercises on realistic work, reusable materials and clear governance criteria.
 - [Managing AI - public LLM dossier](https://ar-tik.com/en/courses/managing-ai-dossier.md): Practical corporate course for applying AI to managerial AI adoption, with exercises on realistic work, reusable materials and clear governance criteria.
@@ -70,10 +76,12 @@
 - [Secure AI SDLC - public LLM dossier](https://ar-tik.com/en/courses/secure-ai-sdlc-dossier.md): Practical corporate course for applying AI to secure AI software lifecycle, with exercises on realistic work, reusable materials and clear governance criteria.
 - [Secure AI at Work - public LLM dossier](https://ar-tik.com/en/courses/secure-ai-at-work-dossier.md): Practical corporate course for applying AI to secure AI use at work, with exercises on realistic work, reusable materials and clear governance criteria.
 - [AI Output Quality & Human Review - public LLM dossier](https://ar-tik.com/en/courses/ai-output-quality-dossier.md): Practical corporate course for applying AI to AI output quality and human review, with exercises on realistic work, reusable materials and clear governance criteria.
+- [Quotes and price lists from mail and files - public LLM dossier](https://ar-tik.com/en/operational-start/quotes-from-mail-dossier.md): From mail and PDFs to a draft quote or price list for whoever sells to reread. One day on site. The ERP is not touched.
 
 ## Machine-readable data
 - [Courses JSON](https://ar-tik.com/data/courses.en.json): structured course catalog with HTML, Markdown and LLM dossier URLs.
 - [Services JSON](https://ar-tik.com/data/services.en.json): structured index of Artik Lab service pages and Markdown mirrors.
+- [Avvio JSON](https://ar-tik.com/data/avvio.en.json): public index of Operational start: hub, published activities, form processes, limits and links.
 - [AI applications JSON](https://ar-tik.com/data/ai-applications.en.json): structured atlas of AI applications for companies, with input, output, value and links.
 - [FAQ JSON](https://ar-tik.com/data/faq.en.json): corporate AI FAQ repertoire with questions, answers, intents, signals, risks and next steps.
 - [LLM index JSON](https://ar-tik.com/data/llm-index.json): machine-readable manifest for languages, sitemaps and public AI-readable files.

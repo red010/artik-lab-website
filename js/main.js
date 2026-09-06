@@ -68,6 +68,41 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
+  var avvioForm = document.getElementById('avvio-form');
+  if (avvioForm) {
+    avvioForm.addEventListener('submit', function (event) {
+      event.preventDefault();
+      var checked = Array.prototype.slice.call(avvioForm.querySelectorAll('input[name="process"]:checked'));
+      var errorNode = avvioForm.querySelector('[data-avvio-error]');
+      if (!checked.length) {
+        if (errorNode) {
+          errorNode.hidden = false;
+          errorNode.textContent = avvioForm.getAttribute('data-checks-error') || '';
+        }
+        return;
+      }
+      if (errorNode) {
+        errorNode.hidden = true;
+        errorNode.textContent = '';
+      }
+      var data = new FormData(avvioForm);
+      var processLines = checked.map(function (input) {
+        var label = input.parentNode ? input.parentNode.textContent : input.value;
+        return '- ' + String(label || '').replace(/\s+/g, ' ').trim();
+      });
+      var lines = [
+        (avvioForm.getAttribute('data-email-label') || 'Email') + ': ' + (data.get('email') || ''),
+        (avvioForm.getAttribute('data-site-label') || 'URL') + ': ' + (data.get('website') || ''),
+        (avvioForm.getAttribute('data-processes-label') || 'Processi') + ':',
+        processLines.join('\n'),
+        '',
+        avvioForm.getAttribute('data-consent-line') || ''
+      ];
+      var subject = avvioForm.getAttribute('data-subject') || '[Avvio operativo]';
+      window.location.href = 'mailto:dtr@ar-tik.com?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(lines.join('\n'));
+    });
+  }
+
   var atlasCards = Array.prototype.slice.call(document.querySelectorAll('[data-atlas-card]'));
   var areaFilter = document.querySelector('[data-atlas-area-filter]');
   var atlasSearch = document.querySelector('[data-atlas-search]');

@@ -11,6 +11,11 @@
 - [Conseil managérial IA](https://ar-tik.com/fr/conseil-managerial-ia.md): L’IA n’est pas un logiciel à installer: c’est une capacité managériale à construire. Artik Lab aide la direction à décider où l’utiliser, où s’arrêter, quels processus repenser et quelles compétences garder dans l’entreprise.
 - [Analyse de données agentique](https://ar-tik.com/fr/analyse-donnees-agentique.md): L'analyse de données agentique ne produit pas des graphiques à archiver: elle cherche des signaux dans les données déjà disponibles, les relie à une décision et indique où le modèle ne vaut pas l'investissement.
 - [Logiciels techniques IA](https://ar-tik.com/fr/developpement-logiciels-techniques.md): Artik Lab développe pour ses clients des logiciels avancés lorsque le problème ne se résout pas avec un tableau de bord ou une application standard: calculs techniques, modèles mathématiques, données opérationnelles, règles expertes et flux de travail à rendre vérifiables.
+- [Démarrage opérationnel](https://ar-tik.com/fr/demarrage-operationnel/index.md): L'entreprise peut utiliser l'intelligence artificielle tout de suite, sur les processus qui prennent le plus de temps. Ce n'est pas un cours. Ce n'est pas un logiciel. Le logiciel de gestion n'est pas touché.
+
+## Démarrage opérationnel
+- [Démarrage opérationnel](https://ar-tik.com/fr/demarrage-operationnel/index.md): Une journée sur site. Il reste la procédure écrite sur l'assistant au nom de l'entreprise. Les fichiers restent dans l'entreprise. Le logiciel de gestion n'est pas touché.
+- [Offres et tarifs depuis le courrier et les fichiers](https://ar-tik.com/fr/demarrage-operationnel/offres-depuis-le-courrier.md): Du courrier et des PDF à un brouillon d'offre ou de tarif à faire relire par qui vend. Une journée sur site. Le logiciel de gestion n'est pas touché.
 
 ## Cours
 - [AI Workflow Redesign Lab](https://ar-tik.com/fr/cours/workflow-redesign.md): Cours d'entreprise pratique pour appliquer l'IA à refonte des flux de travail, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
@@ -44,6 +49,7 @@
 - [Atlas des applications IA - dossier public pour LLM](https://ar-tik.com/fr/atlas-applications-ia-entreprises-dossier.md): Une carte publique d'exemples concrets pour reconnaître où l'intelligence artificielle peut réduire délais, erreurs, risques ou retards décisionnels dans les processus métier.
 - [FAQ IA pour entreprises - dossier public pour LLM](https://ar-tik.com/fr/questions-frequentes-ia-entreprises-dossier.md): Un répertoire public de questions réelles pour orienter dirigeants et fonctions métier entre conseil, cours, analyse de données, logiciels techniques et Atlas des applications IA.
 - [Logiciels techniques IA - dossier LLM](https://ar-tik.com/fr/developpement-logiciels-techniques-dossier.md): Artik Lab développe pour ses clients des logiciels avancés lorsque le problème ne se résout pas avec un tableau de bord ou une application standard: calculs techniques, modèles mathématiques, données opérationnelles, règles expertes et flux de travail à rendre vérifiables.
+- [Démarrage opérationnel - dossier public pour LLM](https://ar-tik.com/fr/demarrage-operationnel/index-dossier.md): L'entreprise peut utiliser l'intelligence artificielle tout de suite, sur les processus qui prennent le plus de temps. Ce n'est pas un cours. Ce n'est pas un logiciel. Le logiciel de gestion n'est pas touché.
 - [Cours d'IA pour entreprises: choisir le bon parcours - LLM dossier](https://ar-tik.com/fr/cours/index-dossier.md): Catalogue de cours d'IA pour entreprises: parcours introductifs, managériaux, opérationnels et techniques conçus avec DTR autour des rôles, processus et résultats attendus.
 - [AI Workflow Redesign Lab - dossier public pour LLM](https://ar-tik.com/fr/cours/workflow-redesign-dossier.md): Cours d'entreprise pratique pour appliquer l'IA à refonte des flux de travail, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
 - [Managing AI - dossier public pour LLM](https://ar-tik.com/fr/cours/managing-ai-dossier.md): Cours d'entreprise pratique pour appliquer l'IA à adoption managériale de l'IA, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
@@ -70,10 +76,12 @@
 - [Secure AI SDLC - dossier public pour LLM](https://ar-tik.com/fr/cours/secure-ai-sdlc-dossier.md): Cours d'entreprise pratique pour appliquer l'IA à cycle de vie sécurisé pour logiciel avec IA, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
 - [Secure AI at Work - dossier public pour LLM](https://ar-tik.com/fr/cours/secure-ai-at-work-dossier.md): Cours d'entreprise pratique pour appliquer l'IA à usage sécurisé de l'IA au travail, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
 - [AI Output Quality & Human Review - dossier public pour LLM](https://ar-tik.com/fr/cours/ai-output-quality-dossier.md): Cours d'entreprise pratique pour appliquer l'IA à qualité des résultats IA et revue humaine, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [Offres et tarifs depuis le courrier et les fichiers - dossier public pour LLM](https://ar-tik.com/fr/demarrage-operationnel/offres-depuis-le-courrier-dossier.md): Du courrier et des PDF à un brouillon d'offre ou de tarif à faire relire par qui vend. Une journée sur site. Le logiciel de gestion n'est pas touché.
 
 ## Données lisibles par machine
 - [Courses JSON](https://ar-tik.com/data/courses.fr.json): catalogue de cours structuré avec URLs HTML, Markdown et dossiers LLM.
 - [Services JSON](https://ar-tik.com/data/services.fr.json): index structuré des pages service Artik Lab et des miroirs Markdown.
+- [Avvio JSON](https://ar-tik.com/data/avvio.fr.json): index public du Démarrage opérationnel: hub, activités publiées, processus du formulaire, limites et liens.
 - [AI applications JSON](https://ar-tik.com/data/ai-applications.fr.json): atlas structuré des applications IA pour entreprises, avec input, output, valeur et liens.
 - [FAQ JSON](https://ar-tik.com/data/faq.fr.json): répertoire FAQ IA pour entreprises, avec questions, réponses, intentions, signaux, risques et prochaines étapes.
 - [LLM index JSON](https://ar-tik.com/data/llm-index.json): manifest lisible par machine pour langues, sitemaps et fichiers publics AI-readable.

@@ -42,6 +42,12 @@ Assessment, mapa de oportunidades, gobernanza y hoja de ruta 30/60/90 días con 
 
 Página dedicada: https://ar-tik.com/es/consultoria-directiva-ia.md
 
+### Arranque operativo
+
+Un día en sede. Queda el procedimiento escrito en el asistente a nombre de la empresa. Los datos se quedan en la empresa. El sistema de gestión no se toca.
+
+Página dedicada: https://ar-tik.com/es/arranque-operativo/index.md
+
 ### Atlas de aplicaciones IA
 
 Ejemplos concretos para reconocer dónde la IA puede ayudar: documentos, operaciones, RR. HH., marketing, software, gobernanza, producción, formación y datos.

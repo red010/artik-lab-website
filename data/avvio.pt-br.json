@@ -1,0 +1,92 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/avvio-catalog.schema.json",
+  "generatedAt": "2026-09-06",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "locale": "pt",
+  "language": "pt-BR",
+  "catalog": {
+    "title": "Início operacional",
+    "description": "Um dia na sede. Resta o procedimento escrito no assistente em nome da empresa. Os dados ficam na empresa. O sistema de gestão não é tocado.",
+    "urls": {
+      "html": "https://ar-tik.com/pt-br/inicio-operacional/",
+      "markdown": "https://ar-tik.com/pt-br/inicio-operacional/index.md",
+      "dossier": "https://ar-tik.com/pt-br/inicio-operacional/index-dossier.md"
+    }
+  },
+  "activities": [
+    {
+      "id": "offerte-da-posta",
+      "locale": "pt",
+      "language": "pt-BR",
+      "family": "documents",
+      "title": "Ofertas e listas de preços a partir do correio e dos arquivos",
+      "subtitle": "Chega um pedido por correio, às vezes com PDF. Resta um rascunho no modelo da empresa, para quem vende reler.",
+      "summary": "De correio e PDF a um rascunho de oferta ou lista de preços para quem vende reler. Um dia na sede. O sistema de gestão não é tocado.",
+      "duration": "Um dia na sede",
+      "problem": "É preciso um orçamento ou uma lista atualizada, com fichas anexas, sem que quem vende refaça o copia-e-cola de três pastas. A função — negociar, fechar, lançar o pedido — permanece da pessoa. O que se alivia é o trabalho em volta: reunir de correio e arquivos, compor, assinalar falhas.",
+      "notFor": [
+        "O «orçamento» é um quantitativo a partir do desenho (PriMus, AutoCAD) ou uma estimativa de horas de obra: isso é a função.",
+        "É preciso negociar, fechar o desconto ou decidir a estratégia de preço em licitação.",
+        "É preciso escrever o pedido ou a confirmação no sistema de gestão.",
+        "O pedido chega uma ou duas vezes por ano.",
+        "Lista e fichas não existem, ou existem só na cabeça de uma pessoa e não se podem exportar.",
+        "Pede-se um assistente que envie a oferta sozinho."
+      ],
+      "prerequisites": [
+        "Assistente em nome da empresa.",
+        "Responsável interno (em geral quem já junta as ofertas).",
+        "Um modelo de oferta ou de lista, mesmo imperfeito.",
+        "Pasta ou export de onde tirar listas e fichas, sem entrar no sistema de gestão."
+      ],
+      "outcomes": [
+        "Procedimento escrito: de onde se tira, como se compõe, onde a pessoa para.",
+        "Ao menos um rascunho real para reler, no modelo da empresa.",
+        "Responsável interno nomeado e métrica dita antes do dia.",
+        "Exemplos desordenados sobre os quais refazer a volta depois de uma mudança de modelo."
+      ],
+      "searchIntents": [
+        "ofertas a partir do correio",
+        "listas e fichas a partir de PDF",
+        "rascunho de orçamento a partir do e-mail"
+      ],
+      "needSignals": [
+        "Os pedidos de oferta chegam por correio com anexos desordenados.",
+        "Quem vende perde tempo copiando listas e fichas de várias pastas.",
+        "O clique no sistema de gestão continua da pessoa: falta o rascunho antes desse clique."
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/pt-br/inicio-operacional/ofertas-do-correio.html",
+        "markdown": "https://ar-tik.com/pt-br/inicio-operacional/ofertas-do-correio.md",
+        "dossier": "https://ar-tik.com/pt-br/inicio-operacional/ofertas-do-correio-dossier.md",
+        "json": "https://ar-tik.com/pt-br/inicio-operacional/ofertas-do-correio.json"
+      }
+    }
+  ],
+  "formProcesses": [
+    {
+      "id": "a",
+      "label": "Ofertas, listas de preços e fichas a juntar (correio e PDF), para quem vende reler."
+    },
+    {
+      "id": "b",
+      "label": "O pacote de documentos que clientes, licitações, auditores ou despachantes pedem toda vez."
+    },
+    {
+      "id": "c",
+      "label": "Comparar três ofertas de fornecedores e ter uma tabela antes de quem negocia."
+    },
+    {
+      "id": "d",
+      "label": "Separar o correio certificado e o correio da semana."
+    },
+    {
+      "id": "e",
+      "label": "Anexar fichas, certificados e packing list a uma expedição ou a um pedido já decidido."
+    },
+    {
+      "id": "f",
+      "label": "Um relatório a partir de um export Excel para o titular ou o comercial."
+    }
+  ]
+}

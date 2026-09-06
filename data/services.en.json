@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/services-catalog.schema.json",
-  "generatedAt": "2026-08-05",
+  "generatedAt": "2026-09-06",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "locale": "en",
@@ -79,6 +79,19 @@
         "html": "https://ar-tik.com/en/technical-software-development.html",
         "markdown": "https://ar-tik.com/en/technical-software-development.md",
         "dossier": "https://ar-tik.com/en/technical-software-development-dossier.md"
+      }
+    },
+    {
+      "id": "operational-start",
+      "type": "service",
+      "locale": "en",
+      "language": "en",
+      "title": "Operational start",
+      "description": "The company can use artificial intelligence at once, on the processes that now steal the most time. This is not a course. This is not software. The ERP is not touched.",
+      "urls": {
+        "html": "https://ar-tik.com/en/operational-start/",
+        "markdown": "https://ar-tik.com/en/operational-start/index.md",
+        "dossier": "https://ar-tik.com/en/operational-start/index-dossier.md"
       }
     },
     {

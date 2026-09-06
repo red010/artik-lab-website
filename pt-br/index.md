@@ -42,6 +42,12 @@ Assessment, mapa de oportunidades, governança e roteiro 30/60/90 dias com KPIs 
 
 Página dedicada: https://ar-tik.com/pt-br/consultoria-gerencial-ia.md
 
+### Início operacional
+
+Um dia na sede. Resta o procedimento escrito no assistente em nome da empresa. Os dados ficam na empresa. O sistema de gestão não é tocado.
+
+Página dedicada: https://ar-tik.com/pt-br/inicio-operacional/index.md
+
 ### Atlas de aplicações IA
 
 Exemplos concretos para reconhecer onde a IA pode ajudar: documentos, operações, RH, marketing, software, governança, produção, treinamento e dados.

@@ -1,0 +1,92 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/avvio-catalog.schema.json",
+  "generatedAt": "2026-09-06",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "locale": "fr",
+  "language": "fr",
+  "catalog": {
+    "title": "Démarrage opérationnel",
+    "description": "Une journée sur site. Il reste la procédure écrite sur l'assistant au nom de l'entreprise. Les fichiers restent dans l'entreprise. Le logiciel de gestion n'est pas touché.",
+    "urls": {
+      "html": "https://ar-tik.com/fr/demarrage-operationnel/",
+      "markdown": "https://ar-tik.com/fr/demarrage-operationnel/index.md",
+      "dossier": "https://ar-tik.com/fr/demarrage-operationnel/index-dossier.md"
+    }
+  },
+  "activities": [
+    {
+      "id": "offerte-da-posta",
+      "locale": "fr",
+      "language": "fr",
+      "family": "documents",
+      "title": "Offres et tarifs depuis le courrier et les fichiers",
+      "subtitle": "Une demande arrive par courrier, parfois avec un PDF. Il reste un brouillon sur le modèle de l'entreprise, à faire relire par qui vend.",
+      "summary": "Du courrier et des PDF à un brouillon d'offre ou de tarif à faire relire par qui vend. Une journée sur site. Le logiciel de gestion n'est pas touché.",
+      "duration": "Une journée sur site",
+      "problem": "Il faut un devis ou un tarif à jour, avec des fiches jointes, sans que qui vend refasse le copier-coller depuis trois dossiers. Le métier — négocier, conclure, saisir la commande — reste à la personne. Ce qui s'allège, c'est le travail autour: rassembler depuis le courrier et les fichiers, composer, signaler les trous.",
+      "notFor": [
+        "Le «devis» est un métré depuis un plan (PriMus, AutoCAD) ou une estimation d'heures de chantier: c'est le métier.",
+        "Il faut négocier, conclure la remise, ou décider la stratégie de prix en appel d'offres.",
+        "Il faut écrire la commande ou la confirmation dans le logiciel de gestion.",
+        "La demande arrive une ou deux fois par an.",
+        "Tarif et fiches n'existent pas, ou n'existent que dans la tête d'une personne et ne peuvent pas être exportés.",
+        "On demande un assistant qui envoie l'offre tout seul."
+      ],
+      "prerequisites": [
+        "Assistant au nom de l'entreprise.",
+        "Responsable interne (en général qui assemble déjà les offres).",
+        "Un modèle d'offre ou de tarif, même imparfait.",
+        "Dossier ou export d'où tirer tarifs et fiches, sans entrer dans le logiciel de gestion."
+      ],
+      "outcomes": [
+        "Procédure écrite: d'où l'on prend, comment on compose, où la personne s'arrête.",
+        "Au moins un brouillon réel à relire, sur le modèle de l'entreprise.",
+        "Responsable interne nommé et métrique dite avant la journée.",
+        "Exemples en désordre sur lesquels refaire le tour après un changement de modèle."
+      ],
+      "searchIntents": [
+        "offres depuis le courrier",
+        "tarifs et fiches depuis des PDF",
+        "brouillon de devis depuis le mail"
+      ],
+      "needSignals": [
+        "Les demandes d'offre arrivent par courrier avec des pièces en désordre.",
+        "Qui vend perd du temps à copier tarifs et fiches depuis plusieurs dossiers.",
+        "Le clic dans le logiciel de gestion reste à la personne: le brouillon avant ce clic manque."
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/fr/demarrage-operationnel/offres-depuis-le-courrier.html",
+        "markdown": "https://ar-tik.com/fr/demarrage-operationnel/offres-depuis-le-courrier.md",
+        "dossier": "https://ar-tik.com/fr/demarrage-operationnel/offres-depuis-le-courrier-dossier.md",
+        "json": "https://ar-tik.com/fr/demarrage-operationnel/offres-depuis-le-courrier.json"
+      }
+    }
+  ],
+  "formProcesses": [
+    {
+      "id": "a",
+      "label": "Offres, tarifs et fiches à assembler (courrier et PDF), à faire relire par qui vend."
+    },
+    {
+      "id": "b",
+      "label": "Le dossier de documents que clients, appels d'offres, auditeurs ou transitaires demandent à chaque fois."
+    },
+    {
+      "id": "c",
+      "label": "Comparer trois offres fournisseurs et avoir un tableau avant que quelqu'un négocie."
+    },
+    {
+      "id": "d",
+      "label": "Trier le courrier certifié et le courrier de la semaine."
+    },
+    {
+      "id": "e",
+      "label": "Joindre fiches, certificats et packing list à une expédition ou à une commande déjà décidée."
+    },
+    {
+      "id": "f",
+      "label": "Un rapport à partir d'un export Excel pour la direction ou le commercial."
+    }
+  ]
+}

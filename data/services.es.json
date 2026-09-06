@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/services-catalog.schema.json",
-  "generatedAt": "2026-08-05",
+  "generatedAt": "2026-09-06",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "locale": "es",
@@ -79,6 +79,19 @@
         "html": "https://ar-tik.com/es/desarrollo-software-tecnico.html",
         "markdown": "https://ar-tik.com/es/desarrollo-software-tecnico.md",
         "dossier": "https://ar-tik.com/es/desarrollo-software-tecnico-dossier.md"
+      }
+    },
+    {
+      "id": "operational-start",
+      "type": "service",
+      "locale": "es",
+      "language": "es",
+      "title": "Arranque operativo",
+      "description": "La empresa puede usar la inteligencia artificial de inmediato, en los procesos que hoy roban más tiempo. No es un curso. No es un software. El sistema de gestión no se toca.",
+      "urls": {
+        "html": "https://ar-tik.com/es/arranque-operativo/",
+        "markdown": "https://ar-tik.com/es/arranque-operativo/index.md",
+        "dossier": "https://ar-tik.com/es/arranque-operativo/index-dossier.md"
       }
     },
     {

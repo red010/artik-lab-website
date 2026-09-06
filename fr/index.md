@@ -42,6 +42,12 @@ Assessment, carte des opportunités, gouvernance et feuille de route 30/60/90 jo
 
 Page dédiée: https://ar-tik.com/fr/conseil-managerial-ia.md
 
+### Démarrage opérationnel
+
+Une journée sur site. Il reste la procédure écrite sur l'assistant au nom de l'entreprise. Les fichiers restent dans l'entreprise. Le logiciel de gestion n'est pas touché.
+
+Page dédiée: https://ar-tik.com/fr/demarrage-operationnel/index.md
+
 ### Atlas des applications IA
 
 Exemples concrets pour reconnaître où l'IA peut aider: documents, opérations, RH, marketing, logiciels, gouvernance, production, formation et données.

@@ -1,0 +1,92 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/avvio-catalog.schema.json",
+  "generatedAt": "2026-09-06",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "locale": "it",
+  "language": "it",
+  "catalog": {
+    "title": "Operatività immediata",
+    "description": "Un giorno in sede. Resta una procedura scritta, da usare subito, sui file dell'azienda. Il gestionale non si tocca.",
+    "urls": {
+      "html": "https://ar-tik.com/avvio-operativo/",
+      "markdown": "https://ar-tik.com/avvio-operativo/index.md",
+      "dossier": "https://ar-tik.com/avvio-operativo/index-dossier.md"
+    }
+  },
+  "activities": [
+    {
+      "id": "offerte-da-posta",
+      "locale": "it",
+      "language": "it",
+      "family": "documents",
+      "title": "Offerte e listini da posta e file",
+      "subtitle": "Arriva una richiesta in mail, spesso con PDF sparsi. A fine giornata c'è una bozza di offerta, sul modello dell'azienda, da far rileggere a chi vende.",
+      "summary": "Da mail e PDF a una bozza di offerta o di listino, da far rileggere a chi vende. Un giorno in sede. Il gestionale non si tocca.",
+      "duration": "Un giorno in sede",
+      "problem": "Serve un preventivo o un listino aggiornato, con le schede allegate. Oggi chi vende perde tempo a copiare da tre cartelle. Trattare, chiudere e inserire l'ordine restano alla persona. Si alleggerisce il lavoro prima: raccogliere, mettere insieme, segnalare cosa manca.",
+      "notFor": [
+        "Il «preventivo» è un computo da disegno (PriMus, AutoCAD) o una stima di ore di cantiere: quello è il mestiere, non questo servizio.",
+        "Serve trattare, chiudere lo sconto, o decidere il prezzo in gara.",
+        "Serve scrivere l'ordine o la conferma nel gestionale.",
+        "La richiesta arriva una o due volte all'anno.",
+        "Listino e schede non esistono, o esistono solo nella testa di una persona e non si possono copiare in una cartella.",
+        "Si chiede che l'offerta parta da sola, senza rilettura."
+      ],
+      "prerequisites": [
+        "Un abbonamento all'intelligenza artificiale intestata all'azienda.",
+        "Una persona interna che già mette insieme le offerte, con l'incarico di usarla dopo.",
+        "Un modello di offerta o di listino, anche imperfetto.",
+        "Una cartella o un file da cui prendere listini e schede, senza entrare nel gestionale."
+      ],
+      "outcomes": [
+        "Una procedura scritta: da dove si prende, come si compone, dove si ferma la persona.",
+        "Almeno una bozza vera da rileggere, sul modello dell'azienda.",
+        "Un responsabile interno e un tempo da misurare, detti prima della giornata.",
+        "Tre esempi disordinati su cui riprovare se cambia il modello di offerta."
+      ],
+      "searchIntents": [
+        "offerte da mail",
+        "listini e schede da PDF",
+        "bozza preventivo da posta"
+      ],
+      "needSignals": [
+        "Le richieste d'offerta arrivano in mail con allegati disordinati.",
+        "Chi vende perde tempo a copiare listini e schede da più cartelle.",
+        "Il click nel gestionale resta alla persona: manca la bozza prima di quel click."
+      ],
+      "urls": {
+        "html": "https://ar-tik.com/avvio-operativo/offerte-da-posta.html",
+        "markdown": "https://ar-tik.com/avvio-operativo/offerte-da-posta.md",
+        "dossier": "https://ar-tik.com/avvio-operativo/offerte-da-posta-dossier.md",
+        "json": "https://ar-tik.com/avvio-operativo/offerte-da-posta.json"
+      }
+    }
+  ],
+  "formProcesses": [
+    {
+      "id": "a",
+      "label": "Offerte, listini e schede da mettere insieme (mail e PDF), da far rileggere a chi vende."
+    },
+    {
+      "id": "b",
+      "label": "Il plico di documenti che clienti, gare, auditor o spedizionieri ci chiedono ogni volta."
+    },
+    {
+      "id": "c",
+      "label": "Confrontare tre offerte di fornitori e avere una tabella prima di chi negozia."
+    },
+    {
+      "id": "d",
+      "label": "Smistare PEC e posta della settimana."
+    },
+    {
+      "id": "e",
+      "label": "Allegare schede, certificati e packing list a una spedizione o a un ordine già deciso."
+    },
+    {
+      "id": "f",
+      "label": "Un report da export Excel per il titolare o il commerciale."
+    }
+  ]
+}

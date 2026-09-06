@@ -2,13 +2,143 @@
 
 <!-- https://ar-tik.com/analisi-dati-agentica.md -->
 
-# Analisi dati agentica: segnali che diventano decisioni.
+# Analisi dati agentica: trasforma i dati in decisioni.
 
-L'analisi dati agentica non produce grafici da archiviare: cerca segnali nei dati già disponibili, li collega a una decisione e dichiara dove il modello non conviene.
+L'analisi dati agentica non produce grafici da archiviare: cerca i segnali (anche quelli più deboli) nei dati già disponibili, suggerisce azioni concrete e giustifica le scelte fatte con delle spiegazioni chiare e accurate.
 
 ## Che cos'è l'analisi dati agentica
 
-È un servizio che verifica dove i dati aziendali possono ridurre ritardi, sprechi, errori o rischi. Se il segnale non c'è, il risultato utile è sapere quale progetto non finanziare.
+L'analisi dati agentica risponde a una domanda semplice: i dati che l'azienda ha già possono ridurre ritardi, sprechi, errori o rischi? Se sì, indica dove e con quale decisione. Se no, lo dice chiaramente: evitare un progetto che non renderebbe è già un risultato.
+
+## Situazioni in cui riconoscersi
+
+Queste schede servono a riconoscersi in una situazione, non a scegliere un settore. Ogni situazione è raccontata attraverso un caso reale, cioè un'analisi eseguita fino in fondo da Artik Lab, con report certificato e numeri misurati. Il metodo vale per qualunque azienda; i numeri valgono per quel caso. E se i dati non rispondono alla domanda, il report lo dice: è il modo più economico di evitare un progetto sbagliato.
+
+### Il tempo sul pezzo lo stimo a occhio: se sbaglio, ci rimetto il margine.
+
+Officina conto terzi · Caso reale, analisi certificata.
+
+In officina ogni lavorazione è pezzo, quantità e macchina, e il preventivo esce dall'esperienza. L'analisi stima quanto tempo serve per una quantità su una macchina e quanto della variabilità dipende dalla macchina piuttosto che dal pezzo, così prezzo e data non escono solo a sentimento.
+
+**Nel caso reale.** 2.916 lavorazioni su 13 macchine. Più di metà della differenza fra un tempo e l'altro, il 53%, non è spiegata da nulla di ciò che l'officina registra; la dimensione dell'ordine pesa per il 32%, la macchina per il 9%, il pezzo per il 6%. Un ordine da un pezzo richiede tipicamente 167 unità di tempo, uno oltre i sedici pezzi ne richiede 18. Una macchina non riporta il tempo sul 53% delle proprie lavorazioni: un buco di registrazione, non un miracolo.
+
+- Segnali di bisogno: preventivi a mano sul disegno; stesso pezzo, tempi diversi a seconda di chi stima; scostamenti scoperti a fine commessa; buyer che chiede tempi certi.
+- Dati di solito già disponibili: codice pezzo o utensile, quantità, macchina, durata osservata.
+- Decisione immediata: quanto tempo mettere in preventivo, come intervallo e non come numero secco; su quale macchina conviene; dove un tempo assente è un allarme di registrazione.
+- Limite onesto: non ci sono ricavi sulla stessa riga, quindi non calcola il margine in euro e non sostituisce il file unico «ore previste e reali più ricavo per commessa»; l'unità di tempo va dichiarata in azienda.
+- Scartato nel report: quattro metodi di stima confrontati con il tempo tipico di officina su pezzi mai visti; affinare il modello non batte raccogliere due o tre informazioni in più per lavorazione.
+- Nota metodo: numeri misurati nel report certificato; dimostrano il metodo, non prevedono i tempi di un'altra officina.
+
+### Ogni mese il consuntivo non torna col budget — e non so se è inevitabile oppure sono delle voci ulteriori che non sto considerando.
+
+Controllo di gestione · Caso reale, analisi certificata.
+
+Il controllo di gestione confronta budget e consuntivo per voce: manodopera, materiale, energia, logistica. L'analisi dice dove lo scostamento si ripete mese dopo mese, da correggere, e dove cambia segno a caso, da non inseguire.
+
+**Nel caso reale.** 144 righe, dodici mesi per due linee e sei voci di costo. A fine anno la produzione ha speso 28.879 euro più del pianificato, l'1,15% di un budget da 2,5 milioni: una cifra che a bilancio non allarma nessuno. Sommando gli scostamenti senza compensarli si arriva a 79.948 euro. La priorità è una voce sola, le materie prime fra luglio e settembre: 28.478 euro, l'86% dello scostamento annuo di quella voce, maturati in tre mesi. Al variare delle soglie nessuna delle sei voci cambia verdetto.
+
+- Segnali di bisogno: foglio di scostamento rifatto a fine mese; «siamo sopra budget» senza sapere quale voce; budget fermo e processi che scivolano; tempo perso a spiegare scostamenti che sono solo rumore.
+- Dati di solito già disponibili: per mese, linea o centro di costo, categoria di costo, importo a budget, importo a consuntivo.
+- Decisione immediata: su quale voce intervenire; quale scostamento accettare come variabilità ordinaria; come ricalibrare il budget.
+- Limite onesto: un anno solo non separa un evento da una stagionalità; senza prezzi unitari e quantità non distingue prezzo da volume; non è previsione di fatturato, né ore e ricavo sulla stessa commessa.
+- Scartato nel report: il solo controllo sul segno degli scostamenti avrebbe perso manodopera e logistica, il 31,8% del movimento lordo; conta la persistenza, non il segno.
+- Nota metodo: numeri misurati nel report certificato; dimostrano il metodo, non prevedono i conti di un'altra azienda.
+
+### Ogni mese devo rifare il foglio ordini estero per paese e cliente. C'è un modo per automatizzare questa procedura?
+
+Ufficio export · Caso reale, analisi certificata.
+
+Il commerciale export vive sulla tabella pivot: chi ha ordinato, da quale paese, quanto pesa. L'analisi rende leggibile la concentrazione, cioè quali paesi e clienti tengono il fatturato e dove il rischio di dipendenza è alto, senza inventare un mercato che nei dati non c'è.
+
+**Nel caso reale.** 303 ordini di 92 clienti in 19 paesi. Bastano 3 paesi su 19 per fare metà del fatturato, mentre servono 26 clienti su 92. La differenza fra i mercati non nasce dalla taglia degli ordini: il numero di clienti attivi in ciascun paese spiega l'82,1% dello scarto, quindi la leva è aprire clienti nei paesi già presidiati ma sotto-coperti. Novembre vale 3,15 volte un mese medio perché porta 3,4 volte più ordini. E una trappola tipica dei gestionali: lo stesso storico segnava un arretramento del 60,94% o una crescita del 41,30% a seconda di come si confrontava un anno incompleto.
+
+- Segnali di bisogno: stessa tabella pivot ogni mese (paese, cliente, prodotto); «Francia e Germania tengono» detto a voce, senza classifica stabile; paura di perdere un cliente grande senza vederlo arrivare; export che salva il bilancio, ma nessuno conosce la coda lunga.
+- Dati di solito già disponibili: righe ordine con data o mese, paese e cliente, codice prodotto e quantità, fatturato, idealmente 24–36 mesi.
+- Decisione immediata: dove spingere la lista; chi presidiare; quanto è concentrato il portafoglio; quale data usare prima di qualsiasi grafico.
+- Limite onesto: non include nolo, dazio e sconto per mercato, è concentrazione e profilo, non margine netto; se il gestionale tronca i prezzi, gli importi sono minimi, non misure; con date incoerenti nel file va scelta una cronologia prima dei grafici, ed è parte del lavoro.
+- Scartato nel report: l'ipotesi «ogni paese ha un gusto di catalogo» cade, perché sapere il paese riduce solo del 5,8% l'incertezza sulla linea di prodotto; le due datazioni dello stesso ordine coincidevano solo sul 58,55% delle righe e l'analisi è stata rieseguita su entrambe prima di scegliere.
+- Nota metodo: numeri misurati nel report certificato; dimostrano il metodo, non prevedono il portafoglio di un'altra azienda.
+
+### Il cliente vuole la stessa qualità del lotto scorso e io devo «rincorrere» i certificati di laboratorio.
+
+Cantina e laboratorio · Caso reale, analisi certificata.
+
+Laboratorio e certificati ci sono già. L'analisi dice, prima di chiudere il lotto, quanto quel profilo assomiglia ai lotti già accettati e dove il rischio di scarto o di reclamo è più alto. Non sostituisce l'assaggio: lo anticipa.
+
+**Nel caso reale.** 1.143 lotti con undici misure chimiche di laboratorio ciascuno. Dai soli numeri di laboratorio il sistema riconosce in anticipo l'87% dei lotti di pregio, 108 su 124 nel campione di verifica, e quando indica un lotto come di pregio ha ragione nell'81% dei casi. La qualità non sta in un singolo indizio ma in un blocco: grado alcolico, controllo dell'acidità volatile e stabilizzazione con i solfiti letti insieme.
+
+- Segnali di bisogno: report qualità rifatti a mano per ogni cliente o verifica; buyer che chiede «come il lotto di marzo» senza una regola scritta; non conformità e reclami che arrivano dopo la spedizione; certificazioni già in casa, ma usate solo a valle.
+- Dati di solito già disponibili: analisi di laboratorio per lotto, esito del collaudo o della degustazione, classificazione commerciale del lotto, storico reclami o resi.
+- Decisione immediata: quali lotti spedire, trattenere o destinare a un altro canale, prima del carico e non dopo il reclamo; quali lotti proteggere prima di tagli e miscelazioni.
+- Limite onesto: non predice il gusto del mercato e non sostituisce l'assaggio; i lotti di pregio a basso grado alcolico sfuggono più spesso; senza uno storico di laboratorio strutturato il primo risultato utile può essere «questi dati non bastano», con l'elenco di che cosa manca.
+- Scartato nel report: l'ipotesi «basta il grado alcolico», segnale più forte da solo ma insufficiente; la densità è risultata ridondante con l'alcol.
+- Nota metodo: numeri misurati nel report certificato; dimostrano il metodo, non prevedono i lotti di un'altra cantina.
+
+### Mi chiedono tempi certi, ma quale macchina è libera lo so solo a occhio.
+
+Reparto macchine · Caso reale, analisi certificata.
+
+Il preventivo e la promessa di consegna oggi escono dall'esperienza di chi conosce il reparto. L'analisi guarda lo storico di utilizzo e gli stati macchina, o di processo, e rende visibili i regimi: quando la capacità è davvero piena, quando un ordine urgente sposta tutto, quando la promessa non regge.
+
+**Nel caso reale.** Le misure già registrate dalle macchine hanno mostrato due cose. Su oltre 7.600 rilevazioni di stato, il sistema riconosce un guasto in corso in circa 84 casi su 100 e, quando lancia un allarme, ha ragione in oltre 97 volte su 100: il guasto si annuncia come una salita congiunta di vibrazione, temperatura e pressione. Su cinque macchine lette al minuto sono emersi otto profili di funzionamento, con 11,4 punti di scarto di efficienza fra il migliore e il peggiore: la prima leva non è comprare nuovi impianti, è capire perché gli stessi impianti rendono in modo così diverso.
+
+- Segnali di bisogno: «tempi certi» in homepage, ma piano macchine a memoria; straordinari e priorità decisi a voce in officina; date promesse e date reali tenute in fogli sparsi; buyer che chiede tracciabilità e report, non solo il pezzo.
+- Dati di solito già disponibili: storico stati o misure macchina per sessione di lavoro, tempi di ciclo e fermi, piano o arretrato per macchina se esiste; nessun progetto nuovo di sensori se i registri esistono già.
+- Decisione immediata: accettare o rifiutare un'urgenza; spostare un lotto; promettere una data che si può mantenere; collegare l'allarme di guasto a un ordine di lavoro immediato.
+- Limite onesto: non calcola il margine del preventivo, ore stimate e consuntivo sono le due situazioni sopra; riconosce un guasto in corso, non lo annuncia con giorni di anticipo; i profili di funzionamento vanno confermati su una finestra più lunga di un giorno.
+- Scartato nel report: l'ipotesi «il guasto dipende dal tipo di macchina» è esclusa a parità di base; scartati il singolo sensore risolutivo e il raggruppamento sulla sola efficienza.
+- Nota metodo: numeri misurati nei report certificati; dimostrano il metodo, non prevedono il reparto di un'altra azienda.
+
+## Quando l'analisi dice di non investire
+
+Se i dati non rispondono alla domanda, lo si scrive nel report, con l'elenco di ciò che manca. Il report si paga, l'investimento sbagliato no. Due casi reali e una pagina che c'è in ogni report.
+
+### Stavamo per investire in un modello di previsione dei ritardi, ma i dati non lo sostenevano.
+
+Logistica e spedizioni · Caso reale, verdetto negativo.
+
+Un operatore logistico vuole sapere, al momento della pianificazione del viaggio, quali consegne arriveranno in ritardo. L'analisi non forza una previsione debole: verifica se il segnale esiste nei dati disponibili prima della partenza.
+
+**Nel caso reale.** 85.410 consegne ricostruite da 14 tabelle gestionali; il 55,4% arriva oltre l'orario previsto. Con la sola informazione disponibile in pianificazione il sistema migliore raggiunge una capacità di distinguere pari a 50,3 su 100, dove 50 è il puro caso. Il ritardo nasce durante il viaggio, in eventi che il gestionale non registra: soste al carico e allo scarico, traffico, meteo, ritardi a monte.
+
+- Segnali di bisogno: penali e reclami per ritardi che nessuno vede arrivare; un fornitore che propone il modello predittivo sui dati di pianificazione; archivio gestionale completo e pulito, ma fermo alla partenza.
+- Decisione immediata: fermare lo sviluppo di un modello di pianificazione; iniziare a registrare pochi eventi di viaggio; rifare la domanda quando i nuovi dati coprono qualche mese.
+- Limite onesto: è un limite di natura dei dati, non di qualità, e raffinare l'algoritmo non crea un segnale assente; le grandezze economiche vanno ricalcolate sui dati di chi decide.
+- Scartato nel report: distanza, peso e cliente come predittori, perché il ritardo è quasi identico su ogni segmento; lo storico di rotta e autista, tolto dal modello, sposta il risultato di una quantità irrilevante.
+- Nota metodo: numeri misurati nel report certificato; dimostrano il metodo, non descrivono la flotta di un'altra azienda.
+
+### Avrei voluto prevedere quali capi sarebbero tornati come resi, ma l'analisi ha scoperto che dalle sole schede prodotto non si poteva ottenere questa risposta.
+
+Vendita al dettaglio e resi · Caso reale, verdetto negativo.
+
+Una boutique in rete vorrebbe sapere quali capi torneranno indietro. La tentazione è usare i dati già comodi: categoria, prezzo, colore, scheda prodotto. L'analisi dice se in quei dati c'è un segnale, prima che qualcuno costruisca un sistema sopra.
+
+**Nel caso reale.** 2.176 capi a catalogo, poco meno di un capo su sette torna indietro. Nessun modello supera il riferimento minimo: la caratteristica più informativa, lo sconto applicato, spiega meno del 2% del fenomeno, le altre quasi nulla. I metodi più potenti sono stati provati e fanno peggio dei semplici: la potenza non aiuta quando non c'è nulla da apprendere.
+
+- Segnali di bisogno: resi trattati come costo subìto; motivo del reso compilato dopo, o mai; proposta di un sistema predittivo sulle sole schede prodotto.
+- Decisione immediata: non finanziare il modello; avviare entro tre mesi la raccolta di quattro dati, cioè vestibilità, storia del cliente, esperienza dopo la consegna, motivo del reso registrato al momento giusto.
+- Limite onesto: il «no» non chiude il problema, indica quali dati lo rendono affrontabile; aggiungere altri prodotti con le stesse caratteristiche non aggiunge segnale.
+- Scartato nel report: il motivo del reso come variabile, perché compilato solo dopo il reso è un esito del fenomeno, non un segnale anticipatore.
+- Nota metodo: numeri misurati nel report certificato; dimostrano il metodo, non descrivono i resi di un'altra azienda.
+
+### Il fornitore che dice di no.
+
+In ogni report · Alternative scartate.
+
+Ogni report certificato ha una sezione dedicata alle alternative scartate: che cosa è stato provato, che cosa è stato buttato e perché, con i numeri. È il contrario del fornitore che porta l'unico metodo che sa fare.
+
+**Nel caso reale.** Nell'analisi dei tempi in officina, quattro metodi di stima sono stati confrontati con il riferimento minimo, il tempo tipico di officina, su pezzi mai visti. Nessun affinamento del modello batte l'arricchimento della registrazione, perché il 53% della variabilità non è nei campi che l'officina compila oggi. La raccomandazione è stata raccogliere due o tre informazioni in più per lavorazione, non comprare un metodo più raffinato.
+
+- Metodi: il metodo tenuto e i metodi scartati, con le misure a confronto e la regola con cui è stato scelto il più semplice a parità di risultato.
+- Ipotesi: le ipotesi escluse con un controllo e quelle dichiarate non verificabili con i dati disponibili, senza spacciare l'ignoranza per esclusione.
+- Limiti: i limiti dichiarati prima delle raccomandazioni, non in una nota a piè di pagina.
+- Nota metodo: nessun algoritmo in questa pagina; nomi e misure stanno nel report tecnico che accompagna ogni analisi.
+
+## Il passo successivo
+
+Portare l'estratto che già si prepara a mano ogni mese. Artik Lab dice che cosa dice, che cosa non dice e se i dati bastano, prima di impegnarsi in un progetto. La prima conversazione dura 30-45 minuti: scrivere a dtr@ar-tik.com.
+
+Se il problema è mettere in ordine PDF e procedure più che i numeri, il servizio giusto è [Avvio operativo](https://ar-tik.com/avvio-operativo/).
 
 ## La dashboard guarda indietro. Il segnale decide adesso.
 1. Dati già disponibili
@@ -71,11 +201,11 @@ Per scegliere tra analisi dati, consulenza, formazione o software tecnico: https
 - Dati già disponibili: transazioni, sensori, ordini, ticket, anagrafiche.
 - Azione possibile: telefonata, controllo, modifica di processo, priorità diversa.
 
-## Esempi anonimi di segnali e decisioni
+## Altri segnali già dimostrati
 
-Ogni storia spiega il problema aziendale, quali dati operativi entrano nell’analisi, quale segnale emerge e quale decisione può essere presa. Non sono promesse standard; mostrano come dataset pubblici, anonimizzati o realistici, senza progetti cliente riconoscibili, possano diventare azioni verificabili.
+Analisi realmente eseguite e certificate in altri settori: ospitalità, consegne, energia, ristorazione, banca, controlli, manifattura. Ogni storia dice quali dati operativi entrano nell'analisi, quale segnale emerge e quale decisione può essere presa. Il settore è quello del caso; il metodo è ciò che si trasferisce. Nessun cliente riconoscibile, nessuna promessa standard.
 
-### 1. Ospitalità: Capire quali prenotazioni rischiano di saltare
+### 1. Ospitalità: Scopro le disdette quando è troppo tardi
 
 Un hotel può leggere il rischio già al momento della prenotazione: su oltre 119.000 prenotazioni, il sistema intercetta più di otto disdette su dieci.
 
@@ -83,12 +213,14 @@ La storia è semplice: la direzione vede le cancellazioni solo quando il danno �
 
 Per un albergo, un residence o un gruppo hospitality, il dato del booking engine diventa una lista di priorità commerciale. Le prenotazioni più fragili possono essere confermate, richiamate o gestite con condizioni diverse.
 
+Il settore è diverso, il segnale è lo stesso: un ordine o un cliente che si raffredda prima dell'incasso, letto per tempo. Questo caso vale per qualunque portafoglio di prenotazioni o ordini con anticipo, condizioni di pagamento e storico.
+
 - Segnale utile: Il sistema distingue le prenotazioni solide da quelle che meritano un intervento preventivo.
 - Decisione possibile: Confermare, richiamare o proteggere prima le prenotazioni più esposte.
 - Dati utili dopo: Esito del richiamo, valore recuperato e risposta del cliente.
 - Limite da dichiarare: L’analisi non elimina le cancellazioni; aiuta a scegliere dove intervenire per tempo.
 
-### 2. Food delivery: Scoprire dove nasce un ordine perso
+### 2. Food delivery: Perdo l'ordine prima ancora della consegna
 
 Quando la cucina non conferma l’ordine come pronto, il rischio di perderlo sale al 35,7%.
 
@@ -101,7 +233,7 @@ Per una piattaforma di delivery o una catena di ristoranti, questo cambia la dom
 - Dati utili dopo: Causa registrata, recupero dell’ordine e costo del disservizio.
 - Limite da dichiarare: Il modello funziona se gli stati intermedi dell’ordine vengono registrati bene.
 
-### 3. Ultimo miglio: Dare al cliente una finestra di consegna più credibile
+### 3. Ultimo miglio: Prometto un orario e poi l'assistenza esplode
 
 La stima del tempo di consegna passa da un errore medio di circa 41 minuti a circa 17 minuti.
 
@@ -114,7 +246,7 @@ L’analisi parte dagli ordini e dai tempi storici, ma non si ferma alla media. 
 - Dati utili dopo: Reclami, chiamate evitate e interventi manuali del team operativo.
 - Limite da dichiarare: Non promette consegne più veloci; promette stime più credibili.
 
-### 4. Energia: Prevedere meglio la domanda del giorno dopo
+### 4. Energia: Compro energia a intuito e pago gli sbilanciamenti
 
 La previsione riduce l’errore del 77% rispetto alla regola di riferimento.
 
@@ -127,7 +259,7 @@ L’analisi legge la serie storica dei consumi orari e costruisce un profilo att
 - Dati utili dopo: Prezzi, costi di sbilanciamento e regole di approvvigionamento.
 - Limite da dichiarare: Il risparmio economico va calcolato con i numeri reali del contratto energetico.
 
-### 5. Ristorazione: Prepararsi alla settimana che sta arrivando
+### 5. Ristorazione: Ordino e metto i turni come la settimana scorsa
 
 La previsione degli incassi migliora del 24% rispetto alla regola “come settimana scorsa”.
 
@@ -140,7 +272,7 @@ L’analisi parte dallo storico degli incassi e riconosce il ritmo reale del loc
 - Dati utili dopo: Spreco reale, vendite perse e costo del personale.
 - Limite da dichiarare: Il valore nasce solo se la previsione cambia decisioni operative.
 
-### 6. Retail alimentare: Salvare i lotti deperibili prima che diventino spreco
+### 6. Retail alimentare: Lo spreco lo vedo quando è già tardi
 
 I lotti più rischiosi sprecano quasi tre volte quelli più sicuri.
 
@@ -153,7 +285,7 @@ L’analisi legge questi segnali quando il lotto entra nel processo e crea una g
 - Dati utili dopo: Valore salvato, motivo dello spreco e margine dopo l’intervento.
 - Limite da dichiarare: Non tutto lo spreco è prevedibile; l’obiettivo è usare meglio le azioni preventive.
 
-### 7. Banca: Riconoscere i clienti che stanno per andarsene
+### 7. Banca: Il cliente se ne va e lo scopro dopo
 
 Il sistema riconosce circa tre clienti a rischio su quattro.
 
@@ -161,12 +293,14 @@ Una banca può vedere un cliente uscire solo quando il conto è già perso, oppu
 
 La storia utile non è “questo cliente abbandonerà”, ma “questo cliente mostra segnali di inattività e può essere riattivato con un’azione mirata”. È una differenza decisiva per costruire campagne credibili.
 
+Il settore è diverso; il tipo di domanda, chi sta per andarsene, è lo stesso per qualunque portafoglio clienti, anche fra imprese.
+
 - Segnale utile: Una priorità di contatto basata su comportamento e rischio di abbandono.
 - Decisione possibile: Avviare campagne di riattivazione mirate, non comunicazioni uguali per tutti.
 - Dati utili dopo: Storico comportamentale, contatti fatti e valore trattenuto.
 - Limite da dichiarare: Riconoscere il rischio oggi non significa sempre prevederlo con largo anticipo.
 
-### 8. Ristorazione veloce: Capire quali menu e fasce orarie reggono davvero il business
+### 8. Ristorazione veloce: Il menu è pieno ma guadagno su poche voci
 
 Pochi momenti della giornata e poche voci di menu generano quasi tre quarti del fatturato.
 
@@ -179,20 +313,7 @@ L’analisi descrittiva diventa una storia operativa: il menu non è tutto ugual
 - Dati utili dopo: Margine per voce, tempi di preparazione e rotture di stock.
 - Limite da dichiarare: Non è una previsione; è una priorità operativa da completare con dati di margine.
 
-### 9. Cantina: Proteggere presto i lotti di vino più promettenti
-
-Con i dati di laboratorio, il sistema riconosce l’87% dei lotti di fascia alta.
-
-Una cantina raccoglie già misure chimiche durante la produzione. Spesso quei dati restano tecnici, separati dalle scelte commerciali e dalle decisioni di destinazione del lotto.
-
-L’analisi mostra che quei segnali possono aiutare a individuare presto i lotti con potenziale premium. Non sostituisce il giudizio dell’enologo; lo aiuta a proteggere valore prima che tagli o miscelazioni lo disperdano.
-
-- Segnale utile: Una classificazione precoce dei lotti che meritano maggiore attenzione.
-- Decisione possibile: Dare priorità a degustazioni, affinamento e destinazione commerciale dei lotti promettenti.
-- Dati utili dopo: Destinazione finale, valore realizzato e giudizio qualitativo.
-- Limite da dichiarare: Il modello supporta il giudizio tecnico; non lo sostituisce.
-
-### 10. Manutenzione industriale: Usare i sensori per riconoscere un guasto in corso
+### 9. Manutenzione industriale: La macchina si ferma e lo scopro tardi
 
 Con i sensori disponibili, l’analisi riconosce circa l’84% dei guasti osservati.
 
@@ -200,38 +321,14 @@ In fabbrica il guasto non è solo un evento tecnico: ferma persone, ordini e cap
 
 L’analisi costruisce un avviso quando il comportamento della macchina somiglia a situazioni di guasto già viste. È utile se attiva subito un ordine di lavoro, un controllo o una verifica sul campo.
 
+Va letta insieme alla situazione «Mi chiedono tempi certi», sopra.
+
 - Segnale utile: Un allarme operativo quando la macchina mostra pattern compatibili con un guasto.
 - Decisione possibile: Collegare l’avviso a manutenzione, escalation e verifica del fermo evitato.
 - Dati utili dopo: Tempo di intervento, costo del fermo e ricambi usati.
 - Limite da dichiarare: Riconoscere un guasto in corso non è la stessa cosa che prevederlo settimane prima.
 
-### 11. Moda e resi: Evitare un modello quando il dato giusto non c’è
-
-Nei dati di catalogo, la variabile migliore spiega meno del 2% dei resi.
-
-Un e-commerce moda potrebbe voler prevedere quali capi verranno restituiti. La tentazione è usare i dati già comodi: categoria, prezzo, colore, scheda prodotto.
-
-L’analisi mostra che quei dati non bastano. Questa è una buona notizia manageriale: evita un investimento fragile e indica quali informazioni servono davvero, come vestibilità, storia cliente e motivo del reso.
-
-- Segnale utile: Un verdetto negativo chiaro: il segnale non vive nel catalogo prodotto.
-- Decisione possibile: Non finanziare il modello predittivo prima di cambiare raccolta dati.
-- Dati utili dopo: Vestibilità, motivo del reso, misure e storico cliente.
-- Limite da dichiarare: Il “no” non chiude il problema; indica quali dati servono per renderlo affrontabile.
-
-### 12. Logistica: Capire quando un modello non può prevedere il ritardo
-
-Con i soli dati di pianificazione, il miglior modello resta vicino a una scelta casuale.
-
-Un operatore logistico vuole sapere prima della partenza quali consegne arriveranno in ritardo. Se usa solo dati di piano, però, guarda una fotografia incompleta: mancano le cose che accadono durante il viaggio.
-
-L’analisi evita di forzare una previsione debole. La decisione migliore è raccogliere eventi di viaggio, soste, scarico, meteo e anomalie operative prima di costruire un modello più ambizioso.
-
-- Segnale utile: Assenza di segnale utile nei dati disponibili prima della partenza.
-- Decisione possibile: Fermare il modello e progettare una raccolta dati sugli eventi reali del trasporto.
-- Dati utili dopo: Soste, scarico, traffico, meteo, eccezioni e costo del ritardo.
-- Limite da dichiarare: Un algoritmo più complesso non crea informazione che il processo non registra.
-
-### 13. Compliance: Mettere prima i controlli dove il rischio è più alto
+### 10. Compliance: Ho più controlli da fare di quanti ne posso seguire
 
 Con lo stesso numero di verifiche, il ranking intercetta più casi gravi.
 
@@ -244,7 +341,7 @@ L’analisi usa lo storico delle verifiche per costruire una lista di priorità.
 - Dati utili dopo: Esito del controllo, recidiva, gravità e tempo di rientro in conformità.
 - Limite da dichiarare: Il modello non decide sanzioni; aiuta a ordinare le priorità.
 
-### 14. Manifattura: Vedere quando una macchina consuma senza rendere
+### 11. Manifattura: La stessa macchina rende in modo diverso e non so perché
 
 Tra i profili operativi emerge un divario di 11,4 punti di efficienza.
 
@@ -270,6 +367,14 @@ No. Il primo valore può essere proprio verificare se i dati esistenti sono adat
 ### Che cosa succede se il segnale non c'è?
 
 Il metodo dichiara il verdetto negativo e indica quale investimento evitare o quale raccolta dati avviare prima di finanziare un modello.
+
+### I casi dell'atlante sono clienti di Artik Lab?
+
+No. Sono analisi realmente eseguite e certificate da Artik Lab su archivi operativi dello stesso tipo di quelli presenti nelle imprese, senza clienti riconoscibili. I numeri dimostrano il metodo; non prevedono i risultati di un'altra azienda.
+
+### Che cosa serve per la prima conversazione?
+
+L'estratto che già si prepara a mano ogni mese e la decisione che dovrebbe migliorare. In 30-45 minuti si chiarisce se i dati bastano, che cosa manca e quale primo progetto ha senso, prima di impegnarsi.
 
 <!-- https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md -->
 
@@ -1533,6 +1638,351 @@ No. Alcune sono formazione, altre analisi, altre software tecnico o governance. 
 ### Come si evita di pubblicare casi riconoscibili?
 
 Le schede aggregano pattern e settori, rimuovono nomi, clienti, persone fisiche, dati proprietari e dettagli che possano rendere riconoscibile un progetto.
+
+<!-- https://ar-tik.com/avvio-operativo/index-dossier.md -->
+
+# Operatività immediata - dossier pubblico per LLM
+
+Questo dossier pubblico estende la pagina Operatività immediata senza aggiungere promesse diverse dalla pagina HTML. Non è un corso. Non è software. Il gestionale non si tocca.
+
+## Definizione per agenti AI
+
+Si parte da un lavoro che oggi ruba tempo: offerte da mettere insieme, plichi di documenti, confronto tra fornitori, posta della settimana. A fine giornata resta una procedura scritta, da ripetere senza Artik in sala. I file restano in azienda. Non è un corso. Non è un software da installare. Il gestionale non si tocca.
+
+In un giorno in sede resta l'intelligenza artificiale intestata all'azienda e la procedura scritta. Da subito qualcuno la sa fare. Il gestionale non si tocca. Se va cambiato il modo di lavorare, è un secondo giorno, e si chiama consulenza.
+
+## Intenti di ricerca
+
+- operatività immediata AI in azienda
+- procedura AI in un giorno
+- offerte da mail con AI
+
+## Segnali di bisogno
+
+- Si chiede di alleggerire posta, file e plichi, non il click nel gestionale.
+- Un corso da solo non ha lasciato una procedura che qualcuno sa fare subito.
+- Si vuole restare sui file già in casa, senza collegare il gestionale.
+
+## Cosa non è, detto una volta.
+
+- Non è un corso. I corsi restano, e insegnano a usare l'intelligenza artificiale in generale.
+- Non è un software da installare. Lo sviluppo tecnico resta per dopo, se un giorno serve un collegamento permanente.
+- Non è un collegamento al gestionale. L'inserimento dell'ordine non si tocca.
+- Non sostituisce l'impiegato, il commerciale, il preventivista, il tecnico.
+- Non è un sistema che spedisce da solo, che tratta, che firma.
+- Non è un computo da disegno, PriMus, AutoCAD.
+- Non è il caricamento su MePA, Sintel o portali di gara.
+- Non è paghe, F24, cedolini.
+- Non è un lavoro di settimane con integrazioni. Se serve quello, è un altro servizio Artik, già in pagina.
+- Non si promettono incentivi, bandi o voucher.
+
+## Esempi extra
+
+### Un solo lavoro
+
+Chi chiede cinque automazioni in un giorno non ne finisce nessuna. La pagina lo dice in chiaro.
+
+### Parere, non servizio
+
+Dal sito pubblico e dalle spunte si scrive un parere. Non si finge di aver visto il magazzino.
+
+## Limiti e responsabilità
+
+- Il lavoro cambia ogni volta, oppure nessuno in azienda sa descriverlo.
+- Si fa poche volte all'anno: non vale la pena impostarlo.
+- I file necessari non esistono, o si ricostruiscono solo a mano.
+- C'è un vincolo di riservatezza ancora da risolvere.
+- Serve un collegamento permanente ai sistemi: quello è sviluppo software.
+- Serve cambiare il modo di lavorare o toccare il gestionale: quello è consulenza.
+
+## Servizi collegati
+
+- [Offerte e listini da posta e file](https://ar-tik.com/avvio-operativo/offerte-da-posta.md)
+- [Corsi AI per aziende: scegliere il percorso giusto](https://ar-tik.com/corsi/index.md)
+
+<!-- https://ar-tik.com/avvio-operativo/index.md -->
+
+# Usare l'IA immediatamente. In un giorno automatizziamo i vostri processi più importanti.
+
+Si parte da un lavoro che oggi ruba tempo: offerte da mettere insieme, plichi di documenti, confronto tra fornitori, posta della settimana. A fine giornata resta una procedura scritta, da ripetere senza Artik in sala. I file restano in azienda. Non è un corso. Non è un software da installare. Il gestionale non si tocca.
+
+## Che cosa si ottiene.
+
+Un corso spiega come usare l'intelligenza artificiale. Poi si torna in ufficio e il lavoro è lo stesso. Uno strumento configurato e basta, spesso, non lo usa nessuno.
+
+Qui si fa una cosa sola, in un giorno, in azienda: si prende un lavoro ripetitivo, si scrive come va fatto, e si lascia l'intelligenza artificiale già impostata per farlo — intestata all'azienda, sui file dell'azienda. Artik Lab non se li porta via. Non si collega nulla al gestionale.
+
+Si sceglie un lavoro per volta. Cinque insieme non se ne finisce nessuno.
+
+## Quando è andata a buon fine.
+
+C'è un responsabile interno. La procedura è scritta in italiano. La settimana dopo la usano. Prima del giorno si dice cosa misurare, anche in modo semplice: quanto tempo per una bozza da rileggere, non un invio da soli.
+
+## Come si svolge il lavoro.
+
+1. **Si descrive il lavoro**: Chi lo fa oggi, quante volte al mese, dove si perde tempo. Non serve sapere quale strumento comprare.
+2. **Si verifica se sta in un giorno**: Il lavoro deve essere descrivibile, i file devono esistere e potersi copiare in una cartella, deve esserci una persona con l'incarico di usarla dopo. Se qualcosa manca, si scopre qui, prima di proporre la giornata.
+3. **Si propone**: Quale lavoro, cosa contiene il giorno, quale abbonamento l'azienda deve avere a proprio nome, quali cartelle preparare. Artik Lab non rivende abbonamenti e non ne risponde.
+4. **Si prepara**: Arriva già impostato, con esempi. Si può aprire e provare prima dell'incontro.
+5. **Si prova in sede**: Dagli esempi ai file veri. A fine giornata resta un risultato reale, non un esercizio. Se il modo di lavorare va cambiato, quello è consulenza, non un'estensione del giorno.
+
+## Quali lavori si possono alleggerire.
+
+Non si sostituisce chi vende, chi tratta, chi firma. Si alleggerisce il lavoro intorno: raccogliere, mettere insieme, confrontare, smistare. Il settore (cantina, officina, cantiere) è solo un esempio, non una condizione.
+
+### Offerte e listini da posta e file
+
+Da mail e PDF a una bozza di offerta o di listino, da far rileggere a chi vende. Un giorno in sede. Il gestionale non si tocca.
+
+- URL: https://ar-tik.com/avvio-operativo/offerte-da-posta.html
+
+### Si può chiedere anche questo, senza pagina dedicata per ora
+
+- Il plico di documenti che clienti, gare, auditor o spedizionieri ci chiedono ogni volta.
+- Confrontare tre offerte di fornitori e avere una tabella prima di chi negozia.
+- Smistare PEC e posta della settimana.
+- Allegare schede, certificati e packing list a una spedizione o a un ordine già deciso.
+- Un report da export Excel per il titolare o il commerciale.
+
+## Cosa è compreso. Cosa è un secondo giorno.
+
+In un giorno in sede resta l'intelligenza artificiale intestata all'azienda e la procedura scritta. Da subito qualcuno la sa fare. Il gestionale non si tocca. Se va cambiato il modo di lavorare, è un secondo giorno, e si chiama consulenza.
+
+- Compreso nella giornata: Le istruzioni, le cartelle, i controlli della procedura scelta.
+- Diventa consulenza: Cambiare il metodo perché il lavoro è un altro.
+- Compreso nella giornata: Gli esempi e la loro sostituzione con i file dell'azienda.
+- Diventa consulenza: Riordinare l'archivio dell'azienda.
+- Compreso nella giornata: La sessione in sede sui file veri.
+- Diventa consulenza: Altre giornate su altri uffici o altri casi.
+- Compreso nella giornata: Le istruzioni d'uso, in italiano.
+- Diventa consulenza: Collegare gestionale, posta aziendale o portali chiusi.
+- Compreso nella giornata: Le correzioni di quanto fatto in giornata.
+- Diventa consulenza: Formare tutta l'organizzazione.
+
+## Cosa serve prima.
+
+- Un abbonamento all'intelligenza artificiale intestata all'azienda. Quale ambiente è già stato provato si dice in proposta, non in questa pagina.
+- Una persona interna con l'incarico di usarla dopo.
+- File che si possono copiare in una cartella, senza entrare nei sistemi dell'azienda.
+
+## Quando non è adatto.
+
+- Il lavoro cambia ogni volta, oppure nessuno in azienda sa descriverlo.
+- Si fa poche volte all'anno: non vale la pena impostarlo.
+- I file necessari non esistono, o si ricostruiscono solo a mano.
+- C'è un vincolo di riservatezza ancora da risolvere.
+- Serve un collegamento permanente ai sistemi: quello è sviluppo software.
+- Serve cambiare il modo di lavorare o toccare il gestionale: quello è consulenza.
+
+## Cosa non è, detto una volta.
+
+- Non è un corso. I corsi restano, e insegnano a usare l'intelligenza artificiale in generale.
+- Non è un software da installare. Lo sviluppo tecnico resta per dopo, se un giorno serve un collegamento permanente.
+- Non è un collegamento al gestionale. L'inserimento dell'ordine non si tocca.
+- Non sostituisce l'impiegato, il commerciale, il preventivista, il tecnico.
+- Non è un sistema che spedisce da solo, che tratta, che firma.
+- Non è un computo da disegno, PriMus, AutoCAD.
+- Non è il caricamento su MePA, Sintel o portali di gara.
+- Non è paghe, F24, cedolini.
+- Non è un lavoro di settimane con integrazioni. Se serve quello, è un altro servizio Artik, già in pagina.
+- Non si promettono incentivi, bandi o voucher.
+
+## Non sostituisce i servizi già in pagina.
+
+- [Corsi](https://ar-tik.com/corsi/index.md): I corsi restano per imparare in generale. Qui si imposta una procedura precisa.
+- [Consulenza manageriale AI](https://ar-tik.com/consulenza-manageriale-ai.md): La consulenza viene prima, o è il secondo giorno se si tocca il modo di lavorare.
+- [Analisi dati](https://ar-tik.com/analisi-dati-agentica.md): L'analisi dati sta accanto, quando il problema è capire i numeri, non eseguire un lavoro ripetitivo.
+- [Software](https://ar-tik.com/sviluppo-software-tecnico-ai.md): Lo sviluppo software viene dopo, se serve un collegamento permanente.
+- [Atlante AI](https://ar-tik.com/atlante-applicazioni-ai-imprese.md): L'Atlante aiuta a riconoscere un lavoro simile.
+- [FAQ](https://ar-tik.com/domande-frequenti-ai-aziende.md): Le FAQ aiutano a scegliere tra i servizi.
+
+## Tre campi. Si riceve un parere. Poi, se ha senso, si fissa il giorno.
+
+Dal sito pubblico dell'azienda e dalle spunte si scrive un parere: se quel lavoro sta in un giorno, e cosa non si farà. Non è il servizio. Non serve ragione sociale, partita IVA o organico. Dopo: se è adatto, verifica e giornata; se no, corso o consulenza.
+
+## Domande frequenti
+
+### È un corso?
+
+No. Un corso lascia modelli e criteri. Qui resta una procedura scritta, già impostata sull'intelligenza artificiale intestata all'azienda, con i file che restano in azienda.
+
+### Si tocca il gestionale?
+
+No. Se serve toccarlo, o cambiare il modo di lavorare, è consulenza: un secondo giorno, un altro prodotto.
+
+### I dati escono dall'azienda?
+
+No. I file restano dove sono. Artik Lab non se li porta via.
+
+### Si possono fare cinque lavori insieme?
+
+No. Uno per volta. Chi ne sceglie cinque non ne finisce nessuno.
+
+### Il parere del modulo è già il servizio?
+
+No. È solo per capire se è adatto. Dopo: se ha senso, verifica e giornata; se no, corso o consulenza.
+
+### Quanto costa?
+
+La proposta arriva dopo il parere. In questa pagina non c'è un listino.
+
+<!-- https://ar-tik.com/avvio-operativo/offerte-da-posta-dossier.md -->
+
+# Offerte e listini da posta e file - dossier pubblico per LLM
+
+Questo dossier pubblico estende la pagina Operatività immediata senza aggiungere promesse diverse dalla pagina HTML. Non è un corso. Non è software. Il gestionale non si tocca.
+
+Serve un preventivo o un listino aggiornato, con le schede allegate. Oggi chi vende perde tempo a copiare da tre cartelle. Trattare, chiudere e inserire l'ordine restano alla persona. Si alleggerisce il lavoro prima: raccogliere, mettere insieme, segnalare cosa manca.
+
+## Quando non è adatto
+
+- Il «preventivo» è un computo da disegno (PriMus, AutoCAD) o una stima di ore di cantiere: quello è il mestiere, non questo servizio.
+- Serve trattare, chiudere lo sconto, o decidere il prezzo in gara.
+- Serve scrivere l'ordine o la conferma nel gestionale.
+- La richiesta arriva una o due volte all'anno.
+- Listino e schede non esistono, o esistono solo nella testa di una persona e non si possono copiare in una cartella.
+- Si chiede che l'offerta parta da sola, senza rilettura.
+
+## Intenti di ricerca
+
+- offerte da mail
+- listini e schede da PDF
+- bozza preventivo da posta
+
+## Segnali di bisogno
+
+- Le richieste d'offerta arrivano in mail con allegati disordinati.
+- Chi vende perde tempo a copiare listini e schede da più cartelle.
+- Il click nel gestionale resta alla persona: manca la bozza prima di quel click.
+
+## Esempi su cui si prova
+
+### Mail di Nord Latticini Srl (azienda inventata)
+
+Oggetto: «urgente listino HORECA??». Corpo con ragione sociale scritta in due modi, un PDF ruotato, una scheda prodotto in .docx con allergeni in una tabella spezzata, un listino Excel con una colonna prezzi vuota.
+
+### PEC di Officina Valle Bruna (azienda inventata)
+
+Richiesta d'offerta su un particolare tornito, disegno in PDF a bassa risoluzione, quantità «circa 200 / da confermare», scadenza a ieri, tre codici articolo di cui uno non esiste nel listino d'esempio.
+
+### Mail di Edilcantiere Quarto (azienda inventata)
+
+Capitolato copiato nel corpo della mail, prezzi fornitori in tre PDF con unità di misura diverse, una voce «come da ultimo», un allegato mancante («vi mando dopo la scheda del massetto»).
+
+
+[Operatività immediata](https://ar-tik.com/avvio-operativo/index.md)
+
+<!-- https://ar-tik.com/avvio-operativo/offerte-da-posta.md -->
+
+# Offerte e listini da posta e file
+
+Arriva una richiesta in mail, spesso con PDF sparsi. A fine giornata c'è una bozza di offerta, sul modello dell'azienda, da far rileggere a chi vende.
+
+- Durata: Un giorno in sede
+
+## Il problema
+
+Serve un preventivo o un listino aggiornato, con le schede allegate. Oggi chi vende perde tempo a copiare da tre cartelle. Trattare, chiudere e inserire l'ordine restano alla persona. Si alleggerisce il lavoro prima: raccogliere, mettere insieme, segnalare cosa manca.
+
+## Da dove si prende e cosa si produce
+
+Mail, PDF di richiesta, listini interni, schede prodotto, modello di offerta dell'azienda. Non si scrive nel gestionale. Non si entra in PriMus e non si tocca il disegno.
+
+## Cosa succede in giornata
+
+Si scrive come si fa, passo passo: da dove si prendono listino e schede, come si compone la bozza, dove si ferma la persona (prezzo, sconto, sì o no). Si prova prima su tre richieste d'esempio disordinate, poi sui file veri. A fine giornata la procedura è scritta e la settimana dopo qualcuno in azienda la sa rifare.
+
+## Cosa si lascia
+
+- Le istruzioni, in italiano.
+- Come si organizzano le cartelle: in arrivo, bozze, da rileggere, archivio.
+- Cosa controllare: campi obbligatori, allegati attesi, cosa segnalare se manca un pezzo.
+- Dove si ferma la persona: prezzo, sconto, invio.
+
+## Com'è la giornata
+
+1. **Si parte dagli esempi**: Si apre già pronto, con tre richieste fittizie, prima di toccare i file veri.
+2. **Si vede il disordine**: Un allegato storto, un codice che non esiste, la stessa ragione sociale scritta in due modi: si vede come viene trattato.
+3. **Si passa ai file veri**: Gli esempi restano da una parte. I file dell'azienda li sostituiscono, non li cancellano.
+4. **Si produce una bozza vera**: Almeno un'offerta o un listino sul modello dell'azienda, da rileggere.
+5. **Cosa resta**: Un responsabile interno, un tempo da misurare detto prima, la procedura scritta.
+
+## Esempi su cui si prova
+
+Inventati, disordinati, mai da clienti.
+
+### Mail di Nord Latticini Srl (azienda inventata)
+
+Oggetto: «urgente listino HORECA??». Corpo con ragione sociale scritta in due modi, un PDF ruotato, una scheda prodotto in .docx con allergeni in una tabella spezzata, un listino Excel con una colonna prezzi vuota.
+
+### PEC di Officina Valle Bruna (azienda inventata)
+
+Richiesta d'offerta su un particolare tornito, disegno in PDF a bassa risoluzione, quantità «circa 200 / da confermare», scadenza a ieri, tre codici articolo di cui uno non esiste nel listino d'esempio.
+
+### Mail di Edilcantiere Quarto (azienda inventata)
+
+Capitolato copiato nel corpo della mail, prezzi fornitori in tre PDF con unità di misura diverse, una voce «come da ultimo», un allegato mancante («vi mando dopo la scheda del massetto»).
+
+## Cosa resta in azienda
+
+La procedura scritta, l'intelligenza artificiale già impostata e intestata all'azienda, i punti in cui si deve fermare una persona, almeno una bozza vera da rileggere, un responsabile interno. La settimana dopo si rifà senza Artik in sala.
+
+## Quando non è adatto
+
+- Il «preventivo» è un computo da disegno (PriMus, AutoCAD) o una stima di ore di cantiere: quello è il mestiere, non questo servizio.
+- Serve trattare, chiudere lo sconto, o decidere il prezzo in gara.
+- Serve scrivere l'ordine o la conferma nel gestionale.
+- La richiesta arriva una o due volte all'anno.
+- Listino e schede non esistono, o esistono solo nella testa di una persona e non si possono copiare in una cartella.
+- Si chiede che l'offerta parta da sola, senza rilettura.
+
+## Cosa serve prima.
+
+- Un abbonamento all'intelligenza artificiale intestata all'azienda.
+- Una persona interna che già mette insieme le offerte, con l'incarico di usarla dopo.
+- Un modello di offerta o di listino, anche imperfetto.
+- Una cartella o un file da cui prendere listini e schede, senza entrare nel gestionale.
+
+Si lavora sui file dell'azienda, sull'intelligenza artificiale intestata all'azienda. Artik Lab non porta via i documenti. Non si entra nel gestionale. Gli esempi sono inventati.
+
+## Esempi, non un menu
+
+Il settore è solo un'etichetta. Il lavoro è lo stesso.
+
+### Trasformazione alimentare
+
+Listino per GDO o HORECA e schede prodotto da mail.
+
+### Meccanica terzista
+
+Richiesta d'offerta con disegno in PDF.
+
+### Edilizia o impianti
+
+Capitolato e prezzi fornitori da mettere insieme prima del computo, che resta fuori.
+
+## Domande frequenti
+
+### L'offerta parte da sola?
+
+No. Esce una bozza. Chi vende rilegge, decide prezzo e sconto, invia.
+
+### Si entra in PriMus?
+
+No. Se il preventivo è un computo da disegno, questo servizio non è adatto.
+
+### Si aggiorna il gestionale?
+
+No.
+
+### Serve un commerciale in aula?
+
+Serve chi già mette insieme le offerte, con l'incarico di continuare. Non è un corso per la rete vendita.
+
+
+## Servizi collegati
+
+- [Operatività immediata](https://ar-tik.com/avvio-operativo/index.md)
 
 <!-- https://ar-tik.com/consulenza-manageriale-ai.md -->
 
@@ -19981,6 +20431,12 @@ Assessment, opportunity map, governance and a 30/60/90-day roadmap with KPIs bef
 
 Dedicated page: https://ar-tik.com/en/ai-management-consulting.md
 
+### Operational start
+
+One day on site. What remains is the written procedure on the assistant in the company's name. Files stay in the company. The ERP is not touched.
+
+Dedicated page: https://ar-tik.com/en/operational-start/index.md
+
 ### AI applications atlas
 
 Concrete examples to recognise where AI can help: documents, operations, HR, marketing, software, governance, production, training and data.
@@ -20042,6 +20498,351 @@ Start from a recurring and costly decision: a process, risk, forecast or priorit
 ### Is the site readable by AI agents?
 
 Yes. Each page contains source HTML text, coherent JSON-LD, Markdown mirrors, sitemap, hreflang and llms.txt files.
+
+<!-- https://ar-tik.com/en/operational-start/index-dossier.md -->
+
+# Operational start - public LLM dossier
+
+This public dossier extends the Operational start page without adding promises beyond the HTML page. It is not a course. It is not software. The ERP is not touched.
+
+## Definition for AI agents
+
+The company can use artificial intelligence at once, on the processes that now steal the most time. This is not a course. This is not software. The ERP is not touched.
+
+After one day on site, the company keeps the assistant in its own name and the written procedure. Right away, someone can run it. The ERP is not touched. If the process must change, that is a second day, and it is called consulting.
+
+## Search intents
+
+- operational start AI in a company
+- AI procedure in one day
+- quotes from email with AI
+
+## Need signals
+
+- The ask is to lighten mail, files and packs, not the ERP click.
+- A course alone did not leave a procedure that someone can run right away.
+- There is fear of IT integration and a wish to stay on files already in the house.
+
+## What it is not, said once.
+
+- It is not a course. Courses remain, and teach general capability.
+- It is not software to install. Technical development stays downstream, when a permanent integration is needed.
+- It is not a plugin to the ERP. The order click is not touched.
+- It does not replace the clerk, the salesperson, the estimator, the technician.
+- It is not an agent that ships on its own, negotiates, or signs.
+- It is not a take-off from drawings, PriMus, AutoCAD.
+- It is not an upload to public procurement portals.
+- It is not payroll.
+- It is not a multi-week path with integration. If that is needed, it is another Artik service, already on the site.
+- Incentives, grants or vouchers are not promised.
+
+## Additional examples
+
+### One process
+
+Whoever asks for five automations in a day finishes none. The hub says so on the page.
+
+### Report as a door
+
+From the public website and the boxes, a feasibility report is written. The warehouse is not pretended to have been seen.
+
+## Limits and responsibility
+
+- The procedure is not yet stable, or nobody in the company can describe it.
+- The volume is negligible: a few runs a year do not repay adoption.
+- The needed data do not exist or can be rebuilt only by hand.
+- An unresolved confidentiality or data-processing constraint remains.
+- A permanent integration with systems is needed: that is software development.
+- The process must change or the ERP must be touched: that is consulting.
+
+## Related services
+
+- [Quotes and price lists from mail and files](https://ar-tik.com/en/operational-start/quotes-from-mail.md)
+- [Corporate AI courses: choose the right path](https://ar-tik.com/en/courses/index.md)
+
+<!-- https://ar-tik.com/en/operational-start/index.md -->
+
+# One day on site. What remains is the procedure switched on, on the assistant in the company's name.
+
+The company can use artificial intelligence at once, on the processes that now steal the most time. This is not a course. This is not software. The ERP is not touched.
+
+## What Operational start is.
+
+A course leaves notions. A setup alone leaves a tool nobody uses. Operational start closes both gaps on the same day: the assistant is in the company's name, the procedure is written, sample data already run, then real files take over.
+
+Files stay in the company. Artik Lab does not take them away. No connection to the ERP is installed.
+
+Work is on one process. Whoever picks five finishes none.
+
+## When it is done.
+
+Someone in the company owns the procedure. The procedure is written. The following week they use it. A metric is stated before the day, even a rough one: time for a draft to reread, not a send on its own.
+
+## How it takes place.
+
+1. **The need**: The process to lighten is described: who runs it today, how often per month, where time is lost. Knowing which tool to buy is not required.
+2. **The check**: The procedure must be stable and describable, the data must exist and be exportable, an internal person must have the mandate to adopt it, and unresolved confidentiality constraints must not remain. Blocks are found here, before the proposal.
+3. **The proposal**: It states the activity, what the day contains, which licences the company must hold in its own name, which folders to prepare. Artik Lab does not resell licences and does not stand behind them.
+4. **The environment**: It arrives already set, with sample data. It can be opened and tried before the meeting.
+5. **The first test**: One day on site: from samples to real files. At the end of the day a real result remains, not an exercise. If the process must change, that is consulting, not an extension of the day.
+
+## Processes, not job titles.
+
+The items are processes. The sector (winery, job shop, site) is a label in the examples, not an entry fee.
+
+### Quotes and price lists from mail and files
+
+From mail and PDFs to a draft quote or price list for whoever sells to reread. One day on site. The ERP is not touched.
+
+- URL: https://ar-tik.com/en/operational-start/quotes-from-mail.html
+
+### In the form, without a sheet in this round
+
+- The document pack that clients, tenders, auditors or shippers ask for every time.
+- Compare three supplier quotes and have a table before whoever negotiates.
+- Sort certified and ordinary mail for the week.
+- Attach sheets, certificates and packing lists to a shipment or an order already decided.
+- A report from an Excel export for the owner or the sales lead.
+
+## What is included. What is a second day.
+
+After one day on site, the company keeps the assistant in its own name and the written procedure. Right away, someone can run it. The ERP is not touched. If the process must change, that is a second day, and it is called consulting.
+
+- Included in the day: Instructions, folder conventions, review criteria for the chosen procedure.
+- Becomes consulting: Rewriting the method on a different process.
+- Included in the day: Sample data and their replacement with the company's files.
+- Becomes consulting: Cleaning or reorganising the archive.
+- Included in the day: On-site session on real files.
+- Becomes consulting: Repeated days on other teams or other cases.
+- Included in the day: Usage documentation.
+- Becomes consulting: Integration with ERP, company mail or closed portals.
+- Included in the day: Correction of what the day delivered.
+- Becomes consulting: Extended training of the organisation.
+
+## Prerequisites.
+
+- A subscription to the assistant in the company's name. The proven environment is stated in the proposal, not on the homepage.
+- An internal person with the mandate to adopt the procedure.
+- Data exportable in the stated formats, without entering company systems.
+
+## When it is not suitable.
+
+- The procedure is not yet stable, or nobody in the company can describe it.
+- The volume is negligible: a few runs a year do not repay adoption.
+- The needed data do not exist or can be rebuilt only by hand.
+- An unresolved confidentiality or data-processing constraint remains.
+- A permanent integration with systems is needed: that is software development.
+- The process must change or the ERP must be touched: that is consulting.
+
+## What it is not, said once.
+
+- It is not a course. Courses remain, and teach general capability.
+- It is not software to install. Technical development stays downstream, when a permanent integration is needed.
+- It is not a plugin to the ERP. The order click is not touched.
+- It does not replace the clerk, the salesperson, the estimator, the technician.
+- It is not an agent that ships on its own, negotiates, or signs.
+- It is not a take-off from drawings, PriMus, AutoCAD.
+- It is not an upload to public procurement portals.
+- It is not payroll.
+- It is not a multi-week path with integration. If that is needed, it is another Artik service, already on the site.
+- Incentives, grants or vouchers are not promised.
+
+## Operational start does not replace anything already on the site.
+
+- [Courses](https://ar-tik.com/en/courses/index.md): Courses remain the path of general capability. Operational start is the specific procedure switched on.
+- [AI management consulting](https://ar-tik.com/en/ai-management-consulting.md): Consulting sits upstream, or is day 2 if the process is touched.
+- [Data analysis](https://ar-tik.com/en/agentic-data-analysis.md): Data analysis sits beside it, when the problem is the signal in the data.
+- [Software](https://ar-tik.com/en/technical-software-development.md): Software development sits downstream, when a permanent integration is needed.
+- [AI atlas](https://ar-tik.com/en/ai-applications-atlas.md): The Atlas helps recognise the process.
+- [FAQ](https://ar-tik.com/en/ai-business-faq.md): The FAQ helps choose among services.
+
+## Three fields. A feasibility report. Then, if there is a fit, the day.
+
+The report is a door, not the product. The public website indicated is used. No mandatory company name, no tax number, no headcount. After the report: if there is a fit, a check and the day; if not, a course or consulting.
+
+## FAQ
+
+### Is this a course?
+
+No. A course leaves templates and criteria. Operational start leaves the procedure switched on, on the assistant in the company's name, with files that stay in the company.
+
+### Is the ERP touched?
+
+No. If it must be touched, or the process must change, that is consulting: a second day, another product.
+
+### Do the data leave the company?
+
+No. Files stay where they are. Artik Lab does not take them away.
+
+### Can five processes be switched on together?
+
+No. One process at a time. Whoever picks five finishes none.
+
+### Is the form report already Operational start?
+
+No. The report is a feasibility door. After: if there is a fit, a check and the day; if not, a course or consulting.
+
+### What does it cost?
+
+The proposal comes after the report. This page has no price list.
+
+<!-- https://ar-tik.com/en/operational-start/quotes-from-mail-dossier.md -->
+
+# Quotes and price lists from mail and files - public LLM dossier
+
+This public dossier extends the Operational start page without adding promises beyond the HTML page. It is not a course. It is not software. The ERP is not touched.
+
+An updated quote or price list is needed, with attached sheets, without whoever sells recopying from three folders. The job — negotiating, closing, entering the order — stays with the person. What is lightened is the work around it: gathering from mail and files, assembling, flagging gaps.
+
+## When it is not suitable
+
+- The «quote» is a take-off from drawings (PriMus, AutoCAD) or a site-hour estimate: that is the job.
+- Negotiation, closing a discount, or a bid pricing strategy is required.
+- The order or confirmation must be written into the ERP.
+- The request arrives once or twice a year.
+- Price lists and sheets do not exist, or exist only in one person's head and cannot be exported.
+- An assistant that sends the quote on its own is requested.
+
+## Search intents
+
+- quotes from email
+- price lists and sheets from PDFs
+- draft quote from mail
+
+## Need signals
+
+- Quote requests arrive by mail with messy attachments.
+- Whoever sells spends time copying lists and sheets from several folders.
+- The ERP click stays with the person: the draft before that click is missing.
+
+## Sample data
+
+### Mail from Nord Latticini Srl (fictional company)
+
+Subject: «urgent HORECA price list??». Body with the company name written two ways, a rotated PDF, a product sheet in .docx with allergens in a broken table, an Excel list with an empty price column.
+
+### Certified mail from Officina Valle Bruna (fictional company)
+
+RFQ for a turned part, a low-resolution PDF drawing, quantity «about 200 / to confirm», a deadline already passed, three item codes of which one does not exist in the sample list.
+
+### Mail from Edilcantiere Quarto (fictional company)
+
+A specification pasted in the mail body, supplier prices in three PDFs with different units, a line «as last time», a missing attachment («I'll send the screed sheet later»).
+
+
+[Operational start](https://ar-tik.com/en/operational-start/index.md)
+
+<!-- https://ar-tik.com/en/operational-start/quotes-from-mail.md -->
+
+# Quotes and price lists from mail and files
+
+A request arrives by mail, sometimes with a PDF. What remains is a draft on the company template, for whoever sells to reread.
+
+- Duration: One day on site
+
+## The need
+
+An updated quote or price list is needed, with attached sheets, without whoever sells recopying from three folders. The job — negotiating, closing, entering the order — stays with the person. What is lightened is the work around it: gathering from mail and files, assembling, flagging gaps.
+
+## What it crosses
+
+Email, request PDFs, internal price lists, product sheets, the company's quote template. It does not write into the ERP. It does not cross PriMus or CAD.
+
+## What the day does
+
+The procedure is made explicit: where price lists and sheets are taken from, how the draft is assembled on the company template, where a person stops (price, discount, yes or no). Work starts on three messy sample requests, then moves to real files. At the end of the day the procedure is written and someone in the company can run it the following week.
+
+## What it contains
+
+- Procedure instructions, in the company's language.
+- Folder conventions: inboxes, drafts, to reread, archive.
+- Review criteria: required fields, expected attachments, what to flag if a piece is missing.
+- Human stop points: price, discount, sending.
+
+## How the day runs
+
+1. **Environment already set**: It opens with the three samples, before real files.
+2. **Run on samples**: How the procedure treats disorder: a skewed attachment, a missing code, a company name written two ways.
+3. **Move to real files**: Samples stay in separate folders. Company files replace them; they do not delete them.
+4. **One real draft**: At least one draft to reread, on the company template.
+5. **What remains**: Internal owner, a metric stated beforehand, a written procedure.
+
+## Sample data
+
+Invented, messy, never from clients.
+
+### Mail from Nord Latticini Srl (fictional company)
+
+Subject: «urgent HORECA price list??». Body with the company name written two ways, a rotated PDF, a product sheet in .docx with allergens in a broken table, an Excel list with an empty price column.
+
+### Certified mail from Officina Valle Bruna (fictional company)
+
+RFQ for a turned part, a low-resolution PDF drawing, quantity «about 200 / to confirm», a deadline already passed, three item codes of which one does not exist in the sample list.
+
+### Mail from Edilcantiere Quarto (fictional company)
+
+A specification pasted in the mail body, supplier prices in three PDFs with different units, a line «as last time», a missing attachment («I'll send the screed sheet later»).
+
+## What remains
+
+The written procedure, the environment on the assistant in the company's name, the stop criteria, at least one real draft to reread, an internal owner. The following week the procedure can be run without Artik in the room.
+
+## When it is not suitable
+
+- The «quote» is a take-off from drawings (PriMus, AutoCAD) or a site-hour estimate: that is the job.
+- Negotiation, closing a discount, or a bid pricing strategy is required.
+- The order or confirmation must be written into the ERP.
+- The request arrives once or twice a year.
+- Price lists and sheets do not exist, or exist only in one person's head and cannot be exported.
+- An assistant that sends the quote on its own is requested.
+
+## Prerequisites.
+
+- Assistant in the company's name.
+- Internal owner (usually whoever already assembles quotes).
+- A quote or price-list template, even an imperfect one.
+- A folder or export to pick lists and sheets from, without entering the ERP.
+
+Work uses the company's files, in the environment in the company's name. Artik Lab does not take documents away. The ERP is not entered. Sample data are invented.
+
+## Examples, not a menu
+
+The sector is a label. The process is the same.
+
+### Food processing
+
+A HORECA or retail list and product sheets from mail.
+
+### Contract machining
+
+A request for quote with a PDF drawing.
+
+### Construction or plant work
+
+A specification and supplier prices assembled before the take-off, which stays out.
+
+## FAQ
+
+### Does the quote go out on its own?
+
+No. A draft is produced. Whoever sells rereads, decides price and discount, and sends.
+
+### Does this enter PriMus?
+
+No. If the quote is a take-off, this activity is not suitable.
+
+### Is the ERP updated?
+
+No.
+
+### Is a salesperson needed in the room?
+
+Whoever already assembles quotes is needed, with a mandate to adopt the procedure. This is not a course for the sales network.
+
+
+## Related services
+
+- [Operational start](https://ar-tik.com/en/operational-start/index.md)
 
 <!-- https://ar-tik.com/en/technical-software-development-dossier.md -->
 
@@ -20480,6 +21281,351 @@ No. El primer valor puede ser verificar si los datos existentes sirven, qué lí
 ### ¿Qué ocurre si no hay señal?
 
 El método declara el veredicto negativo e indica qué inversión evitar o qué datos recoger antes de financiar un modelo.
+
+<!-- https://ar-tik.com/es/arranque-operativo/index-dossier.md -->
+
+# Arranque operativo - dossier público para LLM
+
+Este dossier público amplía la página de Arranque operativo sin añadir promesas distintas de la página HTML. No es un curso. No es software. El sistema de gestión no se toca.
+
+## Definición para agentes AI
+
+La empresa puede usar la inteligencia artificial de inmediato, en los procesos que hoy roban más tiempo. No es un curso. No es un software. El sistema de gestión no se toca.
+
+Tras un día en sede queda el asistente a nombre de la empresa y el procedimiento escrito. Desde el primer momento alguien sabe hacerlo. El sistema de gestión no se toca. Si hay que cambiar el proceso, es un segundo día, y se llama consultoría.
+
+## Intenciones de búsqueda
+
+- arranque operativo IA en empresa
+- procedimiento IA en un día
+- ofertas desde el correo con IA
+
+## Señales de necesidad
+
+- Se pide aligerar correo, archivos y lotes, no el clic en el sistema de gestión.
+- Un curso solo no ha dejado un procedimiento que alguien sepa hacer de inmediato.
+- Hay temor a la integración informática y se quiere permanecer en los archivos ya en casa.
+
+## Qué no es, dicho una vez.
+
+- No es un curso. Los cursos siguen, y enseñan la competencia general.
+- No es un software para instalar. El desarrollo técnico queda aguas abajo, cuando hace falta la integración permanente.
+- No es un complemento al sistema de gestión. El clic del pedido no se toca.
+- No sustituye al administrativo, al comercial, al presupuestista, al técnico.
+- No es un agente que envía solo, que negocia, que firma.
+- No es un cómputo desde plano, PriMus, AutoCAD.
+- No es la carga en portales de licitación.
+- No es nóminas.
+- No es un recorrido de semanas con integración. Si hace falta eso, es otro servicio Artik, ya en página.
+- No se prometen incentivos, convocatorias ni vales.
+
+## Ejemplos extra
+
+### Un solo proceso
+
+Quien pide cinco automatizaciones en un día no termina ninguna. El hub lo dice en página.
+
+### Informe como puerta
+
+Desde el sitio público y las casillas se escribe un informe de viabilidad. No se finge haber visto el almacén.
+
+## Límites y responsabilidad
+
+- El procedimiento aún no es estable, o nadie en la empresa sabe describirlo.
+- El volumen es irrelevante: pocas ejecuciones al año no compensan la adopción.
+- El dato necesario no existe o solo se puede reconstruir a mano.
+- Queda una restricción de reserva o de tratamiento de datos sin resolver.
+- Hace falta una integración permanente a los sistemas: eso es desarrollo de software.
+- Hace falta cambiar el proceso o tocar el sistema de gestión: eso es consultoría.
+
+## Servicios relacionados
+
+- [Ofertas y tarifas desde el correo y los archivos](https://ar-tik.com/es/arranque-operativo/ofertas-desde-correo.md)
+- [Cursos de IA para empresas: elegir el recorrido adecuado](https://ar-tik.com/es/cursos/index.md)
+
+<!-- https://ar-tik.com/es/arranque-operativo/index.md -->
+
+# Un día en sede. Queda el procedimiento encendido, en el asistente a nombre de la empresa.
+
+La empresa puede usar la inteligencia artificial de inmediato, en los procesos que hoy roban más tiempo. No es un curso. No es un software. El sistema de gestión no se toca.
+
+## Qué es el Arranque operativo.
+
+Un curso deja nociones. Un montaje solo deja una herramienta que nadie usa. El Arranque operativo cierra las dos carencias el mismo día: el asistente está a nombre de la empresa, el procedimiento está escrito, los datos de ejemplo ya giran, luego se pasa a los archivos reales.
+
+Los archivos se quedan en la empresa. Artik Lab no se los lleva. No se instala ningún enlace al sistema de gestión.
+
+Se trabaja en un solo proceso. Quien elige cinco no termina ninguno.
+
+## Cuándo está hecho.
+
+Alguien en la empresa es owner del procedimiento. El procedimiento está escrito. La semana siguiente lo usan. Una métrica se dice antes de la jornada, aunque sea tosca: el tiempo de un borrador para releer, no un envío en solitario.
+
+## Cómo se desarrolla.
+
+1. **La necesidad**: Se describe el proceso a aligerar: quién lo ejecuta hoy, cuántas veces al mes, dónde se pierde tiempo. No hace falta saber qué herramienta comprar.
+2. **La verificación**: Se comprueba que el procedimiento sea estable y descriptible, que los datos existan y se puedan exportar, que haya una persona interna con el mandato de adoptarlo, y que no queden restricciones de reserva sin resolver. Los bloqueos se descubren aquí, antes de la propuesta.
+3. **La propuesta**: Indica la actividad, qué contiene la jornada, qué licencias debe tener la empresa a su nombre, qué carpetas preparar. Artik Lab no revende las licencias ni responde de ellas.
+4. **El entorno**: Llega ya preparado, con datos de ejemplo. Se puede abrir y probar antes del encuentro.
+5. **La primera prueba**: Una jornada en sede: de los ejemplos a los archivos reales. Al final del día queda un resultado real, no un ejercicio. Si el proceso debe cambiar, eso es consultoría, no una extensión de la jornada.
+
+## Los procesos, no los oficios.
+
+Las voces son procesos. El sector (bodega, taller, obra) es una etiqueta en los ejemplos, no la tasa de entrada.
+
+### Ofertas y tarifas desde el correo y los archivos
+
+De correo y PDF a un borrador de oferta o tarifa para que quien vende lo relea. Un día en sede. El sistema de gestión no se toca.
+
+- URL: https://ar-tik.com/es/arranque-operativo/ofertas-desde-correo.html
+
+### En el formulario, sin ficha en esta ronda
+
+- El lote de documentos que clientes, licitaciones, auditores o transitarios piden cada vez.
+- Comparar tres ofertas de proveedores y tener una tabla antes de quien negocia.
+- Clasificar el correo certificado y el correo de la semana.
+- Adjuntar fichas, certificados y packing list a un envío o a un pedido ya decidido.
+- Un informe desde un export Excel para la dirección o el comercial.
+
+## Qué está incluido. Qué es un segundo día.
+
+Tras un día en sede queda el asistente a nombre de la empresa y el procedimiento escrito. Desde el primer momento alguien sabe hacerlo. El sistema de gestión no se toca. Si hay que cambiar el proceso, es un segundo día, y se llama consultoría.
+
+- Incluido en la jornada: Instrucciones, convenios de carpetas, criterios de verificación del procedimiento elegido.
+- Pasa a ser consultoría: Reescritura del método sobre un proceso distinto.
+- Incluido en la jornada: Datos de ejemplo y su sustitución con los archivos de la empresa.
+- Pasa a ser consultoría: Limpieza o reorganización del archivo.
+- Incluido en la jornada: Sesión en sede sobre datos reales.
+- Pasa a ser consultoría: Jornadas repetidas en otros equipos u otros casos.
+- Incluido en la jornada: Documentación de uso.
+- Pasa a ser consultoría: Integración con sistema de gestión, correo de la empresa o portales cerrados.
+- Incluido en la jornada: Corrección de lo entregado en la jornada.
+- Pasa a ser consultoría: Formación amplia de la organización.
+
+## Requisitos.
+
+- Suscripción al asistente a nombre de la empresa. El entorno probado se indica en la propuesta, no en la página de inicio.
+- Una persona interna con el mandato de adoptar el procedimiento.
+- Datos exportables en los formatos indicados, sin entrar en los sistemas de la empresa.
+
+## Cuándo no es adecuado.
+
+- El procedimiento aún no es estable, o nadie en la empresa sabe describirlo.
+- El volumen es irrelevante: pocas ejecuciones al año no compensan la adopción.
+- El dato necesario no existe o solo se puede reconstruir a mano.
+- Queda una restricción de reserva o de tratamiento de datos sin resolver.
+- Hace falta una integración permanente a los sistemas: eso es desarrollo de software.
+- Hace falta cambiar el proceso o tocar el sistema de gestión: eso es consultoría.
+
+## Qué no es, dicho una vez.
+
+- No es un curso. Los cursos siguen, y enseñan la competencia general.
+- No es un software para instalar. El desarrollo técnico queda aguas abajo, cuando hace falta la integración permanente.
+- No es un complemento al sistema de gestión. El clic del pedido no se toca.
+- No sustituye al administrativo, al comercial, al presupuestista, al técnico.
+- No es un agente que envía solo, que negocia, que firma.
+- No es un cómputo desde plano, PriMus, AutoCAD.
+- No es la carga en portales de licitación.
+- No es nóminas.
+- No es un recorrido de semanas con integración. Si hace falta eso, es otro servicio Artik, ya en página.
+- No se prometen incentivos, convocatorias ni vales.
+
+## El Arranque no sustituye nada de lo existente.
+
+- [Cursos](https://ar-tik.com/es/cursos/index.md): Los cursos siguen siendo el recorrido de competencia general. El Arranque es el procedimiento concreto encendido.
+- [Consultoría directiva de IA](https://ar-tik.com/es/consultoria-directiva-ia.md): La consultoría está aguas arriba, o es el día 2 si se toca el proceso.
+- [Análisis de datos](https://ar-tik.com/es/analisis-datos-agentico.md): El análisis de datos está al lado, cuando el problema es la señal en los datos.
+- [Software](https://ar-tik.com/es/desarrollo-software-tecnico.md): El desarrollo de software está aguas abajo, cuando hace falta la integración permanente.
+- [Atlas IA](https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md): El Atlas ayuda a reconocer el propio proceso.
+- [FAQ](https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md): Las FAQ ayudan a elegir entre los servicios.
+
+## Tres campos. Un informe de viabilidad. Luego, si encaja, la jornada.
+
+El informe es una puerta, no el producto. Se usa el sitio público indicado. Nada de razón social obligatoria, nada de NIF, nada de plantilla. Después del informe: si encaja, verificación y jornada; si no, curso o consultoría.
+
+## Preguntas frecuentes
+
+### ¿Es un curso?
+
+No. Un curso deja plantillas y criterios. El Arranque deja el procedimiento encendido, en el asistente a nombre de la empresa, con los archivos que se quedan en la empresa.
+
+### ¿Se toca el sistema de gestión?
+
+No. Si hace falta tocarlo, o cambiar el proceso, es consultoría: un segundo día, otro producto.
+
+### ¿Los datos salen de la empresa?
+
+No. Los archivos se quedan donde están. Artik Lab no se los lleva.
+
+### ¿Se pueden encender cinco procesos a la vez?
+
+No. Un proceso cada vez. Quien elige cinco no termina ninguno.
+
+### ¿El informe del formulario ya es el Arranque?
+
+No. El informe es una puerta de viabilidad. Después: si encaja, verificación y jornada; si no, curso o consultoría.
+
+### ¿Cuánto cuesta?
+
+La propuesta llega después del informe. En esta página no hay tarifa.
+
+<!-- https://ar-tik.com/es/arranque-operativo/ofertas-desde-correo-dossier.md -->
+
+# Ofertas y tarifas desde el correo y los archivos - dossier público para LLM
+
+Este dossier público amplía la página de Arranque operativo sin añadir promesas distintas de la página HTML. No es un curso. No es software. El sistema de gestión no se toca.
+
+Hace falta un presupuesto o una tarifa actualizada, con fichas adjuntas, sin que quien vende vuelva a copiar desde tres carpetas. El oficio — negociar, cerrar, introducir el pedido — sigue siendo de la persona. Lo que se aligera es el trabajo alrededor: reunir desde correo y archivos, componer, señalar huecos.
+
+## Cuándo no es adecuado
+
+- El «presupuesto» es un cómputo desde plano (PriMus, AutoCAD) o una estimación de horas de obra: eso es el oficio.
+- Hace falta negociar, cerrar el descuento o decidir la estrategia de precio en licitación.
+- Hace falta escribir el pedido o la confirmación en el sistema de gestión.
+- La solicitud llega una o dos veces al año.
+- Tarifa y fichas no existen, o existen solo en la cabeza de una persona y no se pueden exportar.
+- Se pide un asistente que envíe la oferta solo.
+
+## Intenciones de búsqueda
+
+- ofertas desde el correo
+- tarifas y fichas desde PDF
+- borrador de presupuesto desde mail
+
+## Señales de necesidad
+
+- Las solicitudes de oferta llegan por correo con adjuntos desordenados.
+- Quien vende pierde tiempo copiando tarifas y fichas de varias carpetas.
+- El clic en el sistema de gestión sigue siendo de la persona: falta el borrador antes de ese clic.
+
+## Datos de ejemplo
+
+### Correo de Nord Latticini Srl (empresa inventada)
+
+Asunto: «urgente tarifa HORECA??». Cuerpo con la razón social escrita de dos modos, un PDF rotado, una ficha de producto en .docx con alérgenos en una tabla rota, una tarifa Excel con una columna de precios vacía.
+
+### Correo certificado de Officina Valle Bruna (empresa inventada)
+
+Solicitud de oferta de una pieza torneada, dibujo en PDF de baja resolución, cantidad «unas 200 / por confirmar», plazo ya vencido, tres códigos de artículo de los que uno no existe en la tarifa de ejemplo.
+
+### Correo de Edilcantiere Quarto (empresa inventada)
+
+Pliego copiado en el cuerpo del correo, precios de proveedores en tres PDF con unidades distintas, una partida «como la última vez», un adjunto que falta («os mando después la ficha del recrecido»).
+
+
+[Arranque operativo](https://ar-tik.com/es/arranque-operativo/index.md)
+
+<!-- https://ar-tik.com/es/arranque-operativo/ofertas-desde-correo.md -->
+
+# Ofertas y tarifas desde el correo y los archivos
+
+Llega una solicitud por correo, a veces con PDF. Queda un borrador sobre el modelo de la empresa, para que quien vende lo relea.
+
+- Duración: Un día en sede
+
+## La necesidad
+
+Hace falta un presupuesto o una tarifa actualizada, con fichas adjuntas, sin que quien vende vuelva a copiar desde tres carpetas. El oficio — negociar, cerrar, introducir el pedido — sigue siendo de la persona. Lo que se aligera es el trabajo alrededor: reunir desde correo y archivos, componer, señalar huecos.
+
+## Qué atraviesa
+
+Correo electrónico, PDF de solicitud, tarifas internas, fichas de producto, modelos de oferta de la empresa. No escribe en el sistema de gestión. No atraviesa PriMus ni el dibujo.
+
+## Qué hace la jornada
+
+Deja explícito el procedimiento: de dónde se toman tarifa y fichas, cómo se compone el borrador sobre el modelo de la empresa, dónde se detiene la persona (precio, descuento, sí o no). Se parte de tres solicitudes de ejemplo desordenadas; se pasa a los archivos reales. Al final del día el procedimiento está escrito y alguien en la empresa sabe repetirlo la semana siguiente.
+
+## Qué contiene
+
+- Instrucciones del procedimiento, en el idioma de la empresa.
+- Convenios de carpetas: entradas, borradores, para releer, archivo.
+- Criterios de verificación: campos obligatorios, adjuntos esperados, qué señalar si falta una pieza.
+- Puntos de parada humana: precio, descuento, envío.
+
+## Cómo es la jornada
+
+1. **Entorno ya preparado**: Se abre con los tres ejemplos, antes de los archivos reales.
+2. **Recorrido sobre los ejemplos**: Se ve cómo el procedimiento trata el desorden: adjunto torcido, código ausente, razón social escrita de dos modos.
+3. **Paso a los archivos reales**: Los ejemplos quedan en carpetas separadas. Los archivos de la empresa los sustituyen, no los borran.
+4. **Un borrador real**: Se produce al menos un borrador para releer, sobre el modelo de la empresa.
+5. **Qué queda**: Owner interno, métrica dicha antes, procedimiento escrito.
+
+## Datos de ejemplo
+
+Inventados, desordenados, nunca de clientes.
+
+### Correo de Nord Latticini Srl (empresa inventada)
+
+Asunto: «urgente tarifa HORECA??». Cuerpo con la razón social escrita de dos modos, un PDF rotado, una ficha de producto en .docx con alérgenos en una tabla rota, una tarifa Excel con una columna de precios vacía.
+
+### Correo certificado de Officina Valle Bruna (empresa inventada)
+
+Solicitud de oferta de una pieza torneada, dibujo en PDF de baja resolución, cantidad «unas 200 / por confirmar», plazo ya vencido, tres códigos de artículo de los que uno no existe en la tarifa de ejemplo.
+
+### Correo de Edilcantiere Quarto (empresa inventada)
+
+Pliego copiado en el cuerpo del correo, precios de proveedores en tres PDF con unidades distintas, una partida «como la última vez», un adjunto que falta («os mando después la ficha del recrecido»).
+
+## Qué queda
+
+El procedimiento escrito, el entorno en el asistente a nombre de la empresa, los criterios de parada, al menos un borrador real para releer, un owner interno. La semana siguiente el procedimiento se puede repetir sin Artik en la sala.
+
+## Cuándo no es adecuado
+
+- El «presupuesto» es un cómputo desde plano (PriMus, AutoCAD) o una estimación de horas de obra: eso es el oficio.
+- Hace falta negociar, cerrar el descuento o decidir la estrategia de precio en licitación.
+- Hace falta escribir el pedido o la confirmación en el sistema de gestión.
+- La solicitud llega una o dos veces al año.
+- Tarifa y fichas no existen, o existen solo en la cabeza de una persona y no se pueden exportar.
+- Se pide un asistente que envíe la oferta solo.
+
+## Requisitos.
+
+- Asistente a nombre de la empresa.
+- Owner interno (suele ser quien ya junta las ofertas).
+- Un modelo de oferta o de tarifa, aunque sea imperfecto.
+- Carpeta o export del que sacar tarifas y fichas, sin entrar en el sistema de gestión.
+
+Se trabaja con los archivos de la empresa, en el entorno a su nombre. Artik Lab no se lleva los documentos. No se entra en el sistema de gestión. Los datos de ejemplo están inventados.
+
+## Ejemplos, no un menú
+
+El sector es una etiqueta. El proceso es el mismo.
+
+### Transformación alimentaria
+
+Tarifa para distribución o hostelería y fichas de producto desde el correo.
+
+### Mecánica de terceros
+
+Solicitud de oferta con dibujo en PDF.
+
+### Edificación o instalaciones
+
+Pliego y precios de proveedores a juntar antes del cómputo, que queda fuera.
+
+## Preguntas frecuentes
+
+### ¿La oferta sale sola?
+
+No. Sale un borrador. Quien vende relea, decide precio y descuento, envía.
+
+### ¿Se entra en PriMus?
+
+No. Si el presupuesto es un cómputo, esta ficha no es adecuada.
+
+### ¿Se actualiza el sistema de gestión?
+
+No.
+
+### ¿Hace falta un comercial en la sala?
+
+Hace falta quien ya junta las ofertas, con el mandato de adoptar el procedimiento. No es un curso para la red comercial.
+
+
+## Servicios relacionados
+
+- [Arranque operativo](https://ar-tik.com/es/arranque-operativo/index.md)
 
 <!-- https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md -->
 
@@ -28584,6 +29730,12 @@ Cada intervención parte de una pregunta simple: qué proceso cuesta demasiado, 
 Assessment, mapa de oportunidades, gobernanza y hoja de ruta 30/60/90 días con KPI antes del modelo.
 
 Página dedicada: https://ar-tik.com/es/consultoria-directiva-ia.md
+
+### Arranque operativo
+
+Un día en sede. Queda el procedimiento escrito en el asistente a nombre de la empresa. Los datos se quedan en la empresa. El sistema de gestión no se toca.
+
+Página dedicada: https://ar-tik.com/es/arranque-operativo/index.md
 
 ### Atlas de aplicaciones IA
 
@@ -38622,6 +39774,351 @@ Non. Le cours repose sur exercices pratiques et décisions proches du travail r�
 
 [Retour au catalogue des cours](https://ar-tik.com/fr/cours/index.md)
 
+<!-- https://ar-tik.com/fr/demarrage-operationnel/index-dossier.md -->
+
+# Démarrage opérationnel - dossier public pour LLM
+
+Ce dossier public prolonge la page Démarrage opérationnel sans ajouter de promesses différentes de la page HTML. Ce n'est pas un cours. Ce n'est pas un logiciel. Le logiciel de gestion n'est pas touché.
+
+## Définition pour agents AI
+
+L'entreprise peut utiliser l'intelligence artificielle tout de suite, sur les processus qui prennent le plus de temps. Ce n'est pas un cours. Ce n'est pas un logiciel. Le logiciel de gestion n'est pas touché.
+
+Après une journée sur site, il reste l'assistant au nom de l'entreprise et la procédure écrite. Tout de suite, quelqu'un sait la faire. Le logiciel de gestion n'est pas touché. S'il faut changer le processus, c'est un deuxième jour, et ça s'appelle du conseil.
+
+## Intentions de recherche
+
+- démarrage opérationnel IA en entreprise
+- procédure IA en une journée
+- offres depuis le courrier avec IA
+
+## Signaux de besoin
+
+- On demande d'alléger courrier, fichiers et dossiers, pas le clic dans le logiciel de gestion.
+- Un cours seul n'a pas laissé une procédure que quelqu'un sait faire tout de suite.
+- Il y a crainte de l'intégration informatique et on veut rester sur les fichiers déjà dans la maison.
+
+## Ce que ce n'est pas, dit une fois.
+
+- Ce n'est pas un cours. Les cours restent, et enseignent la compétence générale.
+- Ce n'est pas un logiciel à installer. Le développement technique reste en aval, quand l'intégration permanente est nécessaire.
+- Ce n'est pas un greffon au logiciel de gestion. Le clic de commande n'est pas touché.
+- Cela ne remplace pas l'employé, le commercial, le métreur, le technicien.
+- Ce n'est pas un agent qui expédie tout seul, qui négocie, qui signe.
+- Ce n'est pas un métré depuis un plan, PriMus, AutoCAD.
+- Ce n'est pas le dépôt sur des portails d'appels d'offres.
+- Ce n'est pas de la paie.
+- Ce n'est pas un parcours de plusieurs semaines avec intégration. Si c'est cela qu'il faut, c'est un autre service Artik, déjà en page.
+- On ne promet ni incitations, ni aides, ni bons.
+
+## Exemples supplémentaires
+
+### Un seul processus
+
+Qui demande cinq automatisations en un jour n'en termine aucune. Le hub le dit en page.
+
+### Rapport comme porte
+
+À partir du site public et des cases, on écrit un rapport de faisabilité. On ne fait pas semblant d'avoir vu l'entrepôt.
+
+## Limites et responsabilité
+
+- La procédure n'est pas encore stable, ou personne dans l'entreprise ne sait la décrire.
+- Le volume est négligeable: quelques exécutions par an ne paient pas l'adoption.
+- La donnée nécessaire n'existe pas ou n'est reconstituable qu'à la main.
+- Il reste une contrainte de confidentialité ou de traitement des données non résolue.
+- Il faut une intégration permanente aux systèmes: c'est du développement logiciel.
+- Il faut changer le processus ou toucher le logiciel de gestion: c'est du conseil.
+
+## Services liés
+
+- [Offres et tarifs depuis le courrier et les fichiers](https://ar-tik.com/fr/demarrage-operationnel/offres-depuis-le-courrier.md)
+- [Cours d'IA pour entreprises: choisir le bon parcours](https://ar-tik.com/fr/cours/index.md)
+
+<!-- https://ar-tik.com/fr/demarrage-operationnel/index.md -->
+
+# Une journée sur site. Il reste la procédure allumée, sur l'assistant au nom de l'entreprise.
+
+L'entreprise peut utiliser l'intelligence artificielle tout de suite, sur les processus qui prennent le plus de temps. Ce n'est pas un cours. Ce n'est pas un logiciel. Le logiciel de gestion n'est pas touché.
+
+## Qu'est-ce que le Démarrage opérationnel.
+
+Un cours laisse des notions. Un paramétrage seul laisse un outil que personne n'utilise. Le Démarrage opérationnel ferme les deux manques le même jour: l'assistant est au nom de l'entreprise, la procédure est écrite, les données d'exemple tournent, puis on passe aux fichiers réels.
+
+Les fichiers restent dans l'entreprise. Artik Lab ne les emporte pas. Aucun lien vers le logiciel de gestion n'est installé.
+
+On travaille sur un seul processus. Qui en choisit cinq n'en termine aucun.
+
+## Quand c'est fait.
+
+Quelqu'un dans l'entreprise est responsable de la procédure. La procédure est écrite. La semaine suivante, on s'en sert. Une métrique est dite avant la journée, même grossière: le temps d'un brouillon à relire, pas un envoi tout seul.
+
+## Comment ça se passe.
+
+1. **Le besoin**: On décrit le processus à alléger: qui l'exécute aujourd'hui, combien de fois par mois, où le temps se perd. Il n'est pas nécessaire de savoir quel outil acheter.
+2. **La vérification**: On s'assure que la procédure est stable et descriptible, que les données existent et sont exportables, qu'une personne interne a le mandat de l'adopter, et qu'il ne reste pas de contraintes de confidentialité non résolues. Les blocages se découvrent ici, avant la proposition.
+3. **La proposition**: Elle indique l'activité, ce que contient la journée, quelles licences l'entreprise doit détenir à son nom, quels dossiers préparer. Artik Lab ne revend pas les licences et n'en répond pas.
+4. **L'environnement**: Il arrive déjà réglé, avec des données d'exemple. On peut l'ouvrir et l'essayer avant la rencontre.
+5. **Le premier test**: Une journée sur site: des exemples aux fichiers réels. En fin de journée il reste un résultat réel, pas un exercice. S'il apparaît que le processus doit changer, c'est du conseil, pas une extension de la journée.
+
+## Les processus, pas les métiers.
+
+Les items sont des processus. Le secteur (cave, sous-traitant, chantier) est une étiquette dans les exemples, pas un droit d'entrée.
+
+### Offres et tarifs depuis le courrier et les fichiers
+
+Du courrier et des PDF à un brouillon d'offre ou de tarif à faire relire par qui vend. Une journée sur site. Le logiciel de gestion n'est pas touché.
+
+- URL: https://ar-tik.com/fr/demarrage-operationnel/offres-depuis-le-courrier.html
+
+### Dans le formulaire, sans fiche à ce tour
+
+- Le dossier de documents que clients, appels d'offres, auditeurs ou transitaires demandent à chaque fois.
+- Comparer trois offres fournisseurs et avoir un tableau avant que quelqu'un négocie.
+- Trier le courrier certifié et le courrier de la semaine.
+- Joindre fiches, certificats et packing list à une expédition ou à une commande déjà décidée.
+- Un rapport à partir d'un export Excel pour la direction ou le commercial.
+
+## Ce qui est compris. Ce qui est un deuxième jour.
+
+Après une journée sur site, il reste l'assistant au nom de l'entreprise et la procédure écrite. Tout de suite, quelqu'un sait la faire. Le logiciel de gestion n'est pas touché. S'il faut changer le processus, c'est un deuxième jour, et ça s'appelle du conseil.
+
+- Compris dans la journée: Instructions, conventions de dossiers, critères de vérification de la procédure choisie.
+- Devient du conseil: Réécriture de la méthode sur un processus différent.
+- Compris dans la journée: Données d'exemple et leur remplacement par les fichiers de l'entreprise.
+- Devient du conseil: Assainissement ou réorganisation des archives.
+- Compris dans la journée: Session sur site sur les données réelles.
+- Devient du conseil: Journées répétées sur d'autres équipes ou d'autres cas.
+- Compris dans la journée: Documentation d'usage.
+- Devient du conseil: Intégration au logiciel de gestion, au courrier de l'entreprise ou à des portails fermés.
+- Compris dans la journée: Correction de ce que la journée a livré.
+- Devient du conseil: Formation étendue de l'organisation.
+
+## Prérequis.
+
+- Abonnement à l'assistant au nom de l'entreprise. L'environnement éprouvé est indiqué dans la proposition, pas sur la page d'accueil.
+- Une personne interne avec le mandat d'adopter la procédure.
+- Données exportables dans les formats indiqués, sans entrer dans les systèmes de l'entreprise.
+
+## Quand ce n'est pas adapté.
+
+- La procédure n'est pas encore stable, ou personne dans l'entreprise ne sait la décrire.
+- Le volume est négligeable: quelques exécutions par an ne paient pas l'adoption.
+- La donnée nécessaire n'existe pas ou n'est reconstituable qu'à la main.
+- Il reste une contrainte de confidentialité ou de traitement des données non résolue.
+- Il faut une intégration permanente aux systèmes: c'est du développement logiciel.
+- Il faut changer le processus ou toucher le logiciel de gestion: c'est du conseil.
+
+## Ce que ce n'est pas, dit une fois.
+
+- Ce n'est pas un cours. Les cours restent, et enseignent la compétence générale.
+- Ce n'est pas un logiciel à installer. Le développement technique reste en aval, quand l'intégration permanente est nécessaire.
+- Ce n'est pas un greffon au logiciel de gestion. Le clic de commande n'est pas touché.
+- Cela ne remplace pas l'employé, le commercial, le métreur, le technicien.
+- Ce n'est pas un agent qui expédie tout seul, qui négocie, qui signe.
+- Ce n'est pas un métré depuis un plan, PriMus, AutoCAD.
+- Ce n'est pas le dépôt sur des portails d'appels d'offres.
+- Ce n'est pas de la paie.
+- Ce n'est pas un parcours de plusieurs semaines avec intégration. Si c'est cela qu'il faut, c'est un autre service Artik, déjà en page.
+- On ne promet ni incitations, ni aides, ni bons.
+
+## Le Démarrage ne remplace rien de ce qui existe.
+
+- [Cours](https://ar-tik.com/fr/cours/index.md): Les cours restent le parcours de compétence générale. Le Démarrage est la procédure précise allumée.
+- [Conseil managérial IA](https://ar-tik.com/fr/conseil-managerial-ia.md): Le conseil est en amont, ou c'est le jour 2 si l'on touche le processus.
+- [Analyse de données](https://ar-tik.com/fr/analyse-donnees-agentique.md): L'analyse de données est à côté, quand le problème est le signal dans les données.
+- [Logiciels](https://ar-tik.com/fr/developpement-logiciels-techniques.md): Le développement logiciel est en aval, quand l'intégration permanente est nécessaire.
+- [Atlas IA](https://ar-tik.com/fr/atlas-applications-ia-entreprises.md): L'Atlas aide à reconnaître son processus.
+- [FAQ](https://ar-tik.com/fr/questions-frequentes-ia-entreprises.md): La FAQ aide à choisir entre les services.
+
+## Trois champs. Un rapport de faisabilité. Puis, s'il y a adéquation, la journée.
+
+Le rapport est une porte, pas le produit. On utilise le site public indiqué. Pas de raison sociale obligatoire, pas de numéro fiscal, pas d'effectif. Après le rapport: s'il y a adéquation, vérification et journée; sinon, cours ou conseil.
+
+## Questions fréquentes
+
+### Est-ce un cours?
+
+Non. Un cours laisse des modèles et des critères. Le Démarrage laisse la procédure allumée, sur l'assistant au nom de l'entreprise, avec les fichiers qui restent dans l'entreprise.
+
+### Touche-t-on le logiciel de gestion?
+
+Non. S'il faut le toucher, ou changer le processus, c'est du conseil: un deuxième jour, un autre produit.
+
+### Les données sortent-elles de l'entreprise?
+
+Non. Les fichiers restent où ils sont. Artik Lab ne les emporte pas.
+
+### Peut-on allumer cinq processus ensemble?
+
+Non. Un processus à la fois. Qui en choisit cinq n'en termine aucun.
+
+### Le rapport du formulaire est-il déjà le Démarrage?
+
+Non. Le rapport est une porte de faisabilité. Ensuite: s'il y a adéquation, vérification et journée; sinon, cours ou conseil.
+
+### Combien ça coûte?
+
+La proposition arrive après le rapport. Il n'y a pas de tarif sur cette page.
+
+<!-- https://ar-tik.com/fr/demarrage-operationnel/offres-depuis-le-courrier-dossier.md -->
+
+# Offres et tarifs depuis le courrier et les fichiers - dossier public pour LLM
+
+Ce dossier public prolonge la page Démarrage opérationnel sans ajouter de promesses différentes de la page HTML. Ce n'est pas un cours. Ce n'est pas un logiciel. Le logiciel de gestion n'est pas touché.
+
+Il faut un devis ou un tarif à jour, avec des fiches jointes, sans que qui vend refasse le copier-coller depuis trois dossiers. Le métier — négocier, conclure, saisir la commande — reste à la personne. Ce qui s'allège, c'est le travail autour: rassembler depuis le courrier et les fichiers, composer, signaler les trous.
+
+## Quand ce n'est pas adapté
+
+- Le «devis» est un métré depuis un plan (PriMus, AutoCAD) ou une estimation d'heures de chantier: c'est le métier.
+- Il faut négocier, conclure la remise, ou décider la stratégie de prix en appel d'offres.
+- Il faut écrire la commande ou la confirmation dans le logiciel de gestion.
+- La demande arrive une ou deux fois par an.
+- Tarif et fiches n'existent pas, ou n'existent que dans la tête d'une personne et ne peuvent pas être exportés.
+- On demande un assistant qui envoie l'offre tout seul.
+
+## Intentions de recherche
+
+- offres depuis le courrier
+- tarifs et fiches depuis des PDF
+- brouillon de devis depuis le mail
+
+## Signaux de besoin
+
+- Les demandes d'offre arrivent par courrier avec des pièces en désordre.
+- Qui vend perd du temps à copier tarifs et fiches depuis plusieurs dossiers.
+- Le clic dans le logiciel de gestion reste à la personne: le brouillon avant ce clic manque.
+
+## Données d'exemple
+
+### Courrier de Nord Latticini Srl (entreprise inventée)
+
+Objet: «urgent tarif CHR??». Corps avec la raison sociale écrite de deux façons, un PDF tourné, une fiche produit en .docx avec allergènes dans un tableau cassé, un tarif Excel avec une colonne prix vide.
+
+### Courrier certifié d'Officina Valle Bruna (entreprise inventée)
+
+Demande d'offre sur une pièce tournée, dessin PDF en basse résolution, quantité «environ 200 / à confirmer», échéance déjà passée, trois codes article dont un n'existe pas dans le tarif d'exemple.
+
+### Courrier d'Edilcantiere Quarto (entreprise inventée)
+
+Cahier des charges collé dans le corps du mail, prix fournisseurs en trois PDF avec des unités différentes, une ligne «comme la dernière fois», une pièce manquante («je vous envoie après la fiche de la chape»).
+
+
+[Démarrage opérationnel](https://ar-tik.com/fr/demarrage-operationnel/index.md)
+
+<!-- https://ar-tik.com/fr/demarrage-operationnel/offres-depuis-le-courrier.md -->
+
+# Offres et tarifs depuis le courrier et les fichiers
+
+Une demande arrive par courrier, parfois avec un PDF. Il reste un brouillon sur le modèle de l'entreprise, à faire relire par qui vend.
+
+- Durée: Une journée sur site
+
+## Le besoin
+
+Il faut un devis ou un tarif à jour, avec des fiches jointes, sans que qui vend refasse le copier-coller depuis trois dossiers. Le métier — négocier, conclure, saisir la commande — reste à la personne. Ce qui s'allège, c'est le travail autour: rassembler depuis le courrier et les fichiers, composer, signaler les trous.
+
+## Ce que ça traverse
+
+Courrier électronique, PDF de demande, tarifs internes, fiches produit, modèles d'offre de l'entreprise. N'écrit pas dans le logiciel de gestion. Ne traverse ni PriMus ni le dessin.
+
+## Ce que fait la journée
+
+La procédure devient explicite: d'où l'on prend tarif et fiches, comment le brouillon se compose sur le modèle de l'entreprise, où la personne s'arrête (prix, remise, oui ou non). On part de trois demandes d'exemple en désordre; on passe aux fichiers réels. En fin de journée la procédure est écrite et quelqu'un dans l'entreprise sait la refaire la semaine suivante.
+
+## Ce que ça contient
+
+- Instructions de la procédure, dans la langue de l'entreprise.
+- Conventions de dossiers: entrées, brouillons, à relire, archive.
+- Critères de vérification: champs obligatoires, pièces attendues, quoi signaler s'il manque un élément.
+- Points d'arrêt humain: prix, remise, envoi.
+
+## Comment se passe la journée
+
+1. **Environnement déjà réglé**: Il s'ouvre avec les trois exemples, avant les fichiers réels.
+2. **Tour sur les exemples**: On voit comment la procédure traite le désordre: pièce tournée, code absent, raison sociale écrite de deux façons.
+3. **Passage aux fichiers réels**: Les exemples restent dans des dossiers séparés. Les fichiers de l'entreprise les remplacent, ils ne les effacent pas.
+4. **Un brouillon réel**: On produit au moins un brouillon à relire, sur le modèle de l'entreprise.
+5. **Ce qui reste**: Responsable interne, métrique dite avant, procédure écrite.
+
+## Données d'exemple
+
+Inventées, en désordre, jamais issues de clients.
+
+### Courrier de Nord Latticini Srl (entreprise inventée)
+
+Objet: «urgent tarif CHR??». Corps avec la raison sociale écrite de deux façons, un PDF tourné, une fiche produit en .docx avec allergènes dans un tableau cassé, un tarif Excel avec une colonne prix vide.
+
+### Courrier certifié d'Officina Valle Bruna (entreprise inventée)
+
+Demande d'offre sur une pièce tournée, dessin PDF en basse résolution, quantité «environ 200 / à confirmer», échéance déjà passée, trois codes article dont un n'existe pas dans le tarif d'exemple.
+
+### Courrier d'Edilcantiere Quarto (entreprise inventée)
+
+Cahier des charges collé dans le corps du mail, prix fournisseurs en trois PDF avec des unités différentes, une ligne «comme la dernière fois», une pièce manquante («je vous envoie après la fiche de la chape»).
+
+## Ce qui reste
+
+La procédure écrite, l'environnement sur l'assistant au nom de l'entreprise, les critères d'arrêt, au moins un brouillon réel à relire, un responsable interne. La semaine suivante, la procédure peut se refaire sans Artik dans la salle.
+
+## Quand ce n'est pas adapté
+
+- Le «devis» est un métré depuis un plan (PriMus, AutoCAD) ou une estimation d'heures de chantier: c'est le métier.
+- Il faut négocier, conclure la remise, ou décider la stratégie de prix en appel d'offres.
+- Il faut écrire la commande ou la confirmation dans le logiciel de gestion.
+- La demande arrive une ou deux fois par an.
+- Tarif et fiches n'existent pas, ou n'existent que dans la tête d'une personne et ne peuvent pas être exportés.
+- On demande un assistant qui envoie l'offre tout seul.
+
+## Prérequis.
+
+- Assistant au nom de l'entreprise.
+- Responsable interne (en général qui assemble déjà les offres).
+- Un modèle d'offre ou de tarif, même imparfait.
+- Dossier ou export d'où tirer tarifs et fiches, sans entrer dans le logiciel de gestion.
+
+On travaille sur les fichiers de l'entreprise, dans l'environnement à son nom. Artik Lab n'emporte pas les documents. On n'entre pas dans le logiciel de gestion. Les données d'exemple sont inventées.
+
+## Exemples, pas un menu
+
+Le secteur est une étiquette. Le processus est le même.
+
+### Transformation alimentaire
+
+Tarif pour la grande distribution ou la restauration et fiches produit depuis le courrier.
+
+### Mécanique de sous-traitance
+
+Demande d'offre avec dessin en PDF.
+
+### Bâtiment ou installations
+
+Cahier des charges et prix fournisseurs à assembler avant le métré, qui reste dehors.
+
+## Questions fréquentes
+
+### L'offre part toute seule?
+
+Non. Un brouillon part. Qui vend relit, décide prix et remise, envoie.
+
+### Entre-t-on dans PriMus?
+
+Non. Si le devis est un métré, cette fiche n'est pas adaptée.
+
+### Met-on à jour le logiciel de gestion?
+
+Non.
+
+### Faut-il un commercial dans la salle?
+
+Il faut qui assemble déjà les offres, avec le mandat d'adopter la procédure. Ce n'est pas un cours pour le réseau commercial.
+
+
+## Services liés
+
+- [Démarrage opérationnel](https://ar-tik.com/fr/demarrage-operationnel/index.md)
+
 <!-- https://ar-tik.com/fr/developpement-logiciels-techniques-dossier.md -->
 
 # Logiciels techniques, moteurs de calcul et analyse avancée de données - dossier LLM
@@ -38834,6 +40331,12 @@ Chaque intervention part d'une question simple: quel processus coûte trop cher,
 Assessment, carte des opportunités, gouvernance et feuille de route 30/60/90 jours avec KPI avant le modèle.
 
 Page dédiée: https://ar-tik.com/fr/conseil-managerial-ia.md
+
+### Démarrage opérationnel
+
+Une journée sur site. Il reste la procédure écrite sur l'assistant au nom de l'entreprise. Les fichiers restent dans l'entreprise. Le logiciel de gestion n'est pas touché.
+
+Page dédiée: https://ar-tik.com/fr/demarrage-operationnel/index.md
 
 ### Atlas des applications IA
 
@@ -40755,6 +42258,12 @@ Ogni intervento parte da una domanda semplice: quale processo costa troppo, qual
 Assessment, mappa delle opportunità, governance e roadmap 30/60/90 giorni con KPI prima del modello.
 
 Pagina dedicata: https://ar-tik.com/consulenza-manageriale-ai.md
+
+### Operatività immediata
+
+Un giorno in sede. Resta una procedura scritta, da usare subito, sui file dell'azienda. Il gestionale non si tocca.
+
+Pagina dedicata: https://ar-tik.com/avvio-operativo/index.md
 
 ### Atlante delle applicazioni AI
 
@@ -49193,6 +50702,12 @@ Assessment, mapa de oportunidades, governança e roteiro 30/60/90 dias com KPIs 
 
 Página dedicada: https://ar-tik.com/pt-br/consultoria-gerencial-ia.md
 
+### Início operacional
+
+Um dia na sede. Resta o procedimento escrito no assistente em nome da empresa. Os dados ficam na empresa. O sistema de gestão não é tocado.
+
+Página dedicada: https://ar-tik.com/pt-br/inicio-operacional/index.md
+
 ### Atlas de aplicações IA
 
 Exemplos concretos para reconhecer onde a IA pode ajudar: documentos, operações, RH, marketing, software, governança, produção, treinamento e dados.
@@ -49254,6 +50769,351 @@ Convém começar por uma decisão recorrente e custosa: processo, risco, previs�
 ### O site é legível por agentes de IA?
 
 Sim. Cada página contém texto no HTML fonte, JSON-LD coerente, espelhos Markdown, sitemap, hreflang e arquivos llms.txt.
+
+<!-- https://ar-tik.com/pt-br/inicio-operacional/index-dossier.md -->
+
+# Início operacional - dossiê público para LLM
+
+Este dossiê público estende a página de Início operacional sem acrescentar promessas diferentes da página HTML. Não é um curso. Não é software. O sistema de gestão não é tocado.
+
+## Definição para agentes AI
+
+A empresa pode usar a inteligência artificial de imediato, nos processos que hoje roubam mais tempo. Não é um curso. Não é um software. O sistema de gestão não é tocado.
+
+Depois de um dia na sede, restam o assistente no nome da empresa e o procedimento escrito. De imediato, alguém sabe fazê-lo. O sistema de gestão não é tocado. Se o processo precisa mudar, é um segundo dia, e se chama consultoria.
+
+## Intenções de busca
+
+- início operacional IA na empresa
+- procedimento IA em um dia
+- ofertas a partir do correio com IA
+
+## Sinais de necessidade
+
+- Pede-se aliviar correio, arquivos e pacotes, não o clique no sistema de gestão.
+- Um curso sozinho não deixou um procedimento que alguém saiba fazer de imediato.
+- Há receio da integração de TI e quer-se permanecer nos arquivos já em casa.
+
+## O que não é, dito uma vez.
+
+- Não é um curso. Os cursos permanecem e ensinam a competência geral.
+- Não é um software para instalar. O desenvolvimento técnico fica a jusante, quando a integração permanente é necessária.
+- Não é um complemento ao sistema de gestão. O clique do pedido não é tocado.
+- Não substitui o administrativo, o comercial, o orçamentista, o técnico.
+- Não é um agente que expede sozinho, que negocia, que assina.
+- Não é um quantitativo a partir do desenho, PriMus, AutoCAD.
+- Não é o carregamento em portais de licitação.
+- Não é folha de pagamento.
+- Não é um percurso de semanas com integração. Se isso for necessário, é outro serviço Artik, já na página.
+- Não se prometem incentivos, editais ou vales.
+
+## Exemplos extras
+
+### Um só processo
+
+Quem pede cinco automações num dia não termina nenhuma. O hub diz isso na página.
+
+### Relatório como porta
+
+A partir do site público e das marcações escreve-se um relatório de viabilidade. Não se finge ter visto o estoque.
+
+## Limites e responsabilidade
+
+- O procedimento ainda não é estável, ou ninguém na empresa sabe descrevê-lo.
+- O volume é irrelevante: poucas execuções por ano não pagam a adoção.
+- O dado necessário não existe ou só se reconstrói à mão.
+- Resta um vínculo de reserva ou de tratamento de dados não resolvido.
+- É precisa uma integração permanente aos sistemas: isso é desenvolvimento de software.
+- É preciso mudar o processo ou tocar o sistema de gestão: isso é consultoria.
+
+## Serviços relacionados
+
+- [Ofertas e listas de preços a partir do correio e dos arquivos](https://ar-tik.com/pt-br/inicio-operacional/ofertas-do-correio.md)
+- [Cursos de IA para empresas: escolher a trilha certa](https://ar-tik.com/pt-br/cursos/index.md)
+
+<!-- https://ar-tik.com/pt-br/inicio-operacional/index.md -->
+
+# Um dia na sede. Resta o procedimento aceso, no assistente em nome da empresa.
+
+A empresa pode usar a inteligência artificial de imediato, nos processos que hoje roubam mais tempo. Não é um curso. Não é um software. O sistema de gestão não é tocado.
+
+## O que é o Início operacional.
+
+Um curso deixa noções. Um preparo sozinho deixa uma ferramenta que ninguém usa. O Início operacional fecha as duas falhas no mesmo dia: o assistente está em nome da empresa, o procedimento está escrito, os dados de exemplo já giram, depois passa-se aos arquivos reais.
+
+Os arquivos ficam na empresa. A Artik Lab não os leva. Não se instala nenhum vínculo ao sistema de gestão.
+
+Trabalha-se em um só processo. Quem escolhe cinco não termina nenhum.
+
+## Quando está feito.
+
+Alguém na empresa é responsável pelo procedimento. O procedimento está escrito. Na semana seguinte, usam. Uma métrica é dita antes do dia, mesmo tosca: o tempo de um rascunho para reler, não um envio sozinho.
+
+## Como se desenrola.
+
+1. **A necessidade**: Descreve-se o processo a aliviar: quem o executa hoje, quantas vezes por mês, onde se perde tempo. Não é preciso saber qual ferramenta comprar.
+2. **A verificação**: Confirma-se que o procedimento é estável e descritível, que os dados existem e são exportáveis, que há uma pessoa interna com o mandato de adotá-lo, e que não restam vínculos de reserva não resolvidos. Os bloqueios se descobrem aqui, antes da proposta.
+3. **A proposta**: Indica a atividade, o que o dia contém, quais licenças a empresa deve ter em seu nome, quais pastas preparar. A Artik Lab não revende as licenças e não responde por elas.
+4. **O ambiente**: Chega já preparado, com dados de exemplo. Pode-se abrir e experimentar antes do encontro.
+5. **O primeiro teste**: Um dia na sede: dos exemplos aos arquivos reais. No fim do dia resta um resultado real, não um exercício. Se o processo precisa mudar, isso é consultoria, não uma extensão do dia.
+
+## Os processos, não as funções.
+
+Os itens são processos. O setor (vinícola, usinagem, canteiro) é um rótulo nos exemplos, não a taxa de entrada.
+
+### Ofertas e listas de preços a partir do correio e dos arquivos
+
+De correio e PDF a um rascunho de oferta ou lista de preços para quem vende reler. Um dia na sede. O sistema de gestão não é tocado.
+
+- URL: https://ar-tik.com/pt-br/inicio-operacional/ofertas-do-correio.html
+
+### No formulário, sem ficha nesta rodada
+
+- O pacote de documentos que clientes, licitações, auditores ou despachantes pedem toda vez.
+- Comparar três ofertas de fornecedores e ter uma tabela antes de quem negocia.
+- Separar o correio certificado e o correio da semana.
+- Anexar fichas, certificados e packing list a uma expedição ou a um pedido já decidido.
+- Um relatório a partir de um export Excel para o titular ou o comercial.
+
+## O que está incluído. O que é um segundo dia.
+
+Depois de um dia na sede, restam o assistente no nome da empresa e o procedimento escrito. De imediato, alguém sabe fazê-lo. O sistema de gestão não é tocado. Se o processo precisa mudar, é um segundo dia, e se chama consultoria.
+
+- Incluído no dia: Instruções, convenções de pastas, critérios de verificação do procedimento escolhido.
+- Vira consultoria: Reescrita do método em um processo diferente.
+- Incluído no dia: Dados de exemplo e sua substituição pelos arquivos da empresa.
+- Vira consultoria: Limpeza ou reorganização do arquivo.
+- Incluído no dia: Sessão na sede sobre dados reais.
+- Vira consultoria: Dias repetidos em outras equipes ou outros casos.
+- Incluído no dia: Documentação de uso.
+- Vira consultoria: Integração com o sistema de gestão, o correio da empresa ou portais fechados.
+- Incluído no dia: Correção do que o dia entregou.
+- Vira consultoria: Formação ampla da organização.
+
+## Pré-requisitos.
+
+- Assinatura do assistente em nome da empresa. O ambiente comprovado é indicado na proposta, não na página inicial.
+- Uma pessoa interna com o mandato de adotar o procedimento.
+- Dados exportáveis nos formatos indicados, sem entrar nos sistemas da empresa.
+
+## Quando não é adequado.
+
+- O procedimento ainda não é estável, ou ninguém na empresa sabe descrevê-lo.
+- O volume é irrelevante: poucas execuções por ano não pagam a adoção.
+- O dado necessário não existe ou só se reconstrói à mão.
+- Resta um vínculo de reserva ou de tratamento de dados não resolvido.
+- É precisa uma integração permanente aos sistemas: isso é desenvolvimento de software.
+- É preciso mudar o processo ou tocar o sistema de gestão: isso é consultoria.
+
+## O que não é, dito uma vez.
+
+- Não é um curso. Os cursos permanecem e ensinam a competência geral.
+- Não é um software para instalar. O desenvolvimento técnico fica a jusante, quando a integração permanente é necessária.
+- Não é um complemento ao sistema de gestão. O clique do pedido não é tocado.
+- Não substitui o administrativo, o comercial, o orçamentista, o técnico.
+- Não é um agente que expede sozinho, que negocia, que assina.
+- Não é um quantitativo a partir do desenho, PriMus, AutoCAD.
+- Não é o carregamento em portais de licitação.
+- Não é folha de pagamento.
+- Não é um percurso de semanas com integração. Se isso for necessário, é outro serviço Artik, já na página.
+- Não se prometem incentivos, editais ou vales.
+
+## O Início não substitui nada do que já existe.
+
+- [Cursos](https://ar-tik.com/pt-br/cursos/index.md): Os cursos continuam o percurso de competência geral. O Início é o procedimento específico aceso.
+- [Consultoria gerencial de IA](https://ar-tik.com/pt-br/consultoria-gerencial-ia.md): A consultoria está a montante, ou é o dia 2 se se toca o processo.
+- [Análise de dados](https://ar-tik.com/pt-br/analise-dados-agentica.md): A análise de dados está ao lado, quando o problema é o sinal nos dados.
+- [Software](https://ar-tik.com/pt-br/desenvolvimento-software-tecnico.md): O desenvolvimento de software está a jusante, quando a integração permanente é necessária.
+- [Atlas IA](https://ar-tik.com/pt-br/atlas-aplicacoes-ia-empresas.md): O Atlas ajuda a reconhecer o próprio processo.
+- [FAQ](https://ar-tik.com/pt-br/perguntas-frequentes-ia-empresas.md): As FAQ ajudam a escolher entre os serviços.
+
+## Três campos. Um relatório de viabilidade. Depois, se houver encaixe, o dia.
+
+O relatório é uma porta, não o produto. Usa-se o site público indicado. Sem razão social obrigatória, sem CNPJ, sem quadro de pessoal. Depois do relatório: se houver encaixe, verificação e dia; se não, curso ou consultoria.
+
+## Perguntas frequentes
+
+### É um curso?
+
+Não. Um curso deixa modelos e critérios. O Início deixa o procedimento aceso, no assistente em nome da empresa, com os arquivos que ficam na empresa.
+
+### Toca-se o sistema de gestão?
+
+Não. Se for preciso tocá-lo, ou mudar o processo, é consultoria: um segundo dia, outro produto.
+
+### Os dados saem da empresa?
+
+Não. Os arquivos ficam onde estão. A Artik Lab não os leva.
+
+### Podem-se acender cinco processos juntos?
+
+Não. Um processo de cada vez. Quem escolhe cinco não termina nenhum.
+
+### O relatório do formulário já é o Início?
+
+Não. O relatório é uma porta de viabilidade. Depois: se houver encaixe, verificação e dia; se não, curso ou consultoria.
+
+### Quanto custa?
+
+A proposta chega depois do relatório. Nesta página não há lista de preços.
+
+<!-- https://ar-tik.com/pt-br/inicio-operacional/ofertas-do-correio-dossier.md -->
+
+# Ofertas e listas de preços a partir do correio e dos arquivos - dossiê público para LLM
+
+Este dossiê público estende a página de Início operacional sem acrescentar promessas diferentes da página HTML. Não é um curso. Não é software. O sistema de gestão não é tocado.
+
+É preciso um orçamento ou uma lista atualizada, com fichas anexas, sem que quem vende refaça o copia-e-cola de três pastas. A função — negociar, fechar, lançar o pedido — permanece da pessoa. O que se alivia é o trabalho em volta: reunir de correio e arquivos, compor, assinalar falhas.
+
+## Quando não é adequado
+
+- O «orçamento» é um quantitativo a partir do desenho (PriMus, AutoCAD) ou uma estimativa de horas de obra: isso é a função.
+- É preciso negociar, fechar o desconto ou decidir a estratégia de preço em licitação.
+- É preciso escrever o pedido ou a confirmação no sistema de gestão.
+- O pedido chega uma ou duas vezes por ano.
+- Lista e fichas não existem, ou existem só na cabeça de uma pessoa e não se podem exportar.
+- Pede-se um assistente que envie a oferta sozinho.
+
+## Intenções de busca
+
+- ofertas a partir do correio
+- listas e fichas a partir de PDF
+- rascunho de orçamento a partir do e-mail
+
+## Sinais de necessidade
+
+- Os pedidos de oferta chegam por correio com anexos desordenados.
+- Quem vende perde tempo copiando listas e fichas de várias pastas.
+- O clique no sistema de gestão continua da pessoa: falta o rascunho antes desse clique.
+
+## Dados de exemplo
+
+### Correio de Nord Latticini Srl (empresa inventada)
+
+Assunto: «urgente lista HORECA??». Corpo com a razão social escrita de dois jeitos, um PDF girado, uma ficha de produto em .docx com alérgenos numa tabela quebrada, uma lista Excel com uma coluna de preços vazia.
+
+### Correio certificado de Officina Valle Bruna (empresa inventada)
+
+Pedido de oferta de uma peça torneada, desenho em PDF de baixa resolução, quantidade «cerca de 200 / a confirmar», prazo já vencido, três códigos de artigo dos quais um não existe na lista de exemplo.
+
+### Correio de Edilcantiere Quarto (empresa inventada)
+
+Memorial copiado no corpo do correio, preços de fornecedores em três PDF com unidades diferentes, um item «como da última vez», um anexo que falta («mando depois a ficha do contrapiso»).
+
+
+[Início operacional](https://ar-tik.com/pt-br/inicio-operacional/index.md)
+
+<!-- https://ar-tik.com/pt-br/inicio-operacional/ofertas-do-correio.md -->
+
+# Ofertas e listas de preços a partir do correio e dos arquivos
+
+Chega um pedido por correio, às vezes com PDF. Resta um rascunho no modelo da empresa, para quem vende reler.
+
+- Duração: Um dia na sede
+
+## A necessidade
+
+É preciso um orçamento ou uma lista atualizada, com fichas anexas, sem que quem vende refaça o copia-e-cola de três pastas. A função — negociar, fechar, lançar o pedido — permanece da pessoa. O que se alivia é o trabalho em volta: reunir de correio e arquivos, compor, assinalar falhas.
+
+## O que atravessa
+
+Correio eletrônico, PDF de pedido, listas internas, fichas de produto, modelos de oferta da empresa. Não escreve no sistema de gestão. Não atravessa PriMus nem o desenho.
+
+## O que o dia faz
+
+Torna explícito o procedimento: de onde se tiram lista e fichas, como se compõe o rascunho no modelo da empresa, onde a pessoa para (preço, desconto, sim ou não). Parte-se de três pedidos de exemplo desordenados; passa-se aos arquivos reais. No fim do dia o procedimento está escrito e alguém na empresa sabe refazê-lo na semana seguinte.
+
+## O que contém
+
+- Instruções do procedimento, no idioma da empresa.
+- Convenções de pastas: entradas, rascunhos, para reler, arquivo.
+- Critérios de verificação: campos obrigatórios, anexos esperados, o que assinalar se falta uma peça.
+- Pontos de parada humana: preço, desconto, envio.
+
+## Como é o dia
+
+1. **Ambiente já preparado**: Abre-se com os três exemplos, antes dos arquivos reais.
+2. **Volta sobre os exemplos**: Vê-se como o procedimento trata a desordem: anexo girado, código ausente, razão social escrita de dois jeitos.
+3. **Passagem aos arquivos reais**: Os exemplos ficam em pastas separadas. Os arquivos da empresa os substituem, não os apagam.
+4. **Um rascunho real**: Produz-se ao menos um rascunho para reler, no modelo da empresa.
+5. **O que resta**: Responsável interno, métrica dita antes, procedimento escrito.
+
+## Dados de exemplo
+
+Inventados, desordenados, nunca de clientes.
+
+### Correio de Nord Latticini Srl (empresa inventada)
+
+Assunto: «urgente lista HORECA??». Corpo com a razão social escrita de dois jeitos, um PDF girado, uma ficha de produto em .docx com alérgenos numa tabela quebrada, uma lista Excel com uma coluna de preços vazia.
+
+### Correio certificado de Officina Valle Bruna (empresa inventada)
+
+Pedido de oferta de uma peça torneada, desenho em PDF de baixa resolução, quantidade «cerca de 200 / a confirmar», prazo já vencido, três códigos de artigo dos quais um não existe na lista de exemplo.
+
+### Correio de Edilcantiere Quarto (empresa inventada)
+
+Memorial copiado no corpo do correio, preços de fornecedores em três PDF com unidades diferentes, um item «como da última vez», um anexo que falta («mando depois a ficha do contrapiso»).
+
+## O que resta
+
+O procedimento escrito, o ambiente no assistente em nome da empresa, os critérios de parada, ao menos um rascunho real para reler, um responsável interno. Na semana seguinte o procedimento pode ser refeito sem a Artik na sala.
+
+## Quando não é adequado
+
+- O «orçamento» é um quantitativo a partir do desenho (PriMus, AutoCAD) ou uma estimativa de horas de obra: isso é a função.
+- É preciso negociar, fechar o desconto ou decidir a estratégia de preço em licitação.
+- É preciso escrever o pedido ou a confirmação no sistema de gestão.
+- O pedido chega uma ou duas vezes por ano.
+- Lista e fichas não existem, ou existem só na cabeça de uma pessoa e não se podem exportar.
+- Pede-se um assistente que envie a oferta sozinho.
+
+## Pré-requisitos.
+
+- Assistente em nome da empresa.
+- Responsável interno (em geral quem já junta as ofertas).
+- Um modelo de oferta ou de lista, mesmo imperfeito.
+- Pasta ou export de onde tirar listas e fichas, sem entrar no sistema de gestão.
+
+Trabalha-se com os arquivos da empresa, no ambiente em nome da empresa. A Artik Lab não leva os documentos. Não se entra no sistema de gestão. Os dados de exemplo são inventados.
+
+## Exemplos, não um menu
+
+O setor é um rótulo. O processo é o mesmo.
+
+### Transformação alimentar
+
+Lista para varejo ou food service e fichas de produto a partir do correio.
+
+### Usinagem terceirizada
+
+Pedido de oferta com desenho em PDF.
+
+### Construção ou instalações
+
+Memorial e preços de fornecedores a juntar antes do quantitativo, que fica de fora.
+
+## Perguntas frequentes
+
+### A oferta sai sozinha?
+
+Não. Sai um rascunho. Quem vende relê, decide preço e desconto, envia.
+
+### Entra-se no PriMus?
+
+Não. Se o orçamento é um quantitativo, esta ficha não é adequada.
+
+### Atualiza-se o sistema de gestão?
+
+Não.
+
+### É preciso um comercial na sala?
+
+É preciso quem já junta as ofertas, com o mandato de adotar o procedimento. Não é um curso para a rede comercial.
+
+
+## Serviços relacionados
+
+- [Início operacional](https://ar-tik.com/pt-br/inicio-operacional/index.md)
 
 <!-- https://ar-tik.com/pt-br/perguntas-frequentes-ia-empresas-dossier.md -->
 

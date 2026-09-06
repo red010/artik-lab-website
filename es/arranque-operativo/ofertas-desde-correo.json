@@ -1,0 +1,53 @@
+{
+  "$schema": "https://ar-tik.com/data/schemas/avvio-activity.schema.json",
+  "generatedAt": "2026-09-06",
+  "publisher": "Artik Lab s.r.l.",
+  "canonicalDomain": "https://ar-tik.com",
+  "activity": {
+    "id": "offerte-da-posta",
+    "locale": "es",
+    "language": "es",
+    "family": "documents",
+    "title": "Ofertas y tarifas desde el correo y los archivos",
+    "subtitle": "Llega una solicitud por correo, a veces con PDF. Queda un borrador sobre el modelo de la empresa, para que quien vende lo relea.",
+    "summary": "De correo y PDF a un borrador de oferta o tarifa para que quien vende lo relea. Un día en sede. El sistema de gestión no se toca.",
+    "duration": "Un día en sede",
+    "problem": "Hace falta un presupuesto o una tarifa actualizada, con fichas adjuntas, sin que quien vende vuelva a copiar desde tres carpetas. El oficio — negociar, cerrar, introducir el pedido — sigue siendo de la persona. Lo que se aligera es el trabajo alrededor: reunir desde correo y archivos, componer, señalar huecos.",
+    "notFor": [
+      "El «presupuesto» es un cómputo desde plano (PriMus, AutoCAD) o una estimación de horas de obra: eso es el oficio.",
+      "Hace falta negociar, cerrar el descuento o decidir la estrategia de precio en licitación.",
+      "Hace falta escribir el pedido o la confirmación en el sistema de gestión.",
+      "La solicitud llega una o dos veces al año.",
+      "Tarifa y fichas no existen, o existen solo en la cabeza de una persona y no se pueden exportar.",
+      "Se pide un asistente que envíe la oferta solo."
+    ],
+    "prerequisites": [
+      "Asistente a nombre de la empresa.",
+      "Owner interno (suele ser quien ya junta las ofertas).",
+      "Un modelo de oferta o de tarifa, aunque sea imperfecto.",
+      "Carpeta o export del que sacar tarifas y fichas, sin entrar en el sistema de gestión."
+    ],
+    "outcomes": [
+      "Procedimiento escrito: de dónde se toma, cómo se compone, dónde se detiene la persona.",
+      "Al menos un borrador real para releer, sobre el modelo de la empresa.",
+      "Owner interno nombrado y métrica dicha antes de la jornada.",
+      "Ejemplos desordenados sobre los que repetir el giro tras un cambio de modelo."
+    ],
+    "searchIntents": [
+      "ofertas desde el correo",
+      "tarifas y fichas desde PDF",
+      "borrador de presupuesto desde mail"
+    ],
+    "needSignals": [
+      "Las solicitudes de oferta llegan por correo con adjuntos desordenados.",
+      "Quien vende pierde tiempo copiando tarifas y fichas de varias carpetas.",
+      "El clic en el sistema de gestión sigue siendo de la persona: falta el borrador antes de ese clic."
+    ],
+    "urls": {
+      "html": "https://ar-tik.com/es/arranque-operativo/ofertas-desde-correo.html",
+      "markdown": "https://ar-tik.com/es/arranque-operativo/ofertas-desde-correo.md",
+      "dossier": "https://ar-tik.com/es/arranque-operativo/ofertas-desde-correo-dossier.md",
+      "json": "https://ar-tik.com/es/arranque-operativo/ofertas-desde-correo.json"
+    }
+  }
+}

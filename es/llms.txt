@@ -11,6 +11,11 @@
 - [Consultoría directiva de IA](https://ar-tik.com/es/consultoria-directiva-ia.md): La IA no es software que se instala: es una capacidad directiva que se construye. Artik Lab ayuda a la dirección a decidir dónde usarla, dónde detenerse, qué procesos rediseñar y qué competencias deben permanecer en la empresa.
 - [Análisis de datos agéntico](https://ar-tik.com/es/analisis-datos-agentico.md): El análisis de datos agéntico no produce gráficos para archivar: busca señales en datos ya disponibles, las conecta con una decisión y declara dónde el modelo no conviene.
 - [Software técnico de IA](https://ar-tik.com/es/desarrollo-software-tecnico.md): Artik Lab desarrolla software avanzado para clientes cuando el problema no se resuelve con un dashboard o una aplicación estándar: cálculos técnicos, modelos matemáticos, datos operativos, reglas expertas y flujos de trabajo que deben volverse verificables.
+- [Arranque operativo](https://ar-tik.com/es/arranque-operativo/index.md): La empresa puede usar la inteligencia artificial de inmediato, en los procesos que hoy roban más tiempo. No es un curso. No es un software. El sistema de gestión no se toca.
+
+## Arranque operativo
+- [Arranque operativo](https://ar-tik.com/es/arranque-operativo/index.md): Un día en sede. Queda el procedimiento escrito en el asistente a nombre de la empresa. Los datos se quedan en la empresa. El sistema de gestión no se toca.
+- [Ofertas y tarifas desde el correo y los archivos](https://ar-tik.com/es/arranque-operativo/ofertas-desde-correo.md): De correo y PDF a un borrador de oferta o tarifa para que quien vende lo relea. Un día en sede. El sistema de gestión no se toca.
 
 ## Cursos
 - [AI Workflow Redesign Lab](https://ar-tik.com/es/cursos/workflow-redesign.md): Curso corporativo práctico para aplicar IA a rediseño de flujos de trabajo, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.
@@ -44,6 +49,7 @@
 - [Atlas de aplicaciones IA - dossier público para LLM](https://ar-tik.com/es/atlas-aplicaciones-ia-empresas-dossier.md): Un mapa público de ejemplos concretos para reconocer dónde la inteligencia artificial puede reducir tiempos, errores, riesgos o retrasos decisionales en procesos empresariales.
 - [FAQ de IA para empresas - dossier público para LLM](https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md): Un repertorio público de preguntas reales para orientar a dirección y áreas de negocio entre consultoría, cursos, análisis de datos, software técnico y Atlas de aplicaciones IA.
 - [Software técnico de IA - dossier LLM](https://ar-tik.com/es/desarrollo-software-tecnico-dossier.md): Artik Lab desarrolla software avanzado para clientes cuando el problema no se resuelve con un dashboard o una aplicación estándar: cálculos técnicos, modelos matemáticos, datos operativos, reglas expertas y flujos de trabajo que deben volverse verificables.
+- [Arranque operativo - dossier público para LLM](https://ar-tik.com/es/arranque-operativo/index-dossier.md): La empresa puede usar la inteligencia artificial de inmediato, en los procesos que hoy roban más tiempo. No es un curso. No es un software. El sistema de gestión no se toca.
 - [Cursos de IA para empresas: elegir el recorrido adecuado - LLM dossier](https://ar-tik.com/es/cursos/index-dossier.md): Catálogo de cursos de IA para empresas: itinerarios introductorios, directivos, operativos y técnicos diseñados con DTR sobre roles, procesos y resultados esperados.
 - [AI Workflow Redesign Lab - dossier público para LLM](https://ar-tik.com/es/cursos/workflow-redesign-dossier.md): Curso corporativo práctico para aplicar IA a rediseño de flujos de trabajo, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.
 - [Managing AI - dossier público para LLM](https://ar-tik.com/es/cursos/managing-ai-dossier.md): Curso corporativo práctico para aplicar IA a adopción directiva de IA, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.
@@ -70,10 +76,12 @@
 - [Secure AI SDLC - dossier público para LLM](https://ar-tik.com/es/cursos/secure-ai-sdlc-dossier.md): Curso corporativo práctico para aplicar IA a ciclo de vida seguro para software con IA, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.
 - [Secure AI at Work - dossier público para LLM](https://ar-tik.com/es/cursos/secure-ai-at-work-dossier.md): Curso corporativo práctico para aplicar IA a uso seguro de IA en el trabajo, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.
 - [AI Output Quality & Human Review - dossier público para LLM](https://ar-tik.com/es/cursos/ai-output-quality-dossier.md): Curso corporativo práctico para aplicar IA a calidad de resultados de IA y revisión humana, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.
+- [Ofertas y tarifas desde el correo y los archivos - dossier público para LLM](https://ar-tik.com/es/arranque-operativo/ofertas-desde-correo-dossier.md): De correo y PDF a un borrador de oferta o tarifa para que quien vende lo relea. Un día en sede. El sistema de gestión no se toca.
 
 ## Datos legibles por máquinas
 - [Courses JSON](https://ar-tik.com/data/courses.es.json): catálogo estructurado de cursos con URLs HTML, Markdown y dossier LLM.
 - [Services JSON](https://ar-tik.com/data/services.es.json): índice estructurado de páginas de servicio Artik Lab y mirrors Markdown.
+- [Avvio JSON](https://ar-tik.com/data/avvio.es.json): índice público del Arranque operativo: hub, actividades publicadas, procesos del formulario, límites y enlaces.
 - [AI applications JSON](https://ar-tik.com/data/ai-applications.es.json): atlas estructurado de aplicaciones IA para empresas, con input, output, valor y conexiones.
 - [FAQ JSON](https://ar-tik.com/data/faq.es.json): repertorio FAQ de IA para empresas, con preguntas, respuestas, intenciones, señales, riesgos y próximos pasos.
 - [LLM index JSON](https://ar-tik.com/data/llm-index.json): manifest legible por máquinas para idiomas, sitemaps y archivos públicos AI-readable.
