@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/avvio-catalog.schema.json",
-  "generatedAt": "2026-09-06",
+  "generatedAt": "2026-09-07",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "locale": "en",
@@ -87,6 +87,26 @@
     {
       "id": "f",
       "label": "A report from an Excel export for the owner or the sales lead."
+    },
+    {
+      "id": "g",
+      "label": "Turn the notes of a meeting or site visit into minutes and an action list."
+    },
+    {
+      "id": "h",
+      "label": "Draft the reply to a complaint or non-conformity, with the register updated."
+    },
+    {
+      "id": "i",
+      "label": "Keep the expiry schedule of compliance certificates, insurance policies, certifications and licences, starting from the PDFs."
+    },
+    {
+      "id": "j",
+      "label": "Prepare product sheets and price lists in another language on the company template, for someone to reread."
+    },
+    {
+      "id": "k",
+      "label": "Compare the customer order, the order confirmation and the delivery note and flag the differences before shipping."
     }
   ]
 }

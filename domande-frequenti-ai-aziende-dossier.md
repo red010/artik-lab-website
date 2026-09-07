@@ -29,6 +29,121 @@ Il dossier riprende domande e risposte visibili nella pagina HTML e aggiunge cam
 ## Repertorio FAQ
 
 
+## Le domande che bloccano la decisione
+
+### Quanto costa?
+
+La proposta arriva dopo il parere o dopo la prima conversazione.
+
+In queste pagine non c'è un listino.
+
+- ID: objection-cost
+- Area: Le domande che bloccano la decisione
+- Audience: direzione e imprenditori
+- Search intent: scelta del percorso
+- Need signals: interesse per l'AI senza progetto definito
+- Related services: Consulenza manageriale AI, Analisi dati agentica
+- Related courses: nessuno
+- Risk or limit: Le risposte valgono per i servizi come sono descritti in queste pagine; il caso specifico si chiarisce nel parere o nella prima conversazione.
+- Next step: Portare il caso nella prima conversazione con processo, obiettivo, dati disponibili e vincoli.
+
+### Dove stanno i dati durante il lavoro?
+
+In Operatività immediata i file restano nelle cartelle dell'azienda e l'assistente è intestato all'azienda.
+
+Nell'analisi dati si lavora su un estratto concordato, con un perimetro scritto.
+
+- ID: objection-data
+- Area: Le domande che bloccano la decisione
+- Audience: direzione e imprenditori
+- Search intent: gestione del rischio
+- Need signals: dati personali o riservati coinvolti
+- Related services: Analisi dati agentica
+- Related courses: nessuno
+- Risk or limit: Le risposte valgono per i servizi come sono descritti in queste pagine; il caso specifico si chiarisce nel parere o nella prima conversazione.
+- Next step: Portare il caso nella prima conversazione con processo, obiettivo, dati disponibili e vincoli.
+
+### È un altro fornitore che poi vende software?
+
+La consulenza non è la porta del software.
+
+Costruire, se serve, è una scelta successiva. Operatività immediata non collega il gestionale.
+
+- ID: objection-software
+- Area: Le domande che bloccano la decisione
+- Audience: direzione e imprenditori
+- Search intent: scelta del percorso
+- Need signals: scelta di strumenti prima del processo
+- Related services: Consulenza manageriale AI
+- Related courses: nessuno
+- Risk or limit: Le risposte valgono per i servizi come sono descritti in queste pagine; il caso specifico si chiarisce nel parere o nella prima conversazione.
+- Next step: Aprire un percorso di consulenza per chiarire priorità, governance e roadmap.
+
+### Ho già fatto un corso sull'IA. Serve ancora?
+
+Un corso lascia modelli e criteri.
+
+Qui, in un giorno, resta una procedura in uso sui file dell'azienda — oppure un'analisi che dice se i dati bastano.
+
+- ID: objection-course-done
+- Area: Le domande che bloccano la decisione
+- Audience: direzione e imprenditori
+- Search intent: orientamento iniziale
+- Need signals: competenze AI non allineate tra ruoli
+- Related services: Analisi dati agentica
+- Related courses: AI Workflow Redesign Lab
+- Risk or limit: Le risposte valgono per i servizi come sono descritti in queste pagine; il caso specifico si chiarisce nel parere o nella prima conversazione.
+- Next step: Portare il caso nella prima conversazione con processo, obiettivo, dati disponibili e vincoli.
+
+### Quando si vede qualcosa di concreto?
+
+Operatività immediata: un giorno in sede.
+
+Analisi: dopo l'estratto concordato. Prima conversazione: 30–45 minuti.
+
+- ID: objection-timing
+- Area: Le domande che bloccano la decisione
+- Audience: direzione e imprenditori
+- Search intent: orientamento iniziale
+- Need signals: decisioni ricorrenti lente
+- Related services: Analisi dati agentica
+- Related courses: nessuno
+- Risk or limit: Le risposte valgono per i servizi come sono descritti in queste pagine; il caso specifico si chiarisce nel parere o nella prima conversazione.
+- Next step: Portare il caso nella prima conversazione con processo, obiettivo, dati disponibili e vincoli.
+
+### Si può usare un incentivo o un fondo per questo lavoro?
+
+Si può richiedere una verifica di ammissibilità.
+
+Il lavoro deve comunque reggere senza incentivo: non si promettono bandi né importi.
+
+- ID: objection-incentives
+- Area: Le domande che bloccano la decisione
+- Audience: direzione e imprenditori
+- Search intent: scelta del percorso
+- Need signals: interesse per l'AI senza progetto definito
+- Related services: Consulenza manageriale AI
+- Related courses: nessuno
+- Risk or limit: Le risposte valgono per i servizi come sono descritti in queste pagine; il caso specifico si chiarisce nel parere o nella prima conversazione.
+- Next step: Portare il caso nella prima conversazione con processo, obiettivo, dati disponibili e vincoli.
+
+### Quanti lavori si possono fare?
+
+Si decide con l'azienda, in base alle necessità.
+
+Un lavoro per volta, portato fino in fondo.
+
+- ID: objection-capacity
+- Area: Le domande che bloccano la decisione
+- Audience: direzione e imprenditori
+- Search intent: orientamento iniziale
+- Need signals: lavoro manuale ripetitivo
+- Related services: Consulenza manageriale AI
+- Related courses: nessuno
+- Risk or limit: Le risposte valgono per i servizi come sono descritti in queste pagine; il caso specifico si chiarisce nel parere o nella prima conversazione.
+- Next step: Portare il caso nella prima conversazione con processo, obiettivo, dati disponibili e vincoli.
+
+
 ## Da dove iniziare
 
 ### Da dove conviene partire se l'azienda non ha ancora un progetto AI definito?

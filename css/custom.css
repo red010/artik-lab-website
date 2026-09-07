@@ -991,6 +991,40 @@ a:focus-visible, button:focus-visible, summary:focus-visible, input:focus-visibl
 .proof-metric strong { font-size: 1.9rem; line-height: 1.12; }
 .proof-domain { display: block; font-style: normal; font-size: 0.8rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; color: rgba(255,255,255,0.55); margin-bottom: 10px; }
 
+/* Lotto IT Bottega 19 (2026-09-07): promessa in hero, tagline, fonti metriche,
+   riga «In breve», fatti dei passi, tre porte, note sotto i moduli, indice di pagina,
+   CTA fissa su mobile, calcolatore con uscita mensile. */
+.hero-promise { margin: 22px 0 0; max-width: 700px; padding-left: 14px; border-left: 3px solid var(--lime); color: rgba(255,255,255,0.92); font-weight: 500; line-height: 1.55; }
+.hero-tagline { margin: 16px 0 0; font-family: var(--font-body); font-size: clamp(1.02rem, 1.4vw, 1.2rem); font-weight: 700; color: var(--lime); letter-spacing: 0.01em; }
+.metrics-grid.three { grid-template-columns: repeat(3, 1fr); }
+.metrics-reading { margin: 24px 0 0; font-weight: 500; color: var(--ink) !important; max-width: 860px; }
+.metrics-sources { margin: 10px 0 0; font-size: 0.84rem; line-height: 1.5; color: rgba(13,67,91,0.72); }
+.metrics-sources em { font-style: italic; }
+.atlas-brief { display: grid; gap: 3px; margin: 0; padding: 10px 12px; border-left: 3px solid var(--green); border-radius: 0 6px 6px 0; background: rgba(155,201,121,0.16); font-size: 0.92rem; line-height: 1.45; color: var(--ink); }
+.atlas-brief strong { color: var(--navy); }
+.step-facts { margin: 8px 0 0; display: grid; grid-template-columns: max-content 1fr; gap: 3px 10px; font-size: 0.9rem; line-height: 1.4; }
+.step-facts dt { font-weight: 700; color: var(--teal); }
+.step-facts dd { margin: 0; color: rgba(13,67,91,0.8); }
+.contact-doors { list-style: none; margin: 22px 0 0; padding: 0; display: grid; gap: 10px; }
+.contact-doors a { display: block; padding: 12px 14px; border: 1px solid rgba(255,255,255,0.28); border-radius: 8px; color: #fff; text-decoration: none; background: rgba(255,255,255,0.05); }
+.contact-doors a:hover { border-color: var(--lime); }
+.contact-doors strong { display: block; color: var(--lime); }
+.contact-doors span { font-size: 0.94rem; color: rgba(255,255,255,0.78); }
+.contact-doors-title { margin: 26px 0 0; font-family: var(--font-body); font-size: 1rem; font-weight: 700; color: #fff; }
+.form-note { margin: 0; font-size: 0.86rem; line-height: 1.45; font-weight: 400; color: rgba(13,67,91,0.72); }
+.form-note a { color: var(--teal); font-weight: 700; }
+.contact-section .form-note { color: rgba(13,67,91,0.72); }
+.page-index { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: center; padding: 14px 0 0; font-size: 0.9rem; }
+.page-index span { font-weight: 700; color: var(--navy); }
+.page-index a { color: var(--teal); font-weight: 700; text-decoration: none; }
+.page-index a:hover { color: var(--green); }
+.sticky-cta { display: none; }
+.calc-note { margin: 14px 0 0; font-size: 0.92rem; line-height: 1.5; font-weight: 500; color: rgba(255,255,255,0.86); }
+.calc-doors { display: grid; gap: 8px; margin-top: 18px; }
+.calc-doors .button { justify-content: flex-start; }
+.for-whom-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+.for-whom-grid .surface-card h3 { font-family: var(--font-body); font-style: normal; font-size: 1.05rem; }
+
 @media (max-width: 1024px) {
   .desktop-nav { display: none; }
   .icon-button { display: flex; }
@@ -999,12 +1033,19 @@ a:focus-visible, button:focus-visible, summary:focus-visible, input:focus-visibl
   .metrics-grid, .proof-grid, .card-grid.four, .card-grid.five, .course-grid, .use-case-grid, .atlas-grid, .atlas-area-grid, .faq-category-grid, .faq-repertoire-grid { grid-template-columns: repeat(2, 1fr); }
   .asset-board { grid-template-columns: 1fr; }
   .card-grid.three { grid-template-columns: 1fr; }
+  .metrics-grid.three { grid-template-columns: repeat(3, 1fr); }
   .process-list.wide { grid-template-columns: repeat(2, 1fr); }
   .hero-content { margin-left: auto; padding-left: 0; }
   .course-facts-rich { position: static; }
 }
 @media (max-width: 640px) {
   body { font-size: 16px; }
+  .metrics-grid.three, .for-whom-grid { grid-template-columns: 1fr; }
+  .step-facts { grid-template-columns: 1fr; gap: 2px; }
+  .step-facts dd { margin-bottom: 6px; }
+  .sticky-cta { display: flex; position: fixed; left: 12px; right: 12px; bottom: 12px; z-index: 150; }
+  .sticky-cta .button { width: 100%; box-shadow: 0 8px 24px rgba(8,44,58,0.28); }
+  body.has-sticky-cta { padding-bottom: 76px; }
   .shell { width: min(100% - 24px, 1120px); }
   .header-inner { height: 68px; }
   .brand img { height: 32px; }

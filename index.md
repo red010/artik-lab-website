@@ -2,23 +2,33 @@
 
 Artik Lab aiuta imprese e funzioni aziendali a scegliere, governare e realizzare il primo uso utile dell'AI: mappatura dei processi, business case, formazione dei team, analisi dati e prototipi controllati.
 
-## Artik Lab costruisce capacità AI che restano in azienda.
+Un giorno in sede per una procedura in uso. Una prima conversazione di 30–45 minuti. Un parere scritto prima di fissare la data.
 
-Non si compra una licenza e si spera che funzioni. Si sceglie un processo, si misura il costo, si definisce il KPI e si decide se formare, ridisegnare o costruire.
+## Non è un software da acquistare. È una capacità da costruire. E resta in azienda.
 
-## Dal costo nascosto all'asset operativo.
+Artik Lab costruisce capacità AI che restano in azienda. Non si compra una licenza e si spera che funzioni. Si sceglie un processo, si misura il costo, si definisce il KPI e si decide se formare, ridisegnare o costruire.
 
-La domanda non è quale tool provare. È quale processo deve diventare più veloce, misurabile e governabile.
+- 95% delle organizzazioni non ottiene ritorno dai progetti GenAI enterprise.
+- 70% del valore, nella regola 10-20-70, dipende da persone e processi.
+- 25 corsi e laboratori per portare competenze AI in processi aziendali specifici.
+
+Dove manca governo manageriale, il rischio di progetti senza ritorno cresce: prima le decisioni e i processi, poi gli strumenti.
+
+Fonti: MIT Project NANDA, *The GenAI Divide: State of AI in Business*, 2025; BCG, regola 10-20-70 (AI Radar e pubblicazioni collegate), 2025.
+
+## Dal costo nascosto alla capacità che resta.
+
+La domanda non è quale strumento comprare. È quale processo costa troppo, e come si misura.
 
 1. Si sceglie un processo con costo o rischio visibile.
 2. Si definisce il KPI prima del modello.
 3. Si usa il dato che l'azienda ha già pagato.
 4. Si costruisce il pilota minimo e controllato.
-5. Si tiene in produzione solo ciò che genera governo e ritorno.
+5. Si tiene solo ciò che una persona usa, misura e sa rifare.
 
 ## Prima il processo. Poi il modello.
 
-La tecnologia entra solo quando decisione, dati e responsabilità sono abbastanza chiari. Il percorso evita pilot infiniti e mette il valore prima dello strumento.
+La tecnologia entra solo dopo aver chiarito chi decide, quali dati utilizzare e responsabilità. Questo approccio evita pilot infiniti e mette il valore prima dello strumento.
 
 ### Competenze durevoli
 
@@ -32,7 +42,7 @@ Il lavoro viene mappato dove l'IA può ridurre tempo, errore o ritardo decisiona
 
 Prototipi e sistemi operativi restano legati a KPI, dati, responsabilità e manutenzione, non alla moda del momento.
 
-## Servizi progettati come asset, non come consulenza infinita.
+## Servizi che restano in azienda, non come consulenza infinita.
 
 Ogni intervento parte da una domanda semplice: quale processo costa troppo, quale decisione arriva tardi, quale dato è già stato pagato e non sta ancora lavorando?
 
@@ -80,13 +90,13 @@ Pagina dedicata: https://ar-tik.com/domande-frequenti-ai-aziende.md
 
 ## Quanto costa ogni anno il tempo speso in un'attività ripetitiva?
 
-La homepage include un calcolatore di valore interattivo: da quattro dati semplici (persone coinvolte, ore a settimana, costo orario medio e quota di tempo liberabile con l'AI) stima il costo annuo del tempo dedicato a un'attività manuale e il valore liberabile ogni anno. È una stima indicativa calcolata su 45 settimane lavorative, non una previsione di risultato né un preventivo.
+La homepage include un calcolatore di valore interattivo: da quattro dati semplici (persone coinvolte, ore a settimana, costo orario medio e quota di tempo liberabile con l'AI) stima il costo annuo del tempo dedicato a un'attività manuale, il valore liberabile ogni anno e quanto vale ogni mese di attesa. Non è la giornata a pesare. È ogni mese in cui il lavoro si fa ancora a mano. È una stima indicativa calcolata su 45 settimane lavorative, non una previsione di risultato né un preventivo. Se è un lavoro ripetitivo: Operatività immediata. Se è una decisione da migliorare: Analisi dati.
 
-## Corsi per governare l'IA, non per rincorrere tool.
+## Corsi per governare l'IA, non per rincorrere strumenti.
 
 Il catalogo porta l'AI nei processi che contano: ridisegno dei flussi di lavoro, decisioni manageriali, governance, operations, documenti, comunicazione e sistemi tecnici.
 
-## Risultati misurabili, dichiarati con i loro limiti.
+## Risultati misurabili, per non investire sulle promesse ma sui fatti.
 
 Esempi reali e anonimi dall'analisi dati agentica: ogni caso parte dai dati già disponibili, porta a una decisione e dichiara il proprio limite.
 
@@ -109,3 +119,13 @@ Conviene partire da una decisione ricorrente e costosa: un processo, un rischio,
 ### Il sito è leggibile da agenti AI?
 
 Sì. Ogni pagina contiene testo nel sorgente HTML, JSON-LD coerente, mirror Markdown, sitemap, hreflang e file llms.txt.
+
+## Tre modi per cominciare
+
+- Parlare del caso: una prima conversazione di 30–45 minuti. Oggetto della mail: [Prima conversazione] Domanda da ar-tik.com.
+- Provare un giorno in sede: il parere di Operatività immediata (https://ar-tik.com/avvio-operativo/index.md).
+- Portare l'estratto: l'analisi dice se i dati bastano. Oggetto della mail: [Analisi dati] Estratto da valutare.
+
+Il messaggio arriva a una persona di Artik Lab, che lo legge e risponde di persona. Nessuna risposta automatica, nessuna lista. Inviando, si accettano le condizioni dell'informativa sul trattamento dei dati (https://ar-tik.com/informativa/).
+
+Artik Lab s.r.l. — Via Principe Amedeo 11, Torino — P.IVA IT04120810041 — dtr@ar-tik.com

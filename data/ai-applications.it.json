@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/ai-applications-atlas.schema.json",
-  "generatedAt": "2026-09-06",
+  "generatedAt": "2026-09-07",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "locale": "it",
@@ -138,7 +138,6 @@
         "documenti dispersi e difficili da consultare",
         "copie manuali tra email, fogli e gestionali"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano pdf e allegati per produrre database strutturato e sostenere riduzione tempi, con revisione umana consigliata.",
       "privacyNotes": "Usare dati autorizzati, minimizzare informazioni personali e mantenere revisione umana sugli output rilevanti.",
       "humanReview": "consigliata",
       "humanReviewCode": "recommended",
@@ -231,7 +230,6 @@
         "errori ricorrenti in documenti, procedure o controlli",
         "documenti dispersi e difficili da consultare"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano pdf e allegati per produrre report operativo e sostenere meno errori, con revisione umana necessaria.",
       "privacyNotes": "Richiede anonimizzazione, controllo degli accessi e verifica specialistica quando tocca dati personali, legali, HR o regolati.",
       "humanReview": "necessaria",
       "humanReviewCode": "required",
@@ -317,7 +315,6 @@
         "documenti dispersi e difficili da consultare",
         "conoscenza critica concentrata in poche persone"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano documentazione interna per produrre ricerca semantica e sostenere conoscenza trasferibile, con revisione umana consigliata.",
       "privacyNotes": "Usare dati autorizzati, minimizzare informazioni personali e mantenere revisione umana sugli output rilevanti.",
       "humanReview": "consigliata",
       "humanReviewCode": "recommended",
@@ -397,7 +394,6 @@
         "decisioni ricorrenti lente o basate su informazioni incomplete",
         "conoscenza critica concentrata in poche persone"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano email e ticket per produrre digest azionabile e sostenere tracciabilità, con revisione umana consigliata.",
       "privacyNotes": "Usare dati autorizzati, minimizzare informazioni personali e mantenere revisione umana sugli output rilevanti.",
       "humanReview": "consigliata",
       "humanReviewCode": "recommended",
@@ -483,7 +479,6 @@
         "copie manuali tra email, fogli e gestionali",
         "errori ricorrenti in documenti, procedure o controlli"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano database strutturato per produrre bozze controllate e sostenere riduzione tempi, con revisione umana necessaria.",
       "privacyNotes": "Richiede anonimizzazione, controllo degli accessi e verifica specialistica quando tocca dati personali, legali, HR o regolati.",
       "humanReview": "necessaria",
       "humanReviewCode": "required",
@@ -565,7 +560,6 @@
         "copie manuali tra email, fogli e gestionali",
         "uso AI già presente ma senza regole condivise"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano trascrizioni e appunti per produrre roadmap e priorità e sostenere priorità più chiare, con revisione umana consigliata.",
       "privacyNotes": "Usare dati autorizzati, minimizzare informazioni personali e mantenere revisione umana sugli output rilevanti.",
       "humanReview": "consigliata",
       "humanReviewCode": "recommended",
@@ -646,7 +640,6 @@
         "copie manuali tra email, fogli e gestionali",
         "decisioni ricorrenti lente o basate su informazioni incomplete"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano email e ticket per produrre digest azionabile e sostenere riduzione tempi, con revisione umana consigliata.",
       "privacyNotes": "Usare dati autorizzati, minimizzare informazioni personali e mantenere revisione umana sugli output rilevanti.",
       "humanReview": "consigliata",
       "humanReviewCode": "recommended",
@@ -726,7 +719,6 @@
         "pianificazione ancora molto manuale",
         "dati storici disponibili ma non trasformati in segnali"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano fogli di calcolo per produrre piano e assegnazioni e sostenere efficienza produttiva, con revisione umana necessaria.",
       "privacyNotes": "Usare dati autorizzati, minimizzare informazioni personali e mantenere revisione umana sugli output rilevanti.",
       "humanReview": "necessaria",
       "humanReviewCode": "required",
@@ -806,7 +798,6 @@
         "dati storici disponibili ma non trasformati in segnali",
         "pianificazione ancora molto manuale"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano transazioni e acquisti per produrre previsione verificabile e sostenere decisioni più rapide, con revisione umana consigliata.",
       "privacyNotes": "Usare dati autorizzati, minimizzare informazioni personali e mantenere revisione umana sugli output rilevanti.",
       "humanReview": "consigliata",
       "humanReviewCode": "recommended",
@@ -892,7 +883,6 @@
         "decisioni ricorrenti lente o basate su informazioni incomplete",
         "conoscenza critica concentrata in poche persone"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano trascrizioni e appunti per produrre roadmap e priorità e sostenere tracciabilità, con revisione umana necessaria.",
       "privacyNotes": "Usare dati autorizzati, minimizzare informazioni personali e mantenere revisione umana sugli output rilevanti.",
       "humanReview": "necessaria",
       "humanReviewCode": "required",
@@ -972,7 +962,6 @@
         "feedback abbondante ma non analizzato",
         "decisioni ricorrenti lente o basate su informazioni incomplete"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano feedback testuali per produrre report operativo e sostenere servizio più uniforme, con revisione umana consigliata.",
       "privacyNotes": "Usare dati autorizzati, minimizzare informazioni personali e mantenere revisione umana sugli output rilevanti.",
       "humanReview": "consigliata",
       "humanReviewCode": "recommended",
@@ -1052,7 +1041,6 @@
         "feedback abbondante ma non analizzato",
         "decisioni ricorrenti lente o basate su informazioni incomplete"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano fonti pubbliche per produrre report operativo e sostenere valore commerciale recuperato, con revisione umana consigliata.",
       "privacyNotes": "Usare dati autorizzati, minimizzare informazioni personali e mantenere revisione umana sugli output rilevanti.",
       "humanReview": "consigliata",
       "humanReviewCode": "recommended",
@@ -1132,7 +1120,6 @@
         "errori ricorrenti in documenti, procedure o controlli",
         "copie manuali tra email, fogli e gestionali"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano documentazione interna per produrre policy e guardrail e sostenere riduzione tempi, con revisione umana necessaria.",
       "privacyNotes": "Usare dati autorizzati, minimizzare informazioni personali e mantenere revisione umana sugli output rilevanti.",
       "humanReview": "necessaria",
       "humanReviewCode": "required",
@@ -1211,7 +1198,6 @@
         "dati storici disponibili ma non trasformati in segnali",
         "decisioni ricorrenti lente o basate su informazioni incomplete"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano transazioni e acquisti per produrre raccomandazioni operative e sostenere valore commerciale recuperato, con revisione umana necessaria.",
       "privacyNotes": "Usare dati autorizzati, minimizzare informazioni personali e mantenere revisione umana sugli output rilevanti.",
       "humanReview": "necessaria",
       "humanReviewCode": "required",
@@ -1290,7 +1276,6 @@
         "conoscenza critica concentrata in poche persone",
         "uso AI già presente ma senza regole condivise"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano dati hr aggregati per produrre roadmap e priorità e sostenere conoscenza trasferibile, con revisione umana necessaria.",
       "privacyNotes": "Richiede anonimizzazione, controllo degli accessi e verifica specialistica quando tocca dati personali, legali, HR o regolati.",
       "humanReview": "necessaria",
       "humanReviewCode": "required",
@@ -1363,7 +1348,6 @@
         "copie manuali tra email, fogli e gestionali",
         "conoscenza critica concentrata in poche persone"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano cv e candidature per produrre report operativo e sostenere riduzione tempi, con revisione umana necessaria.",
       "privacyNotes": "Richiede anonimizzazione, controllo degli accessi e verifica specialistica quando tocca dati personali, legali, HR o regolati.",
       "humanReview": "necessaria",
       "humanReviewCode": "required",
@@ -1441,7 +1425,6 @@
         "copie manuali tra email, fogli e gestionali",
         "documenti dispersi e difficili da consultare"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano dati hr aggregati per produrre faq e risposte e sostenere servizio più uniforme, con revisione umana necessaria.",
       "privacyNotes": "Richiede anonimizzazione, controllo degli accessi e verifica specialistica quando tocca dati personali, legali, HR o regolati.",
       "humanReview": "necessaria",
       "humanReviewCode": "required",
@@ -1520,7 +1503,6 @@
         "decisioni ricorrenti lente o basate su informazioni incomplete",
         "errori ricorrenti in documenti, procedure o controlli"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano requisiti e specifiche per produrre roadmap e priorità e sostenere meno errori, con revisione umana necessaria.",
       "privacyNotes": "Trattare codice, capitolati, dati industriali e immagini operative come proprietà intellettuale; pubblicare solo esempi anonimizzati.",
       "humanReview": "necessaria",
       "humanReviewCode": "required",
@@ -1603,7 +1585,6 @@
         "errori ricorrenti in documenti, procedure o controlli",
         "copie manuali tra email, fogli e gestionali"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano codice e repository per produrre test e checklist e sostenere riduzione tempi, con revisione umana necessaria.",
       "privacyNotes": "Trattare codice, capitolati, dati industriali e immagini operative come proprietà intellettuale; pubblicare solo esempi anonimizzati.",
       "humanReview": "necessaria",
       "humanReviewCode": "required",
@@ -1684,7 +1665,6 @@
         "documenti dispersi e difficili da consultare",
         "errori ricorrenti in documenti, procedure o controlli"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano bandi e capitolati per produrre report operativo e sostenere riduzione del rischio, con revisione umana necessaria.",
       "privacyNotes": "Trattare codice, capitolati, dati industriali e immagini operative come proprietà intellettuale; pubblicare solo esempi anonimizzati.",
       "humanReview": "necessaria",
       "humanReviewCode": "required",
@@ -1763,7 +1743,6 @@
         "conoscenza critica concentrata in poche persone",
         "documenti dispersi e difficili da consultare"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano fotografie operative per produrre report operativo e sostenere conoscenza trasferibile, con revisione umana necessaria.",
       "privacyNotes": "Trattare codice, capitolati, dati industriali e immagini operative come proprietà intellettuale; pubblicare solo esempi anonimizzati.",
       "humanReview": "necessaria",
       "humanReviewCode": "required",
@@ -1850,7 +1829,6 @@
         "uso AI già presente ma senza regole condivise",
         "decisioni ricorrenti lente o basate su informazioni incomplete"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano documentazione interna per produrre policy e guardrail e sostenere riduzione del rischio, con revisione umana necessaria.",
       "privacyNotes": "Richiede anonimizzazione, controllo degli accessi e verifica specialistica quando tocca dati personali, legali, HR o regolati.",
       "humanReview": "necessaria",
       "humanReviewCode": "required",
@@ -1930,7 +1908,6 @@
         "copie manuali tra email, fogli e gestionali",
         "errori ricorrenti in documenti, procedure o controlli"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano contratti e policy per produrre bozze controllate e sostenere riduzione tempi, con revisione umana necessaria.",
       "privacyNotes": "Richiede anonimizzazione, controllo degli accessi e verifica specialistica quando tocca dati personali, legali, HR o regolati.",
       "humanReview": "necessaria",
       "humanReviewCode": "required",
@@ -2010,7 +1987,6 @@
         "uso AI già presente ma senza regole condivise",
         "errori ricorrenti in documenti, procedure o controlli"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano documentazione interna per produrre test e checklist e sostenere riduzione del rischio, con revisione umana necessaria.",
       "privacyNotes": "Trattare codice, capitolati, dati industriali e immagini operative come proprietà intellettuale; pubblicare solo esempi anonimizzati.",
       "humanReview": "necessaria",
       "humanReviewCode": "required",
@@ -2088,7 +2064,6 @@
         "errori ricorrenti in documenti, procedure o controlli",
         "copie manuali tra email, fogli e gestionali"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano fotografie operative per produrre report operativo e sostenere riduzione del rischio, con revisione umana necessaria.",
       "privacyNotes": "Trattare codice, capitolati, dati industriali e immagini operative come proprietà intellettuale; pubblicare solo esempi anonimizzati.",
       "humanReview": "necessaria",
       "humanReviewCode": "required",
@@ -2174,7 +2149,6 @@
         "pianificazione ancora molto manuale",
         "errori ricorrenti in documenti, procedure o controlli"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano erp e gestionali per produrre piano e assegnazioni e sostenere efficienza produttiva, con revisione umana necessaria.",
       "privacyNotes": "Trattare codice, capitolati, dati industriali e immagini operative come proprietà intellettuale; pubblicare solo esempi anonimizzati.",
       "humanReview": "necessaria",
       "humanReviewCode": "required",
@@ -2254,7 +2228,6 @@
         "dati storici disponibili ma non trasformati in segnali",
         "pianificazione ancora molto manuale"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano sensori e telemetria per produrre allarmi e soglie e sostenere efficienza produttiva, con revisione umana necessaria.",
       "privacyNotes": "Trattare codice, capitolati, dati industriali e immagini operative come proprietà intellettuale; pubblicare solo esempi anonimizzati.",
       "humanReview": "necessaria",
       "humanReviewCode": "required",
@@ -2339,7 +2312,6 @@
         "conoscenza critica concentrata in poche persone",
         "documenti dispersi e difficili da consultare"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano manuali e materiali formativi per produrre faq e risposte e sostenere formazione più rapida, con revisione umana consigliata.",
       "privacyNotes": "Usare dati autorizzati, minimizzare informazioni personali e mantenere revisione umana sugli output rilevanti.",
       "humanReview": "consigliata",
       "humanReviewCode": "recommended",
@@ -2426,7 +2398,6 @@
         "conoscenza critica concentrata in poche persone",
         "documenti dispersi e difficili da consultare"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano documentazione interna per produrre ricerca semantica e sostenere conoscenza trasferibile, con revisione umana necessaria.",
       "privacyNotes": "Usare dati autorizzati, minimizzare informazioni personali e mantenere revisione umana sugli output rilevanti.",
       "humanReview": "necessaria",
       "humanReviewCode": "required",
@@ -2505,7 +2476,6 @@
         "dati storici disponibili ma non trasformati in segnali",
         "copie manuali tra email, fogli e gestionali"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano kpi e serie storiche per produrre report operativo e sostenere decisioni più rapide, con revisione umana consigliata.",
       "privacyNotes": "Usare dati autorizzati, minimizzare informazioni personali e mantenere revisione umana sugli output rilevanti.",
       "humanReview": "consigliata",
       "humanReviewCode": "recommended",
@@ -2591,7 +2561,6 @@
         "dati storici disponibili ma non trasformati in segnali",
         "pianificazione ancora molto manuale"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano sensori e telemetria per produrre allarmi e soglie e sostenere efficienza produttiva, con revisione umana necessaria.",
       "privacyNotes": "Trattare codice, capitolati, dati industriali e immagini operative come proprietà intellettuale; pubblicare solo esempi anonimizzati.",
       "humanReview": "necessaria",
       "humanReviewCode": "required",
@@ -2671,7 +2640,6 @@
         "dati storici disponibili ma non trasformati in segnali",
         "feedback abbondante ma non analizzato"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano transazioni e acquisti per produrre ranking di priorità e sostenere valore commerciale recuperato, con revisione umana necessaria.",
       "privacyNotes": "Richiede anonimizzazione, controllo degli accessi e verifica specialistica quando tocca dati personali, legali, HR o regolati.",
       "humanReview": "necessaria",
       "humanReviewCode": "required",
@@ -2750,7 +2718,6 @@
         "dati storici disponibili ma non trasformati in segnali",
         "errori ricorrenti in documenti, procedure o controlli"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano sensori e telemetria per produrre dashboard e viste filtrabili e sostenere efficienza produttiva, con revisione umana necessaria.",
       "privacyNotes": "Trattare codice, capitolati, dati industriali e immagini operative come proprietà intellettuale; pubblicare solo esempi anonimizzati.",
       "humanReview": "necessaria",
       "humanReviewCode": "required",
@@ -2825,7 +2792,6 @@
         "dati storici disponibili ma non trasformati in segnali",
         "decisioni ricorrenti lente o basate su informazioni incomplete"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano transazioni e acquisti per produrre dashboard e viste filtrabili e sostenere decisioni più rapide, con revisione umana consigliata.",
       "privacyNotes": "Usare dati autorizzati, minimizzare informazioni personali e mantenere revisione umana sugli output rilevanti.",
       "humanReview": "consigliata",
       "humanReviewCode": "recommended",
@@ -2898,7 +2864,6 @@
         "dati storici disponibili ma non trasformati in segnali",
         "decisioni ricorrenti lente o basate su informazioni incomplete"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano kpi e serie storiche per produrre report operativo e sostenere costi evitati, con revisione umana consigliata.",
       "privacyNotes": "Usare dati autorizzati, minimizzare informazioni personali e mantenere revisione umana sugli output rilevanti.",
       "humanReview": "consigliata",
       "humanReviewCode": "recommended",
@@ -2983,7 +2948,6 @@
         "decisioni ricorrenti lente o basate su informazioni incomplete",
         "feedback abbondante ma non analizzato"
       ],
-      "operationalExample": "Quando il processo mostra un bisogno simile, si usano documentazione interna per produrre report operativo e sostenere valore commerciale recuperato, con revisione umana consigliata.",
       "privacyNotes": "Usare dati autorizzati, minimizzare informazioni personali e mantenere revisione umana sugli output rilevanti.",
       "humanReview": "consigliata",
       "humanReviewCode": "recommended",

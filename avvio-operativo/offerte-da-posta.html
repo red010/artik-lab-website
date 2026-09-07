@@ -46,7 +46,7 @@
     };
   </script>
   <script src="https://unpkg.com/lucide@1.23.0/dist/umd/lucide.min.js"></script>
-  <link rel="stylesheet" href="/css/custom.css?v=20260906-atlante">
+  <link rel="stylesheet" href="/css/custom.css?v=20260907-lotto-it">
   <script type="application/ld+json">{
   "@context": "https://schema.org",
   "@graph": [
@@ -74,6 +74,8 @@
       },
       "address": {
         "@type": "PostalAddress",
+        "streetAddress": "Via Principe Amedeo 11",
+        "addressLocality": "Torino",
         "addressCountry": "IT"
       }
     },
@@ -317,19 +319,22 @@
       <p class="eyebrow">Primo passo</p>
       <h2>Tre campi. Si riceve un parere. Poi, se ha senso, si fissa il giorno.</h2>
       <p>Dal sito pubblico dell&#x27;azienda e dalle spunte si scrive un parere: se quel lavoro sta in un giorno, e cosa non si farà. Non è il servizio. Non serve ragione sociale, partita IVA o organico. Dopo: se è adatto, verifica e giornata; se no, corso o consulenza.</p>
-      <a class="text-link light" href="mailto:dtr@ar-tik.com">Scrivere a dtr@ar-tik.com</a>
+      <p>Il parere lo scrive una persona, dopo aver letto il sito dell&#x27;azienda.</p>
+      <a class="text-link light" href="mailto:dtr@ar-tik.com?subject=%5BAvvio%20operativo%5D%20Richiesta%20parere">Scrivere a dtr@ar-tik.com</a>
     </div>
-    <form id="avvio-form" class="contact-form" data-lang="it" data-subject="[Avvio operativo]" data-email-label="Email a cui rispondere" data-site-label="Sito dell&#x27;azienda" data-processes-label="Lavori" data-consent-line="Consenso: si autorizza l&#x27;uso del sito pubblico indicato per preparare un parere." data-checks-error="Selezionare almeno un lavoro.">
+    <form id="avvio-form" class="contact-form" data-lang="it" data-subject="[Avvio operativo] Richiesta parere" data-email-label="Email a cui rispondere" data-site-label="Sito dell&#x27;azienda" data-processes-label="Lavori" data-consent-line="Consenso: si autorizza l&#x27;uso del sito pubblico indicato per preparare un parere." data-checks-error="Selezionare almeno un lavoro.">
       <label>Email a cui rispondere<input name="email" type="email" autocomplete="email" required></label>
       <label>Indirizzo del sito dell&#x27;azienda<input name="website" type="url" inputmode="url" placeholder="https://" required><small class="calc-hint">Si guarda solo il sito pubblico, per preparare il parere.</small></label>
       <fieldset class="avvio-checks">
         <legend>Che cosa volete automatizzare?</legend>
         <p class="avvio-checks-hint">Lavori concreti, non mestieri. Almeno una spunta.</p>
-        <label><input type="checkbox" name="process" value="a"> Offerte, listini e schede da mettere insieme (mail e PDF), da far rileggere a chi vende.</label><label><input type="checkbox" name="process" value="b"> Il plico di documenti che clienti, gare, auditor o spedizionieri ci chiedono ogni volta.</label><label><input type="checkbox" name="process" value="c"> Confrontare tre offerte di fornitori e avere una tabella prima di chi negozia.</label><label><input type="checkbox" name="process" value="d"> Smistare PEC e posta della settimana.</label><label><input type="checkbox" name="process" value="e"> Allegare schede, certificati e packing list a una spedizione o a un ordine già deciso.</label><label><input type="checkbox" name="process" value="f"> Un report da export Excel per il titolare o il commerciale.</label>
+        <label><input type="checkbox" name="process" value="a"> Offerte, listini e schede da mettere insieme (mail e PDF), da far rileggere a chi vende.</label><label><input type="checkbox" name="process" value="b"> Il plico di documenti che clienti, gare, auditor o spedizionieri ci chiedono ogni volta.</label><label><input type="checkbox" name="process" value="c"> Confrontare tre offerte di fornitori e avere una tabella prima di chi negozia.</label><label><input type="checkbox" name="process" value="d"> Smistare PEC e posta della settimana.</label><label><input type="checkbox" name="process" value="e"> Allegare schede, certificati e packing list a una spedizione o a un ordine già deciso.</label><label><input type="checkbox" name="process" value="f"> Un report da export Excel per il titolare o il commerciale.</label><label><input type="checkbox" name="process" value="g"> Trasformare gli appunti di una riunione o di un sopralluogo in verbale e lista delle azioni.</label><label><input type="checkbox" name="process" value="h"> Preparare la bozza di risposta a un reclamo o a una non conformità, con il registro aggiornato.</label><label><input type="checkbox" name="process" value="i"> Tenere lo scadenzario di DURC, polizze, certificazioni e patentini partendo dai PDF.</label><label><input type="checkbox" name="process" value="j"> Preparare schede prodotto e listini in un&#x27;altra lingua sul modello aziendale, da far rileggere.</label><label><input type="checkbox" name="process" value="k"> Confrontare ordine del cliente, conferma d&#x27;ordine e documento di trasporto e segnalare le differenze prima della spedizione.</label>
       </fieldset>
       <p class="avvio-form-error" data-avvio-error hidden></p>
       <label class="avvio-consent"><input type="checkbox" name="consent" required> Si autorizza l&#x27;uso del sito pubblico indicato per preparare un parere. Il parere non è il servizio.</label>
       <button class="button primary" type="submit"><i data-lucide="mail" aria-hidden="true"></i>Preparare email</button>
+      <p class="form-note">Il messaggio arriva a una persona di Artik Lab, che lo legge e risponde di persona. Nessuna risposta automatica, nessuna lista.</p>
+      <p class="form-note">Inviando, si accettano le condizioni dell&#x27;<a href="/informativa/">informativa sul trattamento dei dati</a>.</p>
     </form>
   </div>
 </section>
@@ -342,6 +347,7 @@
     </div>
     <nav aria-label="Footer navigation">
       <a href="/avvio-operativo/">Operatività immediata</a>
+      <a href="/consulenza-manageriale-ai.html">Consulenza manageriale AI</a>
       <a href="/atlante-applicazioni-ai-imprese.html">Atlante AI</a>
       <a href="/analisi-dati-agentica.html">Analisi dati</a>
       <a href="/sviluppo-software-tecnico-ai.html">Software</a>
@@ -351,15 +357,15 @@
       <a href="/llms.txt">llms.txt</a>
     </nav>
     <div class="footer-meta">
-      <p>Artik Lab s.r.l. - startup innovativa</p>
-      <p>P.IVA IT04120810041</p>
-      <p>Italia · dtr@ar-tik.com</p>
+      <p>Artik Lab s.r.l. — Via Principe Amedeo 11, Torino — P.IVA IT04120810041</p>
+      <p><a href="mailto:dtr@ar-tik.com">dtr@ar-tik.com</a></p>
+      <p><a href="/informativa/">Informativa sul trattamento dei dati</a></p>
     </div>
   </div>
   <div class="shell footer-bottom">
     <p>© 2026 Artik Lab s.r.l. Tutti i diritti riservati.</p>
   </div>
 </footer>
-<script src="/js/main.js?v=20260906-atlante"></script>
+<script src="/js/main.js?v=20260907-lotto-it"></script>
 </body>
 </html>

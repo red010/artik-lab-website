@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/avvio-catalog.schema.json",
-  "generatedAt": "2026-09-06",
+  "generatedAt": "2026-09-07",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "locale": "it",
@@ -87,6 +87,94 @@
     {
       "id": "f",
       "label": "Un report da export Excel per il titolare o il commerciale."
+    },
+    {
+      "id": "g",
+      "label": "Trasformare gli appunti di una riunione o di un sopralluogo in verbale e lista delle azioni."
+    },
+    {
+      "id": "h",
+      "label": "Preparare la bozza di risposta a un reclamo o a una non conformità, con il registro aggiornato."
+    },
+    {
+      "id": "i",
+      "label": "Tenere lo scadenzario di DURC, polizze, certificazioni e patentini partendo dai PDF."
+    },
+    {
+      "id": "j",
+      "label": "Preparare schede prodotto e listini in un'altra lingua sul modello aziendale, da far rileggere."
+    },
+    {
+      "id": "k",
+      "label": "Confrontare ordine del cliente, conferma d'ordine e documento di trasporto e segnalare le differenze prima della spedizione."
+    }
+  ],
+  "cases": [
+    {
+      "id": "offerte-da-posta",
+      "title": "Offerte e listini da posta e file",
+      "checkId": "a",
+      "url": "https://ar-tik.com/avvio-operativo/offerte-da-posta.html"
+    },
+    {
+      "id": "plico-documenti",
+      "title": "Il plico di documenti che viene richiesto ogni volta",
+      "checkId": "b",
+      "url": "https://ar-tik.com/avvio-operativo/#caso-plico-documenti"
+    },
+    {
+      "id": "confronto-fornitori",
+      "title": "Confrontare tre offerte di fornitori",
+      "checkId": "c",
+      "url": "https://ar-tik.com/avvio-operativo/#caso-confronto-fornitori"
+    },
+    {
+      "id": "posta-e-pec",
+      "title": "Posta e PEC della settimana",
+      "checkId": "d",
+      "url": "https://ar-tik.com/avvio-operativo/#caso-posta-e-pec"
+    },
+    {
+      "id": "schede-e-certificati",
+      "title": "Schede, certificati e packing list da allegare",
+      "checkId": "e",
+      "url": "https://ar-tik.com/avvio-operativo/#caso-schede-e-certificati"
+    },
+    {
+      "id": "report-da-export",
+      "title": "Un report dall'export del gestionale",
+      "checkId": "f",
+      "url": "https://ar-tik.com/avvio-operativo/#caso-report-da-export"
+    },
+    {
+      "id": "verbale-riunione",
+      "title": "Verbale e lista delle azioni da appunti di riunione",
+      "checkId": "g",
+      "url": "https://ar-tik.com/avvio-operativo/#caso-verbale-riunione"
+    },
+    {
+      "id": "reclami",
+      "title": "Risposta a reclami e non conformità",
+      "checkId": "h",
+      "url": "https://ar-tik.com/avvio-operativo/#caso-reclami"
+    },
+    {
+      "id": "scadenzario",
+      "title": "Scadenzario di documenti e certificati",
+      "checkId": "i",
+      "url": "https://ar-tik.com/avvio-operativo/#caso-scadenzario"
+    },
+    {
+      "id": "schede-in-lingua",
+      "title": "Schede e listini in lingua per l'estero",
+      "checkId": "j",
+      "url": "https://ar-tik.com/avvio-operativo/#caso-schede-in-lingua"
+    },
+    {
+      "id": "coerenza-ordine-ddt",
+      "title": "Controllo di coerenza fra ordine, conferma e DDT",
+      "checkId": "k",
+      "url": "https://ar-tik.com/avvio-operativo/#caso-coerenza-ordine-ddt"
     }
   ]
 }

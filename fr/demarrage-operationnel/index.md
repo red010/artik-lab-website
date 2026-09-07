@@ -8,7 +8,7 @@ Un cours laisse des notions. Un paramétrage seul laisse un outil que personne n
 
 Les fichiers restent dans l'entreprise. Artik Lab ne les emporte pas. Aucun lien vers le logiciel de gestion n'est installé.
 
-On travaille sur un seul processus. Qui en choisit cinq n'en termine aucun.
+Un travail à la fois, mené jusqu’au bout.
 
 ## Quand c'est fait.
 
@@ -39,6 +39,11 @@ Du courrier et des PDF à un brouillon d'offre ou de tarif à faire relire par q
 - Trier le courrier certifié et le courrier de la semaine.
 - Joindre fiches, certificats et packing list à une expédition ou à une commande déjà décidée.
 - Un rapport à partir d'un export Excel pour la direction ou le commercial.
+- Transformer les notes d'une réunion ou d'une visite en compte rendu et liste d'actions.
+- Préparer le brouillon de réponse à une réclamation ou une non-conformité, avec le registre mis à jour.
+- Tenir l'échéancier des attestations, polices, certifications et habilitations à partir des PDF.
+- Préparer fiches produit et tarifs dans une autre langue sur le modèle de l'entreprise, à faire relire.
+- Comparer la commande du client, la confirmation de commande et le bon de livraison et signaler les écarts avant l'expédition.
 
 ## Ce qui est compris. Ce qui est un deuxième jour.
 
@@ -110,9 +115,9 @@ Non. S'il faut le toucher, ou changer le processus, c'est du conseil: un deuxiè
 
 Non. Les fichiers restent où ils sont. Artik Lab ne les emporte pas.
 
-### Peut-on allumer cinq processus ensemble?
+### Peut-on faire cinq travaux en même temps ?
 
-Non. Un processus à la fois. Qui en choisit cinq n'en termine aucun.
+Non : un seul à la fois. La journée sert à laisser une procédure en usage, et une procédure en usage vaut plus que cinq ébauches.
 
 ### Le rapport du formulaire est-il déjà le Démarrage?
 

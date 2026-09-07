@@ -86,7 +86,7 @@
 - [FAQ JSON](https://ar-tik.com/data/faq.fr.json): répertoire FAQ IA pour entreprises, avec questions, réponses, intentions, signaux, risques et prochaines étapes.
 - [LLM index JSON](https://ar-tik.com/data/llm-index.json): manifest lisible par machine pour langues, sitemaps et fichiers publics AI-readable.
 - [LLM sitemap](https://ar-tik.com/sitemap-llm.xml): sitemap pour Markdown, dossiers, JSON et index LLM.
-- [Full LLM corpus](https://ar-tik.com/llms-full.txt): corpus Markdown public concaténé pour agents préférant une seule récupération.
+- [Full LLM corpus](https://ar-tik.com/fr/llms-full.txt): les pages françaises en un seul fichier Markdown, pour les agents qui préfèrent une seule récupération ; chaque langue a son fichier.
 
 ## Versioni linguistiche
 - [Italiano](https://ar-tik.com/index.md): Artik Lab costruisce capacità AI che restano in azienda: processi misurabili, governance, formazione operativa, analisi dati agentica e prototipi controllati.

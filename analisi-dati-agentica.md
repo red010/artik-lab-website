@@ -14,6 +14,8 @@ Queste schede servono a riconoscersi in una situazione, non a scegliere un setto
 
 Officina conto terzi · Caso reale, analisi certificata.
 
+In breve. Entra: codice pezzo, quantità, macchina, tempo osservato. Esce: il tempo da mettere in preventivo, come intervallo. Decide: chi fa il preventivo.
+
 In officina ogni lavorazione è pezzo, quantità e macchina, e il preventivo esce dall'esperienza. L'analisi stima quanto tempo serve per una quantità su una macchina e quanto della variabilità dipende dalla macchina piuttosto che dal pezzo, così prezzo e data non escono solo a sentimento.
 
 **Nel caso reale.** 2.916 lavorazioni su 13 macchine. Più di metà della differenza fra un tempo e l'altro, il 53%, non è spiegata da nulla di ciò che l'officina registra; la dimensione dell'ordine pesa per il 32%, la macchina per il 9%, il pezzo per il 6%. Un ordine da un pezzo richiede tipicamente 167 unità di tempo, uno oltre i sedici pezzi ne richiede 18. Una macchina non riporta il tempo sul 53% delle proprie lavorazioni: un buco di registrazione, non un miracolo.
@@ -28,6 +30,8 @@ In officina ogni lavorazione è pezzo, quantità e macchina, e il preventivo esc
 ### Ogni mese il consuntivo non torna col budget — e non so se è inevitabile oppure sono delle voci ulteriori che non sto considerando.
 
 Controllo di gestione · Caso reale, analisi certificata.
+
+In breve. Entra: budget e consuntivo per mese, linea e voce di costo. Esce: le voci dove lo scostamento si ripete e quelle dove è solo rumore. Decide: chi controlla i costi.
 
 Il controllo di gestione confronta budget e consuntivo per voce: manodopera, materiale, energia, logistica. L'analisi dice dove lo scostamento si ripete mese dopo mese, da correggere, e dove cambia segno a caso, da non inseguire.
 
@@ -44,6 +48,8 @@ Il controllo di gestione confronta budget e consuntivo per voce: manodopera, mat
 
 Ufficio export · Caso reale, analisi certificata.
 
+In breve. Entra: righe ordine con data, paese, cliente e fatturato. Esce: la concentrazione per paese e cliente, e dove aprire clienti nuovi. Decide: chi guida l’export.
+
 Il commerciale export vive sulla tabella pivot: chi ha ordinato, da quale paese, quanto pesa. L'analisi rende leggibile la concentrazione, cioè quali paesi e clienti tengono il fatturato e dove il rischio di dipendenza è alto, senza inventare un mercato che nei dati non c'è.
 
 **Nel caso reale.** 303 ordini di 92 clienti in 19 paesi. Bastano 3 paesi su 19 per fare metà del fatturato, mentre servono 26 clienti su 92. La differenza fra i mercati non nasce dalla taglia degli ordini: il numero di clienti attivi in ciascun paese spiega l'82,1% dello scarto, quindi la leva è aprire clienti nei paesi già presidiati ma sotto-coperti. Novembre vale 3,15 volte un mese medio perché porta 3,4 volte più ordini. E una trappola tipica dei gestionali: lo stesso storico segnava un arretramento del 60,94% o una crescita del 41,30% a seconda di come si confrontava un anno incompleto.
@@ -59,6 +65,8 @@ Il commerciale export vive sulla tabella pivot: chi ha ordinato, da quale paese,
 
 Cantina e laboratorio · Caso reale, analisi certificata.
 
+In breve. Entra: analisi di laboratorio per lotto e classificazione commerciale. Esce: i lotti da spedire, trattenere o destinare altrove, prima del carico. Decide: chi chiude il lotto.
+
 Laboratorio e certificati ci sono già. L'analisi dice, prima di chiudere il lotto, quanto quel profilo assomiglia ai lotti già accettati e dove il rischio di scarto o di reclamo è più alto. Non sostituisce l'assaggio: lo anticipa.
 
 **Nel caso reale.** 1.143 lotti con undici misure chimiche di laboratorio ciascuno. Dai soli numeri di laboratorio il sistema riconosce in anticipo l'87% dei lotti di pregio, 108 su 124 nel campione di verifica, e quando indica un lotto come di pregio ha ragione nell'81% dei casi. La qualità non sta in un singolo indizio ma in un blocco: grado alcolico, controllo dell'acidità volatile e stabilizzazione con i solfiti letti insieme.
@@ -73,6 +81,8 @@ Laboratorio e certificati ci sono già. L'analisi dice, prima di chiudere il lot
 ### Mi chiedono tempi certi, ma quale macchina è libera lo so solo a occhio.
 
 Reparto macchine · Caso reale, analisi certificata.
+
+In breve. Entra: stati e misure macchina già registrati, tempi di ciclo e fermi. Esce: l’allarme di guasto in corso e i profili di funzionamento a confronto. Decide: chi pianifica il reparto.
 
 Il preventivo e la promessa di consegna oggi escono dall'esperienza di chi conosce il reparto. L'analisi guarda lo storico di utilizzo e gli stati macchina, o di processo, e rende visibili i regimi: quando la capacità è davvero piena, quando un ordine urgente sposta tutto, quando la promessa non regge.
 
@@ -93,6 +103,8 @@ Se i dati non rispondono alla domanda, lo si scrive nel report, con l'elenco di 
 
 Logistica e spedizioni · Caso reale, verdetto negativo.
 
+In breve. Entra: consegne pianificate ed esito reale dal gestionale. Esce: il verdetto: dai dati di pianificazione il ritardo non si prevede. Decide: chi doveva finanziare il modello.
+
 Un operatore logistico vuole sapere, al momento della pianificazione del viaggio, quali consegne arriveranno in ritardo. L'analisi non forza una previsione debole: verifica se il segnale esiste nei dati disponibili prima della partenza.
 
 **Nel caso reale.** 85.410 consegne ricostruite da 14 tabelle gestionali; il 55,4% arriva oltre l'orario previsto. Con la sola informazione disponibile in pianificazione il sistema migliore raggiunge una capacità di distinguere pari a 50,3 su 100, dove 50 è il puro caso. Il ritardo nasce durante il viaggio, in eventi che il gestionale non registra: soste al carico e allo scarico, traffico, meteo, ritardi a monte.
@@ -106,6 +118,8 @@ Un operatore logistico vuole sapere, al momento della pianificazione del viaggio
 ### Avrei voluto prevedere quali capi sarebbero tornati come resi, ma l'analisi ha scoperto che dalle sole schede prodotto non si poteva ottenere questa risposta.
 
 Vendita al dettaglio e resi · Caso reale, verdetto negativo.
+
+In breve. Entra: schede prodotto, prezzi, sconti, resi registrati. Esce: il verdetto: dalle sole schede prodotto il reso non si prevede, con i quattro dati da raccogliere. Decide: chi gestisce i resi.
 
 Una boutique in rete vorrebbe sapere quali capi torneranno indietro. La tentazione è usare i dati già comodi: categoria, prezzo, colore, scheda prodotto. L'analisi dice se in quei dati c'è un segnale, prima che qualcuno costruisca un sistema sopra.
 
@@ -121,6 +135,8 @@ Una boutique in rete vorrebbe sapere quali capi torneranno indietro. La tentazio
 
 In ogni report · Alternative scartate.
 
+In breve. Entra: i metodi e le ipotesi provati nell’analisi. Esce: la sezione del report con ciò che è stato scartato e perché, con i numeri. Decide: chi legge il report.
+
 Ogni report certificato ha una sezione dedicata alle alternative scartate: che cosa è stato provato, che cosa è stato buttato e perché, con i numeri. È il contrario del fornitore che porta l'unico metodo che sa fare.
 
 **Nel caso reale.** Nell'analisi dei tempi in officina, quattro metodi di stima sono stati confrontati con il riferimento minimo, il tempo tipico di officina, su pezzi mai visti. Nessun affinamento del modello batte l'arricchimento della registrazione, perché il 53% della variabilità non è nei campi che l'officina compila oggi. La raccomandazione è stata raccogliere due o tre informazioni in più per lavorazione, non comprare un metodo più raffinato.
@@ -132,11 +148,11 @@ Ogni report certificato ha una sezione dedicata alle alternative scartate: che c
 
 ## Il passo successivo
 
-Portare l'estratto che già si prepara a mano ogni mese. Artik Lab dice che cosa dice, che cosa non dice e se i dati bastano, prima di impegnarsi in un progetto. La prima conversazione dura 30-45 minuti: scrivere a dtr@ar-tik.com.
+Portare l'estratto che già si prepara a mano ogni mese. Artik Lab dice che cosa dice, che cosa non dice e se i dati bastano, prima di impegnarsi in un progetto. La prima conversazione dura 30-45 minuti: scrivere a dtr@ar-tik.com con oggetto «[Analisi dati] Estratto da valutare». Il messaggio arriva a una persona di Artik Lab, che lo legge e risponde di persona.
 
-Se il problema è mettere in ordine PDF e procedure più che i numeri, il servizio giusto è [Avvio operativo](https://ar-tik.com/avvio-operativo/).
+Se il problema è mettere in ordine PDF e procedure più che i numeri, il servizio giusto è [Operatività immediata](https://ar-tik.com/avvio-operativo/).
 
-## La dashboard guarda indietro. Il segnale decide adesso.
+## Le dashboard guardano il passato. Ma i vostri dati vi possono aiutare a decidere per il futuro.
 1. Dati già disponibili
 2. Domanda aziendale
 3. Segnale verificato
@@ -144,7 +160,7 @@ Se il problema è mettere in ordine PDF e procedure più che i numeri, il serviz
 5. Valore misurabile o stimabile
 6. Nuova raccolta dati mirata
 
-## Output che servono a decidere
+## Che cosa si riceve
 
 ### Executive Summary
 
@@ -371,3 +387,7 @@ No. Sono analisi realmente eseguite e certificate da Artik Lab su archivi operat
 ### Che cosa serve per la prima conversazione?
 
 L'estratto che già si prepara a mano ogni mese e la decisione che dovrebbe migliorare. In 30-45 minuti si chiarisce se i dati bastano, che cosa manca e quale primo progetto ha senso, prima di impegnarsi.
+
+### Dove stanno i dati durante l'analisi?
+
+Si lavora su un estratto concordato, con un perimetro scritto.

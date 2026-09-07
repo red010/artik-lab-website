@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/avvio-catalog.schema.json",
-  "generatedAt": "2026-09-06",
+  "generatedAt": "2026-09-07",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "locale": "pt",
@@ -87,6 +87,26 @@
     {
       "id": "f",
       "label": "Um relatório a partir de um export Excel para o titular ou o comercial."
+    },
+    {
+      "id": "g",
+      "label": "Transformar as anotações de uma reunião ou visita em ata e lista de ações."
+    },
+    {
+      "id": "h",
+      "label": "Preparar o rascunho de resposta a uma reclamação ou não conformidade, com o registro atualizado."
+    },
+    {
+      "id": "i",
+      "label": "Manter o calendário de vencimentos de certidões, apólices, certificações e habilitações a partir dos PDF."
+    },
+    {
+      "id": "j",
+      "label": "Preparar fichas de produto e listas de preços em outro idioma no modelo da empresa, para alguém reler."
+    },
+    {
+      "id": "k",
+      "label": "Comparar o pedido do cliente, a confirmação de pedido e o documento de transporte e apontar as diferenças antes do envio."
     }
   ]
 }

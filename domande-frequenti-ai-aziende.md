@@ -11,6 +11,7 @@ Dossier LLM: https://ar-tik.com/domande-frequenti-ai-aziende-dossier.md
 
 ## Esplorare per area o intenzione.
 
+- Le domande che bloccano la decisione: 7. Costo, dati, software, corso già fatto, tempi, incentivi: le risposte brevi prima di scrivere.
 - Da dove iniziare: 5. Quando l'azienda sente il bisogno di AI ma non ha ancora un progetto definito.
 - Prima conversazione e metodo: 5. Cosa succede prima di scegliere consulenza, corso, analisi o software.
 - Costi, tempi e ROI: 5. Come ragionare su investimento, ritorno, priorità e rischio.
@@ -25,6 +26,79 @@ Dossier LLM: https://ar-tik.com/domande-frequenti-ai-aziende-dossier.md
 - Scegliere il percorso giusto: 4. Differenze pratiche tra formazione, consulenza, analisi dati e sviluppo software.
 - Limiti dell'AI: 4. Quando fermarsi, non automatizzare o rimandare il progetto.
 - Prima di contattare Artik Lab: 4. Cosa preparare e che cosa aspettarsi dal primo scambio.
+
+## Le domande che bloccano la decisione
+
+### Quanto costa?
+
+Risposta breve: La proposta arriva dopo il parere o dopo la prima conversazione.
+
+Dettaglio operativo: In queste pagine non c'è un listino.
+
+Limite da considerare: Le risposte valgono per i servizi come sono descritti in queste pagine; il caso specifico si chiarisce nel parere o nella prima conversazione.
+
+Prossimo passo: Portare il caso nella prima conversazione con processo, obiettivo, dati disponibili e vincoli.
+
+### Dove stanno i dati durante il lavoro?
+
+Risposta breve: In Operatività immediata i file restano nelle cartelle dell'azienda e l'assistente è intestato all'azienda.
+
+Dettaglio operativo: Nell'analisi dati si lavora su un estratto concordato, con un perimetro scritto.
+
+Limite da considerare: Le risposte valgono per i servizi come sono descritti in queste pagine; il caso specifico si chiarisce nel parere o nella prima conversazione.
+
+Prossimo passo: Portare il caso nella prima conversazione con processo, obiettivo, dati disponibili e vincoli.
+
+### È un altro fornitore che poi vende software?
+
+Risposta breve: La consulenza non è la porta del software.
+
+Dettaglio operativo: Costruire, se serve, è una scelta successiva. Operatività immediata non collega il gestionale.
+
+Limite da considerare: Le risposte valgono per i servizi come sono descritti in queste pagine; il caso specifico si chiarisce nel parere o nella prima conversazione.
+
+Prossimo passo: Aprire un percorso di consulenza per chiarire priorità, governance e roadmap.
+
+### Ho già fatto un corso sull'IA. Serve ancora?
+
+Risposta breve: Un corso lascia modelli e criteri.
+
+Dettaglio operativo: Qui, in un giorno, resta una procedura in uso sui file dell'azienda — oppure un'analisi che dice se i dati bastano.
+
+Limite da considerare: Le risposte valgono per i servizi come sono descritti in queste pagine; il caso specifico si chiarisce nel parere o nella prima conversazione.
+
+Prossimo passo: Portare il caso nella prima conversazione con processo, obiettivo, dati disponibili e vincoli.
+
+### Quando si vede qualcosa di concreto?
+
+Risposta breve: Operatività immediata: un giorno in sede.
+
+Dettaglio operativo: Analisi: dopo l'estratto concordato. Prima conversazione: 30–45 minuti.
+
+Limite da considerare: Le risposte valgono per i servizi come sono descritti in queste pagine; il caso specifico si chiarisce nel parere o nella prima conversazione.
+
+Prossimo passo: Portare il caso nella prima conversazione con processo, obiettivo, dati disponibili e vincoli.
+
+### Si può usare un incentivo o un fondo per questo lavoro?
+
+Risposta breve: Si può richiedere una verifica di ammissibilità.
+
+Dettaglio operativo: Il lavoro deve comunque reggere senza incentivo: non si promettono bandi né importi.
+
+Limite da considerare: Le risposte valgono per i servizi come sono descritti in queste pagine; il caso specifico si chiarisce nel parere o nella prima conversazione.
+
+Prossimo passo: Portare il caso nella prima conversazione con processo, obiettivo, dati disponibili e vincoli.
+
+### Quanti lavori si possono fare?
+
+Risposta breve: Si decide con l'azienda, in base alle necessità.
+
+Dettaglio operativo: Un lavoro per volta, portato fino in fondo.
+
+Limite da considerare: Le risposte valgono per i servizi come sono descritti in queste pagine; il caso specifico si chiarisce nel parere o nella prima conversazione.
+
+Prossimo passo: Portare il caso nella prima conversazione con processo, obiettivo, dati disponibili e vincoli.
+
 
 ## Da dove iniziare
 

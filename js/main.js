@@ -56,14 +56,17 @@ document.addEventListener('DOMContentLoaded', function () {
     form.addEventListener('submit', function (event) {
       event.preventDefault();
       var data = new FormData(form);
-      var subject = data.get('topic') || 'Richiesta dal sito Artik Lab';
-      var lines = [
-        'Nome e ruolo: ' + (data.get('name') || ''),
-        'Email: ' + (data.get('email') || ''),
-        'Tema: ' + (data.get('topic') || ''),
-        '',
-        data.get('message') || ''
-      ];
+      var topic = (data.get('topic') || '').toString().trim();
+      var base = form.getAttribute('data-subject') || '';
+      var subject = base ? (topic ? base + ': ' + topic : base) : (topic || 'Richiesta dal sito Artik Lab');
+      var lines = [];
+      if (data.get('name')) lines.push((form.getAttribute('data-name-label') || 'Nome e ruolo') + ': ' + data.get('name'));
+      lines.push((form.getAttribute('data-email-label') || 'Email') + ': ' + (data.get('email') || ''));
+      if (topic) lines.push((form.getAttribute('data-topic-label') || 'Tema') + ': ' + topic);
+      if (data.get('message')) {
+        lines.push('');
+        lines.push(data.get('message'));
+      }
       window.location.href = 'mailto:dtr@ar-tik.com?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(lines.join('\n'));
     });
   }
@@ -253,6 +256,7 @@ document.addEventListener('DOMContentLoaded', function () {
     var weeks = parseFloat(calc.getAttribute('data-weeks')) || 45;
     var costOut = calc.querySelector('[data-calc-cost]');
     var saveOut = calc.querySelector('[data-calc-save]');
+    var monthOut = calc.querySelector('[data-calc-month]');
     var fields = Array.prototype.slice.call(calc.querySelectorAll('input, select'));
     var formatter;
     try {
@@ -272,6 +276,7 @@ document.addEventListener('DOMContentLoaded', function () {
       var recoverable = annualCost * value('share');
       if (costOut) costOut.textContent = formatter.format(Math.round(annualCost));
       if (saveOut) saveOut.textContent = formatter.format(Math.round(recoverable));
+      if (monthOut) monthOut.textContent = formatter.format(Math.round(recoverable / 12));
     }
 
     fields.forEach(function (field) {

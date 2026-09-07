@@ -45,7 +45,7 @@
     };
   </script>
   <script src="https://unpkg.com/lucide@1.23.0/dist/umd/lucide.min.js"></script>
-  <link rel="stylesheet" href="/css/custom.css?v=20260906-atlante">
+  <link rel="stylesheet" href="/css/custom.css?v=20260907-lotto-it">
   <script type="application/ld+json">{
   "@context": "https://schema.org",
   "@graph": [
@@ -74,6 +74,8 @@
       },
       "address": {
         "@type": "PostalAddress",
+        "streetAddress": "Via Principe Amedeo 11",
+        "addressLocality": "Torino",
         "addressCountry": "IT"
       }
     },
@@ -145,6 +147,14 @@
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "L'estratto che già si prepara a mano ogni mese e la decisione che dovrebbe migliorare. In 30-45 minuti si chiarisce se i dati bastano, che cosa manca e quale primo progetto ha senso, prima di impegnarsi."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Dove stanno i dati durante l’analisi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Si lavora su un estratto concordato, con un perimetro scritto."
           }
         }
       ]
@@ -221,6 +231,7 @@
     </div>
   </div>
 </section>
+<nav class="shell page-index" aria-label="Su questa pagina"><span>Su questa pagina</span><a href="#situazioni">Situazioni in cui riconoscersi</a><a href="#verdetti">Quando non investire</a><a href="#passo-successivo">Il passo successivo</a><a href="#cosa-si-riceve">Che cosa si riceve</a><a href="#altri-segnali">Altri segnali</a><a href="#domande">Domande frequenti</a><a href="#contatti">Contatti</a></nav>
 <section class="section">
   <div class="shell two-column">
     <div>
@@ -243,6 +254,7 @@
     <span>Caso reale · analisi certificata</span>
   </div>
   <h3>Il tempo sul pezzo lo stimo a occhio: se sbaglio, ci rimetto il margine.</h3>
+  <p class="atlas-brief" aria-label="In breve"><span><strong>Entra:</strong> codice pezzo, quantità, macchina, tempo osservato</span><span><strong>Esce:</strong> il tempo da mettere in preventivo, come intervallo</span><span><strong>Decide:</strong> chi fa il preventivo</span></p>
   <p>In officina ogni lavorazione è pezzo, quantità e macchina, e il preventivo esce dall’esperienza. L’analisi stima quanto tempo serve per una quantità su una macchina e quanto della variabilità dipende dalla macchina piuttosto che dal pezzo, così prezzo e data non escono solo a sentimento.</p>
   <p class="atlas-example"><strong>Nel caso reale:</strong> 2.916 lavorazioni su 13 macchine. Più di metà della differenza fra un tempo e l’altro, il 53%, non è spiegata da nulla di ciò che l’officina registra; la dimensione dell’ordine pesa per il 32%, la macchina per il 9%, il pezzo per il 6%. Un ordine da un pezzo richiede tipicamente 167 unità di tempo, uno oltre i sedici pezzi ne richiede 18. Una macchina non riporta il tempo sul 53% delle proprie lavorazioni: un buco di registrazione, non un miracolo.</p>
   <details>
@@ -261,6 +273,7 @@
     <span>Caso reale · analisi certificata</span>
   </div>
   <h3>Ogni mese il consuntivo non torna col budget — e non so se è inevitabile oppure sono delle voci ulteriori che non sto considerando.</h3>
+  <p class="atlas-brief" aria-label="In breve"><span><strong>Entra:</strong> budget e consuntivo per mese, linea e voce di costo</span><span><strong>Esce:</strong> le voci dove lo scostamento si ripete e quelle dove è solo rumore</span><span><strong>Decide:</strong> chi controlla i costi</span></p>
   <p>Il controllo di gestione confronta budget e consuntivo per voce: manodopera, materiale, energia, logistica. L’analisi dice dove lo scostamento si ripete mese dopo mese, da correggere, e dove cambia segno a caso, da non inseguire.</p>
   <p class="atlas-example"><strong>Nel caso reale:</strong> 144 righe, dodici mesi per due linee e sei voci di costo. A fine anno la produzione ha speso 28.879 euro più del pianificato, l’1,15% di un budget da 2,5 milioni: una cifra che a bilancio non allarma nessuno. Sommando gli scostamenti senza compensarli si arriva a 79.948 euro. La priorità è una voce sola, le materie prime fra luglio e settembre: 28.478 euro, l’86% dello scostamento annuo di quella voce, maturati in tre mesi. Al variare delle soglie nessuna delle sei voci cambia verdetto.</p>
   <details>
@@ -279,6 +292,7 @@
     <span>Caso reale · analisi certificata</span>
   </div>
   <h3>Ogni mese devo rifare il foglio ordini estero per paese e cliente. C’è un modo per automatizzare questa procedura?</h3>
+  <p class="atlas-brief" aria-label="In breve"><span><strong>Entra:</strong> righe ordine con data, paese, cliente e fatturato</span><span><strong>Esce:</strong> la concentrazione per paese e cliente, e dove aprire clienti nuovi</span><span><strong>Decide:</strong> chi guida l’export</span></p>
   <p>Il commerciale export vive sulla tabella pivot: chi ha ordinato, da quale paese, quanto pesa. L’analisi rende leggibile la concentrazione, cioè quali paesi e clienti tengono il fatturato e dove il rischio di dipendenza è alto, senza inventare un mercato che nei dati non c’è.</p>
   <p class="atlas-example"><strong>Nel caso reale:</strong> 303 ordini di 92 clienti in 19 paesi. Bastano 3 paesi su 19 per fare metà del fatturato, mentre servono 26 clienti su 92. La differenza fra i mercati non nasce dalla taglia degli ordini: il numero di clienti attivi in ciascun paese spiega l’82,1% dello scarto, quindi la leva è aprire clienti nei paesi già presidiati ma sotto-coperti. Novembre vale 3,15 volte un mese medio perché porta 3,4 volte più ordini. E una trappola tipica dei gestionali: lo stesso storico segnava un arretramento del 60,94% o una crescita del 41,30% a seconda di come si confrontava un anno incompleto.</p>
   <details>
@@ -297,6 +311,7 @@
     <span>Caso reale · analisi certificata</span>
   </div>
   <h3>Il cliente vuole la stessa qualità del lotto scorso e io devo «rincorrere» i certificati di laboratorio.</h3>
+  <p class="atlas-brief" aria-label="In breve"><span><strong>Entra:</strong> analisi di laboratorio per lotto e classificazione commerciale</span><span><strong>Esce:</strong> i lotti da spedire, trattenere o destinare altrove, prima del carico</span><span><strong>Decide:</strong> chi chiude il lotto</span></p>
   <p>Laboratorio e certificati ci sono già. L’analisi dice, prima di chiudere il lotto, quanto quel profilo assomiglia ai lotti già accettati e dove il rischio di scarto o di reclamo è più alto. Non sostituisce l’assaggio: lo anticipa.</p>
   <p class="atlas-example"><strong>Nel caso reale:</strong> 1.143 lotti con undici misure chimiche di laboratorio ciascuno. Dai soli numeri di laboratorio il sistema riconosce in anticipo l’87% dei lotti di pregio, 108 su 124 nel campione di verifica, e quando indica un lotto come di pregio ha ragione nell’81% dei casi. La qualità non sta in un singolo indizio ma in un blocco: grado alcolico, controllo dell’acidità volatile e stabilizzazione con i solfiti letti insieme.</p>
   <details>
@@ -315,6 +330,7 @@
     <span>Caso reale · analisi certificata</span>
   </div>
   <h3>Mi chiedono tempi certi, ma quale macchina è libera lo so solo a occhio.</h3>
+  <p class="atlas-brief" aria-label="In breve"><span><strong>Entra:</strong> stati e misure macchina già registrati, tempi di ciclo e fermi</span><span><strong>Esce:</strong> l’allarme di guasto in corso e i profili di funzionamento a confronto</span><span><strong>Decide:</strong> chi pianifica il reparto</span></p>
   <p>Il preventivo e la promessa di consegna oggi escono dall’esperienza di chi conosce il reparto. L’analisi guarda lo storico di utilizzo e gli stati macchina, o di processo, e rende visibili i regimi: quando la capacità è davvero piena, quando un ordine urgente sposta tutto, quando la promessa non regge.</p>
   <p class="atlas-example"><strong>Nel caso reale:</strong> le misure già registrate dalle macchine hanno mostrato due cose. Su oltre 7.600 rilevazioni di stato, il sistema riconosce un guasto in corso in circa 84 casi su 100 e, quando lancia un allarme, ha ragione in oltre 97 volte su 100: il guasto si annuncia come una salita congiunta di vibrazione, temperatura e pressione. Su cinque macchine lette al minuto sono emersi otto profili di funzionamento, con 11,4 punti di scarto di efficienza fra il migliore e il peggiore: la prima leva non è comprare nuovi impianti, è capire perché gli stessi impianti rendono in modo così diverso.</p>
   <details>
@@ -330,7 +346,7 @@
 </article>
   </div>
 </section>
-<section class="section verdict-section">
+<section id="verdetti" class="section verdict-section">
   <div class="shell section-heading">
     <p class="eyebrow">Verdetti negativi</p>
     <h2>Quando l’analisi dice di non investire</h2>
@@ -343,6 +359,7 @@
     <span>Caso reale · verdetto negativo</span>
   </div>
   <h3>Stavamo per investire in un modello di previsione dei ritardi, ma i dati non lo sostenevano.</h3>
+  <p class="atlas-brief" aria-label="In breve"><span><strong>Entra:</strong> consegne pianificate ed esito reale dal gestionale</span><span><strong>Esce:</strong> il verdetto: dai dati di pianificazione il ritardo non si prevede</span><span><strong>Decide:</strong> chi doveva finanziare il modello</span></p>
   <p>Un operatore logistico vuole sapere, al momento della pianificazione del viaggio, quali consegne arriveranno in ritardo. L’analisi non forza una previsione debole: verifica se il segnale esiste nei dati disponibili prima della partenza.</p>
   <p class="atlas-example"><strong>Nel caso reale:</strong> 85.410 consegne ricostruite da 14 tabelle gestionali; il 55,4% arriva oltre l’orario previsto. Con la sola informazione disponibile in pianificazione il sistema migliore raggiunge una capacità di distinguere pari a 50,3 su 100, dove 50 è il puro caso. Il ritardo nasce durante il viaggio, in eventi che il gestionale non registra: soste al carico e allo scarico, traffico, meteo, ritardi a monte.</p>
   <details>
@@ -360,6 +377,7 @@
     <span>Caso reale · verdetto negativo</span>
   </div>
   <h3>Avrei voluto prevedere quali capi sarebbero tornati come resi, ma l’analisi ha scoperto che dalle sole schede prodotto non si poteva ottenere questa risposta.</h3>
+  <p class="atlas-brief" aria-label="In breve"><span><strong>Entra:</strong> schede prodotto, prezzi, sconti, resi registrati</span><span><strong>Esce:</strong> il verdetto: dalle sole schede prodotto il reso non si prevede, con i quattro dati da raccogliere</span><span><strong>Decide:</strong> chi gestisce i resi</span></p>
   <p>Una boutique in rete vorrebbe sapere quali capi torneranno indietro. La tentazione è usare i dati già comodi: categoria, prezzo, colore, scheda prodotto. L’analisi dice se in quei dati c’è un segnale, prima che qualcuno costruisca un sistema sopra.</p>
   <p class="atlas-example"><strong>Nel caso reale:</strong> 2.176 capi a catalogo, poco meno di un capo su sette torna indietro. Nessun modello supera il riferimento minimo: la caratteristica più informativa, lo sconto applicato, spiega meno del 2% del fenomeno, le altre quasi nulla. I metodi più potenti sono stati provati e fanno peggio dei semplici: la potenza non aiuta quando non c’è nulla da apprendere.</p>
   <details>
@@ -377,6 +395,7 @@
     <span>Alternative scartate</span>
   </div>
   <h3>Il fornitore che dice di no.</h3>
+  <p class="atlas-brief" aria-label="In breve"><span><strong>Entra:</strong> i metodi e le ipotesi provati nell’analisi</span><span><strong>Esce:</strong> la sezione del report con ciò che è stato scartato e perché, con i numeri</span><span><strong>Decide:</strong> chi legge il report</span></p>
   <p>Ogni report certificato ha una sezione dedicata alle alternative scartate: che cosa è stato provato, che cosa è stato buttato e perché, con i numeri. È il contrario del fornitore che porta l’unico metodo che sa fare.</p>
   <p class="atlas-example"><strong>Nel caso reale:</strong> nell’analisi dei tempi in officina, quattro metodi di stima sono stati confrontati con il riferimento minimo, il tempo tipico di officina, su pezzi mai visti. Nessun affinamento del modello batte l’arricchimento della registrazione, perché il 53% della variabilità non è nei campi che l’officina compila oggi. La raccomandazione è stata raccogliere due o tre informazioni in più per lavorazione, non comprare un metodo più raffinato.</p>
   <details>
@@ -391,7 +410,7 @@
 </article>
   </div>
 </section>
-<section class="section split-highlight">
+<section id="passo-successivo" class="section split-highlight">
   <div class="shell two-column">
     <div>
       <p class="eyebrow">Il passo successivo</p>
@@ -400,22 +419,22 @@
     <div>
       <p class="large-text">Artik Lab dice che cosa dice, che cosa non dice e se i dati bastano, prima di impegnarsi in un progetto. La prima conversazione dura 30-45 minuti.</p>
       <a class="button primary" href="#contatti"><i data-lucide="mail" aria-hidden="true"></i>Avviare una conversazione</a>
-      <p>Se il problema è mettere in ordine PDF e procedure più che i numeri, il servizio giusto è <a class="text-link light" href="/avvio-operativo/">Avvio operativo</a>.</p>
+      <p>Se il problema è mettere in ordine PDF e procedure più che i numeri, il servizio giusto è <a class="text-link light" href="/avvio-operativo/">Operatività immediata</a>.</p>
     </div>
   </div>
 </section>
 <section class="section paper-section">
   <div class="shell section-heading">
     <p class="eyebrow">Oltre la dashboard</p>
-    <h2>La dashboard guarda indietro. Il segnale decide adesso.</h2>
+    <h2>Le dashboard guardano il passato. Ma i vostri dati vi possono aiutare a decidere per il futuro.</h2>
   </div>
   <div class="shell">
     <ol class="process-list wide"><li><span>1</span>Dati già disponibili</li><li><span>2</span>Domanda aziendale</li><li><span>3</span>Segnale verificato</li><li><span>4</span>Decisione possibile</li><li><span>5</span>Valore misurabile o stimabile</li><li><span>6</span>Nuova raccolta dati mirata</li></ol>
   </div>
 </section>
-<section class="section">
+<section id="cosa-si-riceve" class="section">
   <div class="shell section-heading">
-    <h2>Output che servono a decidere</h2>
+    <h2>Che cosa si riceve</h2>
   </div>
   <div class="shell card-grid four"><article class="surface-card">
   <i data-lucide="file-check-2" aria-hidden="true"></i>
@@ -685,12 +704,12 @@
     </details>
   </div>
 </section>
-<section class="section faq-section">
+<section id="domande" class="section faq-section">
   <div class="shell narrow">
     <p class="eyebrow">Domande frequenti</p>
     <h2>Domande frequenti</h2>
     <div class="faq-list">
-      <details><summary>L&#x27;analisi dati agentica sostituisce la Business Intelligence?</summary><p>No. La Business Intelligence controlla indicatori noti; l&#x27;analisi agentica diagnostica cause, cerca segnali non evidenti e collega il risultato a una decisione.</p></details><details><summary>Serve già un data warehouse perfetto?</summary><p>No. Il primo valore può essere proprio verificare se i dati esistenti sono adatti, quali limiti hanno e quali dati raccogliere dopo.</p></details><details><summary>Che cosa succede se il segnale non c&#x27;è?</summary><p>Il metodo dichiara il verdetto negativo e indica quale investimento evitare o quale raccolta dati avviare prima di finanziare un modello.</p></details><details><summary>I casi dell’atlante sono clienti di Artik Lab?</summary><p>No. Sono analisi realmente eseguite e certificate da Artik Lab su archivi operativi dello stesso tipo di quelli presenti nelle imprese, senza clienti riconoscibili. I numeri dimostrano il metodo; non prevedono i risultati di un’altra azienda.</p></details><details><summary>Che cosa serve per la prima conversazione?</summary><p>L’estratto che già si prepara a mano ogni mese e la decisione che dovrebbe migliorare. In 30-45 minuti si chiarisce se i dati bastano, che cosa manca e quale primo progetto ha senso, prima di impegnarsi.</p></details>
+      <details><summary>L&#x27;analisi dati agentica sostituisce la Business Intelligence?</summary><p>No. La Business Intelligence controlla indicatori noti; l&#x27;analisi agentica diagnostica cause, cerca segnali non evidenti e collega il risultato a una decisione.</p></details><details><summary>Serve già un data warehouse perfetto?</summary><p>No. Il primo valore può essere proprio verificare se i dati esistenti sono adatti, quali limiti hanno e quali dati raccogliere dopo.</p></details><details><summary>Che cosa succede se il segnale non c&#x27;è?</summary><p>Il metodo dichiara il verdetto negativo e indica quale investimento evitare o quale raccolta dati avviare prima di finanziare un modello.</p></details><details><summary>I casi dell’atlante sono clienti di Artik Lab?</summary><p>No. Sono analisi realmente eseguite e certificate da Artik Lab su archivi operativi dello stesso tipo di quelli presenti nelle imprese, senza clienti riconoscibili. I numeri dimostrano il metodo; non prevedono i risultati di un’altra azienda.</p></details><details><summary>Che cosa serve per la prima conversazione?</summary><p>L’estratto che già si prepara a mano ogni mese e la decisione che dovrebbe migliorare. In 30-45 minuti si chiarisce se i dati bastano, che cosa manca e quale primo progetto ha senso, prima di impegnarsi.</p></details><details><summary>Dove stanno i dati durante l’analisi?</summary><p>Si lavora su un estratto concordato, con un perimetro scritto.</p></details>
     </div>
   </div>
 </section>
@@ -700,14 +719,16 @@
       <p class="eyebrow">Contatti</p>
       <h2>Una conversazione breve basta per capire da dove partire.</h2>
       <p>La prima conversazione dura 30-45 minuti e serve a chiarire decisione, dati disponibili, vincoli e azione possibile prima di finanziare un modello o raccogliere nuovi dati.</p>
-      <a class="text-link light" href="mailto:dtr@ar-tik.com">Scrivere a dtr@ar-tik.com</a>
+      <a class="text-link light" href="mailto:dtr@ar-tik.com?subject=%5BAnalisi%20dati%5D%20Estratto%20da%20valutare">Scrivere a dtr@ar-tik.com</a>
     </div>
-    <form id="contact-form" class="contact-form" data-lang="it">
+    <form id="contact-form" class="contact-form" data-lang="it" data-subject="[Analisi dati] Estratto da valutare">
       <label>Nome e ruolo<input name="name" autocomplete="name" required></label>
       <label>Email aziendale<input name="email" type="email" autocomplete="email" required></label>
       <label>Tema<input name="topic" required></label>
       <label>Messaggio<textarea name="message" rows="5" required></textarea></label>
       <button class="button primary" type="submit"><i data-lucide="mail" aria-hidden="true"></i>Preparare email</button>
+      <p class="form-note">Il messaggio arriva a una persona di Artik Lab, che lo legge e risponde di persona. Nessuna risposta automatica, nessuna lista.</p>
+      <p class="form-note">Inviando, si accettano le condizioni dell&#x27;<a href="/informativa/">informativa sul trattamento dei dati</a>.</p>
     </form>
   </div>
 </section>
@@ -719,6 +740,8 @@
       <p>Consulenza strategica e soluzioni AI per aziende ad alto potenziale</p>
     </div>
     <nav aria-label="Footer navigation">
+      <a href="/avvio-operativo/">Operatività immediata</a>
+      <a href="/consulenza-manageriale-ai.html">Consulenza manageriale AI</a>
       <a href="/atlante-applicazioni-ai-imprese.html">Atlante AI</a>
       <a href="/analisi-dati-agentica.html">Analisi dati</a>
       <a href="/sviluppo-software-tecnico-ai.html">Software</a>
@@ -728,15 +751,15 @@
       <a href="/llms.txt">llms.txt</a>
     </nav>
     <div class="footer-meta">
-      <p>Artik Lab s.r.l. - startup innovativa</p>
-      <p>P.IVA IT04120810041</p>
-      <p>Italia · dtr@ar-tik.com</p>
+      <p>Artik Lab s.r.l. — Via Principe Amedeo 11, Torino — P.IVA IT04120810041</p>
+      <p><a href="mailto:dtr@ar-tik.com">dtr@ar-tik.com</a></p>
+      <p><a href="/informativa/">Informativa sul trattamento dei dati</a></p>
     </div>
   </div>
   <div class="shell footer-bottom">
     <p>© 2026 Artik Lab s.r.l. Tutti i diritti riservati.</p>
   </div>
 </footer>
-<script src="/js/main.js?v=20260906-atlante"></script>
+<script src="/js/main.js?v=20260907-lotto-it"></script>
 </body>
 </html>

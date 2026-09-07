@@ -2,6 +2,8 @@
 
 L'IA non è un software da installare: è una capacità manageriale da costruire. Artik Lab aiuta direzione e primi livelli a scegliere dove usarla, dove fermarsi, quali processi ridisegnare e quali competenze rendere stabili in azienda.
 
+Meno licenze. Più decisioni.
+
 ## Una regia per trasformare entusiasmo, licenze e prove isolate in valore governato.
 
 La consulenza manageriale AI è il servizio che precede strumenti, agenti e automazioni. Serve a dare al management una mappa: quali decisioni valgono l'investimento, quali attività richiedono supervisione umana, quali competenze mancano, quali dati sono già utilizzabili e quale primo pilota può generare un ritorno misurabile.
@@ -50,7 +52,9 @@ Solo dove esistono KPI, responsabilità e criteri di accettazione si passa a pro
 
 Il servizio non termina con un incontro ispirazionale. Produce artefatti utilizzabili da direzione, funzioni aziendali e partner tecnici.
 
-### Executive AI Brief
+La consulenza non è la porta del software. Costruire, se un giorno serve, è una scelta successiva e separata, che l’azienda prende con la mappa in mano.
+
+### Sintesi per la direzione
 
 Sintesi delle decisioni da prendere: priorità, rischi, vincoli, sponsor interni e criteri per fermare iniziative deboli.
 
@@ -72,7 +76,7 @@ Regole pratiche per dati riservati, account, output da verificare, uso di strume
 
 ### Brief del primo pilota
 
-Documento pronto per avviare il caso iniziale: KPI, processo, utenti, dati, rischi, situazione iniziale e criterio di successo.
+Documento pronto per avviare il caso iniziale: KPI, processo, utenti, dati, rischi, situazione iniziale e criterio di successo, con il criterio per dire che è finito: chi lo usa, che cosa si misura, da quando.
 
 ## Come si svolge una consulenza manageriale AI.
 
@@ -83,14 +87,13 @@ Documento pronto per avviare il caso iniziale: KPI, processo, utenti, dati, risc
 5. Scelta del primo pilota: piccolo, misurabile, legato a un costo o a una decisione ricorrente.
 6. Roadmap e trasferimento: formazione, policy, dati, responsabilità e prossime decisioni.
 
-## Segnali che indicano che il tema è manageriale, non tecnico.
+## Tre domande prima di qualsiasi proposta.
 
-- Licenze IA già acquistate ma uso reale concentrato su poche persone.
-- Dipendenti che usano strumenti AI personali senza regole chiare.
-- Direzione interessata all’IA ma incerta su ROI, rischi, priorità e responsabilità.
-- Processi pieni di documenti, email, offerte, report e conoscenza tacita non trasferita.
-- Primi esperimenti riusciti a livello individuale ma non ancora trasformati in processo aziendale.
-- Timore di perdere controllo su dati, qualità, brand o decisioni sensibili.
+1. Le licenze già comprate sono usate da poche persone, senza che nessuno sappia dire con quale risultato?
+2. Qualcuno usa già strumenti AI personali, senza una regola scritta su quali dati possono entrarci?
+3. Quale decisione arriva tardi ogni settimana perché le informazioni stanno in documenti, mail e nella testa di poche persone?
+
+Un sì basta per cominciare dalla consulenza, non dallo strumento.
 
 ## Domande frequenti
 
@@ -105,3 +108,7 @@ No. Il punto è evitare di partire dal tool. Prima si chiarisce quale processo m
 ### È adatta anche a imprese senza team IT interno?
 
 Sì. Il servizio è pensato proprio per aziende che hanno conoscenza di dominio forte ma capacità tecnica limitata. La parte tecnica arriva solo quando il perimetro manageriale è chiaro.
+
+## Contatti
+
+Scrivere a dtr@ar-tik.com con oggetto «[Consulenza] Priorità e governance». Il messaggio arriva a una persona di Artik Lab, che lo legge e risponde di persona. Nessuna risposta automatica, nessuna lista.

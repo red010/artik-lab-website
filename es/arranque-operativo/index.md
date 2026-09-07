@@ -8,7 +8,7 @@ Un curso deja nociones. Un montaje solo deja una herramienta que nadie usa. El A
 
 Los archivos se quedan en la empresa. Artik Lab no se los lleva. No se instala ningún enlace al sistema de gestión.
 
-Se trabaja en un solo proceso. Quien elige cinco no termina ninguno.
+Un trabajo de cada vez, llevado hasta el final.
 
 ## Cuándo está hecho.
 
@@ -39,6 +39,11 @@ De correo y PDF a un borrador de oferta o tarifa para que quien vende lo relea. 
 - Clasificar el correo certificado y el correo de la semana.
 - Adjuntar fichas, certificados y packing list a un envío o a un pedido ya decidido.
 - Un informe desde un export Excel para la dirección o el comercial.
+- Convertir los apuntes de una reunión o visita en acta y lista de acciones.
+- Preparar el borrador de respuesta a una reclamación o no conformidad, con el registro actualizado.
+- Llevar el calendario de vencimientos de certificados, pólizas, certificaciones y carnés a partir de los PDF.
+- Preparar fichas de producto y tarifas en otro idioma sobre la plantilla de la empresa, para que alguien las relea.
+- Comparar el pedido del cliente, la confirmación de pedido y el albarán y señalar las diferencias antes del envío.
 
 ## Qué está incluido. Qué es un segundo día.
 
@@ -110,9 +115,9 @@ No. Si hace falta tocarlo, o cambiar el proceso, es consultoría: un segundo dí
 
 No. Los archivos se quedan donde están. Artik Lab no se los lleva.
 
-### ¿Se pueden encender cinco procesos a la vez?
+### ¿Se pueden hacer cinco trabajos a la vez?
 
-No. Un proceso cada vez. Quien elige cinco no termina ninguno.
+No: de uno en uno. La jornada sirve para dejar un procedimiento en uso, y un procedimiento en uso vale más que cinco esbozos.
 
 ### ¿El informe del formulario ya es el Arranque?
 

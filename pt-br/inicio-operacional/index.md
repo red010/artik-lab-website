@@ -8,7 +8,7 @@ Um curso deixa noções. Um preparo sozinho deixa uma ferramenta que ninguém us
 
 Os arquivos ficam na empresa. A Artik Lab não os leva. Não se instala nenhum vínculo ao sistema de gestão.
 
-Trabalha-se em um só processo. Quem escolhe cinco não termina nenhum.
+Um trabalho de cada vez, levado até o fim.
 
 ## Quando está feito.
 
@@ -39,6 +39,11 @@ De correio e PDF a um rascunho de oferta ou lista de preços para quem vende rel
 - Separar o correio certificado e o correio da semana.
 - Anexar fichas, certificados e packing list a uma expedição ou a um pedido já decidido.
 - Um relatório a partir de um export Excel para o titular ou o comercial.
+- Transformar as anotações de uma reunião ou visita em ata e lista de ações.
+- Preparar o rascunho de resposta a uma reclamação ou não conformidade, com o registro atualizado.
+- Manter o calendário de vencimentos de certidões, apólices, certificações e habilitações a partir dos PDF.
+- Preparar fichas de produto e listas de preços em outro idioma no modelo da empresa, para alguém reler.
+- Comparar o pedido do cliente, a confirmação de pedido e o documento de transporte e apontar as diferenças antes do envio.
 
 ## O que está incluído. O que é um segundo dia.
 
@@ -110,9 +115,9 @@ Não. Se for preciso tocá-lo, ou mudar o processo, é consultoria: um segundo d
 
 Não. Os arquivos ficam onde estão. A Artik Lab não os leva.
 
-### Podem-se acender cinco processos juntos?
+### Dá para fazer cinco trabalhos ao mesmo tempo?
 
-Não. Um processo de cada vez. Quem escolhe cinco não termina nenhum.
+Não: um de cada vez. O dia serve para deixar um procedimento em uso, e um procedimento em uso vale mais do que cinco rascunhos.
 
 ### O relatório do formulário já é o Início?
 

@@ -32,7 +32,6 @@ Dossier LLM: https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md
 
 PDF, immagini e moduli diventano testo, tabelle e campi strutturati riutilizzabili nei sistemi aziendali.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano pdf e allegati per produrre database strutturato e sostenere riduzione tempi, con revisione umana consigliata.
 - Area: Documenti e conoscenza
 - Input: PDF e allegati, scansioni e immagini, moduli compilati
 - Output: database strutturato, report operativo
@@ -45,7 +44,6 @@ PDF, immagini e moduli diventano testo, tabelle e campi strutturati riutilizzabi
 
 Relazioni, contratti, capitolati e procedure vengono confrontati per trovare discrepanze, versioni divergenti e definizioni non allineate.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano pdf e allegati per produrre report operativo e sostenere meno errori, con revisione umana necessaria.
 - Area: Documenti e conoscenza
 - Input: PDF e allegati, documentazione interna, contratti e policy, bandi e capitolati
 - Output: report operativo, mappa rischi
@@ -58,7 +56,6 @@ Relazioni, contratti, capitolati e procedure vengono confrontati per trovare dis
 
 Manuali, procedure e knowledge base diventano un motore di ricerca semantico con risposte fondate su fonti citabili.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano documentazione interna per produrre ricerca semantica e sostenere conoscenza trasferibile, con revisione umana consigliata.
 - Area: Documenti e conoscenza
 - Input: documentazione interna, PDF e allegati, manuali e materiali formativi
 - Output: ricerca semantica, FAQ e risposte
@@ -71,7 +68,6 @@ Manuali, procedure e knowledge base diventano un motore di ricerca semantico con
 
 Trascrizioni e thread vengono puliti, sintetizzati e convertiti in decisioni, attività, scadenze e rischi tracciabili.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano email e ticket per produrre digest azionabile e sostenere tracciabilità, con revisione umana consigliata.
 - Area: Processi operativi
 - Input: email e ticket, trascrizioni e appunti, ticket e richieste
 - Output: digest azionabile, roadmap e priorità
@@ -84,7 +80,6 @@ Trascrizioni e thread vengono puliti, sintetizzati e convertiti in decisioni, at
 
 Report, lettere, contratti, FAQ e comunicazioni vengono prodotti da dati e template, con coerenza formale e revisione umana.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano database strutturato per produrre bozze controllate e sostenere riduzione tempi, con revisione umana necessaria.
 - Area: Documenti e conoscenza
 - Input: database strutturato, documentazione interna, contratti e policy
 - Output: bozze controllate, FAQ e risposte
@@ -97,7 +92,6 @@ Report, lettere, contratti, FAQ e comunicazioni vengono prodotti da dati e templ
 
 Il lavoro reale viene ricostruito as-is, letto per colli di bottiglia e trasformato in uno scenario to-be con priorità e controlli.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano trascrizioni e appunti per produrre roadmap e priorità e sostenere priorità più chiare, con revisione umana consigliata.
 - Area: Processi operativi
 - Input: trascrizioni e appunti, log e stati di processo, email e ticket, fogli di calcolo
 - Output: roadmap e priorità, business case
@@ -110,7 +104,6 @@ Il lavoro reale viene ricostruito as-is, letto per colli di bottiglia e trasform
 
 Le comunicazioni in ingresso vengono classificate per urgenza, tema, responsabilità e azione richiesta, con bozze di risposta controllate.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano email e ticket per produrre digest azionabile e sostenere riduzione tempi, con revisione umana consigliata.
 - Area: Processi operativi
 - Input: email e ticket, ticket e richieste, documentazione interna
 - Output: digest azionabile, bozze controllate, ranking di priorità
@@ -123,7 +116,6 @@ Le comunicazioni in ingresso vengono classificate per urgenza, tema, responsabil
 
 Disponibilità, vincoli, competenze, ferie e domanda vengono combinati per proporre piani fattibili e spiegabili.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano fogli di calcolo per produrre piano e assegnazioni e sostenere efficienza produttiva, con revisione umana necessaria.
 - Area: Processi operativi
 - Input: fogli di calcolo, ERP e gestionali, KPI e serie storiche
 - Output: piano e assegnazioni, dashboard e viste filtrabili
@@ -136,7 +128,6 @@ Disponibilità, vincoli, competenze, ferie e domanda vengono combinati per propo
 
 Serie storiche di ordini, incassi, ticket o produzione diventano stime operative da usare per acquisti, turni e capacità.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano transazioni e acquisti per produrre previsione verificabile e sostenere decisioni più rapide, con revisione umana consigliata.
 - Area: Processi operativi
 - Input: transazioni e acquisti, KPI e serie storiche, dati di produzione
 - Output: previsione verificabile, dashboard e viste filtrabili
@@ -149,7 +140,6 @@ Serie storiche di ordini, incassi, ticket o produzione diventano stime operative
 
 Riunioni e documenti progettuali alimentano un dossier evolutivo con requisiti, conflitti latenti, decisioni e issue.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano trascrizioni e appunti per produrre roadmap e priorità e sostenere tracciabilità, con revisione umana necessaria.
 - Area: Processi operativi
 - Input: trascrizioni e appunti, requisiti e specifiche, documentazione interna
 - Output: roadmap e priorità, mappa rischi
@@ -162,7 +152,6 @@ Riunioni e documenti progettuali alimentano un dossier evolutivo con requisiti, 
 
 Testi non strutturati vengono aggregati per temi, sentiment, bisogni ricorrenti e azioni prioritarie.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano feedback testuali per produrre report operativo e sostenere servizio più uniforme, con revisione umana consigliata.
 - Area: Cliente, marketing e vendite
 - Input: feedback testuali, ticket e richieste, fonti pubbliche
 - Output: report operativo, ranking di priorità
@@ -175,7 +164,6 @@ Testi non strutturati vengono aggregati per temi, sentiment, bisogni ricorrenti 
 
 Fonti pubbliche e materiali forniti vengono sintetizzati in mappe di pain point, linguaggi, segmenti, partner e opportunità.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano fonti pubbliche per produrre report operativo e sostenere valore commerciale recuperato, con revisione umana consigliata.
 - Area: Cliente, marketing e vendite
 - Input: fonti pubbliche, feedback testuali, documentazione interna
 - Output: report operativo, business case
@@ -188,7 +176,6 @@ Fonti pubbliche e materiali forniti vengono sintetizzati in mappe di pain point,
 
 Interviste, esempi approvati e materiali commerciali diventano linee guida operative e bozze multicanale coerenti.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano documentazione interna per produrre policy e guardrail e sostenere riduzione tempi, con revisione umana necessaria.
 - Area: Cliente, marketing e vendite
 - Input: documentazione interna, feedback testuali, fonti pubbliche
 - Output: policy e guardrail, bozze controllate
@@ -201,7 +188,6 @@ Interviste, esempi approvati e materiali commerciali diventano linee guida opera
 
 Storici di acquisto, cataloghi e informazioni competitive aiutano a costruire pitch, bundle, priorità commerciali e scenari prezzo.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano transazioni e acquisti per produrre raccomandazioni operative e sostenere valore commerciale recuperato, con revisione umana necessaria.
 - Area: Cliente, marketing e vendite
 - Input: transazioni e acquisti, documentazione interna, fonti pubbliche
 - Output: raccomandazioni operative, business case
@@ -214,7 +200,6 @@ Storici di acquisto, cataloghi e informazioni competitive aiutano a costruire pi
 
 Competenze, ruoli, obiettivi futuri e trend vengono collegati per definire priorità di sviluppo, upskilling e reskilling.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano dati hr aggregati per produrre roadmap e priorità e sostenere conoscenza trasferibile, con revisione umana necessaria.
 - Area: Persone e HR
 - Input: dati HR aggregati, documentazione interna, fonti pubbliche
 - Output: roadmap e priorità, report operativo
@@ -227,7 +212,6 @@ Competenze, ruoli, obiettivi futuri e trend vengono collegati per definire prior
 
 Job description, candidature e materiali di ingresso vengono strutturati per preparare valutazioni, comunicazioni e percorsi iniziali.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano cv e candidature per produrre report operativo e sostenere riduzione tempi, con revisione umana necessaria.
 - Area: Persone e HR
 - Input: CV e candidature, dati HR aggregati, manuali e materiali formativi
 - Output: report operativo, bozze controllate
@@ -240,7 +224,6 @@ Job description, candidature e materiali di ingresso vengono strutturati per pre
 
 Policy, benefit, procedure e richieste ricorrenti diventano FAQ, bozze e percorsi guidati, sempre con controllo della funzione competente.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano dati hr aggregati per produrre faq e risposte e sostenere servizio più uniforme, con revisione umana necessaria.
 - Area: Persone e HR
 - Input: dati HR aggregati, documentazione interna, contratti e policy
 - Output: FAQ e risposte, bozze controllate
@@ -253,7 +236,6 @@ Policy, benefit, procedure e richieste ricorrenti diventano FAQ, bozze e percors
 
 Un bisogno tecnico viene trasformato in requisiti, user story, vincoli non funzionali, stime e confini del primo rilascio.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano requisiti e specifiche per produrre roadmap e priorità e sostenere meno errori, con revisione umana necessaria.
 - Area: Area tecnica e software
 - Input: requisiti e specifiche, trascrizioni e appunti, documentazione interna
 - Output: roadmap e priorità, test e checklist
@@ -266,7 +248,6 @@ Un bisogno tecnico viene trasformato in requisiti, user story, vincoli non funzi
 
 Codice esistente e specifiche guidano generazione controllata di codice, test unitari, refactoring e audit di qualità.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano codice e repository per produrre test e checklist e sostenere riduzione tempi, con revisione umana necessaria.
 - Area: Area tecnica e software
 - Input: codice e repository, requisiti e specifiche
 - Output: test e checklist, report operativo
@@ -279,7 +260,6 @@ Codice esistente e specifiche guidano generazione controllata di codice, test un
 
 Bandi, capitolati, relazioni e schede tecniche vengono analizzati per requisiti critici, rischi e bozze documentali.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano bandi e capitolati per produrre report operativo e sostenere riduzione del rischio, con revisione umana necessaria.
 - Area: Area tecnica e software
 - Input: bandi e capitolati, documentazione interna, disegni tecnici
 - Output: report operativo, bozze controllate, mappa rischi
@@ -292,7 +272,6 @@ Bandi, capitolati, relazioni e schede tecniche vengono analizzati per requisiti 
 
 Foto, disegni e render vengono trasformati in schede descrittive, analisi di componenti, quote e narrazioni tecniche verificabili.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano fotografie operative per produrre report operativo e sostenere conoscenza trasferibile, con revisione umana necessaria.
 - Area: Area tecnica e software
 - Input: fotografie operative, disegni tecnici, documentazione interna
 - Output: report operativo, bozze controllate
@@ -305,7 +284,6 @@ Foto, disegni e render vengono trasformati in schede descrittive, analisi di com
 
 Attività, dati e decisioni vengono classificati in zone di autonomia, supervisione o esclusione, con regole operative chiare.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano documentazione interna per produrre policy e guardrail e sostenere riduzione del rischio, con revisione umana necessaria.
 - Area: Governance, compliance e rischio
 - Input: documentazione interna, policy e linee guida, trascrizioni e appunti
 - Output: policy e guardrail, mappa rischi, roadmap e priorità
@@ -318,7 +296,6 @@ Attività, dati e decisioni vengono classificati in zone di autonomia, supervisi
 
 Contratti, informative, registri, procedure e lettere vengono predisposti come supporto preparatorio da verificare con specialisti.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano contratti e policy per produrre bozze controllate e sostenere riduzione tempi, con revisione umana necessaria.
 - Area: Governance, compliance e rischio
 - Input: contratti e policy, documentazione interna, moduli compilati
 - Output: bozze controllate, mappa rischi
@@ -331,7 +308,6 @@ Contratti, informative, registri, procedure e lettere vengono predisposti come s
 
 Chatbot e assistenti vengono stressati con scenari di manipolazione, fuga dati e istruzioni conflittuali, poi rinforzati con guardrail.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano documentazione interna per produrre test e checklist e sostenere riduzione del rischio, con revisione umana necessaria.
 - Area: Governance, compliance e rischio
 - Input: documentazione interna, requisiti e specifiche, policy e linee guida
 - Output: test e checklist, policy e guardrail, report operativo
@@ -344,7 +320,6 @@ Chatbot e assistenti vengono stressati con scenari di manipolazione, fuga dati e
 
 Fotografie di sopralluogo o reparto vengono lette per individuare non conformità, rischi e misure preventive da verificare.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano fotografie operative per produrre report operativo e sostenere riduzione del rischio, con revisione umana necessaria.
 - Area: Produzione, qualità e manutenzione
 - Input: fotografie operative, documentazione interna
 - Output: report operativo, mappa rischi
@@ -357,7 +332,6 @@ Fotografie di sopralluogo o reparto vengono lette per individuare non conformit�
 
 Programmi cliente, ERP, cicli, non conformità e costi storici supportano priorità, preventivi e azioni correttive.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano erp e gestionali per produrre piano e assegnazioni e sostenere efficienza produttiva, con revisione umana necessaria.
 - Area: Produzione, qualità e manutenzione
 - Input: ERP e gestionali, dati di produzione, fogli di calcolo
 - Output: piano e assegnazioni, report operativo, raccomandazioni operative
@@ -370,7 +344,6 @@ Programmi cliente, ERP, cicli, non conformità e costi storici supportano priori
 
 Storico guasti, sensori e interventi diventano priorità di controllo, finestre di manutenzione e alert operativi.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano sensori e telemetria per produrre allarmi e soglie e sostenere efficienza produttiva, con revisione umana necessaria.
 - Area: Produzione, qualità e manutenzione
 - Input: sensori e telemetria, dati di produzione, log e stati di processo
 - Output: allarmi e soglie, ranking di priorità, dashboard e viste filtrabili
@@ -383,7 +356,6 @@ Storico guasti, sensori e interventi diventano priorità di controllo, finestre 
 
 Manuali, slide e documenti disaggregati diventano syllabus, quiz, casi studio e materiali didattici per ruolo.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano manuali e materiali formativi per produrre faq e risposte e sostenere formazione più rapida, con revisione umana consigliata.
 - Area: Formazione e memoria interna
 - Input: manuali e materiali formativi, documentazione interna, trascrizioni e appunti
 - Output: FAQ e risposte, bozze controllate
@@ -396,7 +368,6 @@ Manuali, slide e documenti disaggregati diventano syllabus, quiz, casi studio e 
 
 La documentazione interna alimenta assistenti Q&A, anche vocali, che rispondono con fonti e confini d'uso chiari.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano documentazione interna per produrre ricerca semantica e sostenere conoscenza trasferibile, con revisione umana necessaria.
 - Area: Formazione e memoria interna
 - Input: documentazione interna, manuali e materiali formativi, policy e linee guida
 - Output: ricerca semantica, FAQ e risposte, policy e guardrail
@@ -409,7 +380,6 @@ La documentazione interna alimenta assistenti Q&A, anche vocali, che rispondono 
 
 Dati, KPI e materiali eterogenei vengono trasformati in report narrativi, infografiche, presentazioni e contenuti visuali coerenti.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano kpi e serie storiche per produrre report operativo e sostenere decisioni più rapide, con revisione umana consigliata.
 - Area: Strumenti trasversali
 - Input: KPI e serie storiche, fogli di calcolo, documentazione interna
 - Output: report operativo, dashboard e viste filtrabili, bozze controllate
@@ -422,7 +392,6 @@ Dati, KPI e materiali eterogenei vengono trasformati in report narrativi, infogr
 
 Serie temporali e sensori industriali vengono usati per allarmi, analisi degrado e manutenzione predittiva con soglie verificabili.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano sensori e telemetria per produrre allarmi e soglie e sostenere efficienza produttiva, con revisione umana necessaria.
 - Area: Data science e decisioni
 - Input: sensori e telemetria, dati di produzione, KPI e serie storiche
 - Output: allarmi e soglie, previsione verificabile, dashboard e viste filtrabili
@@ -435,7 +404,6 @@ Serie temporali e sensori industriali vengono usati per allarmi, analisi degrado
 
 Storici transazionali e comportamentali diventano segmenti, ranking di rischio, bundle e azioni commerciali differenziate.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano transazioni e acquisti per produrre ranking di priorità e sostenere valore commerciale recuperato, con revisione umana necessaria.
 - Area: Data science e decisioni
 - Input: transazioni e acquisti, feedback testuali, KPI e serie storiche
 - Output: ranking di priorità, raccomandazioni operative, business case
@@ -448,7 +416,6 @@ Storici transazionali e comportamentali diventano segmenti, ranking di rischio, 
 
 Telemetria, consumi, qualità e parametri macchina mostrano profili efficienti, sprechi e raccomandazioni operative.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano sensori e telemetria per produrre dashboard e viste filtrabili e sostenere efficienza produttiva, con revisione umana necessaria.
 - Area: Data science e decisioni
 - Input: sensori e telemetria, dati di produzione, KPI e serie storiche
 - Output: dashboard e viste filtrabili, raccomandazioni operative, business case
@@ -461,7 +428,6 @@ Telemetria, consumi, qualità e parametri macchina mostrano profili efficienti, 
 
 Dati aggregati fiscali, territoriali o commerciali vengono trasformati in mappe, cluster, driver di marginalità e roadmap decisionali.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano transazioni e acquisti per produrre dashboard e viste filtrabili e sostenere decisioni più rapide, con revisione umana consigliata.
 - Area: Data science e decisioni
 - Input: transazioni e acquisti, fonti pubbliche, KPI e serie storiche
 - Output: dashboard e viste filtrabili, report operativo, business case
@@ -474,7 +440,6 @@ Dati aggregati fiscali, territoriali o commerciali vengono trasformati in mappe,
 
 Il primo valore può essere un verdetto negativo: il dato disponibile non contiene ancora il segnale utile e va migliorata la raccolta.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano kpi e serie storiche per produrre report operativo e sostenere costi evitati, con revisione umana consigliata.
 - Area: Data science e decisioni
 - Input: KPI e serie storiche, transazioni e acquisti, log e stati di processo
 - Output: report operativo, business case, roadmap e priorità
@@ -487,7 +452,6 @@ Il primo valore può essere un verdetto negativo: il dato disponibile non contie
 
 Casi, materiali e vincoli vengono esplorati per generare ipotesi, scenari, concept, simulazioni di ruolo e opportunità da verificare.
 
-- Esempio operativo: Quando il processo mostra un bisogno simile, si usano documentazione interna per produrre report operativo e sostenere valore commerciale recuperato, con revisione umana consigliata.
 - Area: Strumenti trasversali
 - Input: documentazione interna, feedback testuali, fonti pubbliche
 - Output: report operativo, raccomandazioni operative, bozze controllate

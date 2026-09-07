@@ -45,4 +45,4 @@ Sitemap: https://ar-tik.com/sitemap-llm.xml
 
 # LLM-readable indexes (comments, not directives: `LLMS:` is not part of RFC 9309)
 #   https://ar-tik.com/llms.txt
-#   https://ar-tik.com/llms-full.txt
+#   https://ar-tik.com/llms-full.txt (italiano; per lingua: /en/, /es/, /fr/, /pt-br/ + llms-full.txt)

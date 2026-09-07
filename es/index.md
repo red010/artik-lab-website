@@ -6,6 +6,14 @@ Artik Lab ayuda a empresas y áreas de negocio a elegir, gobernar y realizar el 
 
 No se compra una licencia esperando que funcione. Se elige un proceso, se mide el coste, se define el KPI y se decide si formar, rediseñar o construir.
 
+- 95% de las organizaciones no obtienen retorno de los proyectos GenAI empresariales.
+- 70% del valor, según la regla 10-20-70, depende de personas y procesos.
+- 25 cursos y laboratorios llevan competencias AI a procesos empresariales específicos.
+
+Donde falta gobierno directivo, crece el riesgo de proyectos sin retorno: primero las decisiones y los procesos, después las herramientas.
+
+Fuentes: MIT Project NANDA, *The GenAI Divide*, 2025; BCG, regla 10-20-70 (AI Radar y publicaciones vinculadas), 2025.
+
 ## Del coste oculto al activo operativo.
 
 La pregunta no es qué herramienta probar. Es qué proceso debe volverse más rápido, medible y gobernable.

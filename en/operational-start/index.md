@@ -8,7 +8,7 @@ A course leaves notions. A setup alone leaves a tool nobody uses. Operational st
 
 Files stay in the company. Artik Lab does not take them away. No connection to the ERP is installed.
 
-Work is on one process. Whoever picks five finishes none.
+One job at a time, taken all the way through.
 
 ## When it is done.
 
@@ -39,6 +39,11 @@ From mail and PDFs to a draft quote or price list for whoever sells to reread. O
 - Sort certified and ordinary mail for the week.
 - Attach sheets, certificates and packing lists to a shipment or an order already decided.
 - A report from an Excel export for the owner or the sales lead.
+- Turn the notes of a meeting or site visit into minutes and an action list.
+- Draft the reply to a complaint or non-conformity, with the register updated.
+- Keep the expiry schedule of compliance certificates, insurance policies, certifications and licences, starting from the PDFs.
+- Prepare product sheets and price lists in another language on the company template, for someone to reread.
+- Compare the customer order, the order confirmation and the delivery note and flag the differences before shipping.
 
 ## What is included. What is a second day.
 
@@ -110,9 +115,9 @@ No. If it must be touched, or the process must change, that is consulting: a sec
 
 No. Files stay where they are. Artik Lab does not take them away.
 
-### Can five processes be switched on together?
+### Can five jobs be done at once?
 
-No. One process at a time. Whoever picks five finishes none.
+No — one at a time. The day is there to leave a procedure in use, and one procedure in use is worth more than five unfinished drafts.
 
 ### Is the form report already Operational start?
 
