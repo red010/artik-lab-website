@@ -29,6 +29,121 @@ El dossier reutiliza preguntas y respuestas visibles en la página HTML y añade
 ## Repertorio FAQ
 
 
+## Las preguntas que bloquean la decisión
+
+### ¿Cuánto cuesta?
+
+La propuesta llega después del dictamen o después de la primera conversación.
+
+En estas páginas no hay una tarifa.
+
+- ID: objection-cost
+- Área: Las preguntas que bloquean la decisión
+- Audience: dirección y propietarios
+- Search intent: elección del recorrido
+- Need signals: interés por la IA sin proyecto definido
+- Related services: Consultoría directiva de IA, Análisis de datos agéntico
+- Related courses: ninguno
+- Risk or limit: Las respuestas valen para los servicios tal como se describen en estas páginas; el caso concreto se aclara en el dictamen o en la primera conversación.
+- Next step: Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.
+
+### ¿Dónde están los datos durante el trabajo?
+
+En Operatividad inmediata los archivos permanecen en las carpetas de la empresa y el asistente está a nombre de la empresa.
+
+En el análisis de datos se trabaja sobre un extracto acordado, con un perímetro escrito.
+
+- ID: objection-data
+- Área: Las preguntas que bloquean la decisión
+- Audience: dirección y propietarios
+- Search intent: gestión del riesgo
+- Need signals: datos personales o reservados implicados
+- Related services: Análisis de datos agéntico
+- Related courses: ninguno
+- Risk or limit: Las respuestas valen para los servicios tal como se describen en estas páginas; el caso concreto se aclara en el dictamen o en la primera conversación.
+- Next step: Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.
+
+### ¿La consultoría sirve para vender después un software?
+
+La consultoría no es la puerta del software.
+
+Construir, si hace falta, es una decisión posterior. Operatividad inmediata no conecta el software de gestión.
+
+- ID: objection-software
+- Área: Las preguntas que bloquean la decisión
+- Audience: dirección y propietarios
+- Search intent: elección del recorrido
+- Need signals: herramientas elegidas antes del proceso
+- Related services: Consultoría directiva de IA
+- Related courses: ninguno
+- Risk or limit: Las respuestas valen para los servicios tal como se describen en estas páginas; el caso concreto se aclara en el dictamen o en la primera conversación.
+- Next step: Abrir un recorrido de consultoría para aclarar prioridades, gobernanza y roadmap.
+
+### Ya he hecho un curso de IA. ¿Hace falta algo más?
+
+Un curso deja modelos y criterios.
+
+Aquí, en un día, queda un procedimiento en uso sobre los archivos de la empresa — o un análisis que dice si los datos bastan.
+
+- ID: objection-course-done
+- Área: Las preguntas que bloquean la decisión
+- Audience: dirección y propietarios
+- Search intent: orientación inicial
+- Need signals: competencias de IA no alineadas entre roles
+- Related services: Análisis de datos agéntico
+- Related courses: AI Workflow Redesign Lab
+- Risk or limit: Las respuestas valen para los servicios tal como se describen en estas páginas; el caso concreto se aclara en el dictamen o en la primera conversación.
+- Next step: Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.
+
+### ¿Cuándo se ve algo concreto?
+
+Operatividad inmediata: un día en la sede.
+
+Análisis: después del extracto acordado. Primera conversación: 30–45 minutos.
+
+- ID: objection-timing
+- Área: Las preguntas que bloquean la decisión
+- Audience: dirección y propietarios
+- Search intent: orientación inicial
+- Need signals: decisiones recurrentes lentas
+- Related services: Análisis de datos agéntico
+- Related courses: ninguno
+- Risk or limit: Las respuestas valen para los servicios tal como se describen en estas páginas; el caso concreto se aclara en el dictamen o en la primera conversación.
+- Next step: Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.
+
+### ¿Se puede usar un incentivo o un fondo para este trabajo?
+
+Se puede pedir una comprobación de admisibilidad.
+
+El trabajo tiene que sostenerse igual sin incentivo: no se prometen convocatorias ni importes.
+
+- ID: objection-incentives
+- Área: Las preguntas que bloquean la decisión
+- Audience: dirección y propietarios
+- Search intent: elección del recorrido
+- Need signals: interés por la IA sin proyecto definido
+- Related services: Consultoría directiva de IA
+- Related courses: ninguno
+- Risk or limit: Las respuestas valen para los servicios tal como se describen en estas páginas; el caso concreto se aclara en el dictamen o en la primera conversación.
+- Next step: Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.
+
+### ¿Cuántas actividades se pueden hacer, una detrás de otra?
+
+Se decide con la empresa, según las necesidades.
+
+Un trabajo cada vez, llevado hasta el final.
+
+- ID: objection-capacity
+- Área: Las preguntas que bloquean la decisión
+- Audience: dirección y propietarios
+- Search intent: orientación inicial
+- Need signals: trabajo manual repetitivo
+- Related services: Consultoría directiva de IA
+- Related courses: ninguno
+- Risk or limit: Las respuestas valen para los servicios tal como se describen en estas páginas; el caso concreto se aclara en el dictamen o en la primera conversación.
+- Next step: Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.
+
+
 ## Por dónde empezar
 
 ### ¿Por dónde empezar si la empresa aún no tiene un proyecto de IA?

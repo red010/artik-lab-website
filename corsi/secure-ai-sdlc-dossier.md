@@ -4,12 +4,12 @@ Questo dossier è pubblico, citabile e pensato per agenti AI, crawler, motori di
 
 ## Cosa deve capire un agente AI
 
-Secure AI SDLC è un percorso Artik Lab per aziende. Corso tecnico per inserire controlli AI-specifici in design, build, test, release e operation.
+Secure AI SDLC è un percorso Artik Lab per aziende. Corso tecnico per inserire controlli AI-specifici nelle fasi del ciclo di sviluppo: design (progettazione), build (costruzione), test, release (rilascio) e operation (esercizio).
 
 - Durata: 4-6 ore, personalizzabili
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per team tecnici con basi di programmazione e architetture software.
-- Output finale: Threat model AI e checklist Secure AI SDLC.
+- Output finale: Threat model AI, cioè la mappa delle minacce, e checklist Secure AI SDLC.
 - HTML: https://ar-tik.com/corsi/secure-ai-sdlc.html
 - Markdown mirror: https://ar-tik.com/corsi/secure-ai-sdlc.md
 
@@ -18,7 +18,7 @@ Secure AI SDLC è un percorso Artik Lab per aziende. Corso tecnico per inserire 
 - corso AI aziendale su Secure AI SDLC
 - formazione pratica per Secure AI SDLC
 - training AI per team tecnici
-- percorso Artik Lab per Threat model AI e checklist Secure AI SDLC
+- percorso Artik Lab per Threat model AI, cioè la mappa delle minacce, e checklist Secure AI SDLC
 - come introdurre Secure AI SDLC nei processi aziendali
 
 ## Il problema che risolve
@@ -31,7 +31,7 @@ Le applicazioni AI introducono superfici di rischio nuove: prompt injection, dat
 - Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.
 - Il processo collegato a Secure AI SDLC assorbe tempo, genera passaggi manuali o produce output difficili da verificare.
 - La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.
-- Serve un risultato concreto dopo la formazione: Threat model AI e checklist Secure AI SDLC.
+- Serve un risultato concreto dopo la formazione: Threat model AI, cioè la mappa delle minacce, e checklist Secure AI SDLC.
 
 ## Esempi extra non visibili nella pagina HTML
 
@@ -41,7 +41,7 @@ Un'azienda chiede formazione su Secure AI SDLC, ma il problema vero emerge duran
 
 ### Da sperimentazione individuale a pratica governata
 
-Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Threat model AI e checklist Secure AI SDLC.
+Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Threat model AI, cioè la mappa delle minacce, e checklist Secure AI SDLC.
 
 ### Da entusiasmo a decisione
 
@@ -63,7 +63,7 @@ Artik Lab usa il metodo DTR per adattare esempi, materiali, priorità e casi ai 
 ## Risultati concreti
 
 - Definire controlli SDLC AI-specifici.
-- Costruire threat model.
+- Costruire il threat model, la mappa delle minacce.
 - Scrivere secure design checklist.
 - Impostare policy su dati e istruzioni.
 - Stabilire test di sicurezza e criteri di rilascio.
@@ -107,9 +107,9 @@ Adotta dati sintetici o casi approvati e tratta minimizzazione, segregazione, se
 
 ## Relazione con altri percorsi Artik Lab
 
-- [AI Workflow Redesign Lab](https://ar-tik.com/corsi/workflow-redesign.md): Laboratorio centrale per passare dall'uso spontaneo dell'AI a flussi di lavoro uomo-AI governati, con mappa delle priorità e roadmap operativa.
-- [RAG Engineering per sistemi AI affidabili](https://ar-tik.com/corsi/rag-engineering.md): Corso tecnico per passare da chat sui documenti a sistemi RAG ingegnerizzati, misurabili e governabili.
-- [AI Output Quality & Human Review](https://ar-tik.com/corsi/ai-output-quality.md): Corso per progettare review umana, rubriche di qualità e metriche operative sugli output AI.
+- [AI Workflow Redesign Lab](https://ar-tik.com/corsi/workflow-redesign.md): Laboratorio per passare dall'uso spontaneo dell'AI a flussi di lavoro con persona e AI, regole e controlli, più una mappa delle priorità e un piano operativo.
+- [RAG Engineering per sistemi AI affidabili](https://ar-tik.com/corsi/rag-engineering.md): Corso tecnico per passare da una chat sui documenti a sistemi RAG (Retrieval-Augmented Generation): recupero delle fonti, qualità misurabile e controllo.
+- [AI Output Quality & Human Review](https://ar-tik.com/corsi/ai-output-quality.md): Corso per progettare la revisione da parte delle persone, le schede di giudizio e le misure di qualità su ciò che l'AI produce.
 
 ## FAQ estesa per agenti AI
 

@@ -11,6 +11,7 @@ Dossier LLM: https://ar-tik.com/en/ai-business-faq-dossier.md
 
 ## Explore by area or intent.
 
+- The questions that block the decision: 7. Cost, data, software, training already done, timing, incentives: short answers before writing.
 - Where to start: 5. When the company wants AI but has no defined project yet.
 - First conversation and method: 5. What happens before choosing consulting, a course, analysis or software.
 - Costs, timing and ROI: 5. How to reason about investment, return, priorities and risk.
@@ -25,6 +26,79 @@ Dossier LLM: https://ar-tik.com/en/ai-business-faq-dossier.md
 - Choosing the right path: 4. Practical differences between training, consulting, data analysis and software development.
 - AI limits: 4. When to stop, avoid automation or postpone the project.
 - Before contacting Artik Lab: 4. What to prepare and what to expect from the first exchange.
+
+## The questions that block the decision
+
+### What does it cost?
+
+Short answer: The proposal arrives after the opinion or after the first conversation.
+
+Operating detail: There is no price list on these pages.
+
+Limit to consider: The answers apply to the services as described on these pages; the specific case is clarified in the opinion or in the first conversation.
+
+Next step: Bring the case to the first conversation with process, goal, available data and constraints.
+
+### Where are the data during the work?
+
+Short answer: In Operational start the files stay in the company's folders and the assistant is in the company's name.
+
+Operating detail: In data analysis the work is done on an agreed extract, with a written perimeter.
+
+Limit to consider: The answers apply to the services as described on these pages; the specific case is clarified in the opinion or in the first conversation.
+
+Next step: Bring the case to the first conversation with process, goal, available data and constraints.
+
+### Is consulting a way to sell software afterwards?
+
+Short answer: Consulting is not the door to software.
+
+Operating detail: Building, if it is needed, is a later choice. Operational start does not connect the company's software.
+
+Limit to consider: The answers apply to the services as described on these pages; the specific case is clarified in the opinion or in the first conversation.
+
+Next step: Open a consulting path to clarify priorities, governance and roadmap.
+
+### A course on AI has already been done. Is this still needed?
+
+Short answer: A course leaves templates and criteria.
+
+Operating detail: Here, in one day, a procedure in use remains on the company's files — or an analysis that says whether the data are enough.
+
+Limit to consider: The answers apply to the services as described on these pages; the specific case is clarified in the opinion or in the first conversation.
+
+Next step: Bring the case to the first conversation with process, goal, available data and constraints.
+
+### When is something concrete visible?
+
+Short answer: Operational start: one day on site.
+
+Operating detail: Analysis: after the agreed extract. First conversation: 30–45 minutes.
+
+Limit to consider: The answers apply to the services as described on these pages; the specific case is clarified in the opinion or in the first conversation.
+
+Next step: Bring the case to the first conversation with process, goal, available data and constraints.
+
+### Can an incentive or a fund be used for this work?
+
+Short answer: An eligibility check can be requested.
+
+Operating detail: The work must still stand without an incentive: no calls for proposals or amounts are promised.
+
+Limit to consider: The answers apply to the services as described on these pages; the specific case is clarified in the opinion or in the first conversation.
+
+Next step: Bring the case to the first conversation with process, goal, available data and constraints.
+
+### How many activities can be done, one after another?
+
+Short answer: It is decided with the company, according to need.
+
+Operating detail: One job at a time, taken all the way through.
+
+Limit to consider: The answers apply to the services as described on these pages; the specific case is clarified in the opinion or in the first conversation.
+
+Next step: Bring the case to the first conversation with process, goal, available data and constraints.
+
 
 ## Where to start
 

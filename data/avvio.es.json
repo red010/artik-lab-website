@@ -1,13 +1,13 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/avvio-catalog.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "locale": "es",
   "language": "es",
   "catalog": {
     "title": "Arranque operativo",
-    "description": "Un día en sede. Queda el procedimiento escrito en el asistente a nombre de la empresa. Los datos se quedan en la empresa. El sistema de gestión no se toca.",
+    "description": "Un día en la sede. Queda un procedimiento escrito, para usarlo de inmediato, sobre los archivos de la empresa. Se excluyen las integraciones a medida con el software ya en uso.",
     "urls": {
       "html": "https://ar-tik.com/es/arranque-operativo/",
       "markdown": "https://ar-tik.com/es/arranque-operativo/index.md",
@@ -22,7 +22,7 @@
       "family": "documents",
       "title": "Ofertas y tarifas desde el correo y los archivos",
       "subtitle": "Llega una solicitud por correo, a veces con PDF. Queda un borrador sobre el modelo de la empresa, para que quien vende lo relea.",
-      "summary": "De correo y PDF a un borrador de oferta o tarifa para que quien vende lo relea. Un día en sede. El sistema de gestión no se toca.",
+      "summary": "De correo y PDF a un borrador de oferta o tarifa para que quien vende lo relea. Un día en sede. Quedan excluidas las integraciones a medida con el software ya en uso.",
       "duration": "Un día en sede",
       "problem": "Hace falta un presupuesto o una tarifa actualizada, con fichas adjuntas, sin que quien vende vuelva a copiar desde tres carpetas. El oficio — negociar, cerrar, introducir el pedido — sigue siendo de la persona. Lo que se aligera es el trabajo alrededor: reunir desde correo y archivos, componer, señalar huecos.",
       "notFor": [
@@ -107,6 +107,74 @@
     {
       "id": "k",
       "label": "Comparar el pedido del cliente, la confirmación de pedido y el albarán y señalar las diferencias antes del envío."
+    }
+  ],
+  "cases": [
+    {
+      "id": "offerte-da-posta",
+      "title": "Ofertas y tarifas a partir del correo y de los archivos",
+      "checkId": "a",
+      "url": "https://ar-tik.com/es/arranque-operativo/ofertas-desde-correo.html"
+    },
+    {
+      "id": "plico-documenti",
+      "title": "El lote de documentos que piden cada vez",
+      "checkId": "b",
+      "url": "https://ar-tik.com/es/arranque-operativo/#caso-plico-documenti"
+    },
+    {
+      "id": "confronto-fornitori",
+      "title": "Comparar tres ofertas de proveedores",
+      "checkId": "c",
+      "url": "https://ar-tik.com/es/arranque-operativo/#caso-confronto-fornitori"
+    },
+    {
+      "id": "posta-e-pec",
+      "title": "Correo y PEC de la semana",
+      "checkId": "d",
+      "url": "https://ar-tik.com/es/arranque-operativo/#caso-posta-e-pec"
+    },
+    {
+      "id": "schede-e-certificati",
+      "title": "Fichas, certificados y packing list que hay que adjuntar",
+      "checkId": "e",
+      "url": "https://ar-tik.com/es/arranque-operativo/#caso-schede-e-certificati"
+    },
+    {
+      "id": "report-da-export",
+      "title": "Un informe a partir del archivo Excel ya exportado del software de la empresa",
+      "checkId": "f",
+      "url": "https://ar-tik.com/es/arranque-operativo/#caso-report-da-export"
+    },
+    {
+      "id": "verbale-riunione",
+      "title": "Acta y lista de acciones a partir de apuntes de reunión",
+      "checkId": "g",
+      "url": "https://ar-tik.com/es/arranque-operativo/#caso-verbale-riunione"
+    },
+    {
+      "id": "reclami",
+      "title": "Respuesta a reclamaciones y no conformidades",
+      "checkId": "h",
+      "url": "https://ar-tik.com/es/arranque-operativo/#caso-reclami"
+    },
+    {
+      "id": "scadenzario",
+      "title": "Calendario de vencimientos de documentos y certificados",
+      "checkId": "i",
+      "url": "https://ar-tik.com/es/arranque-operativo/#caso-scadenzario"
+    },
+    {
+      "id": "schede-in-lingua",
+      "title": "Fichas y tarifas en otro idioma para el extranjero",
+      "checkId": "j",
+      "url": "https://ar-tik.com/es/arranque-operativo/#caso-schede-in-lingua"
+    },
+    {
+      "id": "coerenza-ordine-ddt",
+      "title": "Control de coherencia entre pedido, confirmación y albarán",
+      "checkId": "k",
+      "url": "https://ar-tik.com/es/arranque-operativo/#caso-coerenza-ordine-ddt"
     }
   ]
 }

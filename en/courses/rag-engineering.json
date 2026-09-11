@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "course": {
@@ -11,8 +11,8 @@
     "familyLabel": "Technical",
     "featured": false,
     "title": "RAG Engineering for reliable AI systems",
-    "subtitle": "Practical corporate course for applying AI to RAG engineering, with exercises on realistic work, reusable materials and clear governance criteria.",
-    "summary": "Practical corporate course for applying AI to RAG engineering, with exercises on realistic work, reusable materials and clear governance criteria.",
+    "subtitle": "Design RAG (Retrieval-Augmented Generation) systems: they retrieve company documents and generate the answer citing them.",
+    "summary": "Design RAG (Retrieval-Augmented Generation) systems: they retrieve company documents and generate the answer citing them.",
     "duration": "5 hours, two 2.5-hour sessions",
     "mode": "In-person or online lab, with guided exercises and materials adapted to the client.",
     "profile": "technical",

@@ -87,4 +87,10 @@ Matériaux réutilisables, exemples, checklists et prochaines étapes claires.
 
 Non. Le cours repose sur exercices pratiques et décisions proches du travail réel.
 
+## Cours associés
+
+- [Gouvernance IA opérationnelle](https://ar-tik.com/fr/cours/ai-governance.md): Cours d'entreprise pratique pour appliquer l'IA à gouvernance IA opérationnelle, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI Business Case & ROI Sprint](https://ar-tik.com/fr/cours/ai-business-case-roi.md): Cours d'entreprise pratique pour appliquer l'IA à business case et ROI de l'IA, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI Adoption Manager / AI Champions](https://ar-tik.com/fr/cours/ai-adoption-manager.md): Cours d'entreprise pratique pour appliquer l'IA à champions d'adoption IA, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+
 [Retour au catalogue des cours](https://ar-tik.com/fr/cours/index.md)

@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "course": {
@@ -19,8 +19,8 @@
     "profileDescription": "Per team aziendali, funzioni operative e manager; non richiede programmazione.",
     "problem": "Dopo un primo corso, molte aziende vedono nascere entusiasmo in alcuni team e resistenze in altri. Senza figure interne riconosciute, le buone pratiche non circolano e i rischi non emergono in tempo. Il percorso prepara champion capaci di facilitare adozione e disciplina.",
     "audience": "Figure selezionate da HR, innovation, transformation, IT, business unit, operations, marketing, sales, customer service e funzioni operative.",
-    "whenToChoose": "Quando l'azienda vuole scalare l'adozione AI oltre la formazione iniziale, creando una rete interna di facilitatori competenti e riconoscibili.",
-    "chooseIf": "Quando l'azienda vuole scalare l'adozione AI oltre la formazione iniziale, creando una rete interna di facilitatori competenti e riconoscibili.",
+    "whenToChoose": "Quando l'azienda vuole allargare l'uso dell'AI oltre la formazione iniziale, creando una rete interna di facilitatori competenti e riconoscibili.",
+    "chooseIf": "Quando l'azienda vuole allargare l'uso dell'AI oltre la formazione iniziale, creando una rete interna di facilitatori competenti e riconoscibili.",
     "outcomes": [
       "Definire ruolo e perimetro degli AI Champion.",
       "Facilitare casi d'uso nei team.",
@@ -79,12 +79,12 @@
         "answer": "Sì, playbook, template e schema di reporting."
       }
     ],
-    "output": "Playbook e modello operativo per rete interna di AI Champion.",
+    "output": "Manuale operativo e modello per una rete interna di referenti AI.",
     "searchIntents": [
       "corso AI aziendale su AI Adoption Manager / AI Champions",
       "formazione pratica per AI Adoption Manager / AI Champions",
       "training AI per manager e funzioni aziendali",
-      "percorso Artik Lab per Playbook e modello operativo per rete interna di AI Champion",
+      "percorso Artik Lab per Manuale operativo e modello per una rete interna di referenti AI",
       "come introdurre AI Adoption Manager / AI Champions nei processi aziendali"
     ],
     "needSignals": [
@@ -92,7 +92,7 @@
       "Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.",
       "Il processo collegato a AI Adoption Manager / AI Champions assorbe tempo, genera passaggi manuali o produce output difficili da verificare.",
       "La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.",
-      "Serve un risultato concreto dopo la formazione: Playbook e modello operativo per rete interna di AI Champion."
+      "Serve un risultato concreto dopo la formazione: Manuale operativo e modello per una rete interna di referenti AI."
     ],
     "extraExamples": [
       {
@@ -101,7 +101,7 @@
       },
       {
         "title": "Da sperimentazione individuale a pratica governata",
-        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Playbook e modello operativo per rete interna di AI Champion."
+        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Manuale operativo e modello per una rete interna di referenti AI."
       },
       {
         "title": "Da entusiasmo a decisione",

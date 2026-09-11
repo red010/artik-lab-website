@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/services-catalog.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "locale": "it",
@@ -61,7 +61,7 @@
       "locale": "it",
       "language": "it",
       "title": "FAQ AI per aziende",
-      "description": "Un repertorio pubblico di domande reali per orientare imprenditori, direzione e funzioni aziendali tra consulenza, corsi, analisi dati, software tecnico e Atlante applicazioni AI.",
+      "description": "Domande per scegliere tra consulenza, corsi, analisi dati e software, prima di iniziare.",
       "urls": {
         "html": "https://ar-tik.com/domande-frequenti-ai-aziende.html",
         "markdown": "https://ar-tik.com/domande-frequenti-ai-aziende.md",
@@ -74,7 +74,7 @@
       "locale": "it",
       "language": "it",
       "title": "Software tecnico AI",
-      "description": "Artik Lab sviluppa per conto dei clienti software avanzati quando il problema non si risolve con una dashboard o un gestionale standard: calcoli tecnici, modelli matematici, dati operativi, regole esperte e flussi di lavoro da rendere verificabili.",
+      "description": "Artik Lab sviluppa per conto dei clienti software avanzati quando il problema non si risolve con un cruscotto o con il software aziendale standard: calcoli tecnici, modelli matematici, dati operativi, regole esperte e flussi di lavoro da poter controllare con test.",
       "urls": {
         "html": "https://ar-tik.com/sviluppo-software-tecnico-ai.html",
         "markdown": "https://ar-tik.com/sviluppo-software-tecnico-ai.md",
@@ -87,7 +87,7 @@
       "locale": "it",
       "language": "it",
       "title": "Operatività immediata",
-      "description": "Si parte da un lavoro che oggi ruba tempo: preparare un'offerta, raccogliere i documenti per un cliente, confrontare tre fornitori, smistare la posta della settimana. A fine giornata resta una procedura automatica, che l'azienda potrà usare in autonomia. I file restano in azienda, il gestionale non si tocca. Non è un corso e non è un software da installare: è l'automazione di un intero processo con l'intelligenza artificiale.",
+      "description": "Si parte da un lavoro che oggi ruba tempo: preparare un'offerta, raccogliere i documenti per un cliente, confrontare tre fornitori, smistare la posta della settimana. A fine giornata resta una procedura automatica, che l'azienda potrà usare in autonomia. I file restano in azienda. Sono escluse le integrazioni su misura con i software già in uso. Non è un corso e non è un software da installare: è l'automazione di un intero processo con l'intelligenza artificiale.",
       "urls": {
         "html": "https://ar-tik.com/avvio-operativo/",
         "markdown": "https://ar-tik.com/avvio-operativo/index.md",

@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/faq-repertoire.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "locale": "en",
@@ -14,6 +14,12 @@
     "json": "https://ar-tik.com/data/faq.en.json"
   },
   "categories": [
+    {
+      "id": "objections",
+      "label": "The questions that block the decision",
+      "hint": "Cost, data, software, training already done, timing, incentives: short answers before writing.",
+      "faqCount": 7
+    },
     {
       "id": "start",
       "label": "Where to start",
@@ -100,6 +106,328 @@
     }
   ],
   "faqs": [
+    {
+      "id": "objection-cost",
+      "locale": "en",
+      "language": "en",
+      "category": "objections",
+      "categoryLabel": "The questions that block the decision",
+      "question": "What does it cost?",
+      "shortAnswer": "The proposal arrives after the opinion or after the first conversation.",
+      "detailedAnswer": "There is no price list on these pages.",
+      "audience": "leaders and owners",
+      "searchIntent": "path selection",
+      "searchQueries": [
+        "What does it cost?",
+        "what does it cost",
+        "The questions that block the decision what does it cost"
+      ],
+      "needSignals": [
+        "interest in AI with no defined project"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting",
+        "agentic-data-analysis"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "AI management consulting",
+          "url": "https://ar-tik.com/en/ai-management-consulting.html"
+        },
+        {
+          "id": "agentic-data-analysis",
+          "title": "Agentic data analysis",
+          "url": "https://ar-tik.com/en/agentic-data-analysis.html"
+        }
+      ],
+      "relatedCourseIds": [],
+      "relatedCourses": [],
+      "relatedAtlasAreas": [
+        "operations"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "The answers apply to the services as described on these pages; the specific case is clarified in the opinion or in the first conversation.",
+      "nextStep": "Bring the case to the first conversation with process, goal, available data and constraints.",
+      "urls": {
+        "html": "https://ar-tik.com/en/ai-business-faq.html#objection-cost",
+        "markdown": "https://ar-tik.com/en/ai-business-faq.md#What does it cost?",
+        "dossier": "https://ar-tik.com/en/ai-business-faq-dossier.md#What does it cost?",
+        "json": "https://ar-tik.com/data/faq.en.json"
+      }
+    },
+    {
+      "id": "objection-data",
+      "locale": "en",
+      "language": "en",
+      "category": "objections",
+      "categoryLabel": "The questions that block the decision",
+      "question": "Where are the data during the work?",
+      "shortAnswer": "In Operational start the files stay in the company's folders and the assistant is in the company's name.",
+      "detailedAnswer": "In data analysis the work is done on an agreed extract, with a written perimeter.",
+      "audience": "leaders and owners",
+      "searchIntent": "risk management",
+      "searchQueries": [
+        "Where are the data during the work?",
+        "where are the data during the work",
+        "The questions that block the decision where are the data during the work"
+      ],
+      "needSignals": [
+        "personal or confidential data involved"
+      ],
+      "relatedServiceIds": [
+        "agentic-data-analysis"
+      ],
+      "relatedServices": [
+        {
+          "id": "agentic-data-analysis",
+          "title": "Agentic data analysis",
+          "url": "https://ar-tik.com/en/agentic-data-analysis.html"
+        }
+      ],
+      "relatedCourseIds": [],
+      "relatedCourses": [],
+      "relatedAtlasAreas": [
+        "data"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "The answers apply to the services as described on these pages; the specific case is clarified in the opinion or in the first conversation.",
+      "nextStep": "Bring the case to the first conversation with process, goal, available data and constraints.",
+      "urls": {
+        "html": "https://ar-tik.com/en/ai-business-faq.html#objection-data",
+        "markdown": "https://ar-tik.com/en/ai-business-faq.md#Where are the data during the work?",
+        "dossier": "https://ar-tik.com/en/ai-business-faq-dossier.md#Where are the data during the work?",
+        "json": "https://ar-tik.com/data/faq.en.json"
+      }
+    },
+    {
+      "id": "objection-software",
+      "locale": "en",
+      "language": "en",
+      "category": "objections",
+      "categoryLabel": "The questions that block the decision",
+      "question": "Is consulting a way to sell software afterwards?",
+      "shortAnswer": "Consulting is not the door to software.",
+      "detailedAnswer": "Building, if it is needed, is a later choice. Operational start does not connect the company's software.",
+      "audience": "leaders and owners",
+      "searchIntent": "path selection",
+      "searchQueries": [
+        "Is consulting a way to sell software afterwards?",
+        "is consulting a way to sell software afterwards",
+        "The questions that block the decision is consulting a way to sell software afterwards"
+      ],
+      "needSignals": [
+        "tools chosen before the process"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "AI management consulting",
+          "url": "https://ar-tik.com/en/ai-management-consulting.html"
+        }
+      ],
+      "relatedCourseIds": [],
+      "relatedCourses": [],
+      "relatedAtlasAreas": [
+        "governance"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "The answers apply to the services as described on these pages; the specific case is clarified in the opinion or in the first conversation.",
+      "nextStep": "Open a consulting path to clarify priorities, governance and roadmap.",
+      "urls": {
+        "html": "https://ar-tik.com/en/ai-business-faq.html#objection-software",
+        "markdown": "https://ar-tik.com/en/ai-business-faq.md#Is consulting a way to sell software afterwards?",
+        "dossier": "https://ar-tik.com/en/ai-business-faq-dossier.md#Is consulting a way to sell software afterwards?",
+        "json": "https://ar-tik.com/data/faq.en.json"
+      }
+    },
+    {
+      "id": "objection-course-done",
+      "locale": "en",
+      "language": "en",
+      "category": "objections",
+      "categoryLabel": "The questions that block the decision",
+      "question": "A course on AI has already been done. Is this still needed?",
+      "shortAnswer": "A course leaves templates and criteria.",
+      "detailedAnswer": "Here, in one day, a procedure in use remains on the company's files — or an analysis that says whether the data are enough.",
+      "audience": "leaders and owners",
+      "searchIntent": "initial orientation",
+      "searchQueries": [
+        "A course on AI has already been done. Is this still needed?",
+        "a course on ai has already been done. is this still needed",
+        "The questions that block the decision a course on ai has already been done. is this still needed"
+      ],
+      "needSignals": [
+        "AI skills not aligned across roles"
+      ],
+      "relatedServiceIds": [
+        "agentic-data-analysis"
+      ],
+      "relatedServices": [
+        {
+          "id": "agentic-data-analysis",
+          "title": "Agentic data analysis",
+          "url": "https://ar-tik.com/en/agentic-data-analysis.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "workflow-redesign"
+      ],
+      "relatedCourses": [
+        {
+          "id": "workflow-redesign",
+          "title": "AI Workflow Redesign Lab",
+          "url": "https://ar-tik.com/en/courses/workflow-redesign.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "training"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "The answers apply to the services as described on these pages; the specific case is clarified in the opinion or in the first conversation.",
+      "nextStep": "Bring the case to the first conversation with process, goal, available data and constraints.",
+      "urls": {
+        "html": "https://ar-tik.com/en/ai-business-faq.html#objection-course-done",
+        "markdown": "https://ar-tik.com/en/ai-business-faq.md#A course on AI has already been done. Is this still needed?",
+        "dossier": "https://ar-tik.com/en/ai-business-faq-dossier.md#A course on AI has already been done. Is this still needed?",
+        "json": "https://ar-tik.com/data/faq.en.json"
+      }
+    },
+    {
+      "id": "objection-timing",
+      "locale": "en",
+      "language": "en",
+      "category": "objections",
+      "categoryLabel": "The questions that block the decision",
+      "question": "When is something concrete visible?",
+      "shortAnswer": "Operational start: one day on site.",
+      "detailedAnswer": "Analysis: after the agreed extract. First conversation: 30–45 minutes.",
+      "audience": "leaders and owners",
+      "searchIntent": "initial orientation",
+      "searchQueries": [
+        "When is something concrete visible?",
+        "when is something concrete visible",
+        "The questions that block the decision when is something concrete visible"
+      ],
+      "needSignals": [
+        "slow recurring decisions"
+      ],
+      "relatedServiceIds": [
+        "agentic-data-analysis"
+      ],
+      "relatedServices": [
+        {
+          "id": "agentic-data-analysis",
+          "title": "Agentic data analysis",
+          "url": "https://ar-tik.com/en/agentic-data-analysis.html"
+        }
+      ],
+      "relatedCourseIds": [],
+      "relatedCourses": [],
+      "relatedAtlasAreas": [
+        "operations"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "The answers apply to the services as described on these pages; the specific case is clarified in the opinion or in the first conversation.",
+      "nextStep": "Bring the case to the first conversation with process, goal, available data and constraints.",
+      "urls": {
+        "html": "https://ar-tik.com/en/ai-business-faq.html#objection-timing",
+        "markdown": "https://ar-tik.com/en/ai-business-faq.md#When is something concrete visible?",
+        "dossier": "https://ar-tik.com/en/ai-business-faq-dossier.md#When is something concrete visible?",
+        "json": "https://ar-tik.com/data/faq.en.json"
+      }
+    },
+    {
+      "id": "objection-incentives",
+      "locale": "en",
+      "language": "en",
+      "category": "objections",
+      "categoryLabel": "The questions that block the decision",
+      "question": "Can an incentive or a fund be used for this work?",
+      "shortAnswer": "An eligibility check can be requested.",
+      "detailedAnswer": "The work must still stand without an incentive: no calls for proposals or amounts are promised.",
+      "audience": "leaders and owners",
+      "searchIntent": "path selection",
+      "searchQueries": [
+        "Can an incentive or a fund be used for this work?",
+        "can an incentive or a fund be used for this work",
+        "The questions that block the decision can an incentive or a fund be used for this work"
+      ],
+      "needSignals": [
+        "interest in AI with no defined project"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "AI management consulting",
+          "url": "https://ar-tik.com/en/ai-management-consulting.html"
+        }
+      ],
+      "relatedCourseIds": [],
+      "relatedCourses": [],
+      "relatedAtlasAreas": [
+        "governance"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "The answers apply to the services as described on these pages; the specific case is clarified in the opinion or in the first conversation.",
+      "nextStep": "Bring the case to the first conversation with process, goal, available data and constraints.",
+      "urls": {
+        "html": "https://ar-tik.com/en/ai-business-faq.html#objection-incentives",
+        "markdown": "https://ar-tik.com/en/ai-business-faq.md#Can an incentive or a fund be used for this work?",
+        "dossier": "https://ar-tik.com/en/ai-business-faq-dossier.md#Can an incentive or a fund be used for this work?",
+        "json": "https://ar-tik.com/data/faq.en.json"
+      }
+    },
+    {
+      "id": "objection-capacity",
+      "locale": "en",
+      "language": "en",
+      "category": "objections",
+      "categoryLabel": "The questions that block the decision",
+      "question": "How many activities can be done, one after another?",
+      "shortAnswer": "It is decided with the company, according to need.",
+      "detailedAnswer": "One job at a time, taken all the way through.",
+      "audience": "leaders and owners",
+      "searchIntent": "initial orientation",
+      "searchQueries": [
+        "How many activities can be done, one after another?",
+        "how many activities can be done, one after another",
+        "The questions that block the decision how many activities can be done, one after another"
+      ],
+      "needSignals": [
+        "repetitive manual work"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "AI management consulting",
+          "url": "https://ar-tik.com/en/ai-management-consulting.html"
+        }
+      ],
+      "relatedCourseIds": [],
+      "relatedCourses": [],
+      "relatedAtlasAreas": [
+        "operations"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "The answers apply to the services as described on these pages; the specific case is clarified in the opinion or in the first conversation.",
+      "nextStep": "Bring the case to the first conversation with process, goal, available data and constraints.",
+      "urls": {
+        "html": "https://ar-tik.com/en/ai-business-faq.html#objection-capacity",
+        "markdown": "https://ar-tik.com/en/ai-business-faq.md#How many activities can be done, one after another?",
+        "dossier": "https://ar-tik.com/en/ai-business-faq-dossier.md#How many activities can be done, one after another?",
+        "json": "https://ar-tik.com/data/faq.en.json"
+      }
+    },
     {
       "id": "start-without-project",
       "locale": "en",

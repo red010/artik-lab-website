@@ -5,8 +5,8 @@ Integrare agenti di coding nei flussi di sviluppo mantenendo controllo, qualità
 - Durata: 4 ore, 2 lezioni da 2 ore
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per team tecnici con basi di programmazione e architetture software.
-- Output finale: Playbook agentico per sviluppo, review, test e policy repository.
-- Sceglierlo se: Quando un team vuole adottare agenti di coding in modo serio: come capacità integrata in repository, review, test e delivery.
+- Output finale: Playbook agentico — il manuale operativo per usare gli agenti nello sviluppo, nella revisione, nei test e nelle regole del repository.
+- Sceglierlo se: Quando un team vuole gli agenti di coding dentro repository, revisione, test e rilascio, non come uso occasionale.
 
 ## Il problema che risolve
 
@@ -18,11 +18,11 @@ Software engineer, tech lead, engineering manager, platform team, QA engineer, D
 
 ## Quando sceglierlo
 
-Quando un team vuole adottare agenti di coding in modo serio: come capacità integrata in repository, review, test e delivery.
+Quando un team vuole gli agenti di coding dentro repository, revisione, test e rilascio, non come uso occasionale.
 
 ## Risultati concreti
 
-- Disegnare workflow agentici per sviluppo e test.
+- Disegnare workflow agentici per sviluppo e test, in cui ogni agente ha un ruolo definito.
 - Definire policy di review.
 - Stabilire criteri di accettazione.
 - Scrivere task operativi per agenti.
@@ -87,5 +87,11 @@ Sì, con attenzione a test characterization e refactoring incrementale.
 ### Dipende da tool specifici?
 
 No, i pattern sono durevoli e adattabili.
+
+## Corsi collegati
+
+- [AI Software Engineering](https://ar-tik.com/corsi/ai-software-engineering.md): Corso tecnico per portare disciplina ingegneristica nello sviluppo di funzionalità e prodotti AI.
+- [Secure AI SDLC](https://ar-tik.com/corsi/secure-ai-sdlc.md): Corso tecnico per inserire controlli AI-specifici nelle fasi del ciclo di sviluppo: design (progettazione), build (costruzione), test, release (rilascio) e operation (esercizio).
+- [Ricerca semantica e knowledge base AI](https://ar-tik.com/corsi/embeddings.md): Modulo per rendere archivi e conoscenza aziendale cercabili per significato, con gli embeddings: rappresentazioni numeriche del significato di un testo, base dei progetti AI che rispondono sui documenti.
 
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)

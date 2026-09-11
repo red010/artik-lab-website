@@ -1,12 +1,12 @@
 # Ricerca semantica e knowledge base AI
 
-Trasformare documenti, procedure e conoscenza interna in sistemi di ricerca intelligenti, navigabili e governati.
+Trasformare documenti, procedure e conoscenza interna in una knowledge base con ricerca semantica: si cerca per significato e non per parola esatta, con permessi e regole.
 
 - Durata: 60-90 minuti o modulo breve
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per team tecnici con basi di programmazione e architetture software.
-- Output finale: Blueprint per knowledge base semantica e criteri di indicizzazione.
-- Sceglierlo se: Quando l'organizzazione vuole migliorare accesso alla conoscenza, ridurre tempi di ricerca, supportare operatori o preparare basi informative per applicazioni AI.
+- Output finale: Blueprint della knowledge base semantica: lo schema dell'archivio di conoscenza e i criteri per renderlo cercabile.
+- Sceglierlo se: Quando cercare in archivi e procedure è lento o inaffidabile, e serve un accesso alla conoscenza più preciso.
 
 ## Il problema che risolve
 
@@ -18,7 +18,7 @@ Team IT, data, knowledge management, supporto tecnico, software, operations, doc
 
 ## Quando sceglierlo
 
-Quando l'organizzazione vuole migliorare accesso alla conoscenza, ridurre tempi di ricerca, supportare operatori o preparare basi informative per applicazioni AI.
+Quando cercare in archivi e procedure è lento o inaffidabile, e serve un accesso alla conoscenza più preciso.
 
 ## Risultati concreti
 
@@ -86,5 +86,11 @@ Sì, è uno dei casi d'uso più forti.
 ### Lo stack è predefinito?
 
 No, l'architettura si adatta allo stack scelto.
+
+## Corsi collegati
+
+- [RAG Engineering per sistemi AI affidabili](https://ar-tik.com/corsi/rag-engineering.md): Corso tecnico per passare da una chat sui documenti a sistemi RAG (Retrieval-Augmented Generation): recupero delle fonti, qualità misurabile e controllo.
+- [AI Coding Agents per team software](https://ar-tik.com/corsi/ai-coding-agents.md): Corso tecnico per usare agenti AI come componenti controllati del ciclo software: sviluppo, revisione, test e rilascio, con responsabilità dichiarate.
+- [AI Software Engineering](https://ar-tik.com/corsi/ai-software-engineering.md): Corso tecnico per portare disciplina ingegneristica nello sviluppo di funzionalità e prodotti AI.
 
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)

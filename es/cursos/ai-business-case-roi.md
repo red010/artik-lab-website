@@ -87,4 +87,10 @@ Materiales reutilizables, ejemplos, checklists y próximos pasos claros.
 
 No. Está construido sobre ejercicios prácticos y decisiones cercanas al trabajo real.
 
+## Cursos relacionados
+
+- [AI Adoption Manager / AI Champions](https://ar-tik.com/es/cursos/ai-adoption-manager.md): Curso corporativo práctico para aplicar IA a champions de adopción de IA, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.
+- [Alfabetización AI por rol y uso responsable](https://ar-tik.com/es/cursos/ai-literacy.md): Curso corporativo práctico para aplicar IA a alfabetización en IA por rol, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.
+- [Secure AI at Work](https://ar-tik.com/es/cursos/secure-ai-at-work.md): Curso corporativo práctico para aplicar IA a uso seguro de IA en el trabajo, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.
+
 [Volver al catálogo de cursos](https://ar-tik.com/es/cursos/index.md)

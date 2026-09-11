@@ -2,9 +2,9 @@
 
 Une carte publique d'exemples concrets pour reconnaître où l'intelligence artificielle peut réduire délais, erreurs, risques ou retards décisionnels dans les processus métier.
 
-## L'Atlas n'est pas un catalogue rigide de produits.
+## Chaque fiche est un exemple de travail, pas un produit à acheter.
 
-Chaque fiche décrit un modèle applicatif: quelles données ou quels matériaux entrent, quel résultat peut être produit, quelle valeur métier peut émerger et quels contrôles restent humains. Artik Lab commence toujours par un premier échange de diagnostic et conçoit des solutions adaptées au contexte client.
+Chaque fiche décrit un exemple d'usage : quelles données ou quels matériaux entrent, quel résultat peut être produit, quelle valeur d'entreprise peut en naître et quels contrôles restent humains. Artik Lab part toujours d'un premier échange de diagnostic et conçoit des solutions spécifiques au contexte du client.
 
 ## Explorer par domaine, besoin ou processus.
 
@@ -34,8 +34,8 @@ PDF, images et formulaires deviennent texte, tableaux et champs structurés réu
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, pdf et pièces jointes servent à produire base structurée et à soutenir réduction des délais, avec revue humaine recommandée.
 - Domaine: Documents et connaissance
-- Données d'entrée: PDF et pièces jointes, scans et images, formulaires remplis
-- Résultat: base structurée, rapport opérationnel
+- Ce qui entre: PDF et pièces jointes, scans et images, formulaires remplis
+- Ce qui sort: base structurée, rapport opérationnel
 - Valeur: réduction des délais, moins d'erreurs, traçabilité
 - Signaux de besoin: documents dispersés difficiles à consulter, copie manuelle entre emails, feuilles et systèmes
 - Revue humaine: recommandée
@@ -47,8 +47,8 @@ Rapports, contrats, cahiers des charges et procédures sont comparés pour repé
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, pdf et pièces jointes servent à produire rapport opérationnel et à soutenir moins d'erreurs, avec revue humaine obligatoire.
 - Domaine: Documents et connaissance
-- Données d'entrée: PDF et pièces jointes, documentation interne, contrats et politiques, appels d'offres et cahiers des charges
-- Résultat: rapport opérationnel, cartographie des risques
+- Ce qui entre: PDF et pièces jointes, documentation interne, contrats et politiques, appels d'offres et cahiers des charges
+- Ce qui sort: rapport opérationnel, cartographie des risques
 - Valeur: moins d'erreurs, réduction du risque, traçabilité
 - Signaux de besoin: erreurs récurrentes dans documents, procédures ou contrôles, documents dispersés difficiles à consulter
 - Revue humaine: obligatoire
@@ -60,8 +60,8 @@ Manuels, procédures et bases de connaissance deviennent une recherche sémantiq
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, documentation interne servent à produire recherche sémantique et à soutenir connaissance transférable, avec revue humaine recommandée.
 - Domaine: Documents et connaissance
-- Données d'entrée: documentation interne, PDF et pièces jointes, manuels et supports de formation
-- Résultat: recherche sémantique, FAQ et réponses
+- Ce qui entre: documentation interne, PDF et pièces jointes, manuels et supports de formation
+- Ce qui sort: recherche sémantique, FAQ et réponses
 - Valeur: connaissance transférable, décisions plus rapides, service plus homogène
 - Signaux de besoin: documents dispersés difficiles à consulter, connaissance critique concentrée chez peu de personnes
 - Revue humaine: recommandée
@@ -73,8 +73,8 @@ Transcriptions et fils sont nettoyés, synthétisés et convertis en décisions,
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, emails et tickets servent à produire digest actionnable et à soutenir traçabilité, avec revue humaine recommandée.
 - Domaine: Processus opérationnels
-- Données d'entrée: emails et tickets, transcriptions et notes, tickets et demandes
-- Résultat: digest actionnable, roadmap et priorités
+- Ce qui entre: emails et tickets, transcriptions et notes, tickets et demandes
+- Ce qui sort: digest actionnable, roadmap et priorités
 - Valeur: traçabilité, décisions plus rapides, connaissance transférable
 - Signaux de besoin: décisions récurrentes lentes ou fondées sur une information incomplète, connaissance critique concentrée chez peu de personnes
 - Revue humaine: recommandée
@@ -86,8 +86,8 @@ Rapports, lettres, contrats, FAQ et communications sont produits depuis données
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, base structurée servent à produire brouillons contrôlés et à soutenir réduction des délais, avec revue humaine obligatoire.
 - Domaine: Documents et connaissance
-- Données d'entrée: base structurée, documentation interne, contrats et politiques
-- Résultat: brouillons contrôlés, FAQ et réponses
+- Ce qui entre: base structurée, documentation interne, contrats et politiques
+- Ce qui sort: brouillons contrôlés, FAQ et réponses
 - Valeur: réduction des délais, moins d'erreurs, conformité plus gouvernable
 - Signaux de besoin: copie manuelle entre emails, feuilles et systèmes, erreurs récurrentes dans documents, procédures ou contrôles
 - Revue humaine: obligatoire
@@ -99,8 +99,8 @@ Le travail réel est reconstruit as-is, analysé pour repérer les goulets d'ét
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, transcriptions et notes servent à produire roadmap et priorités et à soutenir priorités plus claires, avec revue humaine recommandée.
 - Domaine: Processus opérationnels
-- Données d'entrée: transcriptions et notes, journaux et états de processus, emails et tickets, feuilles de calcul
-- Résultat: roadmap et priorités, business case
+- Ce qui entre: transcriptions et notes, journaux et états de processus, emails et tickets, feuilles de calcul
+- Ce qui sort: roadmap et priorités, business case
 - Valeur: priorités plus claires, décisions plus rapides, coûts évités
 - Signaux de besoin: décisions récurrentes lentes ou fondées sur une information incomplète, copie manuelle entre emails, feuilles et systèmes, usage IA déjà présent sans règles partagées
 - Revue humaine: recommandée
@@ -112,8 +112,8 @@ Les communications entrantes sont classées par urgence, sujet, responsabilité 
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, emails et tickets servent à produire digest actionnable et à soutenir réduction des délais, avec revue humaine recommandée.
 - Domaine: Processus opérationnels
-- Données d'entrée: emails et tickets, tickets et demandes, documentation interne
-- Résultat: digest actionnable, brouillons contrôlés, classement de priorité
+- Ce qui entre: emails et tickets, tickets et demandes, documentation interne
+- Ce qui sort: digest actionnable, brouillons contrôlés, classement de priorité
 - Valeur: réduction des délais, service plus homogène, priorités plus claires
 - Signaux de besoin: copie manuelle entre emails, feuilles et systèmes, décisions récurrentes lentes ou fondées sur une information incomplète
 - Revue humaine: recommandée
@@ -125,8 +125,8 @@ Disponibilités, contraintes, compétences, absences et demande sont combinées 
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, feuilles de calcul servent à produire planning et affectations et à soutenir efficacité productive, avec revue humaine obligatoire.
 - Domaine: Processus opérationnels
-- Données d'entrée: feuilles de calcul, ERP et systèmes métier, KPI et séries historiques
-- Résultat: planning et affectations, tableaux de bord et vues filtrables
+- Ce qui entre: feuilles de calcul, ERP et systèmes métier, KPI et séries historiques
+- Ce qui sort: planning et affectations, tableaux de bord et vues filtrables
 - Valeur: efficacité productive, décisions plus rapides, coûts évités
 - Signaux de besoin: planification encore très manuelle, données historiques disponibles mais non transformées en signaux
 - Revue humaine: obligatoire
@@ -138,8 +138,8 @@ Historiques de commandes, revenus, tickets ou production deviennent des prévisi
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, transactions et achats servent à produire prévision vérifiable et à soutenir décisions plus rapides, avec revue humaine recommandée.
 - Domaine: Processus opérationnels
-- Données d'entrée: transactions et achats, KPI et séries historiques, données de production
-- Résultat: prévision vérifiable, tableaux de bord et vues filtrables
+- Ce qui entre: transactions et achats, KPI et séries historiques, données de production
+- Ce qui sort: prévision vérifiable, tableaux de bord et vues filtrables
 - Valeur: décisions plus rapides, coûts évités, efficacité productive
 - Signaux de besoin: données historiques disponibles mais non transformées en signaux, planification encore très manuelle
 - Revue humaine: recommandée
@@ -151,8 +151,8 @@ Réunions et documents projet alimentent un dossier évolutif avec exigences et 
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, transcriptions et notes servent à produire roadmap et priorités et à soutenir traçabilité, avec revue humaine obligatoire.
 - Domaine: Processus opérationnels
-- Données d'entrée: transcriptions et notes, exigences et spécifications, documentation interne
-- Résultat: roadmap et priorités, cartographie des risques
+- Ce qui entre: transcriptions et notes, exigences et spécifications, documentation interne
+- Ce qui sort: roadmap et priorités, cartographie des risques
 - Valeur: traçabilité, moins d'erreurs, connaissance transférable
 - Signaux de besoin: décisions récurrentes lentes ou fondées sur une information incomplète, connaissance critique concentrée chez peu de personnes
 - Revue humaine: obligatoire
@@ -164,8 +164,8 @@ Textes non structurés agrégés par thèmes, sentiment, besoins récurrents et 
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, feedback textuel servent à produire rapport opérationnel et à soutenir service plus homogène, avec revue humaine recommandée.
 - Domaine: Client, marketing et vente
-- Données d'entrée: feedback textuel, tickets et demandes, sources publiques
-- Résultat: rapport opérationnel, classement de priorité
+- Ce qui entre: feedback textuel, tickets et demandes, sources publiques
+- Ce qui sort: rapport opérationnel, classement de priorité
 - Valeur: service plus homogène, valeur commerciale récupérée, priorités plus claires
 - Signaux de besoin: feedback abondant mais non analysé, décisions récurrentes lentes ou fondées sur une information incomplète
 - Revue humaine: recommandée
@@ -177,8 +177,8 @@ Sources publiques et matériaux fournis synthétisés en cartes de pains, langag
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, sources publiques servent à produire rapport opérationnel et à soutenir valeur commerciale récupérée, avec revue humaine recommandée.
 - Domaine: Client, marketing et vente
-- Données d'entrée: sources publiques, feedback textuel, documentation interne
-- Résultat: rapport opérationnel, business case
+- Ce qui entre: sources publiques, feedback textuel, documentation interne
+- Ce qui sort: rapport opérationnel, business case
 - Valeur: valeur commerciale récupérée, priorités plus claires, décisions plus rapides
 - Signaux de besoin: feedback abondant mais non analysé, décisions récurrentes lentes ou fondées sur une information incomplète
 - Revue humaine: recommandée
@@ -190,8 +190,8 @@ Entretiens, exemples validés et matériaux commerciaux deviennent guidelines et
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, documentation interne servent à produire politiques et garde-fous et à soutenir réduction des délais, avec revue humaine obligatoire.
 - Domaine: Client, marketing et vente
-- Données d'entrée: documentation interne, feedback textuel, sources publiques
-- Résultat: politiques et garde-fous, brouillons contrôlés
+- Ce qui entre: documentation interne, feedback textuel, sources publiques
+- Ce qui sort: politiques et garde-fous, brouillons contrôlés
 - Valeur: réduction des délais, valeur commerciale récupérée, traçabilité
 - Signaux de besoin: erreurs récurrentes dans documents, procédures ou contrôles, copie manuelle entre emails, feuilles et systèmes
 - Revue humaine: obligatoire
@@ -203,8 +203,8 @@ Historiques d'achat, catalogues et données concurrentielles aident à créer pi
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, transactions et achats servent à produire recommandations opérationnelles et à soutenir valeur commerciale récupérée, avec revue humaine obligatoire.
 - Domaine: Client, marketing et vente
-- Données d'entrée: transactions et achats, documentation interne, sources publiques
-- Résultat: recommandations opérationnelles, business case
+- Ce qui entre: transactions et achats, documentation interne, sources publiques
+- Ce qui sort: recommandations opérationnelles, business case
 - Valeur: valeur commerciale récupérée, décisions plus rapides, priorités plus claires
 - Signaux de besoin: données historiques disponibles mais non transformées en signaux, décisions récurrentes lentes ou fondées sur une information incomplète
 - Revue humaine: obligatoire
@@ -216,8 +216,8 @@ Compétences, rôles, objectifs futurs et tendances sont reliés pour prioriser 
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, données rh agrégées servent à produire roadmap et priorités et à soutenir connaissance transférable, avec revue humaine obligatoire.
 - Domaine: Personnes et RH
-- Données d'entrée: données RH agrégées, documentation interne, sources publiques
-- Résultat: roadmap et priorités, rapport opérationnel
+- Ce qui entre: données RH agrégées, documentation interne, sources publiques
+- Ce qui sort: roadmap et priorités, rapport opérationnel
 - Valeur: connaissance transférable, priorités plus claires, formation plus rapide
 - Signaux de besoin: connaissance critique concentrée chez peu de personnes, usage IA déjà présent sans règles partagées
 - Revue humaine: obligatoire
@@ -229,8 +229,8 @@ Fiches de poste, candidatures et supports d'entrée structurés pour évaluation
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, cv et candidatures servent à produire rapport opérationnel et à soutenir réduction des délais, avec revue humaine obligatoire.
 - Domaine: Personnes et RH
-- Données d'entrée: CV et candidatures, données RH agrégées, manuels et supports de formation
-- Résultat: rapport opérationnel, brouillons contrôlés
+- Ce qui entre: CV et candidatures, données RH agrégées, manuels et supports de formation
+- Ce qui sort: rapport opérationnel, brouillons contrôlés
 - Valeur: réduction des délais, moins d'erreurs, formation plus rapide
 - Signaux de besoin: copie manuelle entre emails, feuilles et systèmes, connaissance critique concentrée chez peu de personnes
 - Revue humaine: obligatoire
@@ -242,8 +242,8 @@ Politiques, avantages, procédures et demandes récurrentes deviennent FAQ et pa
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, données rh agrégées servent à produire faq et réponses et à soutenir service plus homogène, avec revue humaine obligatoire.
 - Domaine: Personnes et RH
-- Données d'entrée: données RH agrégées, documentation interne, contrats et politiques
-- Résultat: FAQ et réponses, brouillons contrôlés
+- Ce qui entre: données RH agrégées, documentation interne, contrats et politiques
+- Ce qui sort: FAQ et réponses, brouillons contrôlés
 - Valeur: service plus homogène, réduction des délais, conformité plus gouvernable
 - Signaux de besoin: copie manuelle entre emails, feuilles et systèmes, documents dispersés difficiles à consulter
 - Revue humaine: obligatoire
@@ -255,8 +255,8 @@ Un besoin technique devient exigences, user stories, contraintes et périmètre 
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, exigences et spécifications servent à produire roadmap et priorités et à soutenir moins d'erreurs, avec revue humaine obligatoire.
 - Domaine: Technique et logiciels
-- Données d'entrée: exigences et spécifications, transcriptions et notes, documentation interne
-- Résultat: roadmap et priorités, tests et checklists
+- Ce qui entre: exigences et spécifications, transcriptions et notes, documentation interne
+- Ce qui sort: roadmap et priorités, tests et checklists
 - Valeur: moins d'erreurs, traçabilité, coûts évités
 - Signaux de besoin: décisions récurrentes lentes ou fondées sur une information incomplète, erreurs récurrentes dans documents, procédures ou contrôles
 - Revue humaine: obligatoire
@@ -268,8 +268,8 @@ Code existant et spécifications guident génération contrôlée, tests, refact
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, code et dépôts servent à produire tests et checklists et à soutenir réduction des délais, avec revue humaine obligatoire.
 - Domaine: Technique et logiciels
-- Données d'entrée: code et dépôts, exigences et spécifications
-- Résultat: tests et checklists, rapport opérationnel
+- Ce qui entre: code et dépôts, exigences et spécifications
+- Ce qui sort: tests et checklists, rapport opérationnel
 - Valeur: réduction des délais, moins d'erreurs, traçabilité
 - Signaux de besoin: erreurs récurrentes dans documents, procédures ou contrôles, copie manuelle entre emails, feuilles et systèmes
 - Revue humaine: obligatoire
@@ -281,8 +281,8 @@ Appels d'offres, cahiers des charges, rapports et fiches analysés pour exigence
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, appels d'offres et cahiers des charges servent à produire rapport opérationnel et à soutenir réduction du risque, avec revue humaine obligatoire.
 - Domaine: Technique et logiciels
-- Données d'entrée: appels d'offres et cahiers des charges, documentation interne, plans techniques
-- Résultat: rapport opérationnel, brouillons contrôlés, cartographie des risques
+- Ce qui entre: appels d'offres et cahiers des charges, documentation interne, plans techniques
+- Ce qui sort: rapport opérationnel, brouillons contrôlés, cartographie des risques
 - Valeur: réduction du risque, moins d'erreurs, traçabilité
 - Signaux de besoin: documents dispersés difficiles à consulter, erreurs récurrentes dans documents, procédures ou contrôles
 - Revue humaine: obligatoire
@@ -294,8 +294,8 @@ Photos, plans et rendus deviennent fiches, analyses de composants, cotes et réc
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, photos opérationnelles servent à produire rapport opérationnel et à soutenir connaissance transférable, avec revue humaine obligatoire.
 - Domaine: Technique et logiciels
-- Données d'entrée: photos opérationnelles, plans techniques, documentation interne
-- Résultat: rapport opérationnel, brouillons contrôlés
+- Ce qui entre: photos opérationnelles, plans techniques, documentation interne
+- Ce qui sort: rapport opérationnel, brouillons contrôlés
 - Valeur: connaissance transférable, décisions plus rapides, moins d'erreurs
 - Signaux de besoin: connaissance critique concentrée chez peu de personnes, documents dispersés difficiles à consulter
 - Revue humaine: obligatoire
@@ -307,8 +307,8 @@ Activités, données et décisions classées en zones d'autonomie, supervision o
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, documentation interne servent à produire politiques et garde-fous et à soutenir réduction du risque, avec revue humaine obligatoire.
 - Domaine: Gouvernance, conformité et risque
-- Données d'entrée: documentation interne, politiques et lignes directrices, transcriptions et notes
-- Résultat: politiques et garde-fous, cartographie des risques, roadmap et priorités
+- Ce qui entre: documentation interne, politiques et lignes directrices, transcriptions et notes
+- Ce qui sort: politiques et garde-fous, cartographie des risques, roadmap et priorités
 - Valeur: réduction du risque, conformité plus gouvernable, priorités plus claires
 - Signaux de besoin: usage IA déjà présent sans règles partagées, décisions récurrentes lentes ou fondées sur une information incomplète
 - Revue humaine: obligatoire
@@ -320,8 +320,8 @@ Contrats, notices, registres, procédures et lettres préparés comme support pr
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, contrats et politiques servent à produire brouillons contrôlés et à soutenir réduction des délais, avec revue humaine obligatoire.
 - Domaine: Gouvernance, conformité et risque
-- Données d'entrée: contrats et politiques, documentation interne, formulaires remplis
-- Résultat: brouillons contrôlés, cartographie des risques
+- Ce qui entre: contrats et politiques, documentation interne, formulaires remplis
+- Ce qui sort: brouillons contrôlés, cartographie des risques
 - Valeur: réduction des délais, conformité plus gouvernable, réduction du risque
 - Signaux de besoin: copie manuelle entre emails, feuilles et systèmes, erreurs récurrentes dans documents, procédures ou contrôles
 - Revue humaine: obligatoire
@@ -333,8 +333,8 @@ Chatbots et assistants testés contre manipulation, fuite de données et instruc
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, documentation interne servent à produire tests et checklists et à soutenir réduction du risque, avec revue humaine obligatoire.
 - Domaine: Gouvernance, conformité et risque
-- Données d'entrée: documentation interne, exigences et spécifications, politiques et lignes directrices
-- Résultat: tests et checklists, politiques et garde-fous, rapport opérationnel
+- Ce qui entre: documentation interne, exigences et spécifications, politiques et lignes directrices
+- Ce qui sort: tests et checklists, politiques et garde-fous, rapport opérationnel
 - Valeur: réduction du risque, conformité plus gouvernable, service plus homogène
 - Signaux de besoin: usage IA déjà présent sans règles partagées, erreurs récurrentes dans documents, procédures ou contrôles
 - Revue humaine: obligatoire
@@ -346,8 +346,8 @@ Photos de site ou atelier analysées pour non-conformités, risques et mesures p
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, photos opérationnelles servent à produire rapport opérationnel et à soutenir réduction du risque, avec revue humaine obligatoire.
 - Domaine: Production, qualité et maintenance
-- Données d'entrée: photos opérationnelles, documentation interne
-- Résultat: rapport opérationnel, cartographie des risques
+- Ce qui entre: photos opérationnelles, documentation interne
+- Ce qui sort: rapport opérationnel, cartographie des risques
 - Valeur: réduction du risque, décisions plus rapides, conformité plus gouvernable
 - Signaux de besoin: erreurs récurrentes dans documents, procédures ou contrôles, copie manuelle entre emails, feuilles et systèmes
 - Revue humaine: obligatoire
@@ -359,8 +359,8 @@ Programmes client, ERP, cycles, non-conformités et coûts historiques soutienne
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, erp et systèmes métier servent à produire planning et affectations et à soutenir efficacité productive, avec revue humaine obligatoire.
 - Domaine: Production, qualité et maintenance
-- Données d'entrée: ERP et systèmes métier, données de production, feuilles de calcul
-- Résultat: planning et affectations, rapport opérationnel, recommandations opérationnelles
+- Ce qui entre: ERP et systèmes métier, données de production, feuilles de calcul
+- Ce qui sort: planning et affectations, rapport opérationnel, recommandations opérationnelles
 - Valeur: efficacité productive, moins d'erreurs, coûts évités
 - Signaux de besoin: planification encore très manuelle, erreurs récurrentes dans documents, procédures ou contrôles
 - Revue humaine: obligatoire
@@ -372,8 +372,8 @@ Historique pannes, capteurs et interventions deviennent priorités, fenêtres ma
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, capteurs et télémétrie servent à produire alertes et seuils et à soutenir efficacité productive, avec revue humaine obligatoire.
 - Domaine: Production, qualité et maintenance
-- Données d'entrée: capteurs et télémétrie, données de production, journaux et états de processus
-- Résultat: alertes et seuils, classement de priorité, tableaux de bord et vues filtrables
+- Ce qui entre: capteurs et télémétrie, données de production, journaux et états de processus
+- Ce qui sort: alertes et seuils, classement de priorité, tableaux de bord et vues filtrables
 - Valeur: efficacité productive, coûts évités, réduction du risque
 - Signaux de besoin: données historiques disponibles mais non transformées en signaux, planification encore très manuelle
 - Revue humaine: obligatoire
@@ -385,8 +385,8 @@ Manuels, slides et documents dispersés deviennent syllabus, quiz et cas par rô
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, manuels et supports de formation servent à produire faq et réponses et à soutenir formation plus rapide, avec revue humaine recommandée.
 - Domaine: Formation et mémoire interne
-- Données d'entrée: manuels et supports de formation, documentation interne, transcriptions et notes
-- Résultat: FAQ et réponses, brouillons contrôlés
+- Ce qui entre: manuels et supports de formation, documentation interne, transcriptions et notes
+- Ce qui sort: FAQ et réponses, brouillons contrôlés
 - Valeur: formation plus rapide, connaissance transférable, service plus homogène
 - Signaux de besoin: connaissance critique concentrée chez peu de personnes, documents dispersés difficiles à consulter
 - Revue humaine: recommandée
@@ -398,8 +398,8 @@ La documentation interne alimente assistants Q&A, y compris vocaux, avec sources
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, documentation interne servent à produire recherche sémantique et à soutenir connaissance transférable, avec revue humaine obligatoire.
 - Domaine: Formation et mémoire interne
-- Données d'entrée: documentation interne, manuels et supports de formation, politiques et lignes directrices
-- Résultat: recherche sémantique, FAQ et réponses, politiques et garde-fous
+- Ce qui entre: documentation interne, manuels et supports de formation, politiques et lignes directrices
+- Ce qui sort: recherche sémantique, FAQ et réponses, politiques et garde-fous
 - Valeur: connaissance transférable, service plus homogène, réduction des délais
 - Signaux de besoin: connaissance critique concentrée chez peu de personnes, documents dispersés difficiles à consulter
 - Revue humaine: obligatoire
@@ -411,8 +411,8 @@ Données, KPI et matériaux hétérogènes deviennent rapports narratifs, infogr
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, kpi et séries historiques servent à produire rapport opérationnel et à soutenir décisions plus rapides, avec revue humaine recommandée.
 - Domaine: Outils transverses
-- Données d'entrée: KPI et séries historiques, feuilles de calcul, documentation interne
-- Résultat: rapport opérationnel, tableaux de bord et vues filtrables, brouillons contrôlés
+- Ce qui entre: KPI et séries historiques, feuilles de calcul, documentation interne
+- Ce qui sort: rapport opérationnel, tableaux de bord et vues filtrables, brouillons contrôlés
 - Valeur: décisions plus rapides, traçabilité, valeur commerciale récupérée
 - Signaux de besoin: données historiques disponibles mais non transformées en signaux, copie manuelle entre emails, feuilles et systèmes
 - Revue humaine: recommandée
@@ -424,8 +424,8 @@ Séries temporelles et capteurs industriels utilisés pour alertes, dégradation
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, capteurs et télémétrie servent à produire alertes et seuils et à soutenir efficacité productive, avec revue humaine obligatoire.
 - Domaine: Data science et décisions
-- Données d'entrée: capteurs et télémétrie, données de production, KPI et séries historiques
-- Résultat: alertes et seuils, prévision vérifiable, tableaux de bord et vues filtrables
+- Ce qui entre: capteurs et télémétrie, données de production, KPI et séries historiques
+- Ce qui sort: alertes et seuils, prévision vérifiable, tableaux de bord et vues filtrables
 - Valeur: efficacité productive, coûts évités, réduction du risque
 - Signaux de besoin: données historiques disponibles mais non transformées en signaux, planification encore très manuelle
 - Revue humaine: obligatoire
@@ -437,8 +437,8 @@ Historiques transactionnels et comportementaux deviennent segments, risques et a
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, transactions et achats servent à produire classement de priorité et à soutenir valeur commerciale récupérée, avec revue humaine obligatoire.
 - Domaine: Data science et décisions
-- Données d'entrée: transactions et achats, feedback textuel, KPI et séries historiques
-- Résultat: classement de priorité, recommandations opérationnelles, business case
+- Ce qui entre: transactions et achats, feedback textuel, KPI et séries historiques
+- Ce qui sort: classement de priorité, recommandations opérationnelles, business case
 - Valeur: valeur commerciale récupérée, priorités plus claires, service plus homogène
 - Signaux de besoin: données historiques disponibles mais non transformées en signaux, feedback abondant mais non analysé
 - Revue humaine: obligatoire
@@ -450,8 +450,8 @@ Télémétrie, consommations, qualité et paramètres machine révèlent profils
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, capteurs et télémétrie servent à produire tableaux de bord et vues filtrables et à soutenir efficacité productive, avec revue humaine obligatoire.
 - Domaine: Data science et décisions
-- Données d'entrée: capteurs et télémétrie, données de production, KPI et séries historiques
-- Résultat: tableaux de bord et vues filtrables, recommandations opérationnelles, business case
+- Ce qui entre: capteurs et télémétrie, données de production, KPI et séries historiques
+- Ce qui sort: tableaux de bord et vues filtrables, recommandations opérationnelles, business case
 - Valeur: efficacité productive, coûts évités, décisions plus rapides
 - Signaux de besoin: données historiques disponibles mais non transformées en signaux, erreurs récurrentes dans documents, procédures ou contrôles
 - Revue humaine: obligatoire
@@ -463,8 +463,8 @@ Données fiscales, territoriales ou commerciales agrégées deviennent cartes, c
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, transactions et achats servent à produire tableaux de bord et vues filtrables et à soutenir décisions plus rapides, avec revue humaine recommandée.
 - Domaine: Data science et décisions
-- Données d'entrée: transactions et achats, sources publiques, KPI et séries historiques
-- Résultat: tableaux de bord et vues filtrables, rapport opérationnel, business case
+- Ce qui entre: transactions et achats, sources publiques, KPI et séries historiques
+- Ce qui sort: tableaux de bord et vues filtrables, rapport opérationnel, business case
 - Valeur: décisions plus rapides, priorités plus claires, valeur commerciale récupérée
 - Signaux de besoin: données historiques disponibles mais non transformées en signaux, décisions récurrentes lentes ou fondées sur une information incomplète
 - Revue humaine: recommandée
@@ -476,8 +476,8 @@ La première valeur peut être un verdict négatif: les données disponibles ne 
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, kpi et séries historiques servent à produire rapport opérationnel et à soutenir coûts évités, avec revue humaine recommandée.
 - Domaine: Data science et décisions
-- Données d'entrée: KPI et séries historiques, transactions et achats, journaux et états de processus
-- Résultat: rapport opérationnel, business case, roadmap et priorités
+- Ce qui entre: KPI et séries historiques, transactions et achats, journaux et états de processus
+- Ce qui sort: rapport opérationnel, business case, roadmap et priorités
 - Valeur: coûts évités, priorités plus claires, traçabilité
 - Signaux de besoin: données historiques disponibles mais non transformées en signaux, décisions récurrentes lentes ou fondées sur une information incomplète
 - Revue humaine: recommandée
@@ -489,8 +489,8 @@ Cas, matériaux et contraintes explorés pour générer hypothèses, scénarios,
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, documentation interne servent à produire rapport opérationnel et à soutenir valeur commerciale récupérée, avec revue humaine recommandée.
 - Domaine: Outils transverses
-- Données d'entrée: documentation interne, feedback textuel, sources publiques
-- Résultat: rapport opérationnel, recommandations opérationnelles, brouillons contrôlés
+- Ce qui entre: documentation interne, feedback textuel, sources publiques
+- Ce qui sort: rapport opérationnel, recommandations opérationnelles, brouillons contrôlés
 - Valeur: valeur commerciale récupérée, priorités plus claires, décisions plus rapides
 - Signaux de besoin: décisions récurrentes lentes ou fondées sur une information incomplète, feedback abondant mais non analysé
 - Revue humaine: recommandée

@@ -4,7 +4,7 @@ Questo dossier pubblico estende la pagina HTML con il repertorio strutturato del
 
 ## Definizione
 
-Ogni scheda descrive un modello applicativo: quali dati o materiali entrano, quale risultato può essere prodotto, quale valore aziendale può generare e quali controlli restano umani. Artik Lab parte sempre da una prima conversazione di diagnosi e progetta soluzioni specifiche sul contesto del cliente.
+Ogni scheda descrive un esempio di uso: quali dati o materiali entrano, quale risultato può essere prodotto, quale valore aziendale può generare e quali controlli restano umani. Artik Lab parte sempre da una prima conversazione di diagnosi e progetta soluzioni specifiche sul contesto del cliente.
 
 ## Dataset pubblico
 
@@ -16,13 +16,13 @@ Ogni scheda descrive un modello applicativo: quali dati o materiali entrano, qua
 
 - Documenti e conoscenza: 4. Se il lavoro passa da PDF, scansioni, contratti o procedure.
 - Processi operativi: 6. Se decisioni, priorità e passaggi manuali rallentano il processo.
-- Persone e HR: 3. Se competenze, onboarding o feedback restano dispersi tra funzioni.
-- Cliente, marketing e vendite: 4. Se cliente, contenuti e vendite generano segnali che non vengono letti.
+- Persone e HR: 3. Se competenze, ingresso dei nuovi o giudizi restano sparsi tra uffici.
+- Cliente, marketing e vendite: 4. Se recensioni, ticket e vendite restano in testi che nessuno riassume.
 - Area tecnica e software: 4. Se regole, codice, disegni o sistemi tecnici devono diventare verificabili.
-- Governance, compliance e rischio: 3. Se uso AI, privacy, rischio e responsabilità non hanno ancora confini chiari.
+- Regole, obblighi e rischio: 3. Se uso AI, privacy, rischio e responsabilità non hanno ancora confini chiari.
 - Produzione, qualità e manutenzione: 3. Se produzione, qualità o manutenzione hanno dati che arrivano troppo tardi.
 - Formazione e memoria interna: 2. Se conoscenza interna e materiali formativi devono restare accessibili.
-- Data science e decisioni: 5. Se esistono storici, KPI o segnali da verificare prima di costruire.
+- Dati e decisioni: 5. Se ci sono storici o indicatori da controllare prima di fare un sistema.
 - Strumenti trasversali: 2. Se l'AI serve a esplorare, sintetizzare o preparare decisioni trasversali.
 
 ## Principio anti-cloaking e anonimizzazione
@@ -37,8 +37,8 @@ PDF, immagini e moduli diventano testo, tabelle e campi strutturati riutilizzabi
 
 - ID: document-structure-extraction
 - Area: Documenti e conoscenza
-- Input: PDF e allegati, scansioni e immagini, moduli compilati
-- Output: database strutturato, report operativo
+- Che cosa entra: PDF e allegati, scansioni e immagini, moduli compilati
+- Che cosa esce: database strutturato, report operativo
 - Valore: riduzione tempi, meno errori, tracciabilità
 - Settori: servizi professionali, HSE, sicurezza e servizi tecnici, manifatturiero
 - Servizi collegati: Software tecnico AI
@@ -55,8 +55,8 @@ Relazioni, contratti, capitolati e procedure vengono confrontati per trovare dis
 
 - ID: document-coherence-audit
 - Area: Documenti e conoscenza
-- Input: PDF e allegati, documentazione interna, contratti e policy, bandi e capitolati
-- Output: report operativo, mappa rischi
+- Che cosa entra: PDF e allegati, documentazione interna, contratti e policy, bandi e capitolati
+- Che cosa esce: report operativo, mappa rischi
 - Valore: meno errori, riduzione del rischio, tracciabilità
 - Settori: servizi professionali, uffici tecnici e ingegneria, HSE, sicurezza e servizi tecnici
 - Servizi collegati: Consulenza manageriale AI, Software tecnico AI
@@ -67,91 +67,91 @@ Relazioni, contratti, capitolati e procedure vengono confrontati per trovare dis
 - Rischio: medio
 - Privacy e controllo: Richiede anonimizzazione, controllo degli accessi e verifica specialistica quando tocca dati personali, legali, HR o regolati.
 
-### Rendere interrogabile la conoscenza aziendale
+### Cercare in manuali e procedure dell'azienda
 
 Manuali, procedure e knowledge base diventano un motore di ricerca semantico con risposte fondate su fonti citabili.
 
 - ID: semantic-knowledge-search
 - Area: Documenti e conoscenza
-- Input: documentazione interna, PDF e allegati, manuali e materiali formativi
-- Output: ricerca semantica, FAQ e risposte
-- Valore: conoscenza trasferibile, decisioni più rapide, servizio più uniforme
+- Che cosa entra: documentazione interna, PDF e allegati, manuali e materiali formativi
+- Che cosa esce: ricerca per significato, FAQ e risposte
+- Valore: sapere che non resta in una persona sola, decisioni più rapide, servizio più uniforme
 - Settori: funzioni aziendali trasversali, uffici tecnici e ingegneria, formazione e organizzazioni knowledge-intensive
 - Servizi collegati: Software tecnico AI
-- Corsi collegati: Ricerca semantica e knowledge base AI, RAG Engineering per sistemi AI affidabili, AI per customer service e ticket triage
-- Intenti di ricerca: AI per rendere interrogabile la conoscenza aziendale, applicazioni AI per documenti e conoscenza, come usare l'AI in azienda per rendere interrogabile la conoscenza aziendale
+- Corsi collegati: Ricerca semantica e knowledge base AI, RAG Engineering per sistemi AI affidabili, AI per assistenza clienti e classificazione delle richieste
+- Intenti di ricerca: AI per cercare in manuali e procedure dell'azienda, applicazioni AI per documenti e conoscenza, come usare l'AI in azienda per cercare in manuali e procedure dell'azienda
 - Segnali di bisogno: documenti dispersi e difficili da consultare, conoscenza critica concentrata in poche persone
 - Revisione umana: consigliata
 - Rischio: medio
 - Privacy e controllo: Usare dati autorizzati, minimizzare informazioni personali e mantenere revisione umana sugli output rilevanti.
 
-### Trasformare riunioni, email e ticket in memoria operativa
+### Trasformare riunioni, email e ticket in decisioni e scadenze scritte
 
 Trascrizioni e thread vengono puliti, sintetizzati e convertiti in decisioni, attività, scadenze e rischi tracciabili.
 
 - ID: meeting-email-decision-memory
 - Area: Processi operativi
-- Input: email e ticket, trascrizioni e appunti, ticket e richieste
-- Output: digest azionabile, roadmap e priorità
-- Valore: tracciabilità, decisioni più rapide, conoscenza trasferibile
+- Che cosa entra: email e ticket, trascrizioni e appunti, ticket e richieste
+- Che cosa esce: elenco di azioni, roadmap e priorità
+- Valore: tracciabilità, decisioni più rapide, sapere che non resta in una persona sola
 - Settori: funzioni aziendali trasversali, servizi professionali, uffici tecnici e ingegneria
 - Servizi collegati: Consulenza manageriale AI
 - Corsi collegati: AI Operations, AI Workflow Redesign Lab
-- Intenti di ricerca: AI per trasformare riunioni, email e ticket in memoria operativa, applicazioni AI per processi operativi, come usare l'AI in azienda per trasformare riunioni, email e ticket in memoria operativa
+- Intenti di ricerca: AI per trasformare riunioni, email e ticket in decisioni e scadenze scritte, applicazioni AI per processi operativi, come usare l'AI in azienda per trasformare riunioni, email e ticket in decisioni e scadenze scritte
 - Segnali di bisogno: decisioni ricorrenti lente o basate su informazioni incomplete, conoscenza critica concentrata in poche persone
 - Revisione umana: consigliata
 - Rischio: basso
 - Privacy e controllo: Usare dati autorizzati, minimizzare informazioni personali e mantenere revisione umana sugli output rilevanti.
 
-### Generare documenti controllati da template
+### Generare bozze da modelli aziendali, da far rileggere
 
 Report, lettere, contratti, FAQ e comunicazioni vengono prodotti da dati e template, con coerenza formale e revisione umana.
 
 - ID: controlled-document-generation
 - Area: Documenti e conoscenza
-- Input: database strutturato, documentazione interna, contratti e policy
-- Output: bozze controllate, FAQ e risposte
-- Valore: riduzione tempi, meno errori, conformità più governabile
+- Che cosa entra: database strutturato, documentazione interna, contratti e policy
+- Che cosa esce: bozze controllate, FAQ e risposte
+- Valore: riduzione tempi, meno errori, obblighi più facili da rispettare
 - Settori: servizi professionali, finanza, controllo e servizi regolati, HSE, sicurezza e servizi tecnici
 - Servizi collegati: Consulenza manageriale AI
 - Corsi collegati: Corso AI: gestire i documenti con AI, AI Legal Ops e compliance documentale, AI Output Quality & Human Review
-- Intenti di ricerca: AI per generare documenti controllati da template, applicazioni AI per documenti e conoscenza, come usare l'AI in azienda per generare documenti controllati da template
+- Intenti di ricerca: AI per generare bozze da modelli aziendali, da far rileggere, applicazioni AI per documenti e conoscenza, come usare l'AI in azienda per generare bozze da modelli aziendali, da far rileggere
 - Segnali di bisogno: copie manuali tra email, fogli e gestionali, errori ricorrenti in documenti, procedure o controlli
 - Revisione umana: necessaria
 - Rischio: medio
 - Privacy e controllo: Richiede anonimizzazione, controllo degli accessi e verifica specialistica quando tocca dati personali, legali, HR o regolati.
 
-### Mappare processi e ridisegnare workflow
+### Ricostruire come si lavora e dove si perde tempo
 
-Il lavoro reale viene ricostruito as-is, letto per colli di bottiglia e trasformato in uno scenario to-be con priorità e controlli.
+Il lavoro reale viene ricostruito come avviene oggi, letto per colli di bottiglia e trasformato in uno scenario futuro con priorità e controlli.
 
 - ID: process-mapping-redesign
 - Area: Processi operativi
-- Input: trascrizioni e appunti, log e stati di processo, email e ticket, fogli di calcolo
-- Output: roadmap e priorità, business case
+- Che cosa entra: trascrizioni e appunti, registri e stati del lavoro, email e ticket, fogli di calcolo
+- Che cosa esce: roadmap e priorità, valutazione di costo e ritorno
 - Valore: priorità più chiare, decisioni più rapide, costi evitati
 - Settori: funzioni aziendali trasversali, manifatturiero, servizi professionali
 - Servizi collegati: Consulenza manageriale AI
 - Corsi collegati: AI Workflow Redesign Lab, AI Business Case & ROI Sprint
-- Intenti di ricerca: AI per mappare processi e ridisegnare workflow, applicazioni AI per processi operativi, come usare l'AI in azienda per mappare processi e ridisegnare workflow
+- Intenti di ricerca: AI per ricostruire come si lavora e dove si perde tempo, applicazioni AI per processi operativi, come usare l'AI in azienda per ricostruire come si lavora e dove si perde tempo
 - Segnali di bisogno: decisioni ricorrenti lente o basate su informazioni incomplete, copie manuali tra email, fogli e gestionali, uso AI già presente ma senza regole condivise
 - Revisione umana: consigliata
 - Rischio: medio
 - Privacy e controllo: Usare dati autorizzati, minimizzare informazioni personali e mantenere revisione umana sugli output rilevanti.
 
-### Fare triage di email, ticket e richieste
+### Classificare email, ticket e richieste in arrivo
 
 Le comunicazioni in ingresso vengono classificate per urgenza, tema, responsabilità e azione richiesta, con bozze di risposta controllate.
 
 - ID: email-ticket-triage
 - Area: Processi operativi
-- Input: email e ticket, ticket e richieste, documentazione interna
-- Output: digest azionabile, bozze controllate, ranking di priorità
+- Che cosa entra: email e ticket, ticket e richieste, documentazione interna
+- Che cosa esce: elenco di azioni, bozze controllate, ranking di priorità
 - Valore: riduzione tempi, servizio più uniforme, priorità più chiare
 - Settori: funzioni aziendali trasversali, HSE, sicurezza e servizi tecnici, uffici tecnici e ingegneria
 - Servizi collegati: Software tecnico AI
-- Corsi collegati: AI per customer service e ticket triage, AI Operations
-- Intenti di ricerca: AI per fare triage di email, ticket e richieste, applicazioni AI per processi operativi, come usare l'AI in azienda per fare triage di email, ticket e richieste
+- Corsi collegati: AI per assistenza clienti e classificazione delle richieste, AI Operations
+- Intenti di ricerca: AI per classificare email, ticket e richieste in arrivo, applicazioni AI per processi operativi, come usare l'AI in azienda per classificare email, ticket e richieste in arrivo
 - Segnali di bisogno: copie manuali tra email, fogli e gestionali, decisioni ricorrenti lente o basate su informazioni incomplete
 - Revisione umana: consigliata
 - Rischio: medio
@@ -163,8 +163,8 @@ Disponibilità, vincoli, competenze, ferie e domanda vengono combinati per propo
 
 - ID: scheduling-resource-allocation
 - Area: Processi operativi
-- Input: fogli di calcolo, ERP e gestionali, KPI e serie storiche
-- Output: piano e assegnazioni, dashboard e viste filtrabili
+- Che cosa entra: fogli di calcolo, ERP e gestionali, indicatori e serie storiche
+- Che cosa esce: piano e assegnazioni, dashboard e viste filtrabili
 - Valore: efficienza produttiva, decisioni più rapide, costi evitati
 - Settori: manifatturiero, logistica e supply chain, HSE, sicurezza e servizi tecnici
 - Servizi collegati: Software tecnico AI, Analisi dati agentica
@@ -181,8 +181,8 @@ Serie storiche di ordini, incassi, ticket o produzione diventano stime operative
 
 - ID: demand-workload-forecast
 - Area: Processi operativi
-- Input: transazioni e acquisti, KPI e serie storiche, dati di produzione
-- Output: previsione verificabile, dashboard e viste filtrabili
+- Che cosa entra: transazioni e acquisti, indicatori e serie storiche, dati di produzione
+- Che cosa esce: previsione verificabile, dashboard e viste filtrabili
 - Valore: decisioni più rapide, costi evitati, efficienza produttiva
 - Settori: retail ed e-commerce, manifatturiero, logistica e supply chain
 - Servizi collegati: Analisi dati agentica
@@ -193,19 +193,19 @@ Serie storiche di ordini, incassi, ticket o produzione diventano stime operative
 - Rischio: medio
 - Privacy e controllo: Usare dati autorizzati, minimizzare informazioni personali e mantenere revisione umana sugli output rilevanti.
 
-### Tenere vivi requisiti, decisioni e stakeholder
+### Tenere aggiornati requisiti, decisioni e persone coinvolte
 
 Riunioni e documenti progettuali alimentano un dossier evolutivo con requisiti, conflitti latenti, decisioni e issue.
 
 - ID: project-requirements-memory
 - Area: Processi operativi
-- Input: trascrizioni e appunti, requisiti e specifiche, documentazione interna
-- Output: roadmap e priorità, mappa rischi
-- Valore: tracciabilità, meno errori, conoscenza trasferibile
+- Che cosa entra: trascrizioni e appunti, requisiti e specifiche, documentazione interna
+- Che cosa esce: roadmap e priorità, mappa rischi
+- Valore: tracciabilità, meno errori, sapere che non resta in una persona sola
 - Settori: uffici tecnici e ingegneria, servizi professionali, manifatturiero
 - Servizi collegati: Consulenza manageriale AI, Software tecnico AI
 - Corsi collegati: AI Workflow Redesign Lab, AI Software Engineering
-- Intenti di ricerca: AI per tenere vivi requisiti, decisioni e stakeholder, applicazioni AI per processi operativi, come usare l'AI in azienda per tenere vivi requisiti, decisioni e stakeholder
+- Intenti di ricerca: AI per tenere aggiornati requisiti, decisioni e persone coinvolte, applicazioni AI per processi operativi, come usare l'AI in azienda per tenere aggiornati requisiti, decisioni e persone coinvolte
 - Segnali di bisogno: decisioni ricorrenti lente o basate su informazioni incomplete, conoscenza critica concentrata in poche persone
 - Revisione umana: necessaria
 - Rischio: medio
@@ -213,16 +213,16 @@ Riunioni e documenti progettuali alimentano un dossier evolutivo con requisiti, 
 
 ### Leggere feedback, recensioni e ticket cliente
 
-Testi non strutturati vengono aggregati per temi, sentiment, bisogni ricorrenti e azioni prioritarie.
+Testi liberi vengono raggruppati per temi, tono, bisogni ricorrenti e azioni prioritarie.
 
 - ID: customer-feedback-intelligence
 - Area: Cliente, marketing e vendite
-- Input: feedback testuali, ticket e richieste, fonti pubbliche
-- Output: report operativo, ranking di priorità
-- Valore: servizio più uniforme, valore commerciale recuperato, priorità più chiare
+- Che cosa entra: feedback testuali, ticket e richieste, fonti pubbliche
+- Che cosa esce: report operativo, ranking di priorità
+- Valore: servizio più uniforme, vendite o margine recuperati, priorità più chiare
 - Settori: retail ed e-commerce, funzioni aziendali trasversali, servizi professionali
 - Servizi collegati: Analisi dati agentica
-- Corsi collegati: AI per customer service e ticket triage, Corso AI: marketing e comunicazione AI driven
+- Corsi collegati: AI per assistenza clienti e classificazione delle richieste, Corso AI: marketing e comunicazione con l'AI
 - Intenti di ricerca: AI per leggere feedback, recensioni e ticket cliente, applicazioni AI per cliente, marketing e vendite, come usare l'AI in azienda per leggere feedback, recensioni e ticket cliente
 - Segnali di bisogno: feedback abbondante ma non analizzato, decisioni ricorrenti lente o basate su informazioni incomplete
 - Revisione umana: consigliata
@@ -231,53 +231,53 @@ Testi non strutturati vengono aggregati per temi, sentiment, bisogni ricorrenti 
 
 ### Scoprire bisogni di mercato e target
 
-Fonti pubbliche e materiali forniti vengono sintetizzati in mappe di pain point, linguaggi, segmenti, partner e opportunità.
+Fonti pubbliche e materiali forniti vengono sintetizzati in mappe di problemi, linguaggi, segmenti, partner e opportunità.
 
 - ID: market-customer-discovery
 - Area: Cliente, marketing e vendite
-- Input: fonti pubbliche, feedback testuali, documentazione interna
-- Output: report operativo, business case
-- Valore: valore commerciale recuperato, priorità più chiare, decisioni più rapide
+- Che cosa entra: fonti pubbliche, feedback testuali, documentazione interna
+- Che cosa esce: report operativo, valutazione di costo e ritorno
+- Valore: vendite o margine recuperati, priorità più chiare, decisioni più rapide
 - Settori: retail ed e-commerce, servizi professionali, enti pubblici e territorio
 - Servizi collegati: Consulenza manageriale AI
-- Corsi collegati: Corso AI: marketing e comunicazione AI driven, Corso AI: vendita B2C e B2B con AI
+- Corsi collegati: Corso AI: marketing e comunicazione con l'AI, Corso AI: vendita B2C e B2B con AI
 - Intenti di ricerca: AI per scoprire bisogni di mercato e target, applicazioni AI per cliente, marketing e vendite, come usare l'AI in azienda per scoprire bisogni di mercato e target
 - Segnali di bisogno: feedback abbondante ma non analizzato, decisioni ricorrenti lente o basate su informazioni incomplete
 - Revisione umana: consigliata
 - Rischio: medio
 - Privacy e controllo: Usare dati autorizzati, minimizzare informazioni personali e mantenere revisione umana sugli output rilevanti.
 
-### Codificare voce di marca e contenuti
+### Fissare il tono di marca e preparare bozze coerenti
 
 Interviste, esempi approvati e materiali commerciali diventano linee guida operative e bozze multicanale coerenti.
 
 - ID: brand-voice-content-engine
 - Area: Cliente, marketing e vendite
-- Input: documentazione interna, feedback testuali, fonti pubbliche
-- Output: policy e guardrail, bozze controllate
-- Valore: riduzione tempi, valore commerciale recuperato, tracciabilità
+- Che cosa entra: documentazione interna, feedback testuali, fonti pubbliche
+- Che cosa esce: regole e limiti d'uso, bozze controllate
+- Valore: riduzione tempi, vendite o margine recuperati, tracciabilità
 - Settori: funzioni aziendali trasversali, retail ed e-commerce, enti pubblici e territorio
 - Servizi collegati: Consulenza manageriale AI
-- Corsi collegati: AI Brand Voice e comunicazione, Corso AI: marketing e comunicazione AI driven
-- Intenti di ricerca: AI per codificare voce di marca e contenuti, applicazioni AI per cliente, marketing e vendite, come usare l'AI in azienda per codificare voce di marca e contenuti
+- Corsi collegati: AI Brand Voice e comunicazione, Corso AI: marketing e comunicazione con l'AI
+- Intenti di ricerca: AI per fissare il tono di marca e preparare bozze coerenti, applicazioni AI per cliente, marketing e vendite, come usare l'AI in azienda per fissare il tono di marca e preparare bozze coerenti
 - Segnali di bisogno: errori ricorrenti in documenti, procedure o controlli, copie manuali tra email, fogli e gestionali
 - Revisione umana: necessaria
 - Rischio: basso
 - Privacy e controllo: Usare dati autorizzati, minimizzare informazioni personali e mantenere revisione umana sugli output rilevanti.
 
-### Supportare vendite, pricing e raccomandazioni
+### Aiutare vendite, prezzi e proposte al cliente
 
 Storici di acquisto, cataloghi e informazioni competitive aiutano a costruire pitch, bundle, priorità commerciali e scenari prezzo.
 
 - ID: sales-pricing-recommendations
 - Area: Cliente, marketing e vendite
-- Input: transazioni e acquisti, documentazione interna, fonti pubbliche
-- Output: raccomandazioni operative, business case
-- Valore: valore commerciale recuperato, decisioni più rapide, priorità più chiare
+- Che cosa entra: transazioni e acquisti, documentazione interna, fonti pubbliche
+- Che cosa esce: raccomandazioni operative, valutazione di costo e ritorno
+- Valore: vendite o margine recuperati, decisioni più rapide, priorità più chiare
 - Settori: retail ed e-commerce, funzioni aziendali trasversali
 - Servizi collegati: Analisi dati agentica
 - Corsi collegati: Corso AI: vendita B2C e B2B con AI, AI Business Case & ROI Sprint
-- Intenti di ricerca: AI per supportare vendite, pricing e raccomandazioni, applicazioni AI per cliente, marketing e vendite, come usare l'AI in azienda per supportare vendite, pricing e raccomandazioni
+- Intenti di ricerca: AI per aiutare vendite, prezzi e proposte al cliente, applicazioni AI per cliente, marketing e vendite, come usare l'AI in azienda per aiutare vendite, prezzi e proposte al cliente
 - Segnali di bisogno: dati storici disponibili ma non trasformati in segnali, decisioni ricorrenti lente o basate su informazioni incomplete
 - Revisione umana: necessaria
 - Rischio: medio
@@ -285,13 +285,13 @@ Storici di acquisto, cataloghi e informazioni competitive aiutano a costruire pi
 
 ### Mappare competenze e fabbisogni
 
-Competenze, ruoli, obiettivi futuri e trend vengono collegati per definire priorità di sviluppo, upskilling e reskilling.
+Competenze, ruoli, obiettivi futuri e trend vengono collegati per definire priorità di sviluppo, di formazione e di riqualificazione.
 
 - ID: hr-competence-map
 - Area: Persone e HR
-- Input: dati HR aggregati, documentazione interna, fonti pubbliche
-- Output: roadmap e priorità, report operativo
-- Valore: conoscenza trasferibile, priorità più chiare, formazione più rapida
+- Che cosa entra: dati HR aggregati, documentazione interna, fonti pubbliche
+- Che cosa esce: roadmap e priorità, report operativo
+- Valore: sapere che non resta in una persona sola, priorità più chiare, formazione più rapida
 - Settori: funzioni aziendali trasversali, formazione e organizzazioni knowledge-intensive
 - Servizi collegati: Consulenza manageriale AI
 - Corsi collegati: AI People Ops, AI Adoption Manager / AI Champions
@@ -301,19 +301,19 @@ Competenze, ruoli, obiettivi futuri e trend vengono collegati per definire prior
 - Rischio: medio
 - Privacy e controllo: Richiede anonimizzazione, controllo degli accessi e verifica specialistica quando tocca dati personali, legali, HR o regolati.
 
-### Supportare recruiting e onboarding
+### Aiutare selezione e ingresso dei nuovi assunti
 
 Job description, candidature e materiali di ingresso vengono strutturati per preparare valutazioni, comunicazioni e percorsi iniziali.
 
 - ID: recruiting-onboarding-support
 - Area: Persone e HR
-- Input: CV e candidature, dati HR aggregati, manuali e materiali formativi
-- Output: report operativo, bozze controllate
+- Che cosa entra: CV e candidature, dati HR aggregati, manuali e materiali formativi
+- Che cosa esce: report operativo, bozze controllate
 - Valore: riduzione tempi, meno errori, formazione più rapida
 - Settori: funzioni aziendali trasversali, formazione e organizzazioni knowledge-intensive
 - Servizi collegati: Consulenza manageriale AI
 - Corsi collegati: AI People Ops
-- Intenti di ricerca: AI per supportare recruiting e onboarding, applicazioni AI per persone e hr, come usare l'AI in azienda per supportare recruiting e onboarding
+- Intenti di ricerca: AI per aiutare selezione e ingresso dei nuovi assunti, applicazioni AI per persone e hr, come usare l'AI in azienda per aiutare selezione e ingresso dei nuovi assunti
 - Segnali di bisogno: copie manuali tra email, fogli e gestionali, conoscenza critica concentrata in poche persone
 - Revisione umana: necessaria
 - Rischio: alto
@@ -325,9 +325,9 @@ Policy, benefit, procedure e richieste ricorrenti diventano FAQ, bozze e percors
 
 - ID: hr-policy-requests
 - Area: Persone e HR
-- Input: dati HR aggregati, documentazione interna, contratti e policy
-- Output: FAQ e risposte, bozze controllate
-- Valore: servizio più uniforme, riduzione tempi, conformità più governabile
+- Che cosa entra: dati HR aggregati, documentazione interna, contratti e policy
+- Che cosa esce: FAQ e risposte, bozze controllate
+- Valore: servizio più uniforme, riduzione tempi, obblighi più facili da rispettare
 - Settori: funzioni aziendali trasversali
 - Servizi collegati: Consulenza manageriale AI
 - Corsi collegati: AI People Ops, Secure AI at Work
@@ -337,37 +337,37 @@ Policy, benefit, procedure e richieste ricorrenti diventano FAQ, bozze e percors
 - Rischio: alto
 - Privacy e controllo: Richiede anonimizzazione, controllo degli accessi e verifica specialistica quando tocca dati personali, legali, HR o regolati.
 
-### Definire requisiti, MVP e criteri di accettazione
+### Definire requisiti, primo rilascio minimo e criteri di accettazione
 
-Un bisogno tecnico viene trasformato in requisiti, user story, vincoli non funzionali, stime e confini del primo rilascio.
+Un bisogno tecnico viene trasformato in requisiti, storie d'uso, vincoli, stime e confini del primo rilascio.
 
 - ID: software-requirements-and-mvp
 - Area: Area tecnica e software
-- Input: requisiti e specifiche, trascrizioni e appunti, documentazione interna
-- Output: roadmap e priorità, test e checklist
+- Che cosa entra: requisiti e specifiche, trascrizioni e appunti, documentazione interna
+- Che cosa esce: roadmap e priorità, test e checklist
 - Valore: meno errori, tracciabilità, costi evitati
 - Settori: uffici tecnici e ingegneria, manifatturiero
 - Servizi collegati: Software tecnico AI
 - Corsi collegati: AI Software Engineering, AI Coding Agents per team software
-- Intenti di ricerca: AI per definire requisiti, MVP e criteri di accettazione, applicazioni AI per area tecnica e software, come usare l'AI in azienda per definire requisiti, MVP e criteri di accettazione
+- Intenti di ricerca: AI per definire requisiti, primo rilascio minimo e criteri di accettazione, applicazioni AI per area tecnica e software, come usare l'AI in azienda per definire requisiti, primo rilascio minimo e criteri di accettazione
 - Segnali di bisogno: decisioni ricorrenti lente o basate su informazioni incomplete, errori ricorrenti in documenti, procedure o controlli
 - Revisione umana: necessaria
 - Rischio: medio
 - Privacy e controllo: Trattare codice, capitolati, dati industriali e immagini operative come proprietà intellettuale; pubblicare solo esempi anonimizzati.
 
-### Accelerare sviluppo, refactoring e test
+### Accelerare scrittura, pulizia e test del codice
 
 Codice esistente e specifiche guidano generazione controllata di codice, test unitari, refactoring e audit di qualità.
 
 - ID: ai-assisted-coding-quality
 - Area: Area tecnica e software
-- Input: codice e repository, requisiti e specifiche
-- Output: test e checklist, report operativo
+- Che cosa entra: codice e repository, requisiti e specifiche
+- Che cosa esce: test e checklist, report operativo
 - Valore: riduzione tempi, meno errori, tracciabilità
 - Settori: uffici tecnici e ingegneria
 - Servizi collegati: Software tecnico AI
 - Corsi collegati: AI Coding Agents per team software, Secure AI SDLC, AI Software Engineering
-- Intenti di ricerca: AI per accelerare sviluppo, refactoring e test, applicazioni AI per area tecnica e software, come usare l'AI in azienda per accelerare sviluppo, refactoring e test
+- Intenti di ricerca: AI per accelerare scrittura, pulizia e test del codice, applicazioni AI per area tecnica e software, come usare l'AI in azienda per accelerare scrittura, pulizia e test del codice
 - Segnali di bisogno: errori ricorrenti in documenti, procedure o controlli, copie manuali tra email, fogli e gestionali
 - Revisione umana: necessaria
 - Rischio: alto
@@ -379,8 +379,8 @@ Bandi, capitolati, relazioni e schede tecniche vengono analizzati per requisiti 
 
 - ID: technical-tender-documentation
 - Area: Area tecnica e software
-- Input: bandi e capitolati, documentazione interna, disegni tecnici
-- Output: report operativo, bozze controllate, mappa rischi
+- Che cosa entra: bandi e capitolati, documentazione interna, disegni tecnici
+- Che cosa esce: report operativo, bozze controllate, mappa rischi
 - Valore: riduzione del rischio, meno errori, tracciabilità
 - Settori: uffici tecnici e ingegneria, servizi professionali, manifatturiero
 - Servizi collegati: Software tecnico AI
@@ -393,13 +393,13 @@ Bandi, capitolati, relazioni e schede tecniche vengono analizzati per requisiti 
 
 ### Interpretare immagini, disegni e materiali tecnici
 
-Foto, disegni e render vengono trasformati in schede descrittive, analisi di componenti, quote e narrazioni tecniche verificabili.
+Foto, disegni e render vengono trasformati in schede descrittive, analisi di componenti, misure e descrizioni tecniche da verificare.
 
 - ID: visual-technical-analysis
 - Area: Area tecnica e software
-- Input: fotografie operative, disegni tecnici, documentazione interna
-- Output: report operativo, bozze controllate
-- Valore: conoscenza trasferibile, decisioni più rapide, meno errori
+- Che cosa entra: fotografie operative, disegni tecnici, documentazione interna
+- Che cosa esce: report operativo, bozze controllate
+- Valore: sapere che non resta in una persona sola, decisioni più rapide, meno errori
 - Settori: uffici tecnici e ingegneria, manifatturiero
 - Servizi collegati: Software tecnico AI
 - Corsi collegati: AI Software Engineering, AI Output Quality & Human Review
@@ -409,19 +409,19 @@ Foto, disegni e render vengono trasformati in schede descrittive, analisi di com
 - Rischio: medio
 - Privacy e controllo: Trattare codice, capitolati, dati industriali e immagini operative come proprietà intellettuale; pubblicare solo esempi anonimizzati.
 
-### Costruire governance, policy e matrice di rischio AI
+### Definire regole, limiti e rischi dell'uso di AI
 
 Attività, dati e decisioni vengono classificati in zone di autonomia, supervisione o esclusione, con regole operative chiare.
 
 - ID: ai-governance-policy-risk
-- Area: Governance, compliance e rischio
-- Input: documentazione interna, policy e linee guida, trascrizioni e appunti
-- Output: policy e guardrail, mappa rischi, roadmap e priorità
-- Valore: riduzione del rischio, conformità più governabile, priorità più chiare
+- Area: Regole, obblighi e rischio
+- Che cosa entra: documentazione interna, policy e linee guida, trascrizioni e appunti
+- Che cosa esce: regole e limiti d'uso, mappa rischi, roadmap e priorità
+- Valore: riduzione del rischio, obblighi più facili da rispettare, priorità più chiare
 - Settori: funzioni aziendali trasversali, finanza, controllo e servizi regolati, HSE, sicurezza e servizi tecnici
 - Servizi collegati: Consulenza manageriale AI
 - Corsi collegati: AI Governance operativa, Secure AI at Work, Managing AI
-- Intenti di ricerca: AI per costruire governance, policy e matrice di rischio AI, applicazioni AI per governance, compliance e rischio, come usare l'AI in azienda per costruire governance, policy e matrice di rischio AI
+- Intenti di ricerca: AI per definire regole, limiti e rischi dell'uso di AI, applicazioni AI per regole, obblighi e rischio, come usare l'AI in azienda per definire regole, limiti e rischi dell'uso di AI
 - Segnali di bisogno: uso AI già presente ma senza regole condivise, decisioni ricorrenti lente o basate su informazioni incomplete
 - Revisione umana: necessaria
 - Rischio: alto
@@ -432,14 +432,14 @@ Attività, dati e decisioni vengono classificati in zone di autonomia, supervisi
 Contratti, informative, registri, procedure e lettere vengono predisposti come supporto preparatorio da verificare con specialisti.
 
 - ID: compliance-legal-privacy-drafting
-- Area: Governance, compliance e rischio
-- Input: contratti e policy, documentazione interna, moduli compilati
-- Output: bozze controllate, mappa rischi
-- Valore: riduzione tempi, conformità più governabile, riduzione del rischio
+- Area: Regole, obblighi e rischio
+- Che cosa entra: contratti e policy, documentazione interna, moduli compilati
+- Che cosa esce: bozze controllate, mappa rischi
+- Valore: riduzione tempi, obblighi più facili da rispettare, riduzione del rischio
 - Settori: servizi professionali, finanza, controllo e servizi regolati, funzioni aziendali trasversali
 - Servizi collegati: Consulenza manageriale AI
 - Corsi collegati: AI Legal Ops e compliance documentale, AI Governance operativa
-- Intenti di ricerca: AI per preparare documenti compliance, legali e privacy, applicazioni AI per governance, compliance e rischio, come usare l'AI in azienda per preparare documenti compliance, legali e privacy
+- Intenti di ricerca: AI per preparare documenti compliance, legali e privacy, applicazioni AI per regole, obblighi e rischio, come usare l'AI in azienda per preparare documenti compliance, legali e privacy
 - Segnali di bisogno: copie manuali tra email, fogli e gestionali, errori ricorrenti in documenti, procedure o controlli
 - Revisione umana: necessaria
 - Rischio: alto
@@ -447,35 +447,35 @@ Contratti, informative, registri, procedure e lettere vengono predisposti come s
 
 ### Testare assistenti AI contro usi impropri
 
-Chatbot e assistenti vengono stressati con scenari di manipolazione, fuga dati e istruzioni conflittuali, poi rinforzati con guardrail.
+Chatbot e assistenti vengono stressati con scenari di manipolazione, fuga dati e istruzioni conflittuali, poi rinforzati con limiti d'uso scritti.
 
 - ID: ai-system-security-tests
-- Area: Governance, compliance e rischio
-- Input: documentazione interna, requisiti e specifiche, policy e linee guida
-- Output: test e checklist, policy e guardrail, report operativo
-- Valore: riduzione del rischio, conformità più governabile, servizio più uniforme
+- Area: Regole, obblighi e rischio
+- Che cosa entra: documentazione interna, requisiti e specifiche, policy e linee guida
+- Che cosa esce: test e checklist, regole e limiti d'uso, report operativo
+- Valore: riduzione del rischio, obblighi più facili da rispettare, servizio più uniforme
 - Settori: uffici tecnici e ingegneria, funzioni aziendali trasversali
 - Servizi collegati: Software tecnico AI
 - Corsi collegati: Secure AI SDLC, Secure AI at Work
-- Intenti di ricerca: AI per testare assistenti AI contro usi impropri, applicazioni AI per governance, compliance e rischio, come usare l'AI in azienda per testare assistenti AI contro usi impropri
+- Intenti di ricerca: AI per testare assistenti AI contro usi impropri, applicazioni AI per regole, obblighi e rischio, come usare l'AI in azienda per testare assistenti AI contro usi impropri
 - Segnali di bisogno: uso AI già presente ma senza regole condivise, errori ricorrenti in documenti, procedure o controlli
 - Revisione umana: necessaria
 - Rischio: alto
 - Privacy e controllo: Trattare codice, capitolati, dati industriali e immagini operative come proprietà intellettuale; pubblicare solo esempi anonimizzati.
 
-### Analizzare anomalie HSE da immagini operative
+### Analizzare da foto di reparto rischi per salute e sicurezza
 
 Fotografie di sopralluogo o reparto vengono lette per individuare non conformità, rischi e misure preventive da verificare.
 
 - ID: hse-visual-inspection
 - Area: Produzione, qualità e manutenzione
-- Input: fotografie operative, documentazione interna
-- Output: report operativo, mappa rischi
-- Valore: riduzione del rischio, decisioni più rapide, conformità più governabile
+- Che cosa entra: fotografie operative, documentazione interna
+- Che cosa esce: report operativo, mappa rischi
+- Valore: riduzione del rischio, decisioni più rapide, obblighi più facili da rispettare
 - Settori: HSE, sicurezza e servizi tecnici, manifatturiero
 - Servizi collegati: Software tecnico AI
 - Corsi collegati: AI per qualità e non conformità, AI Operations
-- Intenti di ricerca: AI per analizzare anomalie HSE da immagini operative, applicazioni AI per produzione, qualità e manutenzione, come usare l'AI in azienda per analizzare anomalie HSE da immagini operative
+- Intenti di ricerca: AI per analizzare da foto di reparto rischi per salute e sicurezza, applicazioni AI per produzione, qualità e manutenzione, come usare l'AI in azienda per analizzare da foto di reparto rischi per salute e sicurezza
 - Segnali di bisogno: errori ricorrenti in documenti, procedure o controlli, copie manuali tra email, fogli e gestionali
 - Revisione umana: necessaria
 - Rischio: alto
@@ -487,8 +487,8 @@ Programmi cliente, ERP, cicli, non conformità e costi storici supportano priori
 
 - ID: production-planning-quality
 - Area: Produzione, qualità e manutenzione
-- Input: ERP e gestionali, dati di produzione, fogli di calcolo
-- Output: piano e assegnazioni, report operativo, raccomandazioni operative
+- Che cosa entra: ERP e gestionali, dati di produzione, fogli di calcolo
+- Che cosa esce: piano e assegnazioni, report operativo, raccomandazioni operative
 - Valore: efficienza produttiva, meno errori, costi evitati
 - Settori: manifatturiero, logistica e supply chain
 - Servizi collegati: Software tecnico AI, Analisi dati agentica
@@ -505,8 +505,8 @@ Storico guasti, sensori e interventi diventano priorità di controllo, finestre 
 
 - ID: maintenance-and-asset-risk
 - Area: Produzione, qualità e manutenzione
-- Input: sensori e telemetria, dati di produzione, log e stati di processo
-- Output: allarmi e soglie, ranking di priorità, dashboard e viste filtrabili
+- Che cosa entra: sensori e misure a distanza, dati di produzione, registri e stati del lavoro
+- Che cosa esce: allarmi e soglie, ranking di priorità, dashboard e viste filtrabili
 - Valore: efficienza produttiva, costi evitati, riduzione del rischio
 - Settori: manifatturiero, logistica e supply chain
 - Servizi collegati: Analisi dati agentica
@@ -519,13 +519,13 @@ Storico guasti, sensori e interventi diventano priorità di controllo, finestre 
 
 ### Creare formazione, quiz e slide da materiali interni
 
-Manuali, slide e documenti disaggregati diventano syllabus, quiz, casi studio e materiali didattici per ruolo.
+Manuali, slide e documenti disaggregati diventano programma del corso, quiz, casi studio e materiali didattici per ruolo.
 
 - ID: internal-training-assets
 - Area: Formazione e memoria interna
-- Input: manuali e materiali formativi, documentazione interna, trascrizioni e appunti
-- Output: FAQ e risposte, bozze controllate
-- Valore: formazione più rapida, conoscenza trasferibile, servizio più uniforme
+- Che cosa entra: manuali e materiali formativi, documentazione interna, trascrizioni e appunti
+- Che cosa esce: FAQ e risposte, bozze controllate
+- Valore: formazione più rapida, sapere che non resta in una persona sola, servizio più uniforme
 - Settori: formazione e organizzazioni knowledge-intensive, funzioni aziendali trasversali
 - Servizi collegati: Consulenza manageriale AI
 - Corsi collegati: Role-Based AI Literacy & Responsible Use, Managing AI per team aziendali misti, Corso AI: gestire i documenti con AI
@@ -535,37 +535,37 @@ Manuali, slide e documenti disaggregati diventano syllabus, quiz, casi studio e 
 - Rischio: basso
 - Privacy e controllo: Usare dati autorizzati, minimizzare informazioni personali e mantenere revisione umana sugli output rilevanti.
 
-### Costruire assistenti per memoria aziendale
+### Costruire assistenti che rispondono dai documenti interni
 
-La documentazione interna alimenta assistenti Q&A, anche vocali, che rispondono con fonti e confini d'uso chiari.
+La documentazione interna alimenta assistenti a domande e risposte, anche vocali, che rispondono con fonti e confini d'uso chiari.
 
 - ID: company-memory-assistants
 - Area: Formazione e memoria interna
-- Input: documentazione interna, manuali e materiali formativi, policy e linee guida
-- Output: ricerca semantica, FAQ e risposte, policy e guardrail
-- Valore: conoscenza trasferibile, servizio più uniforme, riduzione tempi
+- Che cosa entra: documentazione interna, manuali e materiali formativi, policy e linee guida
+- Che cosa esce: ricerca per significato, FAQ e risposte, regole e limiti d'uso
+- Valore: sapere che non resta in una persona sola, servizio più uniforme, riduzione tempi
 - Settori: funzioni aziendali trasversali, manifatturiero, formazione e organizzazioni knowledge-intensive
 - Servizi collegati: Software tecnico AI
 - Corsi collegati: RAG Engineering per sistemi AI affidabili, Ricerca semantica e knowledge base AI, Secure AI at Work
-- Intenti di ricerca: AI per costruire assistenti per memoria aziendale, applicazioni AI per formazione e memoria interna, come usare l'AI in azienda per costruire assistenti per memoria aziendale
+- Intenti di ricerca: AI per costruire assistenti che rispondono dai documenti interni, applicazioni AI per formazione e memoria interna, come usare l'AI in azienda per costruire assistenti che rispondono dai documenti interni
 - Segnali di bisogno: conoscenza critica concentrata in poche persone, documenti dispersi e difficili da consultare
 - Revisione umana: necessaria
 - Rischio: medio
 - Privacy e controllo: Usare dati autorizzati, minimizzare informazioni personali e mantenere revisione umana sugli output rilevanti.
 
-### Produrre report executive e asset visuali
+### Produrre report per la direzione e materiali visivi
 
 Dati, KPI e materiali eterogenei vengono trasformati in report narrativi, infografiche, presentazioni e contenuti visuali coerenti.
 
 - ID: executive-reports-visual-assets
 - Area: Strumenti trasversali
-- Input: KPI e serie storiche, fogli di calcolo, documentazione interna
-- Output: report operativo, dashboard e viste filtrabili, bozze controllate
-- Valore: decisioni più rapide, tracciabilità, valore commerciale recuperato
+- Che cosa entra: indicatori e serie storiche, fogli di calcolo, documentazione interna
+- Che cosa esce: report operativo, dashboard e viste filtrabili, bozze controllate
+- Valore: decisioni più rapide, tracciabilità, vendite o margine recuperati
 - Settori: funzioni aziendali trasversali
 - Servizi collegati: Consulenza manageriale AI
 - Corsi collegati: AI Output Quality & Human Review, AI Brand Voice e comunicazione
-- Intenti di ricerca: AI per produrre report executive e asset visuali, applicazioni AI per strumenti trasversali, come usare l'AI in azienda per produrre report executive e asset visuali
+- Intenti di ricerca: AI per produrre report per la direzione e materiali visivi, applicazioni AI per strumenti trasversali, come usare l'AI in azienda per produrre report per la direzione e materiali visivi
 - Segnali di bisogno: dati storici disponibili ma non trasformati in segnali, copie manuali tra email, fogli e gestionali
 - Revisione umana: consigliata
 - Rischio: basso
@@ -576,32 +576,32 @@ Dati, KPI e materiali eterogenei vengono trasformati in report narrativi, infogr
 Serie temporali e sensori industriali vengono usati per allarmi, analisi degrado e manutenzione predittiva con soglie verificabili.
 
 - ID: predictive-maintenance-anomalies
-- Area: Data science e decisioni
-- Input: sensori e telemetria, dati di produzione, KPI e serie storiche
-- Output: allarmi e soglie, previsione verificabile, dashboard e viste filtrabili
+- Area: Dati e decisioni
+- Che cosa entra: sensori e misure a distanza, dati di produzione, indicatori e serie storiche
+- Che cosa esce: allarmi e soglie, previsione verificabile, dashboard e viste filtrabili
 - Valore: efficienza produttiva, costi evitati, riduzione del rischio
 - Settori: manifatturiero, logistica e supply chain
 - Servizi collegati: Analisi dati agentica, Software tecnico AI
 - Corsi collegati: AI Business Case & ROI Sprint, AI Operations
-- Intenti di ricerca: AI per rilevare anomalie e degrado su macchinari, applicazioni AI per data science e decisioni, come usare l'AI in azienda per rilevare anomalie e degrado su macchinari
+- Intenti di ricerca: AI per rilevare anomalie e degrado su macchinari, applicazioni AI per dati e decisioni, come usare l'AI in azienda per rilevare anomalie e degrado su macchinari
 - Segnali di bisogno: dati storici disponibili ma non trasformati in segnali, pianificazione ancora molto manuale
 - Revisione umana: necessaria
 - Rischio: medio
 - Privacy e controllo: Trattare codice, capitolati, dati industriali e immagini operative come proprietà intellettuale; pubblicare solo esempi anonimizzati.
 
-### Segmentare clienti, churn e cross-selling
+### Segmentare i clienti, chi sta per andarsene e cosa proporre in più
 
 Storici transazionali e comportamentali diventano segmenti, ranking di rischio, bundle e azioni commerciali differenziate.
 
 - ID: customer-segmentation-churn-crosssell
-- Area: Data science e decisioni
-- Input: transazioni e acquisti, feedback testuali, KPI e serie storiche
-- Output: ranking di priorità, raccomandazioni operative, business case
-- Valore: valore commerciale recuperato, priorità più chiare, servizio più uniforme
+- Area: Dati e decisioni
+- Che cosa entra: transazioni e acquisti, feedback testuali, indicatori e serie storiche
+- Che cosa esce: ranking di priorità, raccomandazioni operative, valutazione di costo e ritorno
+- Valore: vendite o margine recuperati, priorità più chiare, servizio più uniforme
 - Settori: retail ed e-commerce, finanza, controllo e servizi regolati
 - Servizi collegati: Analisi dati agentica
 - Corsi collegati: Corso AI: vendita B2C e B2B con AI, AI Business Case & ROI Sprint
-- Intenti di ricerca: AI per segmentare clienti, churn e cross-selling, applicazioni AI per data science e decisioni, come usare l'AI in azienda per segmentare clienti, churn e cross-selling
+- Intenti di ricerca: AI per segmentare i clienti, chi sta per andarsene e cosa proporre in più, applicazioni AI per dati e decisioni, come usare l'AI in azienda per segmentare i clienti, chi sta per andarsene e cosa proporre in più
 - Segnali di bisogno: dati storici disponibili ma non trasformati in segnali, feedback abbondante ma non analizzato
 - Revisione umana: necessaria
 - Rischio: medio
@@ -612,14 +612,14 @@ Storici transazionali e comportamentali diventano segmenti, ranking di rischio, 
 Telemetria, consumi, qualità e parametri macchina mostrano profili efficienti, sprechi e raccomandazioni operative.
 
 - ID: energy-line-optimization
-- Area: Data science e decisioni
-- Input: sensori e telemetria, dati di produzione, KPI e serie storiche
-- Output: dashboard e viste filtrabili, raccomandazioni operative, business case
+- Area: Dati e decisioni
+- Che cosa entra: sensori e misure a distanza, dati di produzione, indicatori e serie storiche
+- Che cosa esce: dashboard e viste filtrabili, raccomandazioni operative, valutazione di costo e ritorno
 - Valore: efficienza produttiva, costi evitati, decisioni più rapide
 - Settori: manifatturiero
 - Servizi collegati: Analisi dati agentica
 - Corsi collegati: AI Business Case & ROI Sprint, AI per qualità e non conformità
-- Intenti di ricerca: AI per ottimizzare energia, qualità e prestazioni di linea, applicazioni AI per data science e decisioni, come usare l'AI in azienda per ottimizzare energia, qualità e prestazioni di linea
+- Intenti di ricerca: AI per ottimizzare energia, qualità e prestazioni di linea, applicazioni AI per dati e decisioni, come usare l'AI in azienda per ottimizzare energia, qualità e prestazioni di linea
 - Segnali di bisogno: dati storici disponibili ma non trasformati in segnali, errori ricorrenti in documenti, procedure o controlli
 - Revisione umana: necessaria
 - Rischio: medio
@@ -630,56 +630,56 @@ Telemetria, consumi, qualità e parametri macchina mostrano profili efficienti, 
 Dati aggregati fiscali, territoriali o commerciali vengono trasformati in mappe, cluster, driver di marginalità e roadmap decisionali.
 
 - ID: territorial-profitability-analytics
-- Area: Data science e decisioni
-- Input: transazioni e acquisti, fonti pubbliche, KPI e serie storiche
-- Output: dashboard e viste filtrabili, report operativo, business case
-- Valore: decisioni più rapide, priorità più chiare, valore commerciale recuperato
+- Area: Dati e decisioni
+- Che cosa entra: transazioni e acquisti, fonti pubbliche, indicatori e serie storiche
+- Che cosa esce: dashboard e viste filtrabili, report operativo, valutazione di costo e ritorno
+- Valore: decisioni più rapide, priorità più chiare, vendite o margine recuperati
 - Settori: enti pubblici e territorio, retail ed e-commerce, finanza, controllo e servizi regolati
 - Servizi collegati: Analisi dati agentica
 - Corsi collegati: AI Business Case & ROI Sprint
-- Intenti di ricerca: AI per analizzare territori, redditività e trend, applicazioni AI per data science e decisioni, come usare l'AI in azienda per analizzare territori, redditività e trend
+- Intenti di ricerca: AI per analizzare territori, redditività e trend, applicazioni AI per dati e decisioni, come usare l'AI in azienda per analizzare territori, redditività e trend
 - Segnali di bisogno: dati storici disponibili ma non trasformati in segnali, decisioni ricorrenti lente o basate su informazioni incomplete
 - Revisione umana: consigliata
 - Rischio: medio
 - Privacy e controllo: Usare dati autorizzati, minimizzare informazioni personali e mantenere revisione umana sugli output rilevanti.
 
-### Capire quando non costruire un modello
+### Capire quando i dati non bastano per una previsione
 
 Il primo valore può essere un verdetto negativo: il dato disponibile non contiene ancora il segnale utile e va migliorata la raccolta.
 
 - ID: data-quality-go-no-go
-- Area: Data science e decisioni
-- Input: KPI e serie storiche, transazioni e acquisti, log e stati di processo
-- Output: report operativo, business case, roadmap e priorità
+- Area: Dati e decisioni
+- Che cosa entra: indicatori e serie storiche, transazioni e acquisti, registri e stati del lavoro
+- Che cosa esce: report operativo, valutazione di costo e ritorno, roadmap e priorità
 - Valore: costi evitati, priorità più chiare, tracciabilità
 - Settori: funzioni aziendali trasversali
 - Servizi collegati: Analisi dati agentica
 - Corsi collegati: AI Business Case & ROI Sprint
-- Intenti di ricerca: AI per capire quando non costruire un modello, applicazioni AI per data science e decisioni, come usare l'AI in azienda per capire quando non costruire un modello
+- Intenti di ricerca: AI per capire quando i dati non bastano per una previsione, applicazioni AI per dati e decisioni, come usare l'AI in azienda per capire quando i dati non bastano per una previsione
 - Segnali di bisogno: dati storici disponibili ma non trasformati in segnali, decisioni ricorrenti lente o basate su informazioni incomplete
 - Revisione umana: consigliata
 - Rischio: basso
 - Privacy e controllo: Usare dati autorizzati, minimizzare informazioni personali e mantenere revisione umana sugli output rilevanti.
 
-### Usare l'AI come laboratorio di scoperta
+### Usare l'AI per generare ipotesi da verificare
 
 Casi, materiali e vincoli vengono esplorati per generare ipotesi, scenari, concept, simulazioni di ruolo e opportunità da verificare.
 
 - ID: creative-rnd-discovery
 - Area: Strumenti trasversali
-- Input: documentazione interna, feedback testuali, fonti pubbliche
-- Output: report operativo, raccomandazioni operative, bozze controllate
-- Valore: valore commerciale recuperato, priorità più chiare, decisioni più rapide
+- Che cosa entra: documentazione interna, feedback testuali, fonti pubbliche
+- Che cosa esce: report operativo, raccomandazioni operative, bozze controllate
+- Valore: vendite o margine recuperati, priorità più chiare, decisioni più rapide
 - Settori: funzioni aziendali trasversali
 - Servizi collegati: Consulenza manageriale AI
 - Corsi collegati: AI Workflow Redesign Lab, AI Output Quality & Human Review, AI Brand Voice e comunicazione
-- Intenti di ricerca: AI per usare l'AI come laboratorio di scoperta, applicazioni AI per strumenti trasversali, come usare l'AI in azienda per usare l'AI come laboratorio di scoperta
+- Intenti di ricerca: AI per usare l'AI per generare ipotesi da verificare, applicazioni AI per strumenti trasversali, come usare l'AI in azienda per usare l'AI per generare ipotesi da verificare
 - Segnali di bisogno: decisioni ricorrenti lente o basate su informazioni incomplete, feedback abbondante ma non analizzato
 - Revisione umana: consigliata
 - Rischio: basso
 - Privacy e controllo: Usare dati autorizzati, minimizzare informazioni personali e mantenere revisione umana sugli output rilevanti.
 
-## Dalla mappa al processo reale: si parte da una call.
+## Per passare dall'esempio al caso dell'azienda si parte da un colloquio.
 
 La pagina serve a orientare. La soluzione nasce solo dopo aver visto settore, vincoli, dati disponibili, responsabilità e decisione da migliorare.
 

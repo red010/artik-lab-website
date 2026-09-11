@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/avvio-activity.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "activity": {
@@ -10,7 +10,7 @@
     "family": "documents",
     "title": "Ofertas e listas de preços a partir do correio e dos arquivos",
     "subtitle": "Chega um pedido por correio, às vezes com PDF. Resta um rascunho no modelo da empresa, para quem vende reler.",
-    "summary": "De correio e PDF a um rascunho de oferta ou lista de preços para quem vende reler. Um dia na sede. O sistema de gestão não é tocado.",
+    "summary": "De correio e PDF a um rascunho de oferta ou lista de preços para quem vende reler. Um dia na sede. Ficam excluídas as integrações sob medida com os softwares já em uso.",
     "duration": "Um dia na sede",
     "problem": "É preciso um orçamento ou uma lista atualizada, com fichas anexas, sem que quem vende refaça o copia-e-cola de três pastas. A função — negociar, fechar, lançar o pedido — permanece da pessoa. O que se alivia é o trabalho em volta: reunir de correio e arquivos, compor, assinalar falhas.",
     "notFor": [

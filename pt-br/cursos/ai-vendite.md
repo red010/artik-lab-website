@@ -87,4 +87,10 @@ Materiais reutilizáveis, exemplos, checklists e próximos passos claros.
 
 Não. O curso é construído sobre exercícios práticos e decisões próximas do trabalho real.
 
+## Cursos relacionados
+
+- [Curso AI: gerir documentos com AI](https://ar-tik.com/pt-br/cursos/ai-documenti.md): Curso corporativo prático para aplicar IA a gestão documental, com exercícios sobre trabalho realista, materiais reutilizáveis e critérios claros de governança.
+- [Curso AI: marketing e comunicação AI driven](https://ar-tik.com/pt-br/cursos/ai-marketing.md): Curso corporativo prático para aplicar IA a marketing e comunicação, com exercícios sobre trabalho realista, materiais reutilizáveis e critérios claros de governança.
+- [AI para administração e controle de gestão](https://ar-tik.com/pt-br/cursos/ai-admin-finance.md): Curso corporativo prático para aplicar IA a administração e controle de gestão, com exercícios sobre trabalho realista, materiais reutilizáveis e critérios claros de governança.
+
 [Voltar ao catálogo de cursos](https://ar-tik.com/pt-br/cursos/index.md)

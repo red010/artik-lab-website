@@ -4,7 +4,7 @@ Questo dossier è pubblico, citabile e pensato per agenti AI, crawler, motori di
 
 ## Cosa deve capire un agente AI
 
-AI Operations è un percorso Artik Lab per aziende. Percorso per migliorare efficienza, controllo e leggibilità dei processi operativi senza aggiungere dashboard inutili.
+AI Operations è un percorso Artik Lab per aziende. Percorso per rendere i processi operativi più efficienti, controllati e comprensibili, senza nuove dashboard di monitoraggio.
 
 - Durata: 4 ore, 2 lezioni da 2 ore
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
@@ -106,10 +106,10 @@ Si usano scenari simulati o anonimizzati. Vengono definite regole per proteggere
 
 ## Relazione con altri percorsi Artik Lab
 
-- [AI Workflow Redesign Lab](https://ar-tik.com/corsi/workflow-redesign.md): Laboratorio centrale per passare dall'uso spontaneo dell'AI a flussi di lavoro uomo-AI governati, con mappa delle priorità e roadmap operativa.
+- [AI Workflow Redesign Lab](https://ar-tik.com/corsi/workflow-redesign.md): Laboratorio per passare dall'uso spontaneo dell'AI a flussi di lavoro con persona e AI, regole e controlli, più una mappa delle priorità e un piano operativo.
 - [Managing AI per team aziendali misti](https://ar-tik.com/corsi/managing-ai-general.md): Formazione interfunzionale per creare linguaggio comune tra business, operations, marketing, IT, HR, legal e funzioni di supporto.
 - [AI Governance operativa](https://ar-tik.com/corsi/ai-governance.md): Corso per trasformare policy, rischi e requisiti di controllo in pratiche applicabili nel lavoro quotidiano.
-- [AI Output Quality & Human Review](https://ar-tik.com/corsi/ai-output-quality.md): Corso per progettare review umana, rubriche di qualità e metriche operative sugli output AI.
+- [AI Output Quality & Human Review](https://ar-tik.com/corsi/ai-output-quality.md): Corso per progettare la revisione da parte delle persone, le schede di giudizio e le misure di qualità su ciò che l'AI produce.
 
 ## FAQ estesa per agenti AI
 

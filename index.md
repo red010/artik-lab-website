@@ -2,21 +2,21 @@
 
 Artik Lab aiuta imprese e funzioni aziendali a scegliere, governare e realizzare il primo uso utile dell'AI: mappatura dei processi, business case, formazione dei team, analisi dati e prototipi controllati.
 
-Un giorno in sede per una procedura in uso. Una prima conversazione di 30–45 minuti. Un parere scritto prima di fissare la data.
+Il modo più semplice per iniziare: una prima call di 30 minuti gratuita per individuare le vostre necessità più urgenti.
 
-## Non è un software da acquistare. È una capacità da costruire. E resta in azienda.
+## L’AI resta in azienda come competenza e processo, non come licenza da comprare.
 
 Artik Lab costruisce capacità AI che restano in azienda. Non si compra una licenza e si spera che funzioni. Si sceglie un processo, si misura il costo, si definisce il KPI e si decide se formare, ridisegnare o costruire.
 
-- 95% delle organizzazioni non ottiene ritorno dai progetti GenAI enterprise.
-- 70% del valore, nella regola 10-20-70, dipende da persone e processi.
+- 95% delle organizzazioni non ottiene ritorno dai progetti di IA generativa in azienda.
+- 70% del valore dipende da persone e processi, non dall’algoritmo.
 - 25 corsi e laboratori per portare competenze AI in processi aziendali specifici.
 
-Dove manca governo manageriale, il rischio di progetti senza ritorno cresce: prima le decisioni e i processi, poi gli strumenti.
+Se manca chi decide regole, priorità e responsabilità, cresce il rischio di progetti senza ritorno: prima le decisioni e i processi, poi gli strumenti.
 
 Fonti: MIT Project NANDA, *The GenAI Divide: State of AI in Business*, 2025; BCG, regola 10-20-70 (AI Radar e pubblicazioni collegate), 2025.
 
-## Dal costo nascosto alla capacità che resta.
+## Da un processo che costa troppo a un risultato che l’azienda sa ripetere.
 
 La domanda non è quale strumento comprare. È quale processo costa troppo, e come si misura.
 
@@ -26,9 +26,9 @@ La domanda non è quale strumento comprare. È quale processo costa troppo, e co
 4. Si costruisce il pilota minimo e controllato.
 5. Si tiene solo ciò che una persona usa, misura e sa rifare.
 
-## Prima il processo. Poi il modello.
+## Prima si sceglie il processo. Poi si sceglie lo strumento.
 
-La tecnologia entra solo dopo aver chiarito chi decide, quali dati utilizzare e responsabilità. Questo approccio evita pilot infiniti e mette il valore prima dello strumento.
+La tecnologia entra solo dopo aver chiarito chi decide, quali dati usare e chi è responsabile. Questo approccio evita pilot infiniti e mette il valore prima dello strumento.
 
 ### Competenze durevoli
 
@@ -38,11 +38,11 @@ Il management impara a decidere quando usare l'IA, come verificare gli output e 
 
 Il lavoro viene mappato dove l'IA può ridurre tempo, errore o ritardo decisionale senza perdere controllo umano.
 
-### Soluzioni agentiche
+### Prototipi e sistemi legati a un indicatore, a un responsabile e alla manutenzione
 
 Prototipi e sistemi operativi restano legati a KPI, dati, responsabilità e manutenzione, non alla moda del momento.
 
-## Servizi che restano in azienda, non come consulenza infinita.
+## Sei servizi, ciascuno con un risultato che resta in azienda.
 
 Ogni intervento parte da una domanda semplice: quale processo costa troppo, quale decisione arriva tardi, quale dato è già stato pagato e non sta ancora lavorando?
 
@@ -54,7 +54,7 @@ Pagina dedicata: https://ar-tik.com/consulenza-manageriale-ai.md
 
 ### Operatività immediata
 
-Un giorno in sede. Resta una procedura scritta, da usare subito, sui file dell'azienda. Il gestionale non si tocca.
+Un giorno in sede. Resta una procedura scritta, da usare subito, sui file dell'azienda. Sono escluse le integrazioni su misura con i software già in uso.
 
 Pagina dedicata: https://ar-tik.com/avvio-operativo/index.md
 
@@ -76,9 +76,9 @@ Percorsi AI per dare a direzione e funzioni aziendali criteri, policy e pratiche
 
 Pagina dedicata: https://ar-tik.com/corsi/index.md
 
-### Software tecnico e motori di calcolo
+### Software tecnico e programmi di calcolo
 
-Sviluppo di sistemi tecnici, motori di calcolo, lettori di dati legacy e applicazioni verificabili per processi complessi.
+Sviluppo di programmi di calcolo, lettura di dati vecchi e applicazioni con test, per processi tecnici complessi.
 
 Pagina dedicata: https://ar-tik.com/sviluppo-software-tecnico-ai.md
 
@@ -90,7 +90,7 @@ Pagina dedicata: https://ar-tik.com/domande-frequenti-ai-aziende.md
 
 ## Quanto costa ogni anno il tempo speso in un'attività ripetitiva?
 
-La homepage include un calcolatore di valore interattivo: da quattro dati semplici (persone coinvolte, ore a settimana, costo orario medio e quota di tempo liberabile con l'AI) stima il costo annuo del tempo dedicato a un'attività manuale, il valore liberabile ogni anno e quanto vale ogni mese di attesa. Non è la giornata a pesare. È ogni mese in cui il lavoro si fa ancora a mano. È una stima indicativa calcolata su 45 settimane lavorative, non una previsione di risultato né un preventivo. Se è un lavoro ripetitivo: Operatività immediata. Se è una decisione da migliorare: Analisi dati.
+La homepage include un calcolatore di valore interattivo: da cinque dati semplici (valuta, persone coinvolte, ore a settimana, costo orario medio e quota di tempo liberabile con l'AI) stima il costo annuo del tempo dedicato a un'attività manuale, il valore liberabile ogni anno e quanto vale ogni mese di attesa. Non è la giornata a pesare. È ogni mese in cui il lavoro si fa ancora a mano. È una stima indicativa calcolata su 45 settimane lavorative, non una previsione di risultato né un preventivo. Se è un lavoro ripetitivo: Operatività immediata. Se è una decisione da migliorare: Analisi dati.
 
 ## Corsi per governare l'IA, non per rincorrere strumenti.
 
@@ -124,7 +124,7 @@ Sì. Ogni pagina contiene testo nel sorgente HTML, JSON-LD coerente, mirror Mark
 
 - Parlare del caso: una prima conversazione di 30–45 minuti. Oggetto della mail: [Prima conversazione] Domanda da ar-tik.com.
 - Provare un giorno in sede: il parere di Operatività immediata (https://ar-tik.com/avvio-operativo/index.md).
-- Portare l'estratto: l'analisi dice se i dati bastano. Oggetto della mail: [Analisi dati] Estratto da valutare.
+- Portare il file dati del mese: l'analisi dice se i dati bastano. Oggetto della mail: [Analisi dati] Estratto da valutare.
 
 Il messaggio arriva a una persona di Artik Lab, che lo legge e risponde di persona. Nessuna risposta automatica, nessuna lista. Inviando, si accettano le condizioni dell'informativa sul trattamento dei dati (https://ar-tik.com/informativa/).
 

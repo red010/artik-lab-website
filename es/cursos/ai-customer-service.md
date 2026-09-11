@@ -87,4 +87,10 @@ Materiales reutilizables, ejemplos, checklists y próximos pasos claros.
 
 No. Está construido sobre ejercicios prácticos y decisiones cercanas al trabajo real.
 
+## Cursos relacionados
+
+- [AI para calidad y no conformidades](https://ar-tik.com/es/cursos/ai-quality-management.md): Curso corporativo práctico para aplicar IA a calidad y no conformidades, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.
+- [AI People Ops](https://ar-tik.com/es/cursos/ai-people-ops.md): Curso corporativo práctico para aplicar IA a People Ops y procesos HR, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.
+- [AI Brand Voice y comunicación](https://ar-tik.com/es/cursos/ai-brand-voice.md): Curso corporativo práctico para aplicar IA a brand voice y comunicación, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.
+
 [Volver al catálogo de cursos](https://ar-tik.com/es/cursos/index.md)

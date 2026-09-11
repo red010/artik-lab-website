@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/avvio-activity.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "activity": {
@@ -9,10 +9,10 @@
     "language": "it",
     "family": "documents",
     "title": "Offerte e listini da posta e file",
-    "subtitle": "Arriva una richiesta in mail, spesso con PDF sparsi. A fine giornata c'è una bozza di offerta, sul modello dell'azienda, da far rileggere a chi vende.",
-    "summary": "Da mail e PDF a una bozza di offerta o di listino, da far rileggere a chi vende. Un giorno in sede. Il gestionale non si tocca.",
+    "subtitle": "Arriva una richiesta in mail, spesso con PDF sparsi. A fine giornata resta una bozza di offerta, sul modello dell'azienda, da far rileggere a chi vende.",
+    "summary": "Da mail e PDF a una bozza di offerta o di listino, da far rileggere a chi vende. Un giorno in sede. Sono escluse le integrazioni su misura con i software già in uso.",
     "duration": "Un giorno in sede",
-    "problem": "Serve un preventivo o un listino aggiornato, con le schede allegate. Oggi chi vende perde tempo a copiare da tre cartelle. Trattare, chiudere e inserire l'ordine restano alla persona. Si alleggerisce il lavoro prima: raccogliere, mettere insieme, segnalare cosa manca.",
+    "problem": "Serve un preventivo o un listino aggiornato, con le schede allegate. Oggi chi vende perde tempo a copiare da tre cartelle. Trattare, chiudere e inserire l'ordine restano alla persona. Si alleggerisce il lavoro di raccolta: mettere insieme i pezzi e segnalare cosa manca, prima che chi vende tratti.",
     "notFor": [
       "Il «preventivo» è un computo da disegno (PriMus, AutoCAD) o una stima di ore di cantiere: quello è il mestiere, non questo servizio.",
       "Serve trattare, chiudere lo sconto, o decidere il prezzo in gara.",
@@ -22,7 +22,7 @@
       "Si chiede che l'offerta parta da sola, senza rilettura."
     ],
     "prerequisites": [
-      "Un abbonamento all'intelligenza artificiale intestata all'azienda.",
+      "Un abbonamento all'intelligenza artificiale sull'account dell'azienda.",
       "Una persona interna che già mette insieme le offerte, con l'incarico di usarla dopo.",
       "Un modello di offerta o di listino, anche imperfetto.",
       "Una cartella o un file da cui prendere listini e schede, senza entrare nel gestionale."

@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "course": {
@@ -12,7 +12,7 @@
     "featured": false,
     "title": "AI Brand Voice e comunicazione",
     "subtitle": "Usare l'AI nella comunicazione senza perdere identità: tono, messaggi, linee guida e workflow editoriali.",
-    "summary": "Percorso per aziende che vogliono aumentare produzione comunicativa mantenendo una voce riconoscibile e verificabile.",
+    "summary": "Percorso per produrre più comunicazione senza perdere una voce riconoscibile e controllabile rispetto alle linee guida di marca.",
     "duration": "4 ore, 2 lezioni da 2 ore",
     "mode": "Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.",
     "profile": "mixed",
@@ -78,12 +78,12 @@
         "answer": "No, include processo, review e governance editoriale."
       }
     ],
-    "output": "Brand voice sheet e workflow editoriale AI-assisted.",
+    "output": "Scheda della voce di marca e flusso editoriale con AI.",
     "searchIntents": [
       "corso AI aziendale su AI Brand Voice e comunicazione",
       "formazione pratica per AI Brand Voice e comunicazione",
       "training AI per funzioni operative",
-      "percorso Artik Lab per Brand voice sheet e workflow editoriale AI-assisted",
+      "percorso Artik Lab per Scheda della voce di marca e flusso editoriale con AI",
       "come introdurre AI Brand Voice e comunicazione nei processi aziendali"
     ],
     "needSignals": [
@@ -91,7 +91,7 @@
       "Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.",
       "Il processo collegato a AI Brand Voice e comunicazione assorbe tempo, genera passaggi manuali o produce output difficili da verificare.",
       "La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.",
-      "Serve un risultato concreto dopo la formazione: Brand voice sheet e workflow editoriale AI-assisted."
+      "Serve un risultato concreto dopo la formazione: Scheda della voce di marca e flusso editoriale con AI."
     ],
     "extraExamples": [
       {
@@ -100,7 +100,7 @@
       },
       {
         "title": "Da sperimentazione individuale a pratica governata",
-        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Brand voice sheet e workflow editoriale AI-assisted."
+        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Scheda della voce di marca e flusso editoriale con AI."
       },
       {
         "title": "Da entusiasmo a decisione",

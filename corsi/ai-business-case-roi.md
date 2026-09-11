@@ -88,4 +88,10 @@ Sì, rende confrontabili iniziative AI diverse.
 
 Sì, in forma sintetica e decisionale.
 
+## Corsi collegati
+
+- [AI Adoption Manager / AI Champions](https://ar-tik.com/corsi/ai-adoption-manager.md): Percorso per creare referenti interni che raccolgono bisogni, supportano i colleghi e collegano sperimentazioni locali alla governance aziendale.
+- [Role-Based AI Literacy & Responsible Use](https://ar-tik.com/corsi/ai-literacy.md): Formazione base ma concreta per diffondere uso AI sicuro e utile, differenziato per ruoli e responsabilità.
+- [Secure AI at Work](https://ar-tik.com/corsi/secure-ai-at-work.md): Corso tecnico-operativo per rendere l'uso quotidiano dell'AI più efficace, sicuro e governato.
+
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)

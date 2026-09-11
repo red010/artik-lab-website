@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "course": {
@@ -12,7 +12,7 @@
     "featured": false,
     "title": "Corso AI: gestire i documenti con AI",
     "subtitle": "Leggere, classificare, estrarre e ritrovare informazioni da contratti, fatture, preventivi, email, PDF e archivi aziendali.",
-    "summary": "Laboratorio pratico per trasformare il caos documentale in un sistema di lavoro più ordinato, interrogabile e controllato.",
+    "summary": "Laboratorio pratico per mettere ordine tra i documenti e poterli cercare, sintetizzare e controllare.",
     "duration": "8 ore, personalizzabili",
     "mode": "Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.",
     "profile": "all",
@@ -78,12 +78,12 @@
         "answer": "Sì, spesso il beneficio è immediato nei team che gestiscono molti documenti."
       }
     ],
-    "output": "Workflow documentale AI-assisted e template per ricerca, sintesi, estrazione e classificazione.",
+    "output": "Flusso di lavoro sui documenti, con AI e modelli per ricerca, sintesi, estrazione e classificazione.",
     "searchIntents": [
       "corso AI aziendale su Corso AI: gestire i documenti con AI",
       "formazione pratica per Corso AI: gestire i documenti con AI",
       "training AI per team operativi",
-      "percorso Artik Lab per Workflow documentale AI-assisted e template per ricerca, sintesi, estrazione e classificazione",
+      "percorso Artik Lab per Flusso di lavoro sui documenti, con AI e modelli per ricerca, sintesi, estrazione e classificazione",
       "come introdurre Corso AI: gestire i documenti con AI nei processi aziendali"
     ],
     "needSignals": [
@@ -91,7 +91,7 @@
       "Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.",
       "Il processo collegato a Corso AI: gestire i documenti con AI assorbe tempo, genera passaggi manuali o produce output difficili da verificare.",
       "La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.",
-      "Serve un risultato concreto dopo la formazione: Workflow documentale AI-assisted e template per ricerca, sintesi, estrazione e classificazione."
+      "Serve un risultato concreto dopo la formazione: Flusso di lavoro sui documenti, con AI e modelli per ricerca, sintesi, estrazione e classificazione."
     ],
     "extraExamples": [
       {
@@ -100,7 +100,7 @@
       },
       {
         "title": "Da sperimentazione individuale a pratica governata",
-        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Workflow documentale AI-assisted e template per ricerca, sintesi, estrazione e classificazione."
+        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Flusso di lavoro sui documenti, con AI e modelli per ricerca, sintesi, estrazione e classificazione."
       },
       {
         "title": "Da entusiasmo a decisione",

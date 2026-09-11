@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "course": {
@@ -11,8 +11,8 @@
     "familyLabel": "Technique",
     "featured": false,
     "title": "Secure AI SDLC",
-    "subtitle": "Cours d'entreprise pratique pour appliquer l'IA à cycle de vie sécurisé pour logiciel avec IA, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.",
-    "summary": "Cours d'entreprise pratique pour appliquer l'IA à cycle de vie sécurisé pour logiciel avec IA, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.",
+    "subtitle": "Insérer des contrôles spécifiques à l'IA dans le cycle de développement : design (conception), build (construction), test, release (mise en production) et operation (exploitation).",
+    "summary": "Insérer des contrôles spécifiques à l'IA dans le cycle de développement : design (conception), build (construction), test, release (mise en production) et operation (exploitation).",
     "duration": "4-6 heures, personnalisables",
     "mode": "Laboratoire en présentiel ou en ligne, avec exercices guidés et matériaux adaptés au client.",
     "profile": "technical",

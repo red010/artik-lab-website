@@ -87,4 +87,10 @@ Reusable materials, examples, checklists and a clear set of next steps.
 
 No. The course is built around practical exercises and decisions close to real work.
 
+## Related courses
+
+- [AI People Ops](https://ar-tik.com/en/courses/ai-people-ops.md): Practical corporate course for applying AI to People Ops and HR workflows, with exercises on realistic work, reusable materials and clear governance criteria.
+- [AI Brand Voice and communication](https://ar-tik.com/en/courses/ai-brand-voice.md): Practical corporate course for applying AI to brand voice and communication, with exercises on realistic work, reusable materials and clear governance criteria.
+- [AI for administration and management control](https://ar-tik.com/en/courses/ai-admin-finance.md): Practical corporate course for applying AI to finance and management control, with exercises on realistic work, reusable materials and clear governance criteria.
+
 [Back to the course catalog](https://ar-tik.com/en/courses/index.md)

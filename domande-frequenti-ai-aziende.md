@@ -1,8 +1,8 @@
-# FAQ AI per aziende: da dove partire, cosa scegliere, cosa evitare.
+# Domande frequenti sull'AI in azienda
 
-Un repertorio pubblico di domande reali per orientare imprenditori, direzione e funzioni aziendali tra consulenza, corsi, analisi dati, software tecnico e Atlante applicazioni AI.
+Domande per scegliere tra consulenza, corsi, analisi dati e software, prima di iniziare.
 
-## La FAQ funziona come una bussola, non come un listino.
+## Le risposte servono a scegliere il passo successivo, non a leggere un listino.
 
 Ogni risposta aiuta a capire il prossimo passo utile. Artik Lab parte da una prima conversazione di diagnosi, legge processo, dati, vincoli e responsabilità, poi propone il formato più adatto al contesto reale del cliente.
 
@@ -11,23 +11,23 @@ Dossier LLM: https://ar-tik.com/domande-frequenti-ai-aziende-dossier.md
 
 ## Esplorare per area o intenzione.
 
-- Le domande che bloccano la decisione: 7. Costo, dati, software, corso già fatto, tempi, incentivi: le risposte brevi prima di scrivere.
+- Dubbi prima di scrivere: costo, dati, tempi: 7. Risposte brevi su costo, dati, tempi e incentivi, prima di scrivere.
 - Da dove iniziare: 5. Quando l'azienda sente il bisogno di AI ma non ha ancora un progetto definito.
 - Prima conversazione e metodo: 5. Cosa succede prima di scegliere consulenza, corso, analisi o software.
 - Costi, tempi e ROI: 5. Come ragionare su investimento, ritorno, priorità e rischio.
 - Dati, documenti e privacy: 5. Quando servono dati, come prepararli e quali controlli rispettare.
-- Consulenza manageriale AI: 5. Domande su governance, roadmap, priorità, policy e sponsor interni.
+- Consulenza manageriale AI: 5. Domande su regole, priorità, percorsi e chi decide in azienda.
 - Formazione e corsi AI: 5. Quando trasferire competenze a manager, team e funzioni aziendali.
-- Analisi dati agentica: 5. Quando il primo valore è verificare segnali nei dati già disponibili.
-- Software tecnico e automazioni: 5. Quando serve costruire un sistema verificabile, non solo usare strumenti esistenti.
-- Atlante applicazioni AI: 4. Come usare esempi e pattern senza leggerli come prodotti standard.
-- Governance, rischi e revisione umana: 4. Responsabilità, policy, controlli e limiti operativi dell'AI.
-- Adozione interna e team: 4. Come evitare resistenze, uso informale e iniziative isolate.
+- Analisi dati agentica: 5. Quando serve capire se i dati già disponibili contengono informazioni di valore.
+- Software su misura e automazioni: 5. Quando serve costruire un sistema verificabile, non solo usare strumenti esistenti.
+- Atlante applicazioni AI: 4. Come usare gli esempi senza leggerli come prodotti già pronti.
+- Regole, rischi e controllo da parte di una persona: 4. Responsabilità, policy, controlli e limiti operativi dell'AI.
+- Far usare l'AI in azienda, senza iniziative isolate: 4. Come evitare resistenze, uso informale e iniziative isolate.
 - Scegliere il percorso giusto: 4. Differenze pratiche tra formazione, consulenza, analisi dati e sviluppo software.
 - Limiti dell'AI: 4. Quando fermarsi, non automatizzare o rimandare il progetto.
 - Prima di contattare Artik Lab: 4. Cosa preparare e che cosa aspettarsi dal primo scambio.
 
-## Le domande che bloccano la decisione
+## Dubbi prima di scrivere: costo, dati, tempi
 
 ### Quanto costa?
 
@@ -49,7 +49,7 @@ Limite da considerare: Le risposte valgono per i servizi come sono descritti in 
 
 Prossimo passo: Portare il caso nella prima conversazione con processo, obiettivo, dati disponibili e vincoli.
 
-### È un altro fornitore che poi vende software?
+### La consulenza serve a vendere poi un software?
 
 Risposta breve: La consulenza non è la porta del software.
 
@@ -89,7 +89,7 @@ Limite da considerare: Le risposte valgono per i servizi come sono descritti in 
 
 Prossimo passo: Portare il caso nella prima conversazione con processo, obiettivo, dati disponibili e vincoli.
 
-### Quanti lavori si possono fare?
+### Quante attività si possono fare, una dopo l'altra?
 
 Risposta breve: Si decide con l'azienda, in base alle necessità.
 
@@ -218,7 +218,7 @@ Limite da considerare: Il ROI non va promesso prima di conoscere processo, basel
 
 Prossimo passo: Portare il caso nella prima conversazione con processo, obiettivo, dati disponibili e vincoli.
 
-### Come valutare il ROI di un progetto AI?
+### Come valutare il ritorno di un progetto AI?
 
 Risposta breve: Il ROI si valuta confrontando costo attuale, miglioramento possibile e azioni realmente attivabili.
 
@@ -269,7 +269,7 @@ Dettaglio operativo: La pulizia perfetta raramente esiste all'inizio. Il primo l
 
 Limite da considerare: Dati personali, regolati o riservati richiedono minimizzazione, accessi e revisione competente.
 
-Prossimo passo: Valutare un'analisi dati agentica se serve verificare il segnale prima di costruire.
+Prossimo passo: Valutare un'analisi dati agentica se serve capire se i dati bastano, prima di costruire.
 
 ### L'AI può lavorare anche su documenti, email e procedure?
 
@@ -309,7 +309,7 @@ Dettaglio operativo: Non sempre si costruisce un modello. A volte il lavoro migl
 
 Limite da considerare: Dati personali, regolati o riservati richiedono minimizzazione, accessi e revisione competente.
 
-Prossimo passo: Valutare un'analisi dati agentica se serve verificare il segnale prima di costruire.
+Prossimo passo: Valutare un'analisi dati agentica se serve capire se i dati bastano, prima di costruire.
 
 
 ## Consulenza manageriale AI
@@ -344,7 +344,7 @@ Limite da considerare: Senza sponsor interno e decisioni reali, la consulenza re
 
 Prossimo passo: Aprire un percorso di consulenza per chiarire priorità, governance e roadmap.
 
-### Serve uno sponsor interno per iniziare?
+### Serve in azienda qualcuno che possa decidere le priorità?
 
 Risposta breve: Sì, almeno una persona deve poter decidere priorità e validare risultati.
 
@@ -428,19 +428,19 @@ Dettaglio operativo: Se l'azienda ha storici, ordini, ticket, sensori o KPI ma n
 
 Limite da considerare: Se il dato non contiene segnale, forzare il modello produce costi e false certezze.
 
-Prossimo passo: Valutare un'analisi dati agentica se serve verificare il segnale prima di costruire.
+Prossimo passo: Valutare un'analisi dati agentica se serve capire se i dati bastano, prima di costruire.
 
-### L'analisi dati agentica sostituisce la Business Intelligence?
+### L'analisi dati agentica sostituisce i cruscotti di controllo già in uso (Business Intelligence)?
 
-Risposta breve: No, la completa quando serve passare da indicatori a decisioni.
+Risposta breve: No, li completa quando serve passare da indicatori a decisioni.
 
-Dettaglio operativo: La BI controlla metriche note e andamento passato. L'analisi agentica cerca segnali, anomalie, priorità o criteri di stop collegati a un'azione concreta.
+Dettaglio operativo: I cruscotti di controllo già in uso (Business Intelligence) tengono sotto controllo metriche note e andamento passato. L'analisi agentica cerca segnali, anomalie, priorità o criteri di stop collegati a un'azione concreta.
 
 Limite da considerare: Se il dato non contiene segnale, forzare il modello produce costi e false certezze.
 
-Prossimo passo: Valutare un'analisi dati agentica se serve verificare il segnale prima di costruire.
+Prossimo passo: Valutare un'analisi dati agentica se serve capire se i dati bastano, prima di costruire.
 
-### Che valore ha un risultato negativo sui dati?
+### Che valore ha scoprire che i dati non bastano?
 
 Risposta breve: Ha valore perché evita di finanziare un modello fragile.
 
@@ -448,9 +448,9 @@ Dettaglio operativo: Sapere che il segnale non c'è ancora consente di cambiare 
 
 Limite da considerare: Se il dato non contiene segnale, forzare il modello produce costi e false certezze.
 
-Prossimo passo: Valutare un'analisi dati agentica se serve verificare il segnale prima di costruire.
+Prossimo passo: Valutare un'analisi dati agentica se serve capire se i dati bastano, prima di costruire.
 
-### Quale KPI serve prima di analizzare i dati?
+### Quale indicatore serve prima di analizzare i dati?
 
 Risposta breve: Serve un KPI legato a una decisione o azione, non solo a un grafico.
 
@@ -458,7 +458,7 @@ Dettaglio operativo: Esempi utili: ordine da sollecitare, lotto da controllare, 
 
 Limite da considerare: Se il dato non contiene segnale, forzare il modello produce costi e false certezze.
 
-Prossimo passo: Valutare un'analisi dati agentica se serve verificare il segnale prima di costruire.
+Prossimo passo: Valutare un'analisi dati agentica se serve capire se i dati bastano, prima di costruire.
 
 ### Le decisioni basate sui dati restano umane?
 
@@ -468,12 +468,12 @@ Dettaglio operativo: L'analisi può ordinare priorità, proporre segnali e spieg
 
 Limite da considerare: Se il dato non contiene segnale, forzare il modello produce costi e false certezze.
 
-Prossimo passo: Valutare un'analisi dati agentica se serve verificare il segnale prima di costruire.
+Prossimo passo: Valutare un'analisi dati agentica se serve capire se i dati bastano, prima di costruire.
 
 
-## Software tecnico e automazioni
+## Software su misura e automazioni
 
-### Quando ha senso costruire software tecnico AI?
+### Quando ha senso costruire un software su misura con AI?
 
 Risposta breve: Ha senso quando serve un sistema verificabile che gli strumenti standard non coprono.
 
@@ -493,7 +493,7 @@ Limite da considerare: Automatizzare un processo non compreso rende solo più ra
 
 Prossimo passo: Passare allo sviluppo software solo quando servono sistema verificabile, test e manutenzione.
 
-### Si può modernizzare un software legacy con AI?
+### Si può aggiornare un software vecchio e poco documentato con l'AI?
 
 Risposta breve: Sì, ma prima bisogna capire logiche, dati, vincoli e rischi del sistema esistente.
 
@@ -503,7 +503,7 @@ Limite da considerare: Automatizzare un processo non compreso rende solo più ra
 
 Prossimo passo: Passare allo sviluppo software solo quando servono sistema verificabile, test e manutenzione.
 
-### Che differenza c'è tra prototipo controllato e sistema in produzione?
+### Che differenza c'è tra una prova isolata e un sistema in uso quotidiano?
 
 Risposta breve: Il prototipo verifica fattibilità; la produzione richiede test, sicurezza, manutenzione e responsabilità.
 
@@ -528,7 +528,7 @@ Prossimo passo: Passare allo sviluppo software solo quando servono sistema verif
 
 ### L'Atlante è un catalogo di prodotti pronti?
 
-Risposta breve: No, è una mappa di pattern per riconoscere opportunità nei processi.
+Risposta breve: No, è una mappa di esempi per riconoscere opportunità nei processi.
 
 Dettaglio operativo: Ogni scheda aiuta a formulare domande migliori su dati, risultati, valore e controlli. La soluzione reale nasce solo dopo aver visto contesto, vincoli e priorità dell'azienda.
 
@@ -536,7 +536,7 @@ Limite da considerare: Un pattern pubblico non va trattato come promessa standar
 
 Prossimo passo: Usare l'Atlante per riconoscere pattern simili prima di definire il progetto.
 
-### Come usare l'Atlante per capire se un caso ha senso?
+### Come usare l'Atlante per capire se un caso è adatto?
 
 Risposta breve: Cercare un pattern simile e confrontarlo con dati, output e revisione umana.
 
@@ -567,9 +567,9 @@ Limite da considerare: Un pattern pubblico non va trattato come promessa standar
 Prossimo passo: Portare il caso nella prima conversazione con processo, obiettivo, dati disponibili e vincoli.
 
 
-## Governance, rischi e revisione umana
+## Regole, rischi e controllo da parte di una persona
 
-### Quando serve revisione umana sugli output AI?
+### Quando una persona deve rileggere ciò che produce l'AI?
 
 Risposta breve: Serve ogni volta che l'output influenza decisioni, clienti, dati sensibili o responsabilità.
 
@@ -610,7 +610,7 @@ Limite da considerare: Senza confini di revisione umana, privacy e responsabilit
 Prossimo passo: Aprire un percorso di consulenza per chiarire priorità, governance e roadmap.
 
 
-## Adozione interna e team
+## Far usare l'AI in azienda, senza iniziative isolate
 
 ### Come gestire resistenze del team verso l'AI?
 
@@ -622,7 +622,7 @@ Limite da considerare: L'adozione fallisce se le persone non capiscono scopo, li
 
 Prossimo passo: Scegliere un corso o laboratorio se il bisogno principale è trasferire metodo al team.
 
-### Servono AI champion interni?
+### Servono referenti interni che tengano viva l'AI in azienda?
 
 Risposta breve: Sono utili quando l'uso deve passare da sperimentazione individuale a pratica condivisa.
 
@@ -685,7 +685,7 @@ Limite da considerare: Scegliere il formato sbagliato aumenta costi, frustrazion
 
 Prossimo passo: Usare l'Atlante per riconoscere pattern simili prima di definire il progetto.
 
-### Che cosa fare se nessuno possiede davvero il processo?
+### Che cosa fare se nessuno è responsabile del processo?
 
 Risposta breve: Prima di automatizzare bisogna assegnare ownership e criteri di decisione.
 
@@ -708,7 +708,7 @@ Limite da considerare: L'AI non sostituisce giudizio, responsabilità profession
 
 Prossimo passo: Fermare o rimandare il caso se mancano sponsor, dati minimi, responsabilità o azione possibile.
 
-### Come gestire errori e allucinazioni dell'AI?
+### Come gestire errori e risposte inventate dell'AI?
 
 Risposta breve: Vanno previsti con fonti, controlli, esempi approvati e revisione umana.
 
@@ -781,6 +781,6 @@ Limite da considerare: Un primo scambio senza contesto produce risposte generich
 
 Prossimo passo: Usare l'Atlante per riconoscere pattern simili prima di definire il progetto.
 
-## Preparare la prima conversazione
+## Preparare il primo colloquio
 
 Per iniziare basta raccogliere un processo da migliorare, un esempio di materiale o dato disponibile, la decisione da rendere più affidabile e i vincoli da rispettare.

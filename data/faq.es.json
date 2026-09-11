@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/faq-repertoire.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "locale": "es",
@@ -14,6 +14,12 @@
     "json": "https://ar-tik.com/data/faq.es.json"
   },
   "categories": [
+    {
+      "id": "objections",
+      "label": "Las preguntas que bloquean la decisión",
+      "hint": "Coste, datos, software, curso ya hecho, tiempos, incentivos: respuestas breves antes de escribir.",
+      "faqCount": 7
+    },
     {
       "id": "start",
       "label": "Por dónde empezar",
@@ -100,6 +106,328 @@
     }
   ],
   "faqs": [
+    {
+      "id": "objection-cost",
+      "locale": "es",
+      "language": "es",
+      "category": "objections",
+      "categoryLabel": "Las preguntas que bloquean la decisión",
+      "question": "¿Cuánto cuesta?",
+      "shortAnswer": "La propuesta llega después del dictamen o después de la primera conversación.",
+      "detailedAnswer": "En estas páginas no hay una tarifa.",
+      "audience": "dirección y propietarios",
+      "searchIntent": "elección del recorrido",
+      "searchQueries": [
+        "¿Cuánto cuesta?",
+        "¿cuánto cuesta",
+        "Las preguntas que bloquean la decisión ¿cuánto cuesta"
+      ],
+      "needSignals": [
+        "interés por la IA sin proyecto definido"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting",
+        "agentic-data-analysis"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        },
+        {
+          "id": "agentic-data-analysis",
+          "title": "Análisis de datos agéntico",
+          "url": "https://ar-tik.com/es/analisis-datos-agentico.html"
+        }
+      ],
+      "relatedCourseIds": [],
+      "relatedCourses": [],
+      "relatedAtlasAreas": [
+        "operations"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Las respuestas valen para los servicios tal como se describen en estas páginas; el caso concreto se aclara en el dictamen o en la primera conversación.",
+      "nextStep": "Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#objection-cost",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Cuánto cuesta?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Cuánto cuesta?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "objection-data",
+      "locale": "es",
+      "language": "es",
+      "category": "objections",
+      "categoryLabel": "Las preguntas que bloquean la decisión",
+      "question": "¿Dónde están los datos durante el trabajo?",
+      "shortAnswer": "En Operatividad inmediata los archivos permanecen en las carpetas de la empresa y el asistente está a nombre de la empresa.",
+      "detailedAnswer": "En el análisis de datos se trabaja sobre un extracto acordado, con un perímetro escrito.",
+      "audience": "dirección y propietarios",
+      "searchIntent": "gestión del riesgo",
+      "searchQueries": [
+        "¿Dónde están los datos durante el trabajo?",
+        "¿dónde están los datos durante el trabajo",
+        "Las preguntas que bloquean la decisión ¿dónde están los datos durante el trabajo"
+      ],
+      "needSignals": [
+        "datos personales o reservados implicados"
+      ],
+      "relatedServiceIds": [
+        "agentic-data-analysis"
+      ],
+      "relatedServices": [
+        {
+          "id": "agentic-data-analysis",
+          "title": "Análisis de datos agéntico",
+          "url": "https://ar-tik.com/es/analisis-datos-agentico.html"
+        }
+      ],
+      "relatedCourseIds": [],
+      "relatedCourses": [],
+      "relatedAtlasAreas": [
+        "data"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Las respuestas valen para los servicios tal como se describen en estas páginas; el caso concreto se aclara en el dictamen o en la primera conversación.",
+      "nextStep": "Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#objection-data",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Dónde están los datos durante el trabajo?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Dónde están los datos durante el trabajo?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "objection-software",
+      "locale": "es",
+      "language": "es",
+      "category": "objections",
+      "categoryLabel": "Las preguntas que bloquean la decisión",
+      "question": "¿La consultoría sirve para vender después un software?",
+      "shortAnswer": "La consultoría no es la puerta del software.",
+      "detailedAnswer": "Construir, si hace falta, es una decisión posterior. Operatividad inmediata no conecta el software de gestión.",
+      "audience": "dirección y propietarios",
+      "searchIntent": "elección del recorrido",
+      "searchQueries": [
+        "¿La consultoría sirve para vender después un software?",
+        "¿la consultoría sirve para vender después un software",
+        "Las preguntas que bloquean la decisión ¿la consultoría sirve para vender después un software"
+      ],
+      "needSignals": [
+        "herramientas elegidas antes del proceso"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [],
+      "relatedCourses": [],
+      "relatedAtlasAreas": [
+        "governance"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Las respuestas valen para los servicios tal como se describen en estas páginas; el caso concreto se aclara en el dictamen o en la primera conversación.",
+      "nextStep": "Abrir un recorrido de consultoría para aclarar prioridades, gobernanza y roadmap.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#objection-software",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿La consultoría sirve para vender después un software?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿La consultoría sirve para vender después un software?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "objection-course-done",
+      "locale": "es",
+      "language": "es",
+      "category": "objections",
+      "categoryLabel": "Las preguntas que bloquean la decisión",
+      "question": "Ya he hecho un curso de IA. ¿Hace falta algo más?",
+      "shortAnswer": "Un curso deja modelos y criterios.",
+      "detailedAnswer": "Aquí, en un día, queda un procedimiento en uso sobre los archivos de la empresa — o un análisis que dice si los datos bastan.",
+      "audience": "dirección y propietarios",
+      "searchIntent": "orientación inicial",
+      "searchQueries": [
+        "Ya he hecho un curso de IA. ¿Hace falta algo más?",
+        "ya he hecho un curso de ia. ¿hace falta algo más",
+        "Las preguntas que bloquean la decisión ya he hecho un curso de ia. ¿hace falta algo más"
+      ],
+      "needSignals": [
+        "competencias de IA no alineadas entre roles"
+      ],
+      "relatedServiceIds": [
+        "agentic-data-analysis"
+      ],
+      "relatedServices": [
+        {
+          "id": "agentic-data-analysis",
+          "title": "Análisis de datos agéntico",
+          "url": "https://ar-tik.com/es/analisis-datos-agentico.html"
+        }
+      ],
+      "relatedCourseIds": [
+        "workflow-redesign"
+      ],
+      "relatedCourses": [
+        {
+          "id": "workflow-redesign",
+          "title": "AI Workflow Redesign Lab",
+          "url": "https://ar-tik.com/es/cursos/workflow-redesign.html"
+        }
+      ],
+      "relatedAtlasAreas": [
+        "training"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Las respuestas valen para los servicios tal como se describen en estas páginas; el caso concreto se aclara en el dictamen o en la primera conversación.",
+      "nextStep": "Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#objection-course-done",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#Ya he hecho un curso de IA. ¿Hace falta algo más?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#Ya he hecho un curso de IA. ¿Hace falta algo más?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "objection-timing",
+      "locale": "es",
+      "language": "es",
+      "category": "objections",
+      "categoryLabel": "Las preguntas que bloquean la decisión",
+      "question": "¿Cuándo se ve algo concreto?",
+      "shortAnswer": "Operatividad inmediata: un día en la sede.",
+      "detailedAnswer": "Análisis: después del extracto acordado. Primera conversación: 30–45 minutos.",
+      "audience": "dirección y propietarios",
+      "searchIntent": "orientación inicial",
+      "searchQueries": [
+        "¿Cuándo se ve algo concreto?",
+        "¿cuándo se ve algo concreto",
+        "Las preguntas que bloquean la decisión ¿cuándo se ve algo concreto"
+      ],
+      "needSignals": [
+        "decisiones recurrentes lentas"
+      ],
+      "relatedServiceIds": [
+        "agentic-data-analysis"
+      ],
+      "relatedServices": [
+        {
+          "id": "agentic-data-analysis",
+          "title": "Análisis de datos agéntico",
+          "url": "https://ar-tik.com/es/analisis-datos-agentico.html"
+        }
+      ],
+      "relatedCourseIds": [],
+      "relatedCourses": [],
+      "relatedAtlasAreas": [
+        "operations"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Las respuestas valen para los servicios tal como se describen en estas páginas; el caso concreto se aclara en el dictamen o en la primera conversación.",
+      "nextStep": "Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#objection-timing",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Cuándo se ve algo concreto?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Cuándo se ve algo concreto?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "objection-incentives",
+      "locale": "es",
+      "language": "es",
+      "category": "objections",
+      "categoryLabel": "Las preguntas que bloquean la decisión",
+      "question": "¿Se puede usar un incentivo o un fondo para este trabajo?",
+      "shortAnswer": "Se puede pedir una comprobación de admisibilidad.",
+      "detailedAnswer": "El trabajo tiene que sostenerse igual sin incentivo: no se prometen convocatorias ni importes.",
+      "audience": "dirección y propietarios",
+      "searchIntent": "elección del recorrido",
+      "searchQueries": [
+        "¿Se puede usar un incentivo o un fondo para este trabajo?",
+        "¿se puede usar un incentivo o un fondo para este trabajo",
+        "Las preguntas que bloquean la decisión ¿se puede usar un incentivo o un fondo para este trabajo"
+      ],
+      "needSignals": [
+        "interés por la IA sin proyecto definido"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [],
+      "relatedCourses": [],
+      "relatedAtlasAreas": [
+        "governance"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Las respuestas valen para los servicios tal como se describen en estas páginas; el caso concreto se aclara en el dictamen o en la primera conversación.",
+      "nextStep": "Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#objection-incentives",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Se puede usar un incentivo o un fondo para este trabajo?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Se puede usar un incentivo o un fondo para este trabajo?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
+    {
+      "id": "objection-capacity",
+      "locale": "es",
+      "language": "es",
+      "category": "objections",
+      "categoryLabel": "Las preguntas que bloquean la decisión",
+      "question": "¿Cuántas actividades se pueden hacer, una detrás de otra?",
+      "shortAnswer": "Se decide con la empresa, según las necesidades.",
+      "detailedAnswer": "Un trabajo cada vez, llevado hasta el final.",
+      "audience": "dirección y propietarios",
+      "searchIntent": "orientación inicial",
+      "searchQueries": [
+        "¿Cuántas actividades se pueden hacer, una detrás de otra?",
+        "¿cuántas actividades se pueden hacer, una detrás de otra",
+        "Las preguntas que bloquean la decisión ¿cuántas actividades se pueden hacer, una detrás de otra"
+      ],
+      "needSignals": [
+        "trabajo manual repetitivo"
+      ],
+      "relatedServiceIds": [
+        "ai-management-consulting"
+      ],
+      "relatedServices": [
+        {
+          "id": "ai-management-consulting",
+          "title": "Consultoría directiva de IA",
+          "url": "https://ar-tik.com/es/consultoria-directiva-ia.html"
+        }
+      ],
+      "relatedCourseIds": [],
+      "relatedCourses": [],
+      "relatedAtlasAreas": [
+        "operations"
+      ],
+      "relatedFaqIds": [],
+      "riskOrLimit": "Las respuestas valen para los servicios tal como se describen en estas páginas; el caso concreto se aclara en el dictamen o en la primera conversación.",
+      "nextStep": "Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.",
+      "urls": {
+        "html": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.html#objection-capacity",
+        "markdown": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas.md#¿Cuántas actividades se pueden hacer, una detrás de otra?",
+        "dossier": "https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md#¿Cuántas actividades se pueden hacer, una detrás de otra?",
+        "json": "https://ar-tik.com/data/faq.es.json"
+      }
+    },
     {
       "id": "start-without-project",
       "locale": "es",

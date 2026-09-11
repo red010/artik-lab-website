@@ -87,4 +87,10 @@ Reusable materials, examples, checklists and a clear set of next steps.
 
 No. The course is built around practical exercises and decisions close to real work.
 
+## Related courses
+
+- [AI for administration and management control](https://ar-tik.com/en/courses/ai-admin-finance.md): Practical corporate course for applying AI to finance and management control, with exercises on realistic work, reusable materials and clear governance criteria.
+- [AI Operations](https://ar-tik.com/en/courses/ai-operations.md): Practical corporate course for applying AI to operations and process coordination, with exercises on realistic work, reusable materials and clear governance criteria.
+- [AI Legal Ops and compliance documentation](https://ar-tik.com/en/courses/ai-legal-ops.md): Practical corporate course for applying AI to legal operations and compliance documents, with exercises on realistic work, reusable materials and clear governance criteria.
+
 [Back to the course catalog](https://ar-tik.com/en/courses/index.md)

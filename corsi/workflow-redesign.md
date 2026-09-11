@@ -1,11 +1,11 @@
 # AI Workflow Redesign Lab
 
-Il laboratorio fondamentale per ridisegnare attività, processi e flussi decisionali integrando l'AI generativa in modo utile, misurabile e governato.
+Il laboratorio di partenza per ridisegnare attività, processi e passaggi in cui si decide, integrando l'AI generativa con misure e regole di controllo.
 
 - Durata: 8 ore, modulabili in 2 o 4 sessioni
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per team aziendali, funzioni operative e manager; non richiede programmazione.
-- Output finale: Mappa dei workflow prioritari, prototipo di flusso uomo-AI e roadmap di adozione.
+- Output finale: Mappa dei flussi di lavoro prioritari, prototipo di flusso con persona e AI, piano di adozione.
 - Sceglierlo se: Quando l'azienda ha già curiosità o sperimentazioni AI ma non ha ancora trasformato il lavoro. È il punto di partenza consigliato prima di corsi verticali, policy, piloti o acquisti tecnologici.
 
 ## Il problema che risolve
@@ -23,8 +23,8 @@ Quando l'azienda ha già curiosità o sperimentazioni AI ma non ha ancora trasfo
 ## Risultati concreti
 
 - Identificare processi ad alto potenziale AI.
-- Distinguere attività automatizzabili, aumentabili e da mantenere umane.
-- Disegnare workflow ibridi con input, output, controlli e responsabilità.
+- Distinguere attività da automatizzare, da affiancare con l'AI e da lasciare alle persone.
+- Disegnare flussi misti persona-AI, con ingressi, risultati, controlli e responsabilità.
 - Definire metriche operative su tempo, qualità, rischio e costo.
 - Costruire una roadmap di implementazione per priorità e dipendenze.
 
@@ -86,5 +86,11 @@ No. Produce mappe, priorità, workflow ridisegnati e roadmap.
 ### È adatto come primo corso AI?
 
 Sì, è il percorso fondamentale per trasformare l'AI in cambiamento organizzativo.
+
+## Corsi collegati
+
+- [Managing AI](https://ar-tik.com/corsi/managing-ai.md): Percorso per direzione e responsabili che devono distinguere valore reale, rischio e priorità prima di avviare iniziative AI.
+- [Managing AI per team aziendali misti](https://ar-tik.com/corsi/managing-ai-general.md): Formazione interfunzionale per creare linguaggio comune tra business, operations, marketing, IT, HR, legal e funzioni di supporto.
+- [AI Governance operativa](https://ar-tik.com/corsi/ai-governance.md): Corso per trasformare policy, rischi e requisiti di controllo in pratiche applicabili nel lavoro quotidiano.
 
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)

@@ -87,4 +87,10 @@ Reusable materials, examples, checklists and a clear set of next steps.
 
 No. The course is built around practical exercises and decisions close to real work.
 
+## Related courses
+
+- [AI Legal Ops and compliance documentation](https://ar-tik.com/en/courses/ai-legal-ops.md): Practical corporate course for applying AI to legal operations and compliance documents, with exercises on realistic work, reusable materials and clear governance criteria.
+- [AI for procurement and supplier intelligence](https://ar-tik.com/en/courses/ai-procurement.md): Practical corporate course for applying AI to procurement and supplier intelligence, with exercises on realistic work, reusable materials and clear governance criteria.
+- [AI for customer service and ticket triage](https://ar-tik.com/en/courses/ai-customer-service.md): Practical corporate course for applying AI to customer service and ticket triage, with exercises on realistic work, reusable materials and clear governance criteria.
+
 [Back to the course catalog](https://ar-tik.com/en/courses/index.md)

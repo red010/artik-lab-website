@@ -1,10 +1,10 @@
-# What AI can do inside a company. - public LLM dossier
+# What can be done with AI in a company. - public LLM dossier
 
-This public dossier extends the HTML page with the structured repertoire of AI applications, keeping anonymisation and consistency with visible content.
+This public dossier extends the HTML page with the structured repertoire of AI applications, keeping anonymisation and consistency with the visible content.
 
 ## Definition
 
-Each card describes an application pattern: what input enters, what output can be produced, what business value it can create and which controls remain human. Artik Lab always starts from a discovery call and designs solutions around the client's context.
+Each card describes an example of use: which data or materials go in, which result can be produced, which company value it can generate and which checks stay human. Artik Lab always starts from a first diagnostic conversation and designs specific solutions on the client's context.
 
 ## Public dataset
 
@@ -38,8 +38,8 @@ PDFs, images and forms become text, tables and structured fields reusable in com
 - Operating example: When a process shows a similar need, pdfs and attachments are used to produce structured database and support time reduction, with human review recommended.
 - ID: document-structure-extraction
 - Area: Documents and knowledge
-- Input: PDFs and attachments, scans and images, completed forms
-- Output: structured database, operational report
+- What goes in: PDFs and attachments, scans and images, completed forms
+- What comes out: structured database, operational report
 - Value: time reduction, fewer errors, traceability
 - Sectors: professional services, HSE, safety and technical services, manufacturing
 - Related services: Technical AI software
@@ -57,8 +57,8 @@ Reports, contracts, specifications and procedures are compared to find discrepan
 - Operating example: When a process shows a similar need, pdfs and attachments are used to produce operational report and support fewer errors, with human review required.
 - ID: document-coherence-audit
 - Area: Documents and knowledge
-- Input: PDFs and attachments, internal documentation, contracts and policies, tenders and specifications
-- Output: operational report, risk map
+- What goes in: PDFs and attachments, internal documentation, contracts and policies, tenders and specifications
+- What comes out: operational report, risk map
 - Value: fewer errors, risk reduction, traceability
 - Sectors: professional services, technical offices and engineering, HSE, safety and technical services
 - Related services: AI management consulting, Technical AI software
@@ -76,8 +76,8 @@ Manuals, procedures and knowledge bases become semantic search with answers grou
 - Operating example: When a process shows a similar need, internal documentation are used to produce semantic search and support transferable knowledge, with human review recommended.
 - ID: semantic-knowledge-search
 - Area: Documents and knowledge
-- Input: internal documentation, PDFs and attachments, manuals and training material
-- Output: semantic search, FAQs and answers
+- What goes in: internal documentation, PDFs and attachments, manuals and training material
+- What comes out: semantic search, FAQs and answers
 - Value: transferable knowledge, faster decisions, more consistent service
 - Sectors: cross-company functions, technical offices and engineering, training and knowledge-intensive organisations
 - Related services: Technical AI software
@@ -95,8 +95,8 @@ Transcripts and threads are cleaned, summarised and converted into traceable dec
 - Operating example: When a process shows a similar need, emails and tickets are used to produce actionable digest and support traceability, with human review recommended.
 - ID: meeting-email-decision-memory
 - Area: Operations
-- Input: emails and tickets, transcripts and notes, tickets and requests
-- Output: actionable digest, roadmap and priorities
+- What goes in: emails and tickets, transcripts and notes, tickets and requests
+- What comes out: actionable digest, roadmap and priorities
 - Value: traceability, faster decisions, transferable knowledge
 - Sectors: cross-company functions, professional services, technical offices and engineering
 - Related services: AI management consulting
@@ -114,8 +114,8 @@ Reports, letters, contracts, FAQs and communications are produced from data and 
 - Operating example: When a process shows a similar need, structured database are used to produce controlled drafts and support time reduction, with human review required.
 - ID: controlled-document-generation
 - Area: Documents and knowledge
-- Input: structured database, internal documentation, contracts and policies
-- Output: controlled drafts, FAQs and answers
+- What goes in: structured database, internal documentation, contracts and policies
+- What comes out: controlled drafts, FAQs and answers
 - Value: time reduction, fewer errors, more governable compliance
 - Sectors: professional services, finance, control and regulated services, HSE, safety and technical services
 - Related services: AI management consulting
@@ -133,8 +133,8 @@ Real work is reconstructed as-is, read for bottlenecks and transformed into a to
 - Operating example: When a process shows a similar need, transcripts and notes are used to produce roadmap and priorities and support clearer priorities, with human review recommended.
 - ID: process-mapping-redesign
 - Area: Operations
-- Input: transcripts and notes, logs and process states, emails and tickets, spreadsheets
-- Output: roadmap and priorities, business case
+- What goes in: transcripts and notes, logs and process states, emails and tickets, spreadsheets
+- What comes out: roadmap and priorities, business case
 - Value: clearer priorities, faster decisions, avoided costs
 - Sectors: cross-company functions, manufacturing, professional services
 - Related services: AI management consulting
@@ -152,8 +152,8 @@ Incoming communications are classified by urgency, topic, responsibility and req
 - Operating example: When a process shows a similar need, emails and tickets are used to produce actionable digest and support time reduction, with human review recommended.
 - ID: email-ticket-triage
 - Area: Operations
-- Input: emails and tickets, tickets and requests, internal documentation
-- Output: actionable digest, controlled drafts, priority ranking
+- What goes in: emails and tickets, tickets and requests, internal documentation
+- What comes out: actionable digest, controlled drafts, priority ranking
 - Value: time reduction, more consistent service, clearer priorities
 - Sectors: cross-company functions, HSE, safety and technical services, technical offices and engineering
 - Related services: Technical AI software
@@ -171,8 +171,8 @@ Availability, constraints, skills, leave and demand are combined to propose feas
 - Operating example: When a process shows a similar need, spreadsheets are used to produce plan and assignments and support production efficiency, with human review required.
 - ID: scheduling-resource-allocation
 - Area: Operations
-- Input: spreadsheets, ERP and business systems, KPIs and time series
-- Output: plan and assignments, dashboards and filtered views
+- What goes in: spreadsheets, ERP and business systems, KPIs and time series
+- What comes out: plan and assignments, dashboards and filtered views
 - Value: production efficiency, faster decisions, avoided costs
 - Sectors: manufacturing, logistics and supply chain, HSE, safety and technical services
 - Related services: Technical AI software, Agentic data analysis
@@ -190,8 +190,8 @@ Historical orders, revenue, tickets or production become operating forecasts for
 - Operating example: When a process shows a similar need, transactions and purchases are used to produce verifiable forecast and support faster decisions, with human review recommended.
 - ID: demand-workload-forecast
 - Area: Operations
-- Input: transactions and purchases, KPIs and time series, production data
-- Output: verifiable forecast, dashboards and filtered views
+- What goes in: transactions and purchases, KPIs and time series, production data
+- What comes out: verifiable forecast, dashboards and filtered views
 - Value: faster decisions, avoided costs, production efficiency
 - Sectors: retail and e-commerce, manufacturing, logistics and supply chain
 - Related services: Agentic data analysis
@@ -209,8 +209,8 @@ Project meetings and documents feed an evolving dossier with requirements, laten
 - Operating example: When a process shows a similar need, transcripts and notes are used to produce roadmap and priorities and support traceability, with human review required.
 - ID: project-requirements-memory
 - Area: Operations
-- Input: transcripts and notes, requirements and specifications, internal documentation
-- Output: roadmap and priorities, risk map
+- What goes in: transcripts and notes, requirements and specifications, internal documentation
+- What comes out: roadmap and priorities, risk map
 - Value: traceability, fewer errors, transferable knowledge
 - Sectors: technical offices and engineering, professional services, manufacturing
 - Related services: AI management consulting, Technical AI software
@@ -228,8 +228,8 @@ Unstructured texts are aggregated by theme, sentiment, recurring needs and prior
 - Operating example: When a process shows a similar need, text feedback are used to produce operational report and support more consistent service, with human review recommended.
 - ID: customer-feedback-intelligence
 - Area: Customer, marketing and sales
-- Input: text feedback, tickets and requests, public sources
-- Output: operational report, priority ranking
+- What goes in: text feedback, tickets and requests, public sources
+- What comes out: operational report, priority ranking
 - Value: more consistent service, recovered commercial value, clearer priorities
 - Sectors: retail and e-commerce, cross-company functions, professional services
 - Related services: Agentic data analysis
@@ -247,8 +247,8 @@ Public sources and provided material are synthesised into maps of pain points, l
 - Operating example: When a process shows a similar need, public sources are used to produce operational report and support recovered commercial value, with human review recommended.
 - ID: market-customer-discovery
 - Area: Customer, marketing and sales
-- Input: public sources, text feedback, internal documentation
-- Output: operational report, business case
+- What goes in: public sources, text feedback, internal documentation
+- What comes out: operational report, business case
 - Value: recovered commercial value, clearer priorities, faster decisions
 - Sectors: retail and e-commerce, professional services, public bodies and territory
 - Related services: AI management consulting
@@ -266,8 +266,8 @@ Interviews, approved examples and commercial material become operating guideline
 - Operating example: When a process shows a similar need, internal documentation are used to produce policies and guardrails and support time reduction, with human review required.
 - ID: brand-voice-content-engine
 - Area: Customer, marketing and sales
-- Input: internal documentation, text feedback, public sources
-- Output: policies and guardrails, controlled drafts
+- What goes in: internal documentation, text feedback, public sources
+- What comes out: policies and guardrails, controlled drafts
 - Value: time reduction, recovered commercial value, traceability
 - Sectors: cross-company functions, retail and e-commerce, public bodies and territory
 - Related services: AI management consulting
@@ -285,8 +285,8 @@ Purchase history, catalogs and competitive information help build pitches, bundl
 - Operating example: When a process shows a similar need, transactions and purchases are used to produce operational recommendations and support recovered commercial value, with human review required.
 - ID: sales-pricing-recommendations
 - Area: Customer, marketing and sales
-- Input: transactions and purchases, internal documentation, public sources
-- Output: operational recommendations, business case
+- What goes in: transactions and purchases, internal documentation, public sources
+- What comes out: operational recommendations, business case
 - Value: recovered commercial value, faster decisions, clearer priorities
 - Sectors: retail and e-commerce, cross-company functions
 - Related services: Agentic data analysis
@@ -304,8 +304,8 @@ Skills, roles, future goals and trends are connected to define development, upsk
 - Operating example: When a process shows a similar need, aggregated hr data are used to produce roadmap and priorities and support transferable knowledge, with human review required.
 - ID: hr-competence-map
 - Area: People and HR
-- Input: aggregated HR data, internal documentation, public sources
-- Output: roadmap and priorities, operational report
+- What goes in: aggregated HR data, internal documentation, public sources
+- What comes out: roadmap and priorities, operational report
 - Value: transferable knowledge, clearer priorities, faster training
 - Sectors: cross-company functions, training and knowledge-intensive organisations
 - Related services: AI management consulting
@@ -323,8 +323,8 @@ Job descriptions, applications and onboarding material are structured to prepare
 - Operating example: When a process shows a similar need, cvs and applications are used to produce operational report and support time reduction, with human review required.
 - ID: recruiting-onboarding-support
 - Area: People and HR
-- Input: CVs and applications, aggregated HR data, manuals and training material
-- Output: operational report, controlled drafts
+- What goes in: CVs and applications, aggregated HR data, manuals and training material
+- What comes out: operational report, controlled drafts
 - Value: time reduction, fewer errors, faster training
 - Sectors: cross-company functions, training and knowledge-intensive organisations
 - Related services: AI management consulting
@@ -342,8 +342,8 @@ Policies, benefits, procedures and recurring requests become FAQs, drafts and gu
 - Operating example: When a process shows a similar need, aggregated hr data are used to produce faqs and answers and support more consistent service, with human review required.
 - ID: hr-policy-requests
 - Area: People and HR
-- Input: aggregated HR data, internal documentation, contracts and policies
-- Output: FAQs and answers, controlled drafts
+- What goes in: aggregated HR data, internal documentation, contracts and policies
+- What comes out: FAQs and answers, controlled drafts
 - Value: more consistent service, time reduction, more governable compliance
 - Sectors: cross-company functions
 - Related services: AI management consulting
@@ -361,8 +361,8 @@ A technical need becomes requirements, user stories, non-functional constraints,
 - Operating example: When a process shows a similar need, requirements and specifications are used to produce roadmap and priorities and support fewer errors, with human review required.
 - ID: software-requirements-and-mvp
 - Area: Technical and software
-- Input: requirements and specifications, transcripts and notes, internal documentation
-- Output: roadmap and priorities, tests and checklists
+- What goes in: requirements and specifications, transcripts and notes, internal documentation
+- What comes out: roadmap and priorities, tests and checklists
 - Value: fewer errors, traceability, avoided costs
 - Sectors: technical offices and engineering, manufacturing
 - Related services: Technical AI software
@@ -380,8 +380,8 @@ Existing code and specifications guide controlled code generation, unit tests, r
 - Operating example: When a process shows a similar need, code and repositories are used to produce tests and checklists and support time reduction, with human review required.
 - ID: ai-assisted-coding-quality
 - Area: Technical and software
-- Input: code and repositories, requirements and specifications
-- Output: tests and checklists, operational report
+- What goes in: code and repositories, requirements and specifications
+- What comes out: tests and checklists, operational report
 - Value: time reduction, fewer errors, traceability
 - Sectors: technical offices and engineering
 - Related services: Technical AI software
@@ -399,8 +399,8 @@ Tenders, specifications, reports and technical sheets are analysed for critical 
 - Operating example: When a process shows a similar need, tenders and specifications are used to produce operational report and support risk reduction, with human review required.
 - ID: technical-tender-documentation
 - Area: Technical and software
-- Input: tenders and specifications, internal documentation, technical drawings
-- Output: operational report, controlled drafts, risk map
+- What goes in: tenders and specifications, internal documentation, technical drawings
+- What comes out: operational report, controlled drafts, risk map
 - Value: risk reduction, fewer errors, traceability
 - Sectors: technical offices and engineering, professional services, manufacturing
 - Related services: Technical AI software
@@ -418,8 +418,8 @@ Photos, drawings and renders become descriptive sheets, component analyses, dime
 - Operating example: When a process shows a similar need, operational photos are used to produce operational report and support transferable knowledge, with human review required.
 - ID: visual-technical-analysis
 - Area: Technical and software
-- Input: operational photos, technical drawings, internal documentation
-- Output: operational report, controlled drafts
+- What goes in: operational photos, technical drawings, internal documentation
+- What comes out: operational report, controlled drafts
 - Value: transferable knowledge, faster decisions, fewer errors
 - Sectors: technical offices and engineering, manufacturing
 - Related services: Technical AI software
@@ -437,8 +437,8 @@ Activities, data and decisions are classified into autonomy, supervision or excl
 - Operating example: When a process shows a similar need, internal documentation are used to produce policies and guardrails and support risk reduction, with human review required.
 - ID: ai-governance-policy-risk
 - Area: Governance, compliance and risk
-- Input: internal documentation, policies and guidelines, transcripts and notes
-- Output: policies and guardrails, risk map, roadmap and priorities
+- What goes in: internal documentation, policies and guidelines, transcripts and notes
+- What comes out: policies and guardrails, risk map, roadmap and priorities
 - Value: risk reduction, more governable compliance, clearer priorities
 - Sectors: cross-company functions, finance, control and regulated services, HSE, safety and technical services
 - Related services: AI management consulting
@@ -456,8 +456,8 @@ Contracts, notices, registers, procedures and letters are prepared as preliminar
 - Operating example: When a process shows a similar need, contracts and policies are used to produce controlled drafts and support time reduction, with human review required.
 - ID: compliance-legal-privacy-drafting
 - Area: Governance, compliance and risk
-- Input: contracts and policies, internal documentation, completed forms
-- Output: controlled drafts, risk map
+- What goes in: contracts and policies, internal documentation, completed forms
+- What comes out: controlled drafts, risk map
 - Value: time reduction, more governable compliance, risk reduction
 - Sectors: professional services, finance, control and regulated services, cross-company functions
 - Related services: AI management consulting
@@ -475,8 +475,8 @@ Chatbots and assistants are stressed with manipulation, data leakage and conflic
 - Operating example: When a process shows a similar need, internal documentation are used to produce tests and checklists and support risk reduction, with human review required.
 - ID: ai-system-security-tests
 - Area: Governance, compliance and risk
-- Input: internal documentation, requirements and specifications, policies and guidelines
-- Output: tests and checklists, policies and guardrails, operational report
+- What goes in: internal documentation, requirements and specifications, policies and guidelines
+- What comes out: tests and checklists, policies and guardrails, operational report
 - Value: risk reduction, more governable compliance, more consistent service
 - Sectors: technical offices and engineering, cross-company functions
 - Related services: Technical AI software
@@ -494,8 +494,8 @@ Site or department photos are read to identify non-compliance, risks and prevent
 - Operating example: When a process shows a similar need, operational photos are used to produce operational report and support risk reduction, with human review required.
 - ID: hse-visual-inspection
 - Area: Production, quality and maintenance
-- Input: operational photos, internal documentation
-- Output: operational report, risk map
+- What goes in: operational photos, internal documentation
+- What comes out: operational report, risk map
 - Value: risk reduction, faster decisions, more governable compliance
 - Sectors: HSE, safety and technical services, manufacturing
 - Related services: Technical AI software
@@ -513,8 +513,8 @@ Customer schedules, ERP, cycles, non-conformities and historical costs support p
 - Operating example: When a process shows a similar need, erp and business systems are used to produce plan and assignments and support production efficiency, with human review required.
 - ID: production-planning-quality
 - Area: Production, quality and maintenance
-- Input: ERP and business systems, production data, spreadsheets
-- Output: plan and assignments, operational report, operational recommendations
+- What goes in: ERP and business systems, production data, spreadsheets
+- What comes out: plan and assignments, operational report, operational recommendations
 - Value: production efficiency, fewer errors, avoided costs
 - Sectors: manufacturing, logistics and supply chain
 - Related services: Technical AI software, Agentic data analysis
@@ -532,8 +532,8 @@ Failure history, sensors and interventions become control priorities, maintenanc
 - Operating example: When a process shows a similar need, sensors and telemetry are used to produce alerts and thresholds and support production efficiency, with human review required.
 - ID: maintenance-and-asset-risk
 - Area: Production, quality and maintenance
-- Input: sensors and telemetry, production data, logs and process states
-- Output: alerts and thresholds, priority ranking, dashboards and filtered views
+- What goes in: sensors and telemetry, production data, logs and process states
+- What comes out: alerts and thresholds, priority ranking, dashboards and filtered views
 - Value: production efficiency, avoided costs, risk reduction
 - Sectors: manufacturing, logistics and supply chain
 - Related services: Agentic data analysis
@@ -551,8 +551,8 @@ Manuals, slides and scattered documents become syllabi, quizzes, case studies an
 - Operating example: When a process shows a similar need, manuals and training material are used to produce faqs and answers and support faster training, with human review recommended.
 - ID: internal-training-assets
 - Area: Training and internal memory
-- Input: manuals and training material, internal documentation, transcripts and notes
-- Output: FAQs and answers, controlled drafts
+- What goes in: manuals and training material, internal documentation, transcripts and notes
+- What comes out: FAQs and answers, controlled drafts
 - Value: faster training, transferable knowledge, more consistent service
 - Sectors: training and knowledge-intensive organisations, cross-company functions
 - Related services: AI management consulting
@@ -570,8 +570,8 @@ Internal documentation feeds Q&A assistants, including voice interfaces, that an
 - Operating example: When a process shows a similar need, internal documentation are used to produce semantic search and support transferable knowledge, with human review required.
 - ID: company-memory-assistants
 - Area: Training and internal memory
-- Input: internal documentation, manuals and training material, policies and guidelines
-- Output: semantic search, FAQs and answers, policies and guardrails
+- What goes in: internal documentation, manuals and training material, policies and guidelines
+- What comes out: semantic search, FAQs and answers, policies and guardrails
 - Value: transferable knowledge, more consistent service, time reduction
 - Sectors: cross-company functions, manufacturing, training and knowledge-intensive organisations
 - Related services: Technical AI software
@@ -589,8 +589,8 @@ Data, KPIs and heterogeneous material become narrative reports, infographics, pr
 - Operating example: When a process shows a similar need, kpis and time series are used to produce operational report and support faster decisions, with human review recommended.
 - ID: executive-reports-visual-assets
 - Area: Cross-functional tools
-- Input: KPIs and time series, spreadsheets, internal documentation
-- Output: operational report, dashboards and filtered views, controlled drafts
+- What goes in: KPIs and time series, spreadsheets, internal documentation
+- What comes out: operational report, dashboards and filtered views, controlled drafts
 - Value: faster decisions, traceability, recovered commercial value
 - Sectors: cross-company functions
 - Related services: AI management consulting
@@ -608,8 +608,8 @@ Time series and industrial sensors are used for alerts, degradation analysis and
 - Operating example: When a process shows a similar need, sensors and telemetry are used to produce alerts and thresholds and support production efficiency, with human review required.
 - ID: predictive-maintenance-anomalies
 - Area: Data science and decisions
-- Input: sensors and telemetry, production data, KPIs and time series
-- Output: alerts and thresholds, verifiable forecast, dashboards and filtered views
+- What goes in: sensors and telemetry, production data, KPIs and time series
+- What comes out: alerts and thresholds, verifiable forecast, dashboards and filtered views
 - Value: production efficiency, avoided costs, risk reduction
 - Sectors: manufacturing, logistics and supply chain
 - Related services: Agentic data analysis, Technical AI software
@@ -627,8 +627,8 @@ Transactional and behavioural histories become segments, risk rankings, bundles 
 - Operating example: When a process shows a similar need, transactions and purchases are used to produce priority ranking and support recovered commercial value, with human review required.
 - ID: customer-segmentation-churn-crosssell
 - Area: Data science and decisions
-- Input: transactions and purchases, text feedback, KPIs and time series
-- Output: priority ranking, operational recommendations, business case
+- What goes in: transactions and purchases, text feedback, KPIs and time series
+- What comes out: priority ranking, operational recommendations, business case
 - Value: recovered commercial value, clearer priorities, more consistent service
 - Sectors: retail and e-commerce, finance, control and regulated services
 - Related services: Agentic data analysis
@@ -646,8 +646,8 @@ Telemetry, consumption, quality and machine parameters reveal efficient profiles
 - Operating example: When a process shows a similar need, sensors and telemetry are used to produce dashboards and filtered views and support production efficiency, with human review required.
 - ID: energy-line-optimization
 - Area: Data science and decisions
-- Input: sensors and telemetry, production data, KPIs and time series
-- Output: dashboards and filtered views, operational recommendations, business case
+- What goes in: sensors and telemetry, production data, KPIs and time series
+- What comes out: dashboards and filtered views, operational recommendations, business case
 - Value: production efficiency, avoided costs, faster decisions
 - Sectors: manufacturing
 - Related services: Agentic data analysis
@@ -665,8 +665,8 @@ Aggregated fiscal, territorial or commercial data become maps, clusters, profita
 - Operating example: When a process shows a similar need, transactions and purchases are used to produce dashboards and filtered views and support faster decisions, with human review recommended.
 - ID: territorial-profitability-analytics
 - Area: Data science and decisions
-- Input: transactions and purchases, public sources, KPIs and time series
-- Output: dashboards and filtered views, operational report, business case
+- What goes in: transactions and purchases, public sources, KPIs and time series
+- What comes out: dashboards and filtered views, operational report, business case
 - Value: faster decisions, clearer priorities, recovered commercial value
 - Sectors: public bodies and territory, retail and e-commerce, finance, control and regulated services
 - Related services: Agentic data analysis
@@ -684,8 +684,8 @@ The first value can be a negative verdict: available data does not yet contain t
 - Operating example: When a process shows a similar need, kpis and time series are used to produce operational report and support avoided costs, with human review recommended.
 - ID: data-quality-go-no-go
 - Area: Data science and decisions
-- Input: KPIs and time series, transactions and purchases, logs and process states
-- Output: operational report, business case, roadmap and priorities
+- What goes in: KPIs and time series, transactions and purchases, logs and process states
+- What comes out: operational report, business case, roadmap and priorities
 - Value: avoided costs, clearer priorities, traceability
 - Sectors: cross-company functions
 - Related services: Agentic data analysis
@@ -703,8 +703,8 @@ Cases, material and constraints are explored to generate hypotheses, scenarios, 
 - Operating example: When a process shows a similar need, internal documentation are used to produce operational report and support recovered commercial value, with human review recommended.
 - ID: creative-rnd-discovery
 - Area: Cross-functional tools
-- Input: internal documentation, text feedback, public sources
-- Output: operational report, operational recommendations, controlled drafts
+- What goes in: internal documentation, text feedback, public sources
+- What comes out: operational report, operational recommendations, controlled drafts
 - Value: recovered commercial value, clearer priorities, faster decisions
 - Sectors: cross-company functions
 - Related services: AI management consulting
@@ -715,13 +715,13 @@ Cases, material and constraints are explored to generate hypotheses, scenarios, 
 - Risk: low
 - Privacy and control: Use authorised data, minimise personal information and keep human review on relevant outputs.
 
-## From map to real process: start with a call.
+## To move from the example to the company's case, a conversation is the starting point.
 
-This page helps orientation. The solution is designed only after reviewing sector, constraints, available data, responsibilities and the decision to improve.
+The page is there to orient. The solution is born only after seeing sector, constraints, available data, responsibilities and the decision to improve.
 
-1. **Initial context**: Before the meeting Artik Lab prepares a first reading of public context and any material shared by the company.
-2. **Structured conversation**: During the call two or three high-potential workflows are identified, together with constraints, risks and urgencies.
-3. **Targeted proposal**: The output is a calibrated path: training, consulting, data analysis or technical prototype, with expected results and control criteria.
+1. **Preliminary picture**: Before the meeting a reading of the public context and of any materials shared is prepared.
+2. **Structured conversation**: During the call two or three high-potential processes are identified and constraints, risks and urgencies are clarified.
+3. **Targeted proposal**: The result is a calibrated path: training, consulting, data analysis or a technical prototype, with expected results and control criteria.
 
 ## FAQ
 

@@ -5,7 +5,7 @@ Integrare sicurezza, privacy e controlli tecnici nel ciclo di sviluppo software 
 - Durata: 4-6 ore, personalizzabili
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per team tecnici con basi di programmazione e architetture software.
-- Output finale: Threat model AI e checklist Secure AI SDLC.
+- Output finale: Threat model AI, cioè la mappa delle minacce, e checklist Secure AI SDLC.
 - Sceglierlo se: Quando un'organizzazione sta sviluppando applicazioni AI e vuole evitare che sicurezza e governance arrivino solo alla fine.
 
 ## Il problema che risolve
@@ -23,7 +23,7 @@ Quando un'organizzazione sta sviluppando applicazioni AI e vuole evitare che sic
 ## Risultati concreti
 
 - Definire controlli SDLC AI-specifici.
-- Costruire threat model.
+- Costruire il threat model, la mappa delle minacce.
 - Scrivere secure design checklist.
 - Impostare policy su dati e istruzioni.
 - Stabilire test di sicurezza e criteri di rilascio.
@@ -87,5 +87,11 @@ Sì, il massimo valore arriva in fase di design.
 ### Dipende da uno stack?
 
 No, i controlli si adattano allo stack.
+
+## Corsi collegati
+
+- [Ricerca semantica e knowledge base AI](https://ar-tik.com/corsi/embeddings.md): Modulo per rendere archivi e conoscenza aziendale cercabili per significato, con gli embeddings: rappresentazioni numeriche del significato di un testo, base dei progetti AI che rispondono sui documenti.
+- [RAG Engineering per sistemi AI affidabili](https://ar-tik.com/corsi/rag-engineering.md): Corso tecnico per passare da una chat sui documenti a sistemi RAG (Retrieval-Augmented Generation): recupero delle fonti, qualità misurabile e controllo.
+- [AI Coding Agents per team software](https://ar-tik.com/corsi/ai-coding-agents.md): Corso tecnico per usare agenti AI come componenti controllati del ciclo software: sviluppo, revisione, test e rilascio, con responsabilità dichiarate.
 
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)

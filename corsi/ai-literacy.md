@@ -6,7 +6,7 @@ Alfabetizzazione AI per ruoli aziendali, con focus su uso responsabile, qualità
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per team aziendali, funzioni operative e manager; non richiede programmazione.
 - Output finale: Schede di uso responsabile per ruolo e checklist operative.
-- Sceglierlo se: Quando l'azienda vuole diffondere cultura AI comune, evitando sia entusiasmo non governato sia blocco operativo.
+- Sceglierlo se: Quando l'azienda vuole che tutti usino l'AI in modo simile, senza usi fuori controllo e senza divieti di fatto.
 
 ## Il problema che risolve
 
@@ -18,7 +18,7 @@ Dipendenti, team operativi, manager di primo livello, funzioni corporate, custom
 
 ## Quando sceglierlo
 
-Quando l'azienda vuole diffondere cultura AI comune, evitando sia entusiasmo non governato sia blocco operativo.
+Quando l'azienda vuole che tutti usino l'AI in modo simile, senza usi fuori controllo e senza divieti di fatto.
 
 ## Risultati concreti
 
@@ -30,7 +30,7 @@ Quando l'azienda vuole diffondere cultura AI comune, evitando sia entusiasmo non
 
 ## Programma
 
-### 1. AI literacy essenziale
+### 1. Che cosa fa l'AI e dove sbaglia
 
 Cosa fa l'AI, come ragiona, dove fallisce e quando usarla.
 
@@ -38,7 +38,7 @@ Cosa fa l'AI, come ragiona, dove fallisce e quando usarla.
 
 Attività tipiche, casi consentiti, casi da evitare ed esempi funzionali.
 
-### 3. Responsible use
+### 3. Uso responsabile: dati, verifica, controllo
 
 Dati, privacy, bias, qualità, verifica e controllo umano.
 
@@ -86,5 +86,11 @@ No, può essere modulato per funzione e rischio.
 ### Riduce usi impropri?
 
 Sì, traduce il responsible use in comportamenti pratici.
+
+## Corsi collegati
+
+- [Secure AI at Work](https://ar-tik.com/corsi/secure-ai-at-work.md): Corso tecnico-operativo per rendere l'uso quotidiano dell'AI più efficace, sicuro e governato.
+- [AI Output Quality & Human Review](https://ar-tik.com/corsi/ai-output-quality.md): Corso per progettare la revisione da parte delle persone, le schede di giudizio e le misure di qualità su ciò che l'AI produce.
+- [Managing AI](https://ar-tik.com/corsi/managing-ai.md): Percorso per direzione e responsabili che devono distinguere valore reale, rischio e priorità prima di avviare iniziative AI.
 
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)

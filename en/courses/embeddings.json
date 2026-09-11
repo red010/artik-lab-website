@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "course": {
@@ -11,8 +11,8 @@
     "familyLabel": "Technical",
     "featured": false,
     "title": "Semantic search and AI knowledge bases",
-    "subtitle": "Practical corporate course for applying AI to semantic search and knowledge bases, with exercises on realistic work, reusable materials and clear governance criteria.",
-    "summary": "Practical corporate course for applying AI to semantic search and knowledge bases, with exercises on realistic work, reusable materials and clear governance criteria.",
+    "subtitle": "Turn archives and internal knowledge into search by meaning, with embeddings: numerical representations of the meaning of a text.",
+    "summary": "Turn archives and internal knowledge into search by meaning, with embeddings: numerical representations of the meaning of a text.",
     "duration": "60-90 minuti o modulo breve",
     "mode": "In-person or online lab, with guided exercises and materials adapted to the client.",
     "profile": "technical",

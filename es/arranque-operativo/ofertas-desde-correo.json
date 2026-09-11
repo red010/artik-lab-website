@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/avvio-activity.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "activity": {
@@ -10,7 +10,7 @@
     "family": "documents",
     "title": "Ofertas y tarifas desde el correo y los archivos",
     "subtitle": "Llega una solicitud por correo, a veces con PDF. Queda un borrador sobre el modelo de la empresa, para que quien vende lo relea.",
-    "summary": "De correo y PDF a un borrador de oferta o tarifa para que quien vende lo relea. Un día en sede. El sistema de gestión no se toca.",
+    "summary": "De correo y PDF a un borrador de oferta o tarifa para que quien vende lo relea. Un día en sede. Quedan excluidas las integraciones a medida con el software ya en uso.",
     "duration": "Un día en sede",
     "problem": "Hace falta un presupuesto o una tarifa actualizada, con fichas adjuntas, sin que quien vende vuelva a copiar desde tres carpetas. El oficio — negociar, cerrar, introducir el pedido — sigue siendo de la persona. Lo que se aligera es el trabajo alrededor: reunir desde correo y archivos, componer, señalar huecos.",
     "notFor": [

@@ -87,4 +87,10 @@ Matériaux réutilisables, exemples, checklists et prochaines étapes claires.
 
 Non. Le cours repose sur exercices pratiques et décisions proches du travail réel.
 
+## Cours associés
+
+- [AI pour service client et triage de tickets](https://ar-tik.com/fr/cours/ai-customer-service.md): Cours d'entreprise pratique pour appliquer l'IA à service client et triage de tickets, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI pour qualité et non-conformités](https://ar-tik.com/fr/cours/ai-quality-management.md): Cours d'entreprise pratique pour appliquer l'IA à qualité et non-conformités, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI People Ops](https://ar-tik.com/fr/cours/ai-people-ops.md): Cours d'entreprise pratique pour appliquer l'IA à People Ops et processus RH, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+
 [Retour au catalogue des cours](https://ar-tik.com/fr/cours/index.md)

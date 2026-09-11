@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "course": {
@@ -19,8 +19,8 @@
     "profileDescription": "Per team aziendali, funzioni operative e manager; non richiede programmazione.",
     "problem": "Molte persone usano l'AI senza sapere davvero quando fidarsi, cosa non condividere e come verificare gli output. Altre non la usano perché la percepiscono come troppo tecnica. Il corso crea una base pratica e responsabile, adatta ai diversi ruoli aziendali.",
     "audience": "Dipendenti, team operativi, manager di primo livello, funzioni corporate, customer-facing team, HR, marketing, sales, operations, amministrazione, legal e supporto interno.",
-    "whenToChoose": "Quando l'azienda vuole diffondere cultura AI comune, evitando sia entusiasmo non governato sia blocco operativo.",
-    "chooseIf": "Quando l'azienda vuole diffondere cultura AI comune, evitando sia entusiasmo non governato sia blocco operativo.",
+    "whenToChoose": "Quando l'azienda vuole che tutti usino l'AI in modo simile, senza usi fuori controllo e senza divieti di fatto.",
+    "chooseIf": "Quando l'azienda vuole che tutti usino l'AI in modo simile, senza usi fuori controllo e senza divieti di fatto.",
     "outcomes": [
       "Comprendere l'AI generativa in modo essenziale.",
       "Applicarla a compiti quotidiani.",
@@ -30,7 +30,7 @@
     ],
     "modules": [
       {
-        "title": "AI literacy essenziale",
+        "title": "Che cosa fa l'AI e dove sbaglia",
         "description": "Cosa fa l'AI, come ragiona, dove fallisce e quando usarla."
       },
       {
@@ -38,7 +38,7 @@
         "description": "Attività tipiche, casi consentiti, casi da evitare ed esempi funzionali."
       },
       {
-        "title": "Responsible use",
+        "title": "Uso responsabile: dati, verifica, controllo",
         "description": "Dati, privacy, bias, qualità, verifica e controllo umano."
       },
       {

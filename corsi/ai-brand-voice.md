@@ -5,7 +5,7 @@ Usare l'AI nella comunicazione senza perdere identità: tono, messaggi, linee gu
 - Durata: 4 ore, 2 lezioni da 2 ore
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per manager e team non tecnici; non richiede programmazione.
-- Output finale: Brand voice sheet e workflow editoriale AI-assisted.
+- Output finale: Scheda della voce di marca e flusso editoriale con AI.
 - Sceglierlo se: Quando l'azienda vuole usare l'AI per comunicare meglio ma teme contenuti generici, incoerenti o non aderenti alla propria identità.
 
 ## Il problema che risolve
@@ -85,5 +85,11 @@ Sì, adatta messaggi a contesti diversi mantenendo coerenza.
 ### È solo scrittura?
 
 No, include processo, review e governance editoriale.
+
+## Corsi collegati
+
+- [AI per amministrazione e controllo di gestione](https://ar-tik.com/corsi/ai-admin-finance.md): Corso per usare l'AI in amministrazione, finanza e controllo come supporto a sintesi, report e controlli preliminari, senza togliere la responsabilità alle persone.
+- [AI Operations](https://ar-tik.com/corsi/ai-operations.md): Percorso per rendere i processi operativi più efficienti, controllati e comprensibili, senza nuove dashboard di monitoraggio.
+- [AI Legal Ops e compliance documentale](https://ar-tik.com/corsi/ai-legal-ops.md): Corso operativo per ridurre lavoro manuale su contratti, policy e procedure, mantenendo supervisione e gestione del rischio.
 
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)

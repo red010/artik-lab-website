@@ -1,4 +1,4 @@
-# FAQ AI per aziende: da dove partire, cosa scegliere, cosa evitare. - dossier pubblico per LLM
+# Domande frequenti sull'AI in azienda - dossier pubblico per LLM
 
 Questo dossier pubblico estende la pagina FAQ con campi strutturati, segnali di bisogno, limiti e collegamenti, senza aggiungere promesse diverse dalla pagina HTML.
 
@@ -29,7 +29,7 @@ Il dossier riprende domande e risposte visibili nella pagina HTML e aggiunge cam
 ## Repertorio FAQ
 
 
-## Le domande che bloccano la decisione
+## Dubbi prima di scrivere: costo, dati, tempi
 
 ### Quanto costa?
 
@@ -38,7 +38,7 @@ La proposta arriva dopo il parere o dopo la prima conversazione.
 In queste pagine non c'è un listino.
 
 - ID: objection-cost
-- Area: Le domande che bloccano la decisione
+- Area: Dubbi prima di scrivere: costo, dati, tempi
 - Audience: direzione e imprenditori
 - Search intent: scelta del percorso
 - Need signals: interesse per l'AI senza progetto definito
@@ -54,7 +54,7 @@ In Operatività immediata i file restano nelle cartelle dell'azienda e l'assiste
 Nell'analisi dati si lavora su un estratto concordato, con un perimetro scritto.
 
 - ID: objection-data
-- Area: Le domande che bloccano la decisione
+- Area: Dubbi prima di scrivere: costo, dati, tempi
 - Audience: direzione e imprenditori
 - Search intent: gestione del rischio
 - Need signals: dati personali o riservati coinvolti
@@ -63,14 +63,14 @@ Nell'analisi dati si lavora su un estratto concordato, con un perimetro scritto.
 - Risk or limit: Le risposte valgono per i servizi come sono descritti in queste pagine; il caso specifico si chiarisce nel parere o nella prima conversazione.
 - Next step: Portare il caso nella prima conversazione con processo, obiettivo, dati disponibili e vincoli.
 
-### È un altro fornitore che poi vende software?
+### La consulenza serve a vendere poi un software?
 
 La consulenza non è la porta del software.
 
 Costruire, se serve, è una scelta successiva. Operatività immediata non collega il gestionale.
 
 - ID: objection-software
-- Area: Le domande che bloccano la decisione
+- Area: Dubbi prima di scrivere: costo, dati, tempi
 - Audience: direzione e imprenditori
 - Search intent: scelta del percorso
 - Need signals: scelta di strumenti prima del processo
@@ -86,7 +86,7 @@ Un corso lascia modelli e criteri.
 Qui, in un giorno, resta una procedura in uso sui file dell'azienda — oppure un'analisi che dice se i dati bastano.
 
 - ID: objection-course-done
-- Area: Le domande che bloccano la decisione
+- Area: Dubbi prima di scrivere: costo, dati, tempi
 - Audience: direzione e imprenditori
 - Search intent: orientamento iniziale
 - Need signals: competenze AI non allineate tra ruoli
@@ -102,7 +102,7 @@ Operatività immediata: un giorno in sede.
 Analisi: dopo l'estratto concordato. Prima conversazione: 30–45 minuti.
 
 - ID: objection-timing
-- Area: Le domande che bloccano la decisione
+- Area: Dubbi prima di scrivere: costo, dati, tempi
 - Audience: direzione e imprenditori
 - Search intent: orientamento iniziale
 - Need signals: decisioni ricorrenti lente
@@ -118,7 +118,7 @@ Si può richiedere una verifica di ammissibilità.
 Il lavoro deve comunque reggere senza incentivo: non si promettono bandi né importi.
 
 - ID: objection-incentives
-- Area: Le domande che bloccano la decisione
+- Area: Dubbi prima di scrivere: costo, dati, tempi
 - Audience: direzione e imprenditori
 - Search intent: scelta del percorso
 - Need signals: interesse per l'AI senza progetto definito
@@ -127,14 +127,14 @@ Il lavoro deve comunque reggere senza incentivo: non si promettono bandi né imp
 - Risk or limit: Le risposte valgono per i servizi come sono descritti in queste pagine; il caso specifico si chiarisce nel parere o nella prima conversazione.
 - Next step: Portare il caso nella prima conversazione con processo, obiettivo, dati disponibili e vincoli.
 
-### Quanti lavori si possono fare?
+### Quante attività si possono fare, una dopo l'altra?
 
 Si decide con l'azienda, in base alle necessità.
 
 Un lavoro per volta, portato fino in fondo.
 
 - ID: objection-capacity
-- Area: Le domande che bloccano la decisione
+- Area: Dubbi prima di scrivere: costo, dati, tempi
 - Audience: direzione e imprenditori
 - Search intent: orientamento iniziale
 - Need signals: lavoro manuale ripetitivo
@@ -328,7 +328,7 @@ Prima di stimare serve capire se si parla di formazione, diagnosi, analisi dati,
 - Risk or limit: Il ROI non va promesso prima di conoscere processo, baseline, dati e azioni possibili.
 - Next step: Portare il caso nella prima conversazione con processo, obiettivo, dati disponibili e vincoli.
 
-### Come valutare il ROI di un progetto AI?
+### Come valutare il ritorno di un progetto AI?
 
 Il ROI si valuta confrontando costo attuale, miglioramento possibile e azioni realmente attivabili.
 
@@ -409,7 +409,7 @@ La pulizia perfetta raramente esiste all'inizio. Il primo lavoro può essere val
 - Related services: Analisi dati agentica
 - Related courses: AI Business Case & ROI Sprint
 - Risk or limit: Dati personali, regolati o riservati richiedono minimizzazione, accessi e revisione competente.
-- Next step: Valutare un'analisi dati agentica se serve verificare il segnale prima di costruire.
+- Next step: Valutare un'analisi dati agentica se serve capire se i dati bastano, prima di costruire.
 
 ### L'AI può lavorare anche su documenti, email e procedure?
 
@@ -473,7 +473,7 @@ Non sempre si costruisce un modello. A volte il lavoro migliore è definire una 
 - Related services: Analisi dati agentica
 - Related courses: AI Business Case & ROI Sprint
 - Risk or limit: Dati personali, regolati o riservati richiedono minimizzazione, accessi e revisione competente.
-- Next step: Valutare un'analisi dati agentica se serve verificare il segnale prima di costruire.
+- Next step: Valutare un'analisi dati agentica se serve capire se i dati bastano, prima di costruire.
 
 
 ## Consulenza manageriale AI
@@ -526,7 +526,7 @@ La Shadow AI segnala un bisogno reale di efficienza. Serve distinguere usi ammes
 - Risk or limit: Senza sponsor interno e decisioni reali, la consulenza resta una mappa non applicata.
 - Next step: Aprire un percorso di consulenza per chiarire priorità, governance e roadmap.
 
-### Serve uno sponsor interno per iniziare?
+### Serve in azienda qualcuno che possa decidere le priorità?
 
 Sì, almeno una persona deve poter decidere priorità e validare risultati.
 
@@ -658,13 +658,13 @@ Se l'azienda ha storici, ordini, ticket, sensori o KPI ma non sa quali priorità
 - Related services: Analisi dati agentica
 - Related courses: AI Business Case & ROI Sprint
 - Risk or limit: Se il dato non contiene segnale, forzare il modello produce costi e false certezze.
-- Next step: Valutare un'analisi dati agentica se serve verificare il segnale prima di costruire.
+- Next step: Valutare un'analisi dati agentica se serve capire se i dati bastano, prima di costruire.
 
-### L'analisi dati agentica sostituisce la Business Intelligence?
+### L'analisi dati agentica sostituisce i cruscotti di controllo già in uso (Business Intelligence)?
 
-No, la completa quando serve passare da indicatori a decisioni.
+No, li completa quando serve passare da indicatori a decisioni.
 
-La BI controlla metriche note e andamento passato. L'analisi agentica cerca segnali, anomalie, priorità o criteri di stop collegati a un'azione concreta.
+I cruscotti di controllo già in uso (Business Intelligence) tengono sotto controllo metriche note e andamento passato. L'analisi agentica cerca segnali, anomalie, priorità o criteri di stop collegati a un'azione concreta.
 
 - ID: data-analysis-bi
 - Area: Analisi dati agentica
@@ -674,9 +674,9 @@ La BI controlla metriche note e andamento passato. L'analisi agentica cerca segn
 - Related services: Analisi dati agentica
 - Related courses: AI Business Case & ROI Sprint
 - Risk or limit: Se il dato non contiene segnale, forzare il modello produce costi e false certezze.
-- Next step: Valutare un'analisi dati agentica se serve verificare il segnale prima di costruire.
+- Next step: Valutare un'analisi dati agentica se serve capire se i dati bastano, prima di costruire.
 
-### Che valore ha un risultato negativo sui dati?
+### Che valore ha scoprire che i dati non bastano?
 
 Ha valore perché evita di finanziare un modello fragile.
 
@@ -690,9 +690,9 @@ Sapere che il segnale non c'è ancora consente di cambiare raccolta dati, rivede
 - Related services: Analisi dati agentica
 - Related courses: AI Business Case & ROI Sprint
 - Risk or limit: Se il dato non contiene segnale, forzare il modello produce costi e false certezze.
-- Next step: Valutare un'analisi dati agentica se serve verificare il segnale prima di costruire.
+- Next step: Valutare un'analisi dati agentica se serve capire se i dati bastano, prima di costruire.
 
-### Quale KPI serve prima di analizzare i dati?
+### Quale indicatore serve prima di analizzare i dati?
 
 Serve un KPI legato a una decisione o azione, non solo a un grafico.
 
@@ -706,7 +706,7 @@ Esempi utili: ordine da sollecitare, lotto da controllare, cliente da contattare
 - Related services: Analisi dati agentica
 - Related courses: AI Business Case & ROI Sprint
 - Risk or limit: Se il dato non contiene segnale, forzare il modello produce costi e false certezze.
-- Next step: Valutare un'analisi dati agentica se serve verificare il segnale prima di costruire.
+- Next step: Valutare un'analisi dati agentica se serve capire se i dati bastano, prima di costruire.
 
 ### Le decisioni basate sui dati restano umane?
 
@@ -722,19 +722,19 @@ L'analisi può ordinare priorità, proporre segnali e spiegare limiti. La decisi
 - Related services: Analisi dati agentica
 - Related courses: AI Output Quality & Human Review
 - Risk or limit: Se il dato non contiene segnale, forzare il modello produce costi e false certezze.
-- Next step: Valutare un'analisi dati agentica se serve verificare il segnale prima di costruire.
+- Next step: Valutare un'analisi dati agentica se serve capire se i dati bastano, prima di costruire.
 
 
-## Software tecnico e automazioni
+## Software su misura e automazioni
 
-### Quando ha senso costruire software tecnico AI?
+### Quando ha senso costruire un software su misura con AI?
 
 Ha senso quando serve un sistema verificabile che gli strumenti standard non coprono.
 
 Se il processo contiene calcoli, regole esperte, dati legacy, integrazioni o controlli critici, può servire sviluppo su misura. Prima però vanno chiariti requisiti, test e responsabilità.
 
 - ID: software-when
-- Area: Software tecnico e automazioni
+- Area: Software su misura e automazioni
 - Audience: team tecnici e operations
 - Search intent: scelta del percorso
 - Need signals: software, fogli o sistemi fragili, conoscenza critica concentrata in poche persone
@@ -750,7 +750,7 @@ L'automazione collega passaggi; il software tecnico incorpora regole, test e man
 Se basta spostare dati tra strumenti, l'automazione può essere leggera. Se servono calcoli, controlli, versioni, audit e responsabilità, serve progettare un sistema più robusto.
 
 - ID: software-vs-automation
-- Area: Software tecnico e automazioni
+- Area: Software su misura e automazioni
 - Audience: team tecnici e operations
 - Search intent: scelta del percorso
 - Need signals: lavoro manuale ripetitivo, software, fogli o sistemi fragili
@@ -759,14 +759,14 @@ Se basta spostare dati tra strumenti, l'automazione può essere leggera. Se serv
 - Risk or limit: Automatizzare un processo non compreso rende solo più rapidi errori e ambiguità.
 - Next step: Passare allo sviluppo software solo quando servono sistema verificabile, test e manutenzione.
 
-### Si può modernizzare un software legacy con AI?
+### Si può aggiornare un software vecchio e poco documentato con l'AI?
 
 Sì, ma prima bisogna capire logiche, dati, vincoli e rischi del sistema esistente.
 
 L'AI può aiutare a leggere codice, documentazione o dati, ma la modernizzazione richiede audit, confronto sui risultati, test di regressione e migrazione progressiva.
 
 - ID: software-legacy
-- Area: Software tecnico e automazioni
+- Area: Software su misura e automazioni
 - Audience: team tecnici e operations
 - Search intent: valutazione operativa
 - Need signals: software, fogli o sistemi fragili, conoscenza critica concentrata in poche persone
@@ -775,14 +775,14 @@ L'AI può aiutare a leggere codice, documentazione o dati, ma la modernizzazione
 - Risk or limit: Automatizzare un processo non compreso rende solo più rapidi errori e ambiguità.
 - Next step: Passare allo sviluppo software solo quando servono sistema verificabile, test e manutenzione.
 
-### Che differenza c'è tra prototipo controllato e sistema in produzione?
+### Che differenza c'è tra una prova isolata e un sistema in uso quotidiano?
 
 Il prototipo verifica fattibilità; la produzione richiede test, sicurezza, manutenzione e responsabilità.
 
 Un prototipo può essere piccolo e isolato. Un sistema produttivo deve gestire utenti reali, errori, dati, permessi, logging, documentazione e criteri di accettazione.
 
 - ID: software-prototype-production
-- Area: Software tecnico e automazioni
+- Area: Software su misura e automazioni
 - Audience: team tecnici e operations
 - Search intent: valutazione operativa
 - Need signals: software, fogli o sistemi fragili
@@ -798,7 +798,7 @@ Solo quando il valore richiede continuità operativa, dati aggiornati o uso ripe
 Non ogni prototipo deve integrarsi subito. L'integrazione diventa necessaria quando il sistema entra nel lavoro quotidiano e deve rispettare permessi, dati, tracciabilità e manutenzione.
 
 - ID: software-integration
-- Area: Software tecnico e automazioni
+- Area: Software su misura e automazioni
 - Audience: team tecnici e operations
 - Search intent: valutazione operativa
 - Need signals: software, fogli o sistemi fragili, lavoro manuale ripetitivo
@@ -812,7 +812,7 @@ Non ogni prototipo deve integrarsi subito. L'integrazione diventa necessaria qua
 
 ### L'Atlante è un catalogo di prodotti pronti?
 
-No, è una mappa di pattern per riconoscere opportunità nei processi.
+No, è una mappa di esempi per riconoscere opportunità nei processi.
 
 Ogni scheda aiuta a formulare domande migliori su dati, risultati, valore e controlli. La soluzione reale nasce solo dopo aver visto contesto, vincoli e priorità dell'azienda.
 
@@ -826,7 +826,7 @@ Ogni scheda aiuta a formulare domande migliori su dati, risultati, valore e cont
 - Risk or limit: Un pattern pubblico non va trattato come promessa standard o soluzione pronta.
 - Next step: Usare l'Atlante per riconoscere pattern simili prima di definire il progetto.
 
-### Come usare l'Atlante per capire se un caso ha senso?
+### Come usare l'Atlante per capire se un caso è adatto?
 
 Cercare un pattern simile e confrontarlo con dati, output e revisione umana.
 
@@ -875,16 +875,16 @@ Se manca una scelta manageriale serve consulenza; se manca competenza serve form
 - Next step: Portare il caso nella prima conversazione con processo, obiettivo, dati disponibili e vincoli.
 
 
-## Governance, rischi e revisione umana
+## Regole, rischi e controllo da parte di una persona
 
-### Quando serve revisione umana sugli output AI?
+### Quando una persona deve rileggere ciò che produce l'AI?
 
 Serve ogni volta che l'output influenza decisioni, clienti, dati sensibili o responsabilità.
 
 La revisione non è una formalità. Deve stabilire chi controlla, con quali criteri, quando correggere, quando rifiutare l'output e quando l'AI non deve essere usata.
 
 - ID: governance-human-review
-- Area: Governance, rischi e revisione umana
+- Area: Regole, rischi e controllo da parte di una persona
 - Audience: manager e responsabili di funzione
 - Search intent: gestione del rischio
 - Need signals: dati personali o riservati coinvolti, uso AI informale e non governato
@@ -900,7 +900,7 @@ La responsabilità resta dell'organizzazione e delle persone incaricate.
 L'AI può suggerire, ordinare priorità o produrre bozze, ma non deve diventare una zona senza responsabilità. Servono ruoli, escalation, tracciabilità e criteri di accettazione.
 
 - ID: governance-responsibility
-- Area: Governance, rischi e revisione umana
+- Area: Regole, rischi e controllo da parte di una persona
 - Audience: direzione e imprenditori
 - Search intent: gestione del rischio
 - Need signals: dati personali o riservati coinvolti
@@ -916,7 +916,7 @@ Sì, alcune decisioni devono restare umane o richiedere forte supervisione.
 Decisioni legali, HR, sicurezza, salute, credito, qualità critica o dati sensibili vanno classificate con attenzione. In alcuni casi l'AI può preparare materiale, non decidere.
 
 - ID: governance-red-zone
-- Area: Governance, rischi e revisione umana
+- Area: Regole, rischi e controllo da parte di una persona
 - Audience: manager e responsabili di funzione
 - Search intent: gestione del rischio
 - Need signals: dati personali o riservati coinvolti
@@ -932,7 +932,7 @@ Servono criteri espliciti, esempi approvati e casi in cui rifiutare l'output.
 La qualità non si valuta a impressione. Vanno definiti fonte, tono, completezza, errori critici, soglia di accettazione e revisione umana, soprattutto per documenti e comunicazioni esterne.
 
 - ID: governance-quality
-- Area: Governance, rischi e revisione umana
+- Area: Regole, rischi e controllo da parte di una persona
 - Audience: manager e responsabili di funzione
 - Search intent: gestione del rischio
 - Need signals: lavoro manuale ripetitivo, dati personali o riservati coinvolti
@@ -942,7 +942,7 @@ La qualità non si valuta a impressione. Vanno definiti fonte, tono, completezza
 - Next step: Aprire un percorso di consulenza per chiarire priorità, governance e roadmap.
 
 
-## Adozione interna e team
+## Far usare l'AI in azienda, senza iniziative isolate
 
 ### Come gestire resistenze del team verso l'AI?
 
@@ -951,7 +951,7 @@ Le resistenze si gestiscono chiarendo scopo, limiti e vantaggio pratico.
 Le persone collaborano meglio quando capiscono che cosa cambia, che cosa resta umano e quali attività vengono alleggerite. Formazione e casi vicini al lavoro reale riducono paura e confusione.
 
 - ID: adoption-resistance
-- Area: Adozione interna e team
+- Area: Far usare l'AI in azienda, senza iniziative isolate
 - Audience: direzione e imprenditori
 - Search intent: valutazione operativa
 - Need signals: competenze AI non allineate tra ruoli, uso AI informale e non governato
@@ -960,14 +960,14 @@ Le persone collaborano meglio quando capiscono che cosa cambia, che cosa resta u
 - Risk or limit: L'adozione fallisce se le persone non capiscono scopo, limiti e regole d'uso.
 - Next step: Scegliere un corso o laboratorio se il bisogno principale è trasferire metodo al team.
 
-### Servono AI champion interni?
+### Servono referenti interni che tengano viva l'AI in azienda?
 
 Sono utili quando l'uso deve passare da sperimentazione individuale a pratica condivisa.
 
 Gli AI champion aiutano a raccogliere casi, diffondere regole, segnalare rischi e mantenere continuità dopo formazione o consulenza. Devono avere mandato chiaro e tempo dedicato.
 
 - ID: adoption-champions
-- Area: Adozione interna e team
+- Area: Far usare l'AI in azienda, senza iniziative isolate
 - Audience: manager e responsabili di funzione
 - Search intent: valutazione operativa
 - Need signals: competenze AI non allineate tra ruoli
@@ -983,7 +983,7 @@ Misurarla con processi cambiati, output verificati e decisioni migliorate, non s
 Contare licenze o prompt non basta. Indicatori migliori sono tempo risparmiato, errori ridotti, casi governati, persone formate, policy applicate e decisioni diventate più rapide o affidabili.
 
 - ID: adoption-measure
-- Area: Adozione interna e team
+- Area: Far usare l'AI in azienda, senza iniziative isolate
 - Audience: manager e responsabili di funzione
 - Search intent: valutazione operativa
 - Need signals: decisioni ricorrenti lente
@@ -999,7 +999,7 @@ Serve collegarlo a casi reali, sponsor, policy e prossime azioni.
 Dopo la formazione conviene raccogliere processi candidati, scegliere due o tre esperimenti controllati e assegnare responsabilità. Così il corso diventa adozione, non evento separato.
 
 - ID: adoption-after-training
-- Area: Adozione interna e team
+- Area: Far usare l'AI in azienda, senza iniziative isolate
 - Audience: manager e responsabili di funzione
 - Search intent: valutazione operativa
 - Need signals: competenze AI non allineate tra ruoli
@@ -1059,7 +1059,7 @@ Se la domanda è 'quale strada scegliere', la FAQ orienta. Se la domanda è 'dov
 - Risk or limit: Scegliere il formato sbagliato aumenta costi, frustrazione e aspettative non governate.
 - Next step: Usare l'Atlante per riconoscere pattern simili prima di definire il progetto.
 
-### Che cosa fare se nessuno possiede davvero il processo?
+### Che cosa fare se nessuno è responsabile del processo?
 
 Prima di automatizzare bisogna assegnare ownership e criteri di decisione.
 
@@ -1094,7 +1094,7 @@ Se l'errore non è accettabile, se il processo è troppo ambiguo o se nessuno pu
 - Risk or limit: L'AI non sostituisce giudizio, responsabilità professionale o dati che non esistono.
 - Next step: Fermare o rimandare il caso se mancano sponsor, dati minimi, responsabilità o azione possibile.
 
-### Come gestire errori e allucinazioni dell'AI?
+### Come gestire errori e risposte inventate dell'AI?
 
 Vanno previsti con fonti, controlli, esempi approvati e revisione umana.
 

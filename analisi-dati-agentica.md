@@ -44,7 +44,7 @@ Il controllo di gestione confronta budget e consuntivo per voce: manodopera, mat
 - Scartato nel report: il solo controllo sul segno degli scostamenti avrebbe perso manodopera e logistica, il 31,8% del movimento lordo; conta la persistenza, non il segno.
 - Nota metodo: numeri misurati nel report certificato; dimostrano il metodo, non prevedono i conti di un'altra azienda.
 
-### Ogni mese devo rifare il foglio ordini estero per paese e cliente. C'è un modo per automatizzare questa procedura?
+### Il foglio ordini estero si rifà ogni mese, ma non dice quanto il fatturato dipende da pochi paesi e clienti.
 
 Ufficio export · Caso reale, analisi certificata.
 
@@ -78,7 +78,7 @@ Laboratorio e certificati ci sono già. L'analisi dice, prima di chiudere il lot
 - Scartato nel report: l'ipotesi «basta il grado alcolico», segnale più forte da solo ma insufficiente; la densità è risultata ridondante con l'alcol.
 - Nota metodo: numeri misurati nel report certificato; dimostrano il metodo, non prevedono i lotti di un'altra cantina.
 
-### Mi chiedono tempi certi, ma quale macchina è libera lo so solo a occhio.
+### Le macchine registrano già stati e misure, ma guasto e diversi modi di lavorare si vedono tardi.
 
 Reparto macchine · Caso reale, analisi certificata.
 
@@ -131,7 +131,7 @@ Una boutique in rete vorrebbe sapere quali capi torneranno indietro. La tentazio
 - Scartato nel report: il motivo del reso come variabile, perché compilato solo dopo il reso è un esito del fenomeno, non un segnale anticipatore.
 - Nota metodo: numeri misurati nel report certificato; dimostrano il metodo, non descrivono i resi di un'altra azienda.
 
-### Il fornitore che dice di no.
+### Nel report c’è anche ciò che è stato provato e scartato, con i numeri.
 
 In ogni report · Alternative scartate.
 
@@ -148,7 +148,7 @@ Ogni report certificato ha una sezione dedicata alle alternative scartate: che c
 
 ## Il passo successivo
 
-Portare l'estratto che già si prepara a mano ogni mese. Artik Lab dice che cosa dice, che cosa non dice e se i dati bastano, prima di impegnarsi in un progetto. La prima conversazione dura 30-45 minuti: scrivere a dtr@ar-tik.com con oggetto «[Analisi dati] Estratto da valutare». Il messaggio arriva a una persona di Artik Lab, che lo legge e risponde di persona.
+Portare il file che già si prepara a mano ogni mese. Artik Lab dice che cosa dice, che cosa non dice e se i dati bastano, prima di impegnarsi in un progetto. La prima conversazione dura 30-45 minuti: scrivere a dtr@ar-tik.com con oggetto «[Analisi dati] Estratto da valutare». Il messaggio arriva a una persona di Artik Lab, che lo legge e risponde di persona.
 
 Se il problema è mettere in ordine PDF e procedure più che i numeri, il servizio giusto è [Operatività immediata](https://ar-tik.com/avvio-operativo/).
 
@@ -162,7 +162,7 @@ Se il problema è mettere in ordine PDF e procedure più che i numeri, il serviz
 
 ## Che cosa si riceve
 
-### Executive Summary
+### Sintesi per la direzione
 
 Risultato principale, decisione consigliata, valore in gioco, limiti e azioni nei prossimi 30, 90 o 180 giorni.
 
@@ -178,7 +178,7 @@ Pilota a basso rischio, responsabilità, tempi, misure da osservare e criterio p
 
 Quali dati raccogliere dopo, perché, con quale priorità e quale decisione renderebbero più solida.
 
-## Le forme del valore
+## Dove può stare il valore di un’analisi
 
 ### Valore recuperato
 
@@ -196,11 +196,11 @@ Risorse riallocate su fasce orarie, prodotti, controlli o processi che contano d
 
 Consegne, disponibilità, tempi e comunicazioni più credibili perché basati su stime migliori.
 
-### Governance del dato
+### Raccolta dati collegata a una decisione, non generica
 
 Raccolta dati meno generica e più collegata a decisioni concrete.
 
-## Quando il segnale non è solo nei dati
+## Se il problema sta in documenti, procedure o software, non solo nei numeri
 
 Molte opportunità AI nascono dall'incrocio fra dati, documenti, processo e decisioni operative. Per orientarsi tra applicazioni possibili, esempi e segnali di bisogno: [Atlante delle applicazioni AI per le imprese](atlante-applicazioni-ai-imprese.html).
 
@@ -215,7 +215,7 @@ Per scegliere tra analisi dati, consulenza, formazione o software tecnico: https
 
 ## Altri segnali già dimostrati
 
-Analisi realmente eseguite e certificate in altri settori: ospitalità, consegne, energia, ristorazione, banca, controlli, manifattura. Ogni storia dice quali dati operativi entrano nell'analisi, quale segnale emerge e quale decisione può essere presa. Il settore è quello del caso; il metodo è ciò che si trasferisce. Nessun cliente riconoscibile, nessuna promessa standard.
+Analisi realmente eseguite e certificate in altri settori: ospitalità, consegne, energia, ristorazione, banca, controlli, manifattura, attività locali. Ogni storia dice quali dati operativi entrano nell'analisi, quale segnale emerge e quale decisione può essere presa. Il settore è quello del caso; il metodo è ciò che si trasferisce. Nessun cliente riconoscibile, nessuna promessa standard.
 
 ### 1. Ospitalità: Scopro le disdette quando è troppo tardi
 
@@ -258,7 +258,7 @@ L’analisi parte dagli ordini e dai tempi storici, ma non si ferma alla media. 
 - Dati utili dopo: Reclami, chiamate evitate e interventi manuali del team operativo.
 - Limite da dichiarare: Non promette consegne più veloci; promette stime più credibili.
 
-### 4. Energia: Compro energia a intuito e pago gli sbilanciamenti
+### 4. Energia: Si compra energia a intuito e si pagano le correzioni quando la previsione è sbagliata.
 
 La previsione riduce l’errore del 77% rispetto alla regola di riferimento.
 
@@ -333,7 +333,7 @@ In fabbrica il guasto non è solo un evento tecnico: ferma persone, ordini e cap
 
 L’analisi costruisce un avviso quando il comportamento della macchina somiglia a situazioni di guasto già viste. È utile se attiva subito un ordine di lavoro, un controllo o una verifica sul campo.
 
-Va letta insieme alla situazione «Mi chiedono tempi certi», sopra.
+Va letta insieme alla situazione sulle macchine di reparto, sopra.
 
 - Segnale utile: Un allarme operativo quando la macchina mostra pattern compatibili con un guasto.
 - Decisione possibile: Collegare l’avviso a manutenzione, escalation e verifica del fermo evitato.
@@ -366,13 +366,28 @@ L’analisi raggruppa i comportamenti della macchina e mostra quali profili meri
 - Dati utili dopo: Costo energia, ore macchina, produzione e settaggi operativi.
 - Limite da dichiarare: Il valore in euro va stimato solo quando consumi e produzione sono collegati.
 
+### 12. Attività locale: Centinaia di recensioni, nessuna decisione
+
+Su 2.961 recensioni di venti attività della stessa categoria e zona, nessuna rispondeva alle recensioni ricevute.
+
+Un'attività locale vive delle scelte di chi legge recensioni prima di entrare, ma dal lato del titolare restano una media in stelle e un flusso di testi che nessuno riassume. Le recensioni dell'attività e dei concorrenti della stessa piazza diventano un elenco di azioni in ordine di priorità, non un cruscotto di metriche da interpretare: un documento che dice da dove cominciare.
+
+L'analisi non guarda solo l'attività: raccoglie anche i concorrenti della stessa zona e misura le stesse dimensioni su tutti. È il confronto che rende leggibile un numero, perché una media alta dice poco finché non si sa quanto è alta la media di chi sta intorno.
+
+Nel caso reale il verdetto non è arrivato dalla media in stelle, che era già ottima, ma da due cose che nessuno aveva contato: sei delle sette recensioni critiche parlavano dello stesso tema, e nessuna delle venti attività della zona rispondeva a chi scriveva.
+
+- Segnale utile: Le recensioni critiche non sono sparse: sei su sette ruotano attorno a un unico tema. È lì che si interviene, non su tutto.
+- Decisione possibile: Rispondere alle recensioni, che nella zona non faceva nessuno, e spiegare in anticipo che cosa comprende il prezzo.
+- Dati utili dopo: Esito delle risposte pubblicate, richieste di preventivo dopo la pubblicazione, recensioni nuove sullo stesso tema.
+- Limite da dichiarare: I numeri vengono da un corpus di recensioni pubbliche congelato a una data: fotografano quella zona in quel momento, non prevedono i risultati di un'altra attività.
+
 ## Domande frequenti
 
-### L'analisi dati agentica sostituisce la Business Intelligence?
+### L'analisi dati agentica sostituisce i cruscotti di controllo già in uso (Business Intelligence)?
 
-No. La Business Intelligence controlla indicatori noti; l'analisi agentica diagnostica cause, cerca segnali non evidenti e collega il risultato a una decisione.
+No. I cruscotti di controllo già in uso (Business Intelligence) tengono sotto controllo gli indicatori noti; l'analisi agentica diagnostica cause, cerca segnali non evidenti e collega il risultato a una decisione.
 
-### Serve già un data warehouse perfetto?
+### Servono già dati perfetti, in un unico archivio?
 
 No. Il primo valore può essere proprio verificare se i dati esistenti sono adatti, quali limiti hanno e quali dati raccogliere dopo.
 

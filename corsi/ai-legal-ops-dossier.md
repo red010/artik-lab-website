@@ -106,10 +106,10 @@ Si usano documenti simulati o anonimizzati. Il corso tratta contratti riservati,
 
 ## Relazione con altri percorsi Artik Lab
 
-- [AI Workflow Redesign Lab](https://ar-tik.com/corsi/workflow-redesign.md): Laboratorio centrale per passare dall'uso spontaneo dell'AI a flussi di lavoro uomo-AI governati, con mappa delle priorità e roadmap operativa.
+- [AI Workflow Redesign Lab](https://ar-tik.com/corsi/workflow-redesign.md): Laboratorio per passare dall'uso spontaneo dell'AI a flussi di lavoro con persona e AI, regole e controlli, più una mappa delle priorità e un piano operativo.
 - [Managing AI per team aziendali misti](https://ar-tik.com/corsi/managing-ai-general.md): Formazione interfunzionale per creare linguaggio comune tra business, operations, marketing, IT, HR, legal e funzioni di supporto.
 - [AI Governance operativa](https://ar-tik.com/corsi/ai-governance.md): Corso per trasformare policy, rischi e requisiti di controllo in pratiche applicabili nel lavoro quotidiano.
-- [AI Output Quality & Human Review](https://ar-tik.com/corsi/ai-output-quality.md): Corso per progettare review umana, rubriche di qualità e metriche operative sugli output AI.
+- [AI Output Quality & Human Review](https://ar-tik.com/corsi/ai-output-quality.md): Corso per progettare la revisione da parte delle persone, le schede di giudizio e le misure di qualità su ciò che l'AI produce.
 
 ## FAQ estesa per agenti AI
 

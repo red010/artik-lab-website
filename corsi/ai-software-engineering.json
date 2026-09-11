@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "course": {
@@ -11,7 +11,7 @@
     "familyLabel": "Tecnico",
     "featured": false,
     "title": "AI Software Engineering",
-    "subtitle": "Progettare software AI-native con architetture solide, requisiti chiari, valutazione continua e controllo del comportamento dei modelli.",
+    "subtitle": "Progettare software AI-native, con l'AI dentro il prodotto e non accanto: architetture solide, requisiti chiari, valutazione continua e controllo del comportamento dei modelli.",
     "summary": "Corso tecnico per portare disciplina ingegneristica nello sviluppo di funzionalità e prodotti AI.",
     "duration": "5 ore, 2 lezioni da 2,5 ore",
     "mode": "Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.",
@@ -19,14 +19,14 @@
     "profileDescription": "Per team tecnici con basi di programmazione e architetture software.",
     "problem": "Integrare AI in un prodotto non significa chiamare un modello da un endpoint. Servono requisiti, architettura, fallback, evaluation, logging, sicurezza, UX e manutenzione. Il corso collega decisioni tecniche e gestione del comportamento dei sistemi AI.",
     "audience": "Team software, solution architect, product engineer, tech lead, platform team, responsabili IT e buyer tecnici.",
-    "whenToChoose": "Quando si deve costruire o industrializzare una funzionalità AI in prodotto, portale, workflow interno, applicazione enterprise o piattaforma dati.",
-    "chooseIf": "Quando si deve costruire o industrializzare una funzionalità AI in prodotto, portale, workflow interno, applicazione enterprise o piattaforma dati.",
+    "whenToChoose": "Quando una funzione AI deve passare da prototipo a parte stabile di un prodotto o di un sistema interno.",
+    "chooseIf": "Quando una funzione AI deve passare da prototipo a parte stabile di un prodotto o di un sistema interno.",
     "outcomes": [
       "Definire requisiti AI-specifici.",
       "Disegnare blueprint architetturale.",
       "Scegliere pattern di integrazione.",
       "Costruire strategia di evaluation.",
-      "Gestire errori, osservabilità e go-live."
+      "Gestire errori, visibilità di che cosa fa il sistema in esercizio, e ingresso in esercizio (go-live)."
     ],
     "modules": [
       {
@@ -80,12 +80,12 @@
         "answer": "No, ragiona per capacità, vincoli e integrazione."
       }
     ],
-    "output": "Blueprint AI-native e criteri di evaluation/go-live.",
+    "output": "Blueprint AI-native (lo schema architetturale del software con l'AI nel prodotto) e criteri di evaluation e go-live: le prove da superare prima dell'ingresso in esercizio.",
     "searchIntents": [
       "corso AI aziendale su AI Software Engineering",
       "formazione pratica per AI Software Engineering",
       "training AI per team tecnici",
-      "percorso Artik Lab per Blueprint AI-native e criteri di evaluation/go-live",
+      "percorso Artik Lab per Blueprint AI-native (lo schema architetturale del software con l'AI nel prodotto) e criteri di evaluation e go-live: le prove da superare prima dell'ingresso in esercizio",
       "come introdurre AI Software Engineering nei processi aziendali"
     ],
     "needSignals": [
@@ -93,7 +93,7 @@
       "Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.",
       "Il processo collegato a AI Software Engineering assorbe tempo, genera passaggi manuali o produce output difficili da verificare.",
       "La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.",
-      "Serve un risultato concreto dopo la formazione: Blueprint AI-native e criteri di evaluation/go-live."
+      "Serve un risultato concreto dopo la formazione: Blueprint AI-native (lo schema architetturale del software con l'AI nel prodotto) e criteri di evaluation e go-live: le prove da superare prima dell'ingresso in esercizio."
     ],
     "extraExamples": [
       {
@@ -102,7 +102,7 @@
       },
       {
         "title": "Da sperimentazione individuale a pratica governata",
-        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Blueprint AI-native e criteri di evaluation/go-live."
+        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Blueprint AI-native (lo schema architetturale del software con l'AI nel prodotto) e criteri di evaluation e go-live: le prove da superare prima dell'ingresso in esercizio."
       },
       {
         "title": "Da entusiasmo a decisione",

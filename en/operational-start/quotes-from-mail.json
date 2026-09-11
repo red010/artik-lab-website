@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/avvio-activity.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "activity": {
@@ -10,7 +10,7 @@
     "family": "documents",
     "title": "Quotes and price lists from mail and files",
     "subtitle": "A request arrives by mail, sometimes with a PDF. What remains is a draft on the company template, for whoever sells to reread.",
-    "summary": "From mail and PDFs to a draft quote or price list for whoever sells to reread. One day on site. The ERP is not touched.",
+    "summary": "From mail and PDFs to a draft quote or price list for whoever sells to reread. One day on site. Custom integrations with existing software are excluded.",
     "duration": "One day on site",
     "problem": "An updated quote or price list is needed, with attached sheets, without whoever sells recopying from three folders. The job — negotiating, closing, entering the order — stays with the person. What is lightened is the work around it: gathering from mail and files, assembling, flagging gaps.",
     "notFor": [

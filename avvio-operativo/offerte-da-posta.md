@@ -1,12 +1,12 @@
 # Offerte e listini da posta e file
 
-Arriva una richiesta in mail, spesso con PDF sparsi. A fine giornata c'è una bozza di offerta, sul modello dell'azienda, da far rileggere a chi vende.
+Arriva una richiesta in mail, spesso con PDF sparsi. A fine giornata resta una bozza di offerta, sul modello dell'azienda, da far rileggere a chi vende.
 
 - Durata: Un giorno in sede
 
 ## Il problema
 
-Serve un preventivo o un listino aggiornato, con le schede allegate. Oggi chi vende perde tempo a copiare da tre cartelle. Trattare, chiudere e inserire l'ordine restano alla persona. Si alleggerisce il lavoro prima: raccogliere, mettere insieme, segnalare cosa manca.
+Serve un preventivo o un listino aggiornato, con le schede allegate. Oggi chi vende perde tempo a copiare da tre cartelle. Trattare, chiudere e inserire l'ordine restano alla persona. Si alleggerisce il lavoro di raccolta: mettere insieme i pezzi e segnalare cosa manca, prima che chi vende tratti.
 
 ## Da dove si prende e cosa si produce
 
@@ -25,11 +25,11 @@ Si scrive come si fa, passo passo: da dove si prendono listino e schede, come si
 
 ## Com'è la giornata
 
-1. **Si parte dagli esempi**: Si apre già pronto, con tre richieste fittizie, prima di toccare i file veri.
-2. **Si vede il disordine**: Un allegato storto, un codice che non esiste, la stessa ragione sociale scritta in due modi: si vede come viene trattato.
+1. **Si parte dagli esempi**: Si parte da un ambiente già pronto, con tre richieste fittizie, prima di toccare i file veri.
+2. **Si prova su allegati incompleti o sbagliati**: Un allegato storto, un codice che non esiste, la stessa ragione sociale scritta in due modi: si vede come viene trattato.
 3. **Si passa ai file veri**: Gli esempi restano da una parte. I file dell'azienda li sostituiscono, non li cancellano.
 4. **Si produce una bozza vera**: Almeno un'offerta o un listino sul modello dell'azienda, da rileggere.
-5. **Cosa resta**: Un responsabile interno, un tempo da misurare detto prima, la procedura scritta.
+5. **Cosa resta**: Un responsabile interno, un tempo da misurare concordato prima, la procedura scritta.
 
 ## Esempi su cui si prova
 
@@ -49,7 +49,7 @@ Capitolato copiato nel corpo della mail, prezzi fornitori in tre PDF con unità 
 
 ## Cosa resta in azienda
 
-La procedura scritta, l'intelligenza artificiale già impostata e intestata all'azienda, i punti in cui si deve fermare una persona, almeno una bozza vera da rileggere, un responsabile interno. La settimana dopo si rifà senza Artik in sala.
+La procedura scritta, l'intelligenza artificiale già impostata sull'account dell'azienda, i punti in cui si deve fermare una persona, almeno una bozza vera da rileggere, un responsabile interno. La settimana dopo si rifà senza Artik Lab presente.
 
 ## Quando non è adatto
 
@@ -62,14 +62,14 @@ La procedura scritta, l'intelligenza artificiale già impostata e intestata all'
 
 ## Cosa serve prima.
 
-- Un abbonamento all'intelligenza artificiale intestata all'azienda.
+- Un abbonamento all'intelligenza artificiale sull'account dell'azienda.
 - Una persona interna che già mette insieme le offerte, con l'incarico di usarla dopo.
 - Un modello di offerta o di listino, anche imperfetto.
 - Una cartella o un file da cui prendere listini e schede, senza entrare nel gestionale.
 
-Si lavora sui file dell'azienda, sull'intelligenza artificiale intestata all'azienda. Artik Lab non porta via i documenti. Non si entra nel gestionale. Gli esempi sono inventati.
+Si lavora sui file dell'azienda, sull'intelligenza artificiale già impostata sull'account dell'azienda. Artik Lab non porta via i documenti. Sono escluse le integrazioni su misura con i software già in uso. Gli esempi sono inventati.
 
-## Esempi, non un menu
+## Il settore è solo un'etichetta; il lavoro è lo stesso
 
 Il settore è solo un'etichetta. Il lavoro è lo stesso.
 
@@ -83,7 +83,7 @@ Richiesta d'offerta con disegno in PDF.
 
 ### Edilizia o impianti
 
-Capitolato e prezzi fornitori da mettere insieme prima del computo, che resta fuori.
+Capitolato e prezzi fornitori da mettere insieme prima del computo metrico, che resta fuori.
 
 ## Domande frequenti
 

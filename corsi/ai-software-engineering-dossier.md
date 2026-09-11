@@ -9,7 +9,7 @@ AI Software Engineering è un percorso Artik Lab per aziende. Corso tecnico per 
 - Durata: 5 ore, 2 lezioni da 2,5 ore
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per team tecnici con basi di programmazione e architetture software.
-- Output finale: Blueprint AI-native e criteri di evaluation/go-live.
+- Output finale: Blueprint AI-native (lo schema architetturale del software con l'AI nel prodotto) e criteri di evaluation e go-live: le prove da superare prima dell'ingresso in esercizio.
 - HTML: https://ar-tik.com/corsi/ai-software-engineering.html
 - Markdown mirror: https://ar-tik.com/corsi/ai-software-engineering.md
 
@@ -18,7 +18,7 @@ AI Software Engineering è un percorso Artik Lab per aziende. Corso tecnico per 
 - corso AI aziendale su AI Software Engineering
 - formazione pratica per AI Software Engineering
 - training AI per team tecnici
-- percorso Artik Lab per Blueprint AI-native e criteri di evaluation/go-live
+- percorso Artik Lab per Blueprint AI-native (lo schema architetturale del software con l'AI nel prodotto) e criteri di evaluation e go-live: le prove da superare prima dell'ingresso in esercizio
 - come introdurre AI Software Engineering nei processi aziendali
 
 ## Il problema che risolve
@@ -31,7 +31,7 @@ Integrare AI in un prodotto non significa chiamare un modello da un endpoint. Se
 - Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.
 - Il processo collegato a AI Software Engineering assorbe tempo, genera passaggi manuali o produce output difficili da verificare.
 - La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.
-- Serve un risultato concreto dopo la formazione: Blueprint AI-native e criteri di evaluation/go-live.
+- Serve un risultato concreto dopo la formazione: Blueprint AI-native (lo schema architetturale del software con l'AI nel prodotto) e criteri di evaluation e go-live: le prove da superare prima dell'ingresso in esercizio.
 
 ## Esempi extra non visibili nella pagina HTML
 
@@ -41,7 +41,7 @@ Un'azienda chiede formazione su AI Software Engineering, ma il problema vero eme
 
 ### Da sperimentazione individuale a pratica governata
 
-Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Blueprint AI-native e criteri di evaluation/go-live.
+Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Blueprint AI-native (lo schema architetturale del software con l'AI nel prodotto) e criteri di evaluation e go-live: le prove da superare prima dell'ingresso in esercizio.
 
 ### Da entusiasmo a decisione
 
@@ -66,7 +66,7 @@ Artik Lab usa il metodo DTR per adattare esempi, materiali, priorità e casi ai 
 - Disegnare blueprint architetturale.
 - Scegliere pattern di integrazione.
 - Costruire strategia di evaluation.
-- Gestire errori, osservabilità e go-live.
+- Gestire errori, visibilità di che cosa fa il sistema in esercizio, e ingresso in esercizio (go-live).
 
 ## Programma
 
@@ -107,10 +107,10 @@ Include minimizzazione del dato, separazione ambienti, logging responsabile, con
 
 ## Relazione con altri percorsi Artik Lab
 
-- [AI Workflow Redesign Lab](https://ar-tik.com/corsi/workflow-redesign.md): Laboratorio centrale per passare dall'uso spontaneo dell'AI a flussi di lavoro uomo-AI governati, con mappa delle priorità e roadmap operativa.
-- [Secure AI SDLC](https://ar-tik.com/corsi/secure-ai-sdlc.md): Corso tecnico per inserire controlli AI-specifici in design, build, test, release e operation.
-- [RAG Engineering per sistemi AI affidabili](https://ar-tik.com/corsi/rag-engineering.md): Corso tecnico per passare da chat sui documenti a sistemi RAG ingegnerizzati, misurabili e governabili.
-- [AI Output Quality & Human Review](https://ar-tik.com/corsi/ai-output-quality.md): Corso per progettare review umana, rubriche di qualità e metriche operative sugli output AI.
+- [AI Workflow Redesign Lab](https://ar-tik.com/corsi/workflow-redesign.md): Laboratorio per passare dall'uso spontaneo dell'AI a flussi di lavoro con persona e AI, regole e controlli, più una mappa delle priorità e un piano operativo.
+- [Secure AI SDLC](https://ar-tik.com/corsi/secure-ai-sdlc.md): Corso tecnico per inserire controlli AI-specifici nelle fasi del ciclo di sviluppo: design (progettazione), build (costruzione), test, release (rilascio) e operation (esercizio).
+- [RAG Engineering per sistemi AI affidabili](https://ar-tik.com/corsi/rag-engineering.md): Corso tecnico per passare da una chat sui documenti a sistemi RAG (Retrieval-Augmented Generation): recupero delle fonti, qualità misurabile e controllo.
+- [AI Output Quality & Human Review](https://ar-tik.com/corsi/ai-output-quality.md): Corso per progettare la revisione da parte delle persone, le schede di giudizio e le misure di qualità su ciò che l'AI produce.
 
 ## FAQ estesa per agenti AI
 

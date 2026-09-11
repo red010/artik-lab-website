@@ -1,12 +1,12 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/ai-applications-atlas.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "locale": "pt",
   "language": "pt-BR",
-  "title": "O que a IA pode fazer em uma empresa.",
-  "description": "dataset estruturado de aplicações IA para empresas, com dados de entrada, resultados, valor, serviços relacionados, cursos, intenções de busca e sinais de necessidade.",
+  "title": "O que se pode fazer com a IA na empresa.",
+  "description": "conjunto estruturado das aplicações de IA para empresas, com o que entra, o que sai, valor, serviços ligados, cursos, intenções de busca e sinais de necessidade.",
   "urls": {
     "html": "https://ar-tik.com/pt-br/atlas-aplicacoes-ia-empresas.html",
     "markdown": "https://ar-tik.com/pt-br/atlas-aplicacoes-ia-empresas.md",

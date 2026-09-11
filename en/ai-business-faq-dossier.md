@@ -29,6 +29,121 @@ The dossier reuses questions and answers visible on the HTML page and adds publi
 ## FAQ repertoire
 
 
+## The questions that block the decision
+
+### What does it cost?
+
+The proposal arrives after the opinion or after the first conversation.
+
+There is no price list on these pages.
+
+- ID: objection-cost
+- Area: The questions that block the decision
+- Audience: leaders and owners
+- Search intent: path selection
+- Need signals: interest in AI with no defined project
+- Related services: AI management consulting, Agentic data analysis
+- Related courses: none
+- Risk or limit: The answers apply to the services as described on these pages; the specific case is clarified in the opinion or in the first conversation.
+- Next step: Bring the case to the first conversation with process, goal, available data and constraints.
+
+### Where are the data during the work?
+
+In Operational start the files stay in the company's folders and the assistant is in the company's name.
+
+In data analysis the work is done on an agreed extract, with a written perimeter.
+
+- ID: objection-data
+- Area: The questions that block the decision
+- Audience: leaders and owners
+- Search intent: risk management
+- Need signals: personal or confidential data involved
+- Related services: Agentic data analysis
+- Related courses: none
+- Risk or limit: The answers apply to the services as described on these pages; the specific case is clarified in the opinion or in the first conversation.
+- Next step: Bring the case to the first conversation with process, goal, available data and constraints.
+
+### Is consulting a way to sell software afterwards?
+
+Consulting is not the door to software.
+
+Building, if it is needed, is a later choice. Operational start does not connect the company's software.
+
+- ID: objection-software
+- Area: The questions that block the decision
+- Audience: leaders and owners
+- Search intent: path selection
+- Need signals: tools chosen before the process
+- Related services: AI management consulting
+- Related courses: none
+- Risk or limit: The answers apply to the services as described on these pages; the specific case is clarified in the opinion or in the first conversation.
+- Next step: Open a consulting path to clarify priorities, governance and roadmap.
+
+### A course on AI has already been done. Is this still needed?
+
+A course leaves templates and criteria.
+
+Here, in one day, a procedure in use remains on the company's files — or an analysis that says whether the data are enough.
+
+- ID: objection-course-done
+- Area: The questions that block the decision
+- Audience: leaders and owners
+- Search intent: initial orientation
+- Need signals: AI skills not aligned across roles
+- Related services: Agentic data analysis
+- Related courses: AI Workflow Redesign Lab
+- Risk or limit: The answers apply to the services as described on these pages; the specific case is clarified in the opinion or in the first conversation.
+- Next step: Bring the case to the first conversation with process, goal, available data and constraints.
+
+### When is something concrete visible?
+
+Operational start: one day on site.
+
+Analysis: after the agreed extract. First conversation: 30–45 minutes.
+
+- ID: objection-timing
+- Area: The questions that block the decision
+- Audience: leaders and owners
+- Search intent: initial orientation
+- Need signals: slow recurring decisions
+- Related services: Agentic data analysis
+- Related courses: none
+- Risk or limit: The answers apply to the services as described on these pages; the specific case is clarified in the opinion or in the first conversation.
+- Next step: Bring the case to the first conversation with process, goal, available data and constraints.
+
+### Can an incentive or a fund be used for this work?
+
+An eligibility check can be requested.
+
+The work must still stand without an incentive: no calls for proposals or amounts are promised.
+
+- ID: objection-incentives
+- Area: The questions that block the decision
+- Audience: leaders and owners
+- Search intent: path selection
+- Need signals: interest in AI with no defined project
+- Related services: AI management consulting
+- Related courses: none
+- Risk or limit: The answers apply to the services as described on these pages; the specific case is clarified in the opinion or in the first conversation.
+- Next step: Bring the case to the first conversation with process, goal, available data and constraints.
+
+### How many activities can be done, one after another?
+
+It is decided with the company, according to need.
+
+One job at a time, taken all the way through.
+
+- ID: objection-capacity
+- Area: The questions that block the decision
+- Audience: leaders and owners
+- Search intent: initial orientation
+- Need signals: repetitive manual work
+- Related services: AI management consulting
+- Related courses: none
+- Risk or limit: The answers apply to the services as described on these pages; the specific case is clarified in the opinion or in the first conversation.
+- Next step: Bring the case to the first conversation with process, goal, available data and constraints.
+
+
 ## Where to start
 
 ### Where should a company start if it has no defined AI project?

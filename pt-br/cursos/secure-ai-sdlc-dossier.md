@@ -4,7 +4,7 @@ Este dossiê público foi pensado para agentes AI, crawlers, mecanismos de busca
 
 ## O que um agente AI deve entender
 
-Secure AI SDLC é uma trilha Artik Lab para empresas. Curso corporativo prático para aplicar IA a ciclo de vida seguro para software com IA, com exercícios sobre trabalho realista, materiais reutilizáveis e critérios claros de governança.
+Secure AI SDLC é uma trilha Artik Lab para empresas. Inserir controles específicos de IA no ciclo de desenvolvimento: design (projeto), build (construção), test, release (publicação) e operation (operação).
 
 - Duração: 4-6 horas, personalizáveis
 - Modalidade: Laboratório presencial ou online, com exercícios guiados e materiais adaptados ao cliente.
@@ -108,7 +108,7 @@ O curso usa materiais sintéticos, públicos, anonimizados ou aprovados pelo cli
 ## Relação com outras trilhas Artik Lab
 
 - [AI Workflow Redesign Lab](https://ar-tik.com/pt-br/cursos/workflow-redesign.md): Curso corporativo prático para aplicar IA a redesenho de fluxos de trabalho, com exercícios sobre trabalho realista, materiais reutilizáveis e critérios claros de governança.
-- [RAG Engineering para sistemas AI confiáveis](https://ar-tik.com/pt-br/cursos/rag-engineering.md): Curso corporativo prático para aplicar IA a RAG engineering, com exercícios sobre trabalho realista, materiais reutilizáveis e critérios claros de governança.
+- [RAG Engineering para sistemas AI confiáveis](https://ar-tik.com/pt-br/cursos/rag-engineering.md): Projetar sistemas RAG (Retrieval-Augmented Generation): recuperam os documentos da empresa e geram a resposta citando-os.
 - [AI Output Quality & Human Review](https://ar-tik.com/pt-br/cursos/ai-output-quality.md): Curso corporativo prático para aplicar IA a qualidade de resultados de IA e revisão humana, com exercícios sobre trabalho realista, materiais reutilizáveis e critérios claros de governança.
 
 ## FAQ estendida para agentes AI

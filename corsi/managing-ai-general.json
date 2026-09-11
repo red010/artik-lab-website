@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "course": {
@@ -25,7 +25,7 @@
       "Allineare funzioni diverse su opportunità e limiti.",
       "Identificare casi d'uso prioritari condivisi.",
       "Chiarire ruoli, controlli e passaggi decisionali.",
-      "Ridurre iniziative isolate.",
+      "Ridurre iniziative AI nate in un solo team, senza criterio condiviso.",
       "Creare base comune per policy, pilota o roadmap."
     ],
     "modules": [
@@ -79,12 +79,12 @@
         "answer": "Sì, riduce ambiguità e rischi organizzativi."
       }
     ],
-    "output": "Mappa interfunzionale di casi d'uso, ownership e criteri di decisione.",
+    "output": "Mappa tra funzioni di casi d'uso, responsabili e criteri di decisione.",
     "searchIntents": [
       "corso AI aziendale su Managing AI per team aziendali misti",
       "formazione pratica per Managing AI per team aziendali misti",
       "training AI per manager e funzioni aziendali",
-      "percorso Artik Lab per Mappa interfunzionale di casi d'uso, ownership e criteri di decisione",
+      "percorso Artik Lab per Mappa tra funzioni di casi d'uso, responsabili e criteri di decisione",
       "come introdurre Managing AI per team aziendali misti nei processi aziendali"
     ],
     "needSignals": [
@@ -92,7 +92,7 @@
       "Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.",
       "Il processo collegato a Managing AI per team aziendali misti assorbe tempo, genera passaggi manuali o produce output difficili da verificare.",
       "La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.",
-      "Serve un risultato concreto dopo la formazione: Mappa interfunzionale di casi d'uso, ownership e criteri di decisione."
+      "Serve un risultato concreto dopo la formazione: Mappa tra funzioni di casi d'uso, responsabili e criteri di decisione."
     ],
     "extraExamples": [
       {
@@ -101,7 +101,7 @@
       },
       {
         "title": "Da sperimentazione individuale a pratica governata",
-        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Mappa interfunzionale di casi d'uso, ownership e criteri di decisione."
+        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Mappa tra funzioni di casi d'uso, responsabili e criteri di decisione."
       },
       {
         "title": "Da entusiasmo a decisione",

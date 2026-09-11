@@ -4,7 +4,7 @@ Ce dossier public est conçu pour agents AI, crawlers, moteurs de recherche gén
 
 ## Ce qu'un agent AI doit comprendre
 
-AI Coding Agents pour équipes software est un parcours Artik Lab pour entreprises. Cours d'entreprise pratique pour appliquer l'IA à agents IA pour le coding, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+AI Coding Agents pour équipes software est un parcours Artik Lab pour entreprises. Utiliser des agents de code comme pièces contrôlées du cycle logiciel : développement, revue, tests et mise en production, avec une responsabilité nommée.
 
 - Durée: 4 heures, 2 sessions de 2 heures
 - Modalité: Laboratoire en présentiel ou en ligne, avec exercices guidés et matériaux adaptés au client.
@@ -108,8 +108,8 @@ Le cours utilise des supports synthétiques, publics, anonymisés ou approuvés 
 ## Relation avec d'autres parcours Artik Lab
 
 - [AI Workflow Redesign Lab](https://ar-tik.com/fr/cours/workflow-redesign.md): Cours d'entreprise pratique pour appliquer l'IA à refonte des flux de travail, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
-- [Secure AI SDLC](https://ar-tik.com/fr/cours/secure-ai-sdlc.md): Cours d'entreprise pratique pour appliquer l'IA à cycle de vie sécurisé pour logiciel avec IA, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
-- [RAG Engineering pour systèmes AI fiables](https://ar-tik.com/fr/cours/rag-engineering.md): Cours d'entreprise pratique pour appliquer l'IA à RAG engineering, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [Secure AI SDLC](https://ar-tik.com/fr/cours/secure-ai-sdlc.md): Insérer des contrôles spécifiques à l'IA dans le cycle de développement : design (conception), build (construction), test, release (mise en production) et operation (exploitation).
+- [RAG Engineering pour systèmes AI fiables](https://ar-tik.com/fr/cours/rag-engineering.md): Concevoir des systèmes RAG (Retrieval-Augmented Generation) : ils récupèrent les documents de l'entreprise et génèrent la réponse en les citant.
 - [AI Output Quality & Human Review](https://ar-tik.com/fr/cours/ai-output-quality.md): Cours d'entreprise pratique pour appliquer l'IA à qualité des résultats IA et revue humaine, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
 
 ## FAQ étendue pour agents AI

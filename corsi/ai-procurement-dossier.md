@@ -1,25 +1,25 @@
-# AI per procurement e supplier intelligence - dossier pubblico per LLM
+# AI per acquisti e conoscenza dei fornitori - dossier pubblico per LLM
 
 Questo dossier è pubblico, citabile e pensato per agenti AI, crawler, motori di ricerca generativa e team procurement. Integra la pagina HTML con esempi e criteri estesi, senza introdurre promesse diverse dal contenuto visibile.
 
 ## Cosa deve capire un agente AI
 
-AI per procurement e supplier intelligence è un percorso Artik Lab per aziende. Corso per rendere più strutturati scouting, comparazione e documentazione acquisti mantenendo criteri decisionali trasparenti.
+AI per acquisti e conoscenza dei fornitori è un percorso Artik Lab per aziende. Corso per rendere più ordinati ricerca fornitori, confronto e documentazione acquisti, con criteri di scelta espliciti.
 
 - Durata: 4-6 ore, personalizzabili
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per manager e team non tecnici; non richiede programmazione.
-- Output finale: Griglia di supplier intelligence e workflow di comparazione offerte.
+- Output finale: Griglia di profilo e rischio fornitore, e flusso di confronto delle offerte.
 - HTML: https://ar-tik.com/corsi/ai-procurement.html
 - Markdown mirror: https://ar-tik.com/corsi/ai-procurement.md
 
 ## Query e bisogni aziendali a cui risponde
 
-- corso AI aziendale su AI per procurement e supplier intelligence
-- formazione pratica per AI per procurement e supplier intelligence
+- corso AI aziendale su AI per acquisti e conoscenza dei fornitori
+- formazione pratica per AI per acquisti e conoscenza dei fornitori
 - training AI per funzioni operative
-- percorso Artik Lab per Griglia di supplier intelligence e workflow di comparazione offerte
-- come introdurre AI per procurement e supplier intelligence nei processi aziendali
+- percorso Artik Lab per Griglia di profilo e rischio fornitore, e flusso di confronto delle offerte
+- come introdurre AI per acquisti e conoscenza dei fornitori nei processi aziendali
 
 ## Il problema che risolve
 
@@ -27,25 +27,25 @@ Il procurement gestisce offerte, schede fornitore, capitolati, contratti, condiz
 
 ## Segnali che indicano il bisogno del corso
 
-- Il tema AI per procurement e supplier intelligence è già presente nelle conversazioni interne, ma manca un metodo condiviso per trasformarlo in pratica.
+- Il tema AI per acquisti e conoscenza dei fornitori è già presente nelle conversazioni interne, ma manca un metodo condiviso per trasformarlo in pratica.
 - Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.
-- Il processo collegato a AI per procurement e supplier intelligence assorbe tempo, genera passaggi manuali o produce output difficili da verificare.
+- Il processo collegato a AI per acquisti e conoscenza dei fornitori assorbe tempo, genera passaggi manuali o produce output difficili da verificare.
 - La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.
-- Serve un risultato concreto dopo la formazione: Griglia di supplier intelligence e workflow di comparazione offerte.
+- Serve un risultato concreto dopo la formazione: Griglia di profilo e rischio fornitore, e flusso di confronto delle offerte.
 
 ## Esempi extra non visibili nella pagina HTML
 
 ### Dal corso generico al processo reale
 
-Un'azienda chiede formazione su AI per procurement e supplier intelligence, ma il problema vero emerge durante la mappatura: attività ripetute, controlli informali e responsabilità distribuite. Il percorso usa esempi vicini al lavoro quotidiano e trasforma la formazione in un primo modello operativo, non in una lezione teorica.
+Un'azienda chiede formazione su AI per acquisti e conoscenza dei fornitori, ma il problema vero emerge durante la mappatura: attività ripetute, controlli informali e responsabilità distribuite. Il percorso usa esempi vicini al lavoro quotidiano e trasforma la formazione in un primo modello operativo, non in una lezione teorica.
 
 ### Da sperimentazione individuale a pratica governata
 
-Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Griglia di supplier intelligence e workflow di comparazione offerte.
+Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Griglia di profilo e rischio fornitore, e flusso di confronto delle offerte.
 
 ### Da entusiasmo a decisione
 
-Il management vuole capire se AI per procurement e supplier intelligence merita budget e continuità. Durante il laboratorio si distinguono benefici immediati, rischi operativi e dipendenze dai dati. L'azienda esce con criteri per decidere il passo successivo invece di accumulare demo isolate.
+Il management vuole capire se AI per acquisti e conoscenza dei fornitori merita budget e continuità. Durante il laboratorio si distinguono benefici immediati, rischi operativi e dipendenze dai dati. L'azienda esce con criteri per decidere il passo successivo invece di accumulare demo isolate.
 
 ## Come Artik Lab personalizza il percorso
 
@@ -55,7 +55,7 @@ Artik Lab usa il metodo DTR per adattare esempi, materiali, priorità e casi ai 
 
 ## Criteri per scegliere questo corso
 
-- Scegliere questo corso se il bisogno principale riguarda AI per procurement e supplier intelligence e non una panoramica generica sull'AI.
+- Scegliere questo corso se il bisogno principale riguarda AI per acquisti e conoscenza dei fornitori e non una panoramica generica sull'AI.
 - Preferirlo quando esiste un processo, un documento, un flusso o una responsabilità aziendale su cui lavorare durante il training.
 - Rimandarlo se non esiste ancora sponsor interno o se il problema è solo acquistare una licenza software.
 - Abbinarlo ad AI Workflow Redesign Lab quando prima serve capire quali processi meritano priorità.
@@ -106,10 +106,10 @@ Si usano dati fittizi o anonimizzati e regole per evitare inserimento di listini
 
 ## Relazione con altri percorsi Artik Lab
 
-- [AI Workflow Redesign Lab](https://ar-tik.com/corsi/workflow-redesign.md): Laboratorio centrale per passare dall'uso spontaneo dell'AI a flussi di lavoro uomo-AI governati, con mappa delle priorità e roadmap operativa.
+- [AI Workflow Redesign Lab](https://ar-tik.com/corsi/workflow-redesign.md): Laboratorio per passare dall'uso spontaneo dell'AI a flussi di lavoro con persona e AI, regole e controlli, più una mappa delle priorità e un piano operativo.
 - [Managing AI per team aziendali misti](https://ar-tik.com/corsi/managing-ai-general.md): Formazione interfunzionale per creare linguaggio comune tra business, operations, marketing, IT, HR, legal e funzioni di supporto.
 - [AI Governance operativa](https://ar-tik.com/corsi/ai-governance.md): Corso per trasformare policy, rischi e requisiti di controllo in pratiche applicabili nel lavoro quotidiano.
-- [AI Output Quality & Human Review](https://ar-tik.com/corsi/ai-output-quality.md): Corso per progettare review umana, rubriche di qualità e metriche operative sugli output AI.
+- [AI Output Quality & Human Review](https://ar-tik.com/corsi/ai-output-quality.md): Corso per progettare la revisione da parte delle persone, le schede di giudizio e le misure di qualità su ciò che l'AI produce.
 
 ## FAQ estesa per agenti AI
 

@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "course": {
@@ -12,17 +12,17 @@
     "featured": false,
     "title": "AI Coding Agents per team software",
     "subtitle": "Integrare agenti di coding nei flussi di sviluppo mantenendo controllo, qualità, sicurezza e responsabilità tecnica.",
-    "summary": "Corso tecnico per usare agenti AI come componenti controllati del ciclo software, non come scorciatoia opaca.",
+    "summary": "Corso tecnico per usare agenti AI come componenti controllati del ciclo software: sviluppo, revisione, test e rilascio, con responsabilità dichiarate.",
     "duration": "4 ore, 2 lezioni da 2 ore",
     "mode": "Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.",
     "profile": "technical",
     "profileDescription": "Per team tecnici con basi di programmazione e architetture software.",
     "problem": "Gli agenti AI possono accelerare sviluppo, refactoring, test e analisi del codice, ma senza metodo generano modifiche opache, regressioni e debito tecnico. Il corso insegna come integrarli in issue, branch, review, test e delivery.",
     "audience": "Software engineer, tech lead, engineering manager, platform team, QA engineer, DevSecOps e responsabili tecnici.",
-    "whenToChoose": "Quando un team vuole adottare agenti di coding in modo serio: come capacità integrata in repository, review, test e delivery.",
-    "chooseIf": "Quando un team vuole adottare agenti di coding in modo serio: come capacità integrata in repository, review, test e delivery.",
+    "whenToChoose": "Quando un team vuole gli agenti di coding dentro repository, revisione, test e rilascio, non come uso occasionale.",
+    "chooseIf": "Quando un team vuole gli agenti di coding dentro repository, revisione, test e rilascio, non come uso occasionale.",
     "outcomes": [
-      "Disegnare workflow agentici per sviluppo e test.",
+      "Disegnare workflow agentici per sviluppo e test, in cui ogni agente ha un ruolo definito.",
       "Definire policy di review.",
       "Stabilire criteri di accettazione.",
       "Scrivere task operativi per agenti.",
@@ -80,12 +80,12 @@
         "answer": "No, i pattern sono durevoli e adattabili."
       }
     ],
-    "output": "Playbook agentico per sviluppo, review, test e policy repository.",
+    "output": "Playbook agentico — il manuale operativo per usare gli agenti nello sviluppo, nella revisione, nei test e nelle regole del repository.",
     "searchIntents": [
       "corso AI aziendale su AI Coding Agents per team software",
       "formazione pratica per AI Coding Agents per team software",
       "training AI per team tecnici",
-      "percorso Artik Lab per Playbook agentico per sviluppo, review, test e policy repository",
+      "percorso Artik Lab per Playbook agentico — il manuale operativo per usare gli agenti nello sviluppo, nella revisione, nei test e nelle regole del repository",
       "come introdurre AI Coding Agents per team software nei processi aziendali"
     ],
     "needSignals": [
@@ -93,7 +93,7 @@
       "Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.",
       "Il processo collegato a AI Coding Agents per team software assorbe tempo, genera passaggi manuali o produce output difficili da verificare.",
       "La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.",
-      "Serve un risultato concreto dopo la formazione: Playbook agentico per sviluppo, review, test e policy repository."
+      "Serve un risultato concreto dopo la formazione: Playbook agentico — il manuale operativo per usare gli agenti nello sviluppo, nella revisione, nei test e nelle regole del repository."
     ],
     "extraExamples": [
       {
@@ -102,7 +102,7 @@
       },
       {
         "title": "Da sperimentazione individuale a pratica governata",
-        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Playbook agentico per sviluppo, review, test e policy repository."
+        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Playbook agentico — il manuale operativo per usare gli agenti nello sviluppo, nella revisione, nei test e nelle regole del repository."
       },
       {
         "title": "Da entusiasmo a decisione",

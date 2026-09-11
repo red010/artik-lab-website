@@ -5,7 +5,7 @@ Qualificare lead, preparare trattative, personalizzare proposte e seguire opport
 - Durata: 8 ore, personalizzabili
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per team aziendali, funzioni operative e manager; non richiede programmazione.
-- Output finale: Workflow commerciale AI-assisted per profili cliente, offerte, obiezioni e follow-up.
+- Output finale: Flusso di lavoro commerciale con AI per profili cliente, offerte, obiezioni e follow-up.
 - Sceglierlo se: Quando il team commerciale perde tempo in preparazione, personalizzazione offerte, follow-up o gestione di lead non qualificati.
 
 ## Il problema che risolve
@@ -85,5 +85,11 @@ Non è obbligatorio, ma aiuta a rendere il workflow più disciplinato.
 ### Può migliorare il follow-up?
 
 Sì, soprattutto su continuità, personalizzazione e memoria delle opportunità.
+
+## Corsi collegati
+
+- [Corso AI: gestire i documenti con AI](https://ar-tik.com/corsi/ai-documenti.md): Laboratorio pratico per mettere ordine tra i documenti e poterli cercare, sintetizzare e controllare.
+- [Corso AI: marketing e comunicazione con l'AI](https://ar-tik.com/corsi/ai-marketing.md): Laboratorio per usare l'AI come assistente editoriale e di analisi, senza perdere identità, qualità e controllo.
+- [AI per amministrazione e controllo di gestione](https://ar-tik.com/corsi/ai-admin-finance.md): Corso per usare l'AI in amministrazione, finanza e controllo come supporto a sintesi, report e controlli preliminari, senza togliere la responsabilità alle persone.
 
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)

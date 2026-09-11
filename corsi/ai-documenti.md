@@ -5,7 +5,7 @@ Leggere, classificare, estrarre e ritrovare informazioni da contratti, fatture, 
 - Durata: 8 ore, personalizzabili
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per team aziendali, funzioni operative e manager; non richiede programmazione.
-- Output finale: Workflow documentale AI-assisted e template per ricerca, sintesi, estrazione e classificazione.
+- Output finale: Flusso di lavoro sui documenti, con AI e modelli per ricerca, sintesi, estrazione e classificazione.
 - Sceglierlo se: Quando documenti, contratti, fatture, scansioni o email assorbono tempo e rendono difficile recuperare informazioni affidabili.
 
 ## Il problema che risolve
@@ -85,5 +85,11 @@ Solo se autorizzati e compatibili con policy e strumenti aziendali.
 ### È adatto a piccoli team?
 
 Sì, spesso il beneficio è immediato nei team che gestiscono molti documenti.
+
+## Corsi collegati
+
+- [Corso AI: marketing e comunicazione con l'AI](https://ar-tik.com/corsi/ai-marketing.md): Laboratorio per usare l'AI come assistente editoriale e di analisi, senza perdere identità, qualità e controllo.
+- [Corso AI: vendita B2C e B2B con AI](https://ar-tik.com/corsi/ai-vendite.md): Laboratorio per usare l'AI nel lavoro commerciale: ricerca, preparazione, follow-up e qualità della proposta.
+- [AI per amministrazione e controllo di gestione](https://ar-tik.com/corsi/ai-admin-finance.md): Corso per usare l'AI in amministrazione, finanza e controllo come supporto a sintesi, report e controlli preliminari, senza togliere la responsabilità alle persone.
 
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)

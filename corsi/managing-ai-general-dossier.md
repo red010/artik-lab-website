@@ -9,7 +9,7 @@ Managing AI per team aziendali misti è un percorso Artik Lab per aziende. Forma
 - Durata: 4 ore, 2 lezioni da 2 ore
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per manager e team non tecnici; non richiede programmazione.
-- Output finale: Mappa interfunzionale di casi d'uso, ownership e criteri di decisione.
+- Output finale: Mappa tra funzioni di casi d'uso, responsabili e criteri di decisione.
 - HTML: https://ar-tik.com/corsi/managing-ai-general.html
 - Markdown mirror: https://ar-tik.com/corsi/managing-ai-general.md
 
@@ -18,7 +18,7 @@ Managing AI per team aziendali misti è un percorso Artik Lab per aziende. Forma
 - corso AI aziendale su Managing AI per team aziendali misti
 - formazione pratica per Managing AI per team aziendali misti
 - training AI per manager e funzioni aziendali
-- percorso Artik Lab per Mappa interfunzionale di casi d'uso, ownership e criteri di decisione
+- percorso Artik Lab per Mappa tra funzioni di casi d'uso, responsabili e criteri di decisione
 - come introdurre Managing AI per team aziendali misti nei processi aziendali
 
 ## Il problema che risolve
@@ -31,7 +31,7 @@ Quando l'AI arriva in azienda, ogni funzione la interpreta dal proprio punto di 
 - Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.
 - Il processo collegato a Managing AI per team aziendali misti assorbe tempo, genera passaggi manuali o produce output difficili da verificare.
 - La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.
-- Serve un risultato concreto dopo la formazione: Mappa interfunzionale di casi d'uso, ownership e criteri di decisione.
+- Serve un risultato concreto dopo la formazione: Mappa tra funzioni di casi d'uso, responsabili e criteri di decisione.
 
 ## Esempi extra non visibili nella pagina HTML
 
@@ -41,7 +41,7 @@ Un'azienda chiede formazione su Managing AI per team aziendali misti, ma il prob
 
 ### Da sperimentazione individuale a pratica governata
 
-Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Mappa interfunzionale di casi d'uso, ownership e criteri di decisione.
+Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Mappa tra funzioni di casi d'uso, responsabili e criteri di decisione.
 
 ### Da entusiasmo a decisione
 
@@ -65,7 +65,7 @@ Artik Lab usa il metodo DTR per adattare esempi, materiali, priorità e casi ai 
 - Allineare funzioni diverse su opportunità e limiti.
 - Identificare casi d'uso prioritari condivisi.
 - Chiarire ruoli, controlli e passaggi decisionali.
-- Ridurre iniziative isolate.
+- Ridurre iniziative AI nate in un solo team, senza criterio condiviso.
 - Creare base comune per policy, pilota o roadmap.
 
 ## Programma
@@ -107,7 +107,7 @@ Introduce criteri pratici per trattare dati e informazioni tra funzioni, con att
 
 ## Relazione con altri percorsi Artik Lab
 
-- [AI Workflow Redesign Lab](https://ar-tik.com/corsi/workflow-redesign.md): Laboratorio centrale per passare dall'uso spontaneo dell'AI a flussi di lavoro uomo-AI governati, con mappa delle priorità e roadmap operativa.
+- [AI Workflow Redesign Lab](https://ar-tik.com/corsi/workflow-redesign.md): Laboratorio per passare dall'uso spontaneo dell'AI a flussi di lavoro con persona e AI, regole e controlli, più una mappa delle priorità e un piano operativo.
 - [AI Governance operativa](https://ar-tik.com/corsi/ai-governance.md): Corso per trasformare policy, rischi e requisiti di controllo in pratiche applicabili nel lavoro quotidiano.
 - [AI Adoption Manager / AI Champions](https://ar-tik.com/corsi/ai-adoption-manager.md): Percorso per creare referenti interni che raccolgono bisogni, supportano i colleghi e collegano sperimentazioni locali alla governance aziendale.
 - [AI Business Case & ROI Sprint](https://ar-tik.com/corsi/ai-business-case-roi.md): Sprint per passare da entusiasmo o intuizione a una decisione economica: problema, valore, costi, rischi, metriche e raccomandazione.

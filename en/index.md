@@ -2,6 +2,8 @@
 
 Artik Lab helps companies and business functions choose, govern and deliver the first useful use of AI: process mapping, business cases, team training, data analysis and controlled prototypes.
 
+The simplest way to start: a free 30-minute first call to identify your most urgent needs.
+
 ## Artik Lab builds AI capabilities that stay inside the company.
 
 Do not buy a license and hope it works. Choose a process, measure its cost, define the KPI, then decide whether to train, redesign or build.
@@ -88,7 +90,7 @@ Dedicated page: https://ar-tik.com/en/technical-software-development.md
 
 ## How much does the time spent on a repetitive task cost each year?
 
-The homepage includes an interactive value calculator: from four simple inputs (people involved, hours per week, average hourly cost and the share of time AI can free up) it estimates the annual cost of the time spent on a manual task and the value that can be freed up each year. It is an indicative estimate over 45 working weeks, not a forecast of results or a quote.
+The homepage includes an interactive value calculator: from five simple inputs (currency, people involved, hours per week, average hourly cost and the share of time AI can free up) it estimates the annual cost of the time spent on a manual task, the value that can be freed up each year and what every month of waiting is worth. It is not the day that weighs. It is every month the work is still done by hand. If it is repetitive work: Operational start. If it is a decision to improve: Data analysis. It is an indicative estimate over 45 working weeks, not a forecast of results or a quote.
 
 ## Courses to govern AI, not chase tools.
 

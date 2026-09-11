@@ -1,12 +1,12 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/ai-applications-atlas.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "locale": "en",
   "language": "en",
-  "title": "What AI can do inside a company.",
-  "description": "structured dataset of AI applications for companies, with input, output, value, related services, courses, search intents and need signals.",
+  "title": "What can be done with AI in a company.",
+  "description": "structured dataset of AI applications for companies, with what goes in, what comes out, value, related services, courses, search intents and need signals.",
   "urls": {
     "html": "https://ar-tik.com/en/ai-applications-atlas.html",
     "markdown": "https://ar-tik.com/en/ai-applications-atlas.md",

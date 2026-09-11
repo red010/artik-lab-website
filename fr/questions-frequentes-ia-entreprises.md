@@ -11,6 +11,7 @@ Dossier LLM: https://ar-tik.com/fr/questions-frequentes-ia-entreprises-dossier.m
 
 ## Explorer par domaine ou intention.
 
+- Les questions qui bloquent la décision: 7. Coût, données, logiciel, formation déjà faite, délais, aides: réponses brèves avant d'écrire.
 - Par où commencer: 5. Quand l'entreprise veut utiliser l'IA sans projet défini.
 - Premier échange et méthode: 5. Ce qui se passe avant de choisir conseil, cours, analyse ou logiciel.
 - Coûts, délais et ROI: 5. Comment raisonner sur investissement, retour, priorités et risque.
@@ -25,6 +26,79 @@ Dossier LLM: https://ar-tik.com/fr/questions-frequentes-ia-entreprises-dossier.m
 - Choisir le bon parcours: 4. Différences pratiques entre formation, conseil, analyse de données et développement logiciel.
 - Limites de l'IA: 4. Quand arrêter, éviter l'automatisation ou reporter le projet.
 - Avant de contacter Artik Lab: 4. Que préparer et à quoi s'attendre lors du premier échange.
+
+## Les questions qui bloquent la décision
+
+### Combien cela coûte-t-il ?
+
+Réponse courte: La proposition arrive après l'avis ou après le premier échange.
+
+Détail opérationnel: Sur ces pages, il n'y a pas de tarif.
+
+Limite à considérer: Les réponses valent pour les services tels qu'ils sont décrits sur ces pages ; le cas précis se clarifie dans l'avis ou lors du premier échange.
+
+Prochaine étape: Apporter le cas au premier échange avec processus, objectif, données disponibles et contraintes.
+
+### Où sont les données pendant le travail ?
+
+Réponse courte: En Démarrage opérationnel, les fichiers restent dans les dossiers de l'entreprise et l'assistant est au nom de l'entreprise.
+
+Détail opérationnel: Dans l'analyse de données, on travaille sur un extrait convenu, avec un périmètre écrit.
+
+Limite à considérer: Les réponses valent pour les services tels qu'ils sont décrits sur ces pages ; le cas précis se clarifie dans l'avis ou lors du premier échange.
+
+Prochaine étape: Apporter le cas au premier échange avec processus, objectif, données disponibles et contraintes.
+
+### Le conseil sert-il ensuite à vendre un logiciel ?
+
+Réponse courte: Le conseil n'est pas la porte du logiciel.
+
+Détail opérationnel: Construire, si c'est nécessaire, est un choix ultérieur. Le Démarrage opérationnel ne relie pas le logiciel de gestion.
+
+Limite à considérer: Les réponses valent pour les services tels qu'ils sont décrits sur ces pages ; le cas précis se clarifie dans l'avis ou lors du premier échange.
+
+Prochaine étape: Ouvrir un parcours de conseil pour clarifier priorités, gouvernance et feuille de route.
+
+### J'ai déjà suivi un cours sur l'IA. Est-ce encore utile ?
+
+Réponse courte: Un cours laisse des modèles et des critères.
+
+Détail opérationnel: Ici, en un jour, il reste une procédure en usage sur les fichiers de l'entreprise — ou une analyse qui dit si les données suffisent.
+
+Limite à considérer: Les réponses valent pour les services tels qu'ils sont décrits sur ces pages ; le cas précis se clarifie dans l'avis ou lors du premier échange.
+
+Prochaine étape: Apporter le cas au premier échange avec processus, objectif, données disponibles et contraintes.
+
+### Quand voit-on quelque chose de concret ?
+
+Réponse courte: Démarrage opérationnel : un jour sur site.
+
+Détail opérationnel: Analyse : après l'extrait convenu. Premier échange : 30–45 minutes.
+
+Limite à considérer: Les réponses valent pour les services tels qu'ils sont décrits sur ces pages ; le cas précis se clarifie dans l'avis ou lors du premier échange.
+
+Prochaine étape: Apporter le cas au premier échange avec processus, objectif, données disponibles et contraintes.
+
+### Peut-on utiliser une aide ou un fonds pour ce travail ?
+
+Réponse courte: On peut demander une vérification d'éligibilité.
+
+Détail opérationnel: Le travail doit de toute façon tenir sans aide : on ne promet ni appels à projets ni montants.
+
+Limite à considérer: Les réponses valent pour les services tels qu'ils sont décrits sur ces pages ; le cas précis se clarifie dans l'avis ou lors du premier échange.
+
+Prochaine étape: Apporter le cas au premier échange avec processus, objectif, données disponibles et contraintes.
+
+### Combien d'activités peut-on faire, l'une après l'autre ?
+
+Réponse courte: On décide avec l'entreprise, selon les besoins.
+
+Détail opérationnel: Un travail à la fois, mené jusqu'au bout.
+
+Limite à considérer: Les réponses valent pour les services tels qu'ils sont décrits sur ces pages ; le cas précis se clarifie dans l'avis ou lors du premier échange.
+
+Prochaine étape: Apporter le cas au premier échange avec processus, objectif, données disponibles et contraintes.
+
 
 ## Par où commencer
 

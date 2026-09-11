@@ -1,11 +1,11 @@
-# AI per customer service e ticket triage
+# AI per assistenza clienti e classificazione delle richieste
 
 Usare l'AI per classificare ticket, proporre risposte, individuare priorità e migliorare la gestione operativa del servizio clienti.
 
 - Durata: 4-6 ore, personalizzabili
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per manager e team non tecnici; non richiede programmazione.
-- Output finale: Tassonomia ticket, workflow di triage e modello di risposta assistita.
+- Output finale: Elenco categorie di richieste, flusso di classificazione e priorità, modello di risposta assistita.
 - Sceglierlo se: Quando l'azienda vuole rendere più rapida e uniforme la gestione delle richieste, mantenendo controllo su escalation e qualità della risposta.
 
 ## Il problema che risolve
@@ -85,5 +85,11 @@ No, ma migliora qualità e coerenza.
 ### Come controllare il tono?
 
 Con linee guida, esempi approvati e revisione.
+
+## Corsi collegati
+
+- [AI per qualità e non conformità](https://ar-tik.com/corsi/ai-quality-management.md): Corso per migliorare analisi, classificazione e documentazione qualità mantenendo controllo formale sugli output.
+- [AI People Ops](https://ar-tik.com/corsi/ai-people-ops.md): Corso per rendere più efficienti processi HR ricorrenti preservando riservatezza, inclusione, controllo e responsabilità.
+- [AI Brand Voice e comunicazione](https://ar-tik.com/corsi/ai-brand-voice.md): Percorso per produrre più comunicazione senza perdere una voce riconoscibile e controllabile rispetto alle linee guida di marca.
 
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)

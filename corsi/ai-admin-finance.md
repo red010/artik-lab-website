@@ -5,7 +5,7 @@ Applicare l'AI a riconciliazioni, report, analisi scostamenti, budgeting e contr
 - Durata: 4-6 ore, personalizzabili
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per manager e team non tecnici; non richiede programmazione.
-- Output finale: Set di template per report, analisi scostamenti e controlli AFC.
+- Output finale: Serie di modelli per report, analisi degli scostamenti e controlli di amministrazione, finanza e controllo.
 - Sceglierlo se: Quando l'azienda vuole rendere più rapidi e tracciabili analisi, reporting e controllo, senza trasformare l'AI in un decisore contabile.
 
 ## Il problema che risolve
@@ -85,5 +85,11 @@ Sì, con scenari realistici e dati simulati o anonimizzati.
 ### Include automazioni?
 
 Include workflow replicabili; l'integrazione dipende dai sistemi aziendali.
+
+## Corsi collegati
+
+- [AI Operations](https://ar-tik.com/corsi/ai-operations.md): Percorso per rendere i processi operativi più efficienti, controllati e comprensibili, senza nuove dashboard di monitoraggio.
+- [AI Legal Ops e compliance documentale](https://ar-tik.com/corsi/ai-legal-ops.md): Corso operativo per ridurre lavoro manuale su contratti, policy e procedure, mantenendo supervisione e gestione del rischio.
+- [AI per acquisti e conoscenza dei fornitori](https://ar-tik.com/corsi/ai-procurement.md): Corso per rendere più ordinati ricerca fornitori, confronto e documentazione acquisti, con criteri di scelta espliciti.
 
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)

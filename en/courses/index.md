@@ -204,7 +204,7 @@ Practical corporate course for applying AI to brand voice and communication, wit
 
 ### Semantic search and AI knowledge bases
 
-Practical corporate course for applying AI to semantic search and knowledge bases, with exercises on realistic work, reusable materials and clear governance criteria.
+Turn archives and internal knowledge into search by meaning, with embeddings: numerical representations of the meaning of a text.
 
 - Duration: 60-90 minuti o modulo breve
 - Choose it if: When the company wants concrete progress on semantic search and knowledge bases and needs training that produces usable workflows, not abstract theory.
@@ -214,7 +214,7 @@ Practical corporate course for applying AI to semantic search and knowledge base
 
 ### RAG Engineering for reliable AI systems
 
-Practical corporate course for applying AI to RAG engineering, with exercises on realistic work, reusable materials and clear governance criteria.
+Design RAG (Retrieval-Augmented Generation) systems: they retrieve company documents and generate the answer citing them.
 
 - Duration: 5 hours, two 2.5-hour sessions
 - Choose it if: When the company wants concrete progress on RAG engineering and needs training that produces usable workflows, not abstract theory.
@@ -224,7 +224,7 @@ Practical corporate course for applying AI to RAG engineering, with exercises on
 
 ### AI Coding Agents for software teams
 
-Practical corporate course for applying AI to AI coding agents, with exercises on realistic work, reusable materials and clear governance criteria.
+Use coding agents as controlled parts of the software cycle: development, review, tests and release, with named responsibility.
 
 - Duration: 4 hours, two 2-hour sessions
 - Choose it if: When the company wants concrete progress on AI coding agents and needs training that produces usable workflows, not abstract theory.
@@ -234,7 +234,7 @@ Practical corporate course for applying AI to AI coding agents, with exercises o
 
 ### AI Software Engineering
 
-Practical corporate course for applying AI to AI software engineering, with exercises on realistic work, reusable materials and clear governance criteria.
+Design AI-native software, with AI inside the product not beside it: architecture, evaluation and go-live (entry into production).
 
 - Duration: 5 hours, two 2.5-hour sessions
 - Choose it if: When the company wants concrete progress on AI software engineering and needs training that produces usable workflows, not abstract theory.
@@ -244,7 +244,7 @@ Practical corporate course for applying AI to AI software engineering, with exer
 
 ### Secure AI SDLC
 
-Practical corporate course for applying AI to secure AI software lifecycle, with exercises on realistic work, reusable materials and clear governance criteria.
+Put AI-specific controls into the software lifecycle: design, build, test, release and operation (planning, construction, testing, release and running in production).
 
 - Duration: 4-6 hours, customisable
 - Choose it if: When the company wants concrete progress on secure AI software lifecycle and needs training that produces usable workflows, not abstract theory.

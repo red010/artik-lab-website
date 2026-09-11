@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "course": {
@@ -11,8 +11,8 @@
     "familyLabel": "Fondamentale",
     "featured": true,
     "title": "AI Workflow Redesign Lab",
-    "subtitle": "Il laboratorio fondamentale per ridisegnare attività, processi e flussi decisionali integrando l'AI generativa in modo utile, misurabile e governato.",
-    "summary": "Laboratorio centrale per passare dall'uso spontaneo dell'AI a flussi di lavoro uomo-AI governati, con mappa delle priorità e roadmap operativa.",
+    "subtitle": "Il laboratorio di partenza per ridisegnare attività, processi e passaggi in cui si decide, integrando l'AI generativa con misure e regole di controllo.",
+    "summary": "Laboratorio per passare dall'uso spontaneo dell'AI a flussi di lavoro con persona e AI, regole e controlli, più una mappa delle priorità e un piano operativo.",
     "duration": "8 ore, modulabili in 2 o 4 sessioni",
     "mode": "Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.",
     "profile": "all",
@@ -23,8 +23,8 @@
     "chooseIf": "Quando l'azienda ha già curiosità o sperimentazioni AI ma non ha ancora trasformato il lavoro. È il punto di partenza consigliato prima di corsi verticali, policy, piloti o acquisti tecnologici.",
     "outcomes": [
       "Identificare processi ad alto potenziale AI.",
-      "Distinguere attività automatizzabili, aumentabili e da mantenere umane.",
-      "Disegnare workflow ibridi con input, output, controlli e responsabilità.",
+      "Distinguere attività da automatizzare, da affiancare con l'AI e da lasciare alle persone.",
+      "Disegnare flussi misti persona-AI, con ingressi, risultati, controlli e responsabilità.",
       "Definire metriche operative su tempo, qualità, rischio e costo.",
       "Costruire una roadmap di implementazione per priorità e dipendenze."
     ],
@@ -79,12 +79,12 @@
         "answer": "Sì, è il percorso fondamentale per trasformare l'AI in cambiamento organizzativo."
       }
     ],
-    "output": "Mappa dei workflow prioritari, prototipo di flusso uomo-AI e roadmap di adozione.",
+    "output": "Mappa dei flussi di lavoro prioritari, prototipo di flusso con persona e AI, piano di adozione.",
     "searchIntents": [
       "corso AI aziendale su AI Workflow Redesign Lab",
       "formazione pratica per AI Workflow Redesign Lab",
       "training AI per workflow aziendali",
-      "percorso Artik Lab per Mappa dei workflow prioritari, prototipo di flusso uomo-AI e roadmap di adozione",
+      "percorso Artik Lab per Mappa dei flussi di lavoro prioritari, prototipo di flusso con persona e AI, piano di adozione",
       "come introdurre AI Workflow Redesign Lab nei processi aziendali"
     ],
     "needSignals": [
@@ -92,7 +92,7 @@
       "Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.",
       "Il processo collegato a AI Workflow Redesign Lab assorbe tempo, genera passaggi manuali o produce output difficili da verificare.",
       "La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.",
-      "Serve un risultato concreto dopo la formazione: Mappa dei workflow prioritari, prototipo di flusso uomo-AI e roadmap di adozione."
+      "Serve un risultato concreto dopo la formazione: Mappa dei flussi di lavoro prioritari, prototipo di flusso con persona e AI, piano di adozione."
     ],
     "extraExamples": [
       {
@@ -101,7 +101,7 @@
       },
       {
         "title": "Da sperimentazione individuale a pratica governata",
-        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Mappa dei workflow prioritari, prototipo di flusso uomo-AI e roadmap di adozione."
+        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Mappa dei flussi di lavoro prioritari, prototipo di flusso con persona e AI, piano di adozione."
       },
       {
         "title": "Da entusiasmo a decisione",

@@ -1,12 +1,12 @@
 # AI Software Engineering
 
-Progettare software AI-native con architetture solide, requisiti chiari, valutazione continua e controllo del comportamento dei modelli.
+Progettare software AI-native, con l'AI dentro il prodotto e non accanto: architetture solide, requisiti chiari, valutazione continua e controllo del comportamento dei modelli.
 
 - Durata: 5 ore, 2 lezioni da 2,5 ore
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per team tecnici con basi di programmazione e architetture software.
-- Output finale: Blueprint AI-native e criteri di evaluation/go-live.
-- Sceglierlo se: Quando si deve costruire o industrializzare una funzionalità AI in prodotto, portale, workflow interno, applicazione enterprise o piattaforma dati.
+- Output finale: Blueprint AI-native (lo schema architetturale del software con l'AI nel prodotto) e criteri di evaluation e go-live: le prove da superare prima dell'ingresso in esercizio.
+- Sceglierlo se: Quando una funzione AI deve passare da prototipo a parte stabile di un prodotto o di un sistema interno.
 
 ## Il problema che risolve
 
@@ -18,7 +18,7 @@ Team software, solution architect, product engineer, tech lead, platform team, r
 
 ## Quando sceglierlo
 
-Quando si deve costruire o industrializzare una funzionalità AI in prodotto, portale, workflow interno, applicazione enterprise o piattaforma dati.
+Quando una funzione AI deve passare da prototipo a parte stabile di un prodotto o di un sistema interno.
 
 ## Risultati concreti
 
@@ -26,7 +26,7 @@ Quando si deve costruire o industrializzare una funzionalità AI in prodotto, po
 - Disegnare blueprint architetturale.
 - Scegliere pattern di integrazione.
 - Costruire strategia di evaluation.
-- Gestire errori, osservabilità e go-live.
+- Gestire errori, visibilità di che cosa fa il sistema in esercizio, e ingresso in esercizio (go-live).
 
 ## Programma
 
@@ -87,5 +87,11 @@ Abbastanza da guidare scelte reali su architettura, test e produzione.
 ### Parla di modelli specifici?
 
 No, ragiona per capacità, vincoli e integrazione.
+
+## Corsi collegati
+
+- [Secure AI SDLC](https://ar-tik.com/corsi/secure-ai-sdlc.md): Corso tecnico per inserire controlli AI-specifici nelle fasi del ciclo di sviluppo: design (progettazione), build (costruzione), test, release (rilascio) e operation (esercizio).
+- [Ricerca semantica e knowledge base AI](https://ar-tik.com/corsi/embeddings.md): Modulo per rendere archivi e conoscenza aziendale cercabili per significato, con gli embeddings: rappresentazioni numeriche del significato di un testo, base dei progetti AI che rispondono sui documenti.
+- [RAG Engineering per sistemi AI affidabili](https://ar-tik.com/corsi/rag-engineering.md): Corso tecnico per passare da una chat sui documenti a sistemi RAG (Retrieval-Augmented Generation): recupero delle fonti, qualità misurabile e controllo.
 
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)

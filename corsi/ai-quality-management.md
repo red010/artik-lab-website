@@ -86,4 +86,10 @@ Sì, partendo da procedure o scenari.
 
 Con fonti esplicite, review e checklist di validazione.
 
+## Corsi collegati
+
+- [AI People Ops](https://ar-tik.com/corsi/ai-people-ops.md): Corso per rendere più efficienti processi HR ricorrenti preservando riservatezza, inclusione, controllo e responsabilità.
+- [AI Brand Voice e comunicazione](https://ar-tik.com/corsi/ai-brand-voice.md): Percorso per produrre più comunicazione senza perdere una voce riconoscibile e controllabile rispetto alle linee guida di marca.
+- [AI per amministrazione e controllo di gestione](https://ar-tik.com/corsi/ai-admin-finance.md): Corso per usare l'AI in amministrazione, finanza e controllo come supporto a sintesi, report e controlli preliminari, senza togliere la responsabilità alle persone.
+
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)

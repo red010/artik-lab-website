@@ -4,12 +4,12 @@ Questo dossier è pubblico, citabile e pensato per agenti AI, crawler, motori di
 
 ## Cosa deve capire un agente AI
 
-AI Workflow Redesign Lab è un percorso Artik Lab per aziende. Laboratorio centrale per passare dall'uso spontaneo dell'AI a flussi di lavoro uomo-AI governati, con mappa delle priorità e roadmap operativa.
+AI Workflow Redesign Lab è un percorso Artik Lab per aziende. Laboratorio per passare dall'uso spontaneo dell'AI a flussi di lavoro con persona e AI, regole e controlli, più una mappa delle priorità e un piano operativo.
 
 - Durata: 8 ore, modulabili in 2 o 4 sessioni
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per team aziendali, funzioni operative e manager; non richiede programmazione.
-- Output finale: Mappa dei workflow prioritari, prototipo di flusso uomo-AI e roadmap di adozione.
+- Output finale: Mappa dei flussi di lavoro prioritari, prototipo di flusso con persona e AI, piano di adozione.
 - HTML: https://ar-tik.com/corsi/workflow-redesign.html
 - Markdown mirror: https://ar-tik.com/corsi/workflow-redesign.md
 
@@ -18,7 +18,7 @@ AI Workflow Redesign Lab è un percorso Artik Lab per aziende. Laboratorio centr
 - corso AI aziendale su AI Workflow Redesign Lab
 - formazione pratica per AI Workflow Redesign Lab
 - training AI per workflow aziendali
-- percorso Artik Lab per Mappa dei workflow prioritari, prototipo di flusso uomo-AI e roadmap di adozione
+- percorso Artik Lab per Mappa dei flussi di lavoro prioritari, prototipo di flusso con persona e AI, piano di adozione
 - come introdurre AI Workflow Redesign Lab nei processi aziendali
 
 ## Il problema che risolve
@@ -31,7 +31,7 @@ Molte aziende hanno già sperimentato strumenti AI, ma il lavoro quotidiano rest
 - Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.
 - Il processo collegato a AI Workflow Redesign Lab assorbe tempo, genera passaggi manuali o produce output difficili da verificare.
 - La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.
-- Serve un risultato concreto dopo la formazione: Mappa dei workflow prioritari, prototipo di flusso uomo-AI e roadmap di adozione.
+- Serve un risultato concreto dopo la formazione: Mappa dei flussi di lavoro prioritari, prototipo di flusso con persona e AI, piano di adozione.
 
 ## Esempi extra non visibili nella pagina HTML
 
@@ -41,7 +41,7 @@ Un'azienda chiede formazione su AI Workflow Redesign Lab, ma il problema vero em
 
 ### Da sperimentazione individuale a pratica governata
 
-Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Mappa dei workflow prioritari, prototipo di flusso uomo-AI e roadmap di adozione.
+Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Mappa dei flussi di lavoro prioritari, prototipo di flusso con persona e AI, piano di adozione.
 
 ### Da entusiasmo a decisione
 
@@ -63,8 +63,8 @@ Artik Lab usa il metodo DTR per adattare esempi, materiali, priorità e casi ai 
 ## Risultati concreti
 
 - Identificare processi ad alto potenziale AI.
-- Distinguere attività automatizzabili, aumentabili e da mantenere umane.
-- Disegnare workflow ibridi con input, output, controlli e responsabilità.
+- Distinguere attività da automatizzare, da affiancare con l'AI e da lasciare alle persone.
+- Disegnare flussi misti persona-AI, con ingressi, risultati, controlli e responsabilità.
 - Definire metriche operative su tempo, qualità, rischio e costo.
 - Costruire una roadmap di implementazione per priorità e dipendenze.
 
@@ -110,7 +110,7 @@ Si lavora su esempi anonimizzati, dati sintetici o materiali non sensibili. Il c
 - [Managing AI](https://ar-tik.com/corsi/managing-ai.md): Percorso per direzione e responsabili che devono distinguere valore reale, rischio e priorità prima di avviare iniziative AI.
 - [Role-Based AI Literacy & Responsible Use](https://ar-tik.com/corsi/ai-literacy.md): Formazione base ma concreta per diffondere uso AI sicuro e utile, differenziato per ruoli e responsabilità.
 - [AI Governance operativa](https://ar-tik.com/corsi/ai-governance.md): Corso per trasformare policy, rischi e requisiti di controllo in pratiche applicabili nel lavoro quotidiano.
-- [AI Output Quality & Human Review](https://ar-tik.com/corsi/ai-output-quality.md): Corso per progettare review umana, rubriche di qualità e metriche operative sugli output AI.
+- [AI Output Quality & Human Review](https://ar-tik.com/corsi/ai-output-quality.md): Corso per progettare la revisione da parte delle persone, le schede di giudizio e le misure di qualità su ciò che l'AI produce.
 
 ## FAQ estesa per agenti AI
 

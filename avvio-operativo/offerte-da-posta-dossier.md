@@ -1,8 +1,8 @@
 # Offerte e listini da posta e file - dossier pubblico per LLM
 
-Questo dossier pubblico estende la pagina Operatività immediata senza aggiungere promesse diverse dalla pagina HTML. Non è un corso. Non è software. Il gestionale non si tocca.
+Questo dossier pubblico estende la pagina Operatività immediata senza aggiungere promesse diverse dalla pagina HTML. Non è un corso. Non è software. Sono escluse le integrazioni su misura con i software già in uso.
 
-Serve un preventivo o un listino aggiornato, con le schede allegate. Oggi chi vende perde tempo a copiare da tre cartelle. Trattare, chiudere e inserire l'ordine restano alla persona. Si alleggerisce il lavoro prima: raccogliere, mettere insieme, segnalare cosa manca.
+Serve un preventivo o un listino aggiornato, con le schede allegate. Oggi chi vende perde tempo a copiare da tre cartelle. Trattare, chiudere e inserire l'ordine restano alla persona. Si alleggerisce il lavoro di raccolta: mettere insieme i pezzi e segnalare cosa manca, prima che chi vende tratti.
 
 ## Quando non è adatto
 

@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "course": {
@@ -11,8 +11,8 @@
     "familyLabel": "Technical",
     "featured": false,
     "title": "Secure AI SDLC",
-    "subtitle": "Practical corporate course for applying AI to secure AI software lifecycle, with exercises on realistic work, reusable materials and clear governance criteria.",
-    "summary": "Practical corporate course for applying AI to secure AI software lifecycle, with exercises on realistic work, reusable materials and clear governance criteria.",
+    "subtitle": "Put AI-specific controls into the software lifecycle: design, build, test, release and operation (planning, construction, testing, release and running in production).",
+    "summary": "Put AI-specific controls into the software lifecycle: design, build, test, release and operation (planning, construction, testing, release and running in production).",
     "duration": "4-6 hours, customisable",
     "mode": "In-person or online lab, with guided exercises and materials adapted to the client.",
     "profile": "technical",

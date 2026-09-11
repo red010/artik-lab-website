@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "course": {
@@ -11,8 +11,8 @@
     "familyLabel": "Técnico",
     "featured": false,
     "title": "AI Software Engineering",
-    "subtitle": "Curso corporativo práctico para aplicar IA a ingeniería de software con IA, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.",
-    "summary": "Curso corporativo práctico para aplicar IA a ingeniería de software con IA, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.",
+    "subtitle": "Diseñar software AI-native, con la IA dentro del producto y no al lado: arquitectura, evaluación y go-live (entrada en producción).",
+    "summary": "Diseñar software AI-native, con la IA dentro del producto y no al lado: arquitectura, evaluación y go-live (entrada en producción).",
     "duration": "5 horas, 2 sesiones de 2,5 horas",
     "mode": "Laboratorio presencial u online, con ejercicios guiados y materiales adaptados al cliente.",
     "profile": "technical",

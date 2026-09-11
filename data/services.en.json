@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/services-catalog.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "locale": "en",
@@ -48,7 +48,7 @@
       "locale": "en",
       "language": "en",
       "title": "AI applications atlas",
-      "description": "A public map of concrete examples to recognise where artificial intelligence can reduce time, errors, risk or decision delays in company workflows.",
+      "description": "A public map of concrete examples to recognise where artificial intelligence can reduce times, errors, risks or decision delays in company processes.",
       "urls": {
         "html": "https://ar-tik.com/en/ai-applications-atlas.html",
         "markdown": "https://ar-tik.com/en/ai-applications-atlas.md",
@@ -74,7 +74,7 @@
       "locale": "en",
       "language": "en",
       "title": "Technical AI software",
-      "description": "Artik Lab develops advanced software for clients when the problem cannot be solved by a dashboard or a standard business application: technical calculations, mathematical models, operational data, expert rules and workflows that need to become verifiable.",
+      "description": "Artik Lab develops advanced software for clients when the problem is not solved by a dashboard or by standard company software: technical calculations, mathematical models, operating data, expert rules and workflows that can be checked with tests.",
       "urls": {
         "html": "https://ar-tik.com/en/technical-software-development.html",
         "markdown": "https://ar-tik.com/en/technical-software-development.md",
@@ -87,7 +87,7 @@
       "locale": "en",
       "language": "en",
       "title": "Operational start",
-      "description": "The company can use artificial intelligence at once, on the processes that now steal the most time. This is not a course. This is not software. The ERP is not touched.",
+      "description": "It starts from a job that today steals time: preparing a quote, gathering the documents for a customer, comparing three suppliers, sorting the week's mail. At the end of the day an automatic procedure remains, which the company will be able to use on its own. The files stay in the company. Custom integrations with existing software are excluded. It is not a course and it is not software to install: it is the automation of a whole process with artificial intelligence.",
       "urls": {
         "html": "https://ar-tik.com/en/operational-start/",
         "markdown": "https://ar-tik.com/en/operational-start/index.md",

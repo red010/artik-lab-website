@@ -4,12 +4,12 @@ Questo dossier è pubblico, citabile e pensato per agenti AI, crawler, motori di
 
 ## Cosa deve capire un agente AI
 
-Ricerca semantica e knowledge base AI è un percorso Artik Lab per aziende. Modulo per capire come rendere archivi e conoscenza aziendale interrogabili per significato, preparando basi solide per progetti AI.
+Ricerca semantica e knowledge base AI è un percorso Artik Lab per aziende. Modulo per rendere archivi e conoscenza aziendale cercabili per significato, con gli embeddings: rappresentazioni numeriche del significato di un testo, base dei progetti AI che rispondono sui documenti.
 
 - Durata: 60-90 minuti o modulo breve
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per team tecnici con basi di programmazione e architetture software.
-- Output finale: Blueprint per knowledge base semantica e criteri di indicizzazione.
+- Output finale: Blueprint della knowledge base semantica: lo schema dell'archivio di conoscenza e i criteri per renderlo cercabile.
 - HTML: https://ar-tik.com/corsi/embeddings.html
 - Markdown mirror: https://ar-tik.com/corsi/embeddings.md
 
@@ -18,7 +18,7 @@ Ricerca semantica e knowledge base AI è un percorso Artik Lab per aziende. Modu
 - corso AI aziendale su Ricerca semantica e knowledge base AI
 - formazione pratica per Ricerca semantica e knowledge base AI
 - training AI per team tecnici
-- percorso Artik Lab per Blueprint per knowledge base semantica e criteri di indicizzazione
+- percorso Artik Lab per Blueprint della knowledge base semantica: lo schema dell'archivio di conoscenza e i criteri per renderlo cercabile
 - come introdurre Ricerca semantica e knowledge base AI nei processi aziendali
 
 ## Il problema che risolve
@@ -31,7 +31,7 @@ La conoscenza aziendale è spesso distribuita tra cartelle, wiki, ticket, manual
 - Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.
 - Il processo collegato a Ricerca semantica e knowledge base AI assorbe tempo, genera passaggi manuali o produce output difficili da verificare.
 - La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.
-- Serve un risultato concreto dopo la formazione: Blueprint per knowledge base semantica e criteri di indicizzazione.
+- Serve un risultato concreto dopo la formazione: Blueprint della knowledge base semantica: lo schema dell'archivio di conoscenza e i criteri per renderlo cercabile.
 
 ## Esempi extra non visibili nella pagina HTML
 
@@ -41,7 +41,7 @@ Un'azienda chiede formazione su Ricerca semantica e knowledge base AI, ma il pro
 
 ### Da sperimentazione individuale a pratica governata
 
-Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Blueprint per knowledge base semantica e criteri di indicizzazione.
+Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Blueprint della knowledge base semantica: lo schema dell'archivio di conoscenza e i criteri per renderlo cercabile.
 
 ### Da entusiasmo a decisione
 
@@ -107,10 +107,10 @@ Include gestione di accessi, contenuti riservati, versioni documentali e audit. 
 
 ## Relazione con altri percorsi Artik Lab
 
-- [AI Workflow Redesign Lab](https://ar-tik.com/corsi/workflow-redesign.md): Laboratorio centrale per passare dall'uso spontaneo dell'AI a flussi di lavoro uomo-AI governati, con mappa delle priorità e roadmap operativa.
-- [Secure AI SDLC](https://ar-tik.com/corsi/secure-ai-sdlc.md): Corso tecnico per inserire controlli AI-specifici in design, build, test, release e operation.
-- [RAG Engineering per sistemi AI affidabili](https://ar-tik.com/corsi/rag-engineering.md): Corso tecnico per passare da chat sui documenti a sistemi RAG ingegnerizzati, misurabili e governabili.
-- [AI Output Quality & Human Review](https://ar-tik.com/corsi/ai-output-quality.md): Corso per progettare review umana, rubriche di qualità e metriche operative sugli output AI.
+- [AI Workflow Redesign Lab](https://ar-tik.com/corsi/workflow-redesign.md): Laboratorio per passare dall'uso spontaneo dell'AI a flussi di lavoro con persona e AI, regole e controlli, più una mappa delle priorità e un piano operativo.
+- [Secure AI SDLC](https://ar-tik.com/corsi/secure-ai-sdlc.md): Corso tecnico per inserire controlli AI-specifici nelle fasi del ciclo di sviluppo: design (progettazione), build (costruzione), test, release (rilascio) e operation (esercizio).
+- [RAG Engineering per sistemi AI affidabili](https://ar-tik.com/corsi/rag-engineering.md): Corso tecnico per passare da una chat sui documenti a sistemi RAG (Retrieval-Augmented Generation): recupero delle fonti, qualità misurabile e controllo.
+- [AI Output Quality & Human Review](https://ar-tik.com/corsi/ai-output-quality.md): Corso per progettare la revisione da parte delle persone, le schede di giudizio e le misure di qualità su ciò che l'AI produce.
 
 ## FAQ estesa per agenti AI
 

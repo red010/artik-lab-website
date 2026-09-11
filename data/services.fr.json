@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/services-catalog.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "locale": "fr",
@@ -74,7 +74,7 @@
       "locale": "fr",
       "language": "fr",
       "title": "Logiciels techniques IA",
-      "description": "Artik Lab développe pour ses clients des logiciels avancés lorsque le problème ne se résout pas avec un tableau de bord ou une application standard: calculs techniques, modèles mathématiques, données opérationnelles, règles expertes et flux de travail à rendre vérifiables.",
+      "description": "Artik Lab développe pour le compte de ses clients des logiciels avancés lorsque le problème ne se résout pas avec un tableau de bord ou avec le logiciel d'entreprise standard : calculs techniques, modèles mathématiques, données opérationnelles, règles d'experts et flux de travail que l'on peut contrôler par des tests.",
       "urls": {
         "html": "https://ar-tik.com/fr/developpement-logiciels-techniques.html",
         "markdown": "https://ar-tik.com/fr/developpement-logiciels-techniques.md",
@@ -87,7 +87,7 @@
       "locale": "fr",
       "language": "fr",
       "title": "Démarrage opérationnel",
-      "description": "L'entreprise peut utiliser l'intelligence artificielle tout de suite, sur les processus qui prennent le plus de temps. Ce n'est pas un cours. Ce n'est pas un logiciel. Le logiciel de gestion n'est pas touché.",
+      "description": "On part d'un travail qui aujourd'hui prend du temps : préparer une offre, rassembler les documents pour un client, comparer trois fournisseurs, trier le courrier de la semaine. En fin de journée, il reste une procédure automatique, que l'entreprise pourra utiliser en autonomie. Les fichiers restent dans l'entreprise. Sont exclues les intégrations sur mesure avec les logiciels déjà en usage. Ce n'est pas un cours et ce n'est pas un logiciel à installer : c'est l'automatisation d'un processus entier avec l'intelligence artificielle.",
       "urls": {
         "html": "https://ar-tik.com/fr/demarrage-operationnel/",
         "markdown": "https://ar-tik.com/fr/demarrage-operationnel/index.md",

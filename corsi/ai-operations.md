@@ -6,7 +6,7 @@ Applicare l'AI ai processi operativi: procedure, report, coordinamento attività
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per manager e team non tecnici; non richiede programmazione.
 - Output finale: Workflow operativo ridisegnato con procedure, checklist e report assistiti da AI.
-- Sceglierlo se: Quando l'azienda vuole migliorare efficienza, standardizzazione e controllo dei processi operativi senza automatizzare decisioni critiche senza supervisione.
+- Sceglierlo se: Quando l'azienda vuole processi operativi più efficienti e uniformi, e le decisioni critiche devono restare sotto supervisione.
 
 ## Il problema che risolve
 
@@ -18,7 +18,7 @@ Operations manager, project operations, back office, responsabili di processo, s
 
 ## Quando sceglierlo
 
-Quando l'azienda vuole migliorare efficienza, standardizzazione e controllo dei processi operativi senza automatizzare decisioni critiche senza supervisione.
+Quando l'azienda vuole processi operativi più efficienti e uniformi, e le decisioni critiche devono restare sotto supervisione.
 
 ## Risultati concreti
 
@@ -85,5 +85,11 @@ Sì, se criteri e vincoli sono chiari.
 ### Come si misura il beneficio?
 
 Con tempo risparmiato, rilavorazioni ridotte, qualità documentale e velocità di allineamento.
+
+## Corsi collegati
+
+- [AI Legal Ops e compliance documentale](https://ar-tik.com/corsi/ai-legal-ops.md): Corso operativo per ridurre lavoro manuale su contratti, policy e procedure, mantenendo supervisione e gestione del rischio.
+- [AI per acquisti e conoscenza dei fornitori](https://ar-tik.com/corsi/ai-procurement.md): Corso per rendere più ordinati ricerca fornitori, confronto e documentazione acquisti, con criteri di scelta espliciti.
+- [AI per assistenza clienti e classificazione delle richieste](https://ar-tik.com/corsi/ai-customer-service.md): Corso per rendere più rapida e uniforme la gestione delle richieste senza perdere controllo su tono, escalation e qualità.
 
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)

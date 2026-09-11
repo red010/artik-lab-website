@@ -87,4 +87,10 @@ Materiais reutilizáveis, exemplos, checklists e próximos passos claros.
 
 Não. O curso é construído sobre exercícios práticos e decisões próximas do trabalho real.
 
+## Cursos relacionados
+
+- [AI para procurement e inteligência de fornecedores](https://ar-tik.com/pt-br/cursos/ai-procurement.md): Curso corporativo prático para aplicar IA a procurement e inteligência de fornecedores, com exercícios sobre trabalho realista, materiais reutilizáveis e critérios claros de governança.
+- [AI para atendimento ao cliente e triagem de tickets](https://ar-tik.com/pt-br/cursos/ai-customer-service.md): Curso corporativo prático para aplicar IA a atendimento ao cliente e triagem de tickets, com exercícios sobre trabalho realista, materiais reutilizáveis e critérios claros de governança.
+- [AI para qualidade e não conformidades](https://ar-tik.com/pt-br/cursos/ai-quality-management.md): Curso corporativo prático para aplicar IA a qualidade e não conformidades, com exercícios sobre trabalho realista, materiais reutilizáveis e critérios claros de governança.
+
 [Voltar ao catálogo de cursos](https://ar-tik.com/pt-br/cursos/index.md)

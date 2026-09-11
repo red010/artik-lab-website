@@ -1,6 +1,6 @@
 # AI Software Engineering
 
-Practical corporate course for applying AI to AI software engineering, with exercises on realistic work, reusable materials and clear governance criteria.
+Design AI-native software, with AI inside the product not beside it: architecture, evaluation and go-live (entry into production).
 
 - Duration: 5 hours, two 2.5-hour sessions
 - Mode: In-person or online lab, with guided exercises and materials adapted to the client.
@@ -86,5 +86,11 @@ Reusable materials, examples, checklists and a clear set of next steps.
 ### Is it theoretical?
 
 No. The course is built around practical exercises and decisions close to real work.
+
+## Related courses
+
+- [Secure AI SDLC](https://ar-tik.com/en/courses/secure-ai-sdlc.md): Put AI-specific controls into the software lifecycle: design, build, test, release and operation (planning, construction, testing, release and running in production).
+- [Semantic search and AI knowledge bases](https://ar-tik.com/en/courses/embeddings.md): Turn archives and internal knowledge into search by meaning, with embeddings: numerical representations of the meaning of a text.
+- [RAG Engineering for reliable AI systems](https://ar-tik.com/en/courses/rag-engineering.md): Design RAG (Retrieval-Augmented Generation) systems: they retrieve company documents and generate the answer citing them.
 
 [Back to the course catalog](https://ar-tik.com/en/courses/index.md)

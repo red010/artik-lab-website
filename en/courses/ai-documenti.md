@@ -87,4 +87,10 @@ Reusable materials, examples, checklists and a clear set of next steps.
 
 No. The course is built around practical exercises and decisions close to real work.
 
+## Related courses
+
+- [AI course: AI-driven marketing and communication](https://ar-tik.com/en/courses/ai-marketing.md): Practical corporate course for applying AI to marketing and communication, with exercises on realistic work, reusable materials and clear governance criteria.
+- [AI course: B2C and B2B sales with AI](https://ar-tik.com/en/courses/ai-vendite.md): Practical corporate course for applying AI to B2B and B2C sales, with exercises on realistic work, reusable materials and clear governance criteria.
+- [AI for administration and management control](https://ar-tik.com/en/courses/ai-admin-finance.md): Practical corporate course for applying AI to finance and management control, with exercises on realistic work, reusable materials and clear governance criteria.
+
 [Back to the course catalog](https://ar-tik.com/en/courses/index.md)

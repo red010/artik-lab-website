@@ -18,18 +18,32 @@ document.addEventListener('DOMContentLoaded', function () {
   setScrolled();
   window.addEventListener('scroll', setScrolled, { passive: true });
 
+  var lastFocus = null;
+
+  function menuFocusables() {
+    if (!menu) return [];
+    return Array.prototype.slice.call(menu.querySelectorAll('a[href], button:not([disabled])')).filter(function (el) {
+      return el.offsetParent !== null;
+    });
+  }
+
   function openMenu() {
     if (!menu || !toggle) return;
+    lastFocus = document.activeElement;
     menu.hidden = false;
     toggle.setAttribute('aria-expanded', 'true');
     document.body.style.overflow = 'hidden';
+    if (close) close.focus();
   }
 
   function closeMenu() {
-    if (!menu || !toggle) return;
+    if (!menu || !toggle || menu.hidden) return;
     menu.hidden = true;
     toggle.setAttribute('aria-expanded', 'false');
     document.body.style.overflow = '';
+    var back = lastFocus && lastFocus !== document.body && typeof lastFocus.focus === 'function' ? lastFocus : toggle;
+    back.focus();
+    lastFocus = null;
   }
 
   if (toggle) toggle.addEventListener('click', openMenu);
@@ -40,7 +54,22 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
   document.addEventListener('keydown', function (event) {
-    if (event.key === 'Escape') closeMenu();
+    if (event.key === 'Escape') {
+      closeMenu();
+      return;
+    }
+    if (event.key !== 'Tab' || !menu || menu.hidden) return;
+    var items = menuFocusables();
+    if (!items.length) return;
+    var first = items[0];
+    var last = items[items.length - 1];
+    if (event.shiftKey && document.activeElement === first) {
+      event.preventDefault();
+      last.focus();
+    } else if (!event.shiftKey && document.activeElement === last) {
+      event.preventDefault();
+      first.focus();
+    }
   });
 
   document.querySelectorAll('a[href^="#"]').forEach(function (anchor) {
@@ -73,6 +102,23 @@ document.addEventListener('DOMContentLoaded', function () {
 
   var avvioForm = document.getElementById('avvio-form');
   if (avvioForm) {
+    var siteField = avvioForm.querySelector('input[type="url"]');
+    if (siteField) {
+      var normalizzaSito = function () {
+        var valore = String(siteField.value || '').trim();
+        if (!valore) { return; }
+        if (!/^[a-z][a-z0-9+.-]*:\/\//i.test(valore)) {
+          valore = 'https://' + valore.replace(/^\/+/, '');
+        }
+        if (valore !== siteField.value) { siteField.value = valore; }
+      };
+      siteField.addEventListener('blur', normalizzaSito);
+      var bottoneInvio = avvioForm.querySelector('button[type="submit"], input[type="submit"], button:not([type])');
+      if (bottoneInvio) {
+        bottoneInvio.addEventListener('click', normalizzaSito, true);
+      }
+    }
+
     avvioForm.addEventListener('submit', function (event) {
       event.preventDefault();
       var checked = Array.prototype.slice.call(avvioForm.querySelectorAll('input[name="process"]:checked'));
@@ -258,11 +304,33 @@ document.addEventListener('DOMContentLoaded', function () {
     var saveOut = calc.querySelector('[data-calc-save]');
     var monthOut = calc.querySelector('[data-calc-month]');
     var fields = Array.prototype.slice.call(calc.querySelectorAll('input, select'));
+    var currencyField = calc.querySelector('[data-calc-currency]');
+    var symbolOut = calc.querySelector('[data-calc-symbol]');
     var formatter;
-    try {
-      formatter = new Intl.NumberFormat(locale, { style: 'currency', currency: currency, maximumFractionDigits: 0, useGrouping: 'always' });
-    } catch (error) {
-      formatter = new Intl.NumberFormat('it-IT', { style: 'currency', currency: 'EUR', maximumFractionDigits: 0, useGrouping: 'always' });
+
+    function buildFormatter() {
+      var chosen = currencyField && currencyField.value ? currencyField.value : currency;
+      var options = { style: 'currency', currency: chosen, maximumFractionDigits: 0, useGrouping: 'always' };
+      try {
+        // simbolo stretto: «£» invece di «£GB», «$» invece di «US$»
+        formatter = new Intl.NumberFormat(locale, Object.assign({ currencyDisplay: 'narrowSymbol' }, options));
+      } catch (narrowError) {
+        try {
+          formatter = new Intl.NumberFormat(locale, options);
+        } catch (error) {
+          formatter = new Intl.NumberFormat('it-IT', { style: 'currency', currency: 'EUR', maximumFractionDigits: 0, useGrouping: 'always' });
+        }
+      }
+      if (symbolOut) {
+        var parts = formatter.formatToParts(0);
+        for (var i = 0; i < parts.length; i++) {
+          if (parts[i].type === 'currency') { symbolOut.textContent = parts[i].value; break; }
+        }
+      }
+    }
+    buildFormatter();
+    if (currencyField) {
+      currencyField.addEventListener('change', function () { buildFormatter(); update(); });
     }
 
     function value(name) {

@@ -1,12 +1,12 @@
-# Operatività immediata: in un giorno automatizziamo uno dei vostri processi più importanti, con una procedura che resta a voi e che potete usare da subito.
+# Operatività immediata: in un giorno si automatizza un processo importante, con una procedura che resta in azienda e si può usare da subito.
 
-Si parte da un lavoro che oggi ruba tempo: preparare un'offerta, raccogliere i documenti per un cliente, confrontare tre fornitori, smistare la posta della settimana. A fine giornata resta una procedura automatica, che l'azienda potrà usare in autonomia. I file restano in azienda, il gestionale non si tocca. Non è un corso e non è un software da installare: è l'automazione di un intero processo con l'intelligenza artificiale.
+Si parte da un lavoro che oggi ruba tempo: preparare un'offerta, raccogliere i documenti per un cliente, confrontare tre fornitori, smistare la posta della settimana. A fine giornata resta una procedura automatica, che l'azienda potrà usare in autonomia. I file restano in azienda. Sono escluse le integrazioni su misura con i software già in uso. Non è un corso e non è un software da installare: è l'automazione di un intero processo con l'intelligenza artificiale.
 
 ## Che cosa si ottiene.
 
 I corsi insegnano a usare l'intelligenza artificiale in generale; qui la si mette al lavoro su un compito concreto, con una procedura pronta e una persona che la usa dal giorno dopo.
 
-Qui, in un giorno e in azienda, si fa una cosa sola: si prende un lavoro ripetitivo, si scrive come va fatto e si lascia una procedura automatica già impostata sull'intelligenza artificiale, con l'abbonamento intestato all'azienda e i file che restano in azienda. Al gestionale non si collega nulla.
+Qui, in un giorno e in azienda, si fa una cosa sola: si prende un lavoro ripetitivo, si scrive come va fatto e si lascia una procedura automatica già impostata sull'intelligenza artificiale, con l'abbonamento intestato all'azienda e i file che restano in azienda. Sono escluse le integrazioni su misura con i software già in uso.
 
 Un lavoro per volta, portato fino in fondo.
 
@@ -96,7 +96,7 @@ Il pezzo, la partita o l'impianto è già deciso. Manca il fascicolo che accompa
 - Quando non è adatto: Collaudo, misure, HACCP in linea e disegno restano fuori: qui si prepara il fascicolo, non si certifica.
 - Nel modulo: spunta «Allegare schede, certificati e packing list a una spedizione o a un ordine già deciso.».
 
-### Un report dall'export del gestionale
+### Un report dal file Excel già esportato dal software aziendale
 
 Il titolare o il commerciale chiede come vanno clienti, commesse o vendite. I dati sono già nel gestionale, ma escono in Excel e il report si rifà a mano ogni mese.
 
@@ -171,7 +171,7 @@ L'ordine del cliente, la conferma d'ordine e il documento di trasporto dovrebber
 
 ## Cosa è compreso. Cosa è un secondo giorno.
 
-In un giorno in sede resta l'intelligenza artificiale intestata all'azienda e la procedura scritta. Da subito qualcuno la sa fare. Il gestionale non si tocca. Se va cambiato il modo di lavorare, è un secondo giorno, e si chiama consulenza.
+In un giorno in sede resta l'intelligenza artificiale intestata all'azienda e la procedura scritta. Da subito qualcuno la sa fare. Sono escluse le integrazioni su misura con i software già in uso. Se va cambiato il modo di lavorare, è un secondo giorno, e si chiama consulenza.
 
 - Compreso nella giornata: Le istruzioni, le cartelle, i controlli della procedura scelta.
 - Diventa consulenza: Cambiare il metodo perché il lavoro è un altro.
@@ -188,11 +188,11 @@ In un giorno in sede resta l'intelligenza artificiale intestata all'azienda e la
 
 **Per chi è.** Un'azienda con un lavoro che si ripete, una persona che lo fa oggi e i file che si possono copiare in una cartella.
 
-**Per chi non ancora.** Chi cerca un corso generale sull'intelligenza artificiale, o un sistema collegato al gestionale: sono altri servizi, e stanno in questa stessa pagina.
+**Per chi non è questo servizio.** Chi cerca un corso generale sull'intelligenza artificiale, o un sistema collegato al gestionale: sono altri servizi, e stanno in questa stessa pagina.
 
 ## Cosa serve prima.
 
-- Un abbonamento all'intelligenza artificiale intestata all'azienda. Quale ambiente è già stato provato si dice in proposta, non in questa pagina.
+- Un abbonamento all'intelligenza artificiale sull'account dell'azienda. Quale ambiente è già stato provato si dice in proposta, non in questa pagina.
 - Una persona interna con l'incarico di usarla dopo.
 - File che si possono copiare in una cartella, senza entrare nei sistemi dell'azienda.
 
@@ -205,7 +205,7 @@ In un giorno in sede resta l'intelligenza artificiale intestata all'azienda e la
 - Serve un collegamento permanente ai sistemi: quello è sviluppo software.
 - Serve cambiare il modo di lavorare o toccare il gestionale: quello è consulenza.
 
-## Cosa non è, detto una volta.
+## Cosa non è.
 
 - Non è un corso. I corsi restano, e insegnano a usare l'intelligenza artificiale in generale.
 - Non è un software da installare. Lo sviluppo tecnico resta per dopo, se un giorno serve un collegamento permanente.
@@ -241,9 +241,9 @@ Il messaggio arriva a una persona di Artik Lab, che lo legge e risponde di perso
 
 No. Un corso lascia modelli e criteri. Qui resta una procedura scritta, già impostata sull'intelligenza artificiale intestata all'azienda, con i file che restano in azienda.
 
-### Si tocca il gestionale?
+### Si fanno integrazioni su misura con i software già in uso?
 
-No. Se serve toccarlo, o cambiare il modo di lavorare, è consulenza: un secondo giorno, un altro prodotto.
+No. Sono escluse. Se serve collegare i sistemi già in azienda, è consulenza o sviluppo software: un altro lavoro.
 
 ### I dati escono dall'azienda?
 
@@ -261,7 +261,7 @@ No. È solo per capire se è adatto. Dopo: se ha senso, verifica e giornata; se 
 
 La proposta arriva dopo il parere. In questa pagina non c'è un listino.
 
-### Quanti lavori si possono fare?
+### Quante attività si possono fare, una dopo l'altra?
 
 Si decide con l'azienda, in base alle necessità. Un lavoro per volta, portato fino in fondo.
 

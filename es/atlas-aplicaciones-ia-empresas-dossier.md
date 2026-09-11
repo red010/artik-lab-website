@@ -1,10 +1,10 @@
-# Qué puede hacer la IA en una empresa. - dossier público para LLM
+# Qué se puede hacer con la IA en una empresa. - dossier público para LLM
 
-Este dossier público amplía la página HTML con el repertorio estructurado de aplicaciones IA, manteniendo anonimización y coherencia con el contenido visible.
+Este dossier público amplía la página HTML con el repertorio estructurado de las aplicaciones de IA, manteniendo el anonimato y la coherencia con los contenidos visibles.
 
 ## Definición
 
-Cada ficha describe un modelo de aplicación: qué datos o materiales entran, qué resultado puede producirse, qué valor empresarial puede generar y qué controles siguen siendo humanos. Artik Lab parte siempre de una primera conversación de diagnóstico y diseña soluciones sobre el contexto del cliente.
+Cada ficha describe un ejemplo de uso: qué datos o materiales entran, qué resultado se puede producir, qué valor de empresa puede generar y qué controles siguen siendo humanos. Artik Lab parte siempre de una primera conversación de diagnóstico y diseña soluciones específicas sobre el contexto del cliente.
 
 ## Dataset público
 
@@ -38,8 +38,8 @@ PDF, imágenes y formularios se convierten en texto, tablas y campos estructurad
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan pdf y adjuntos para producir base de datos estructurada y apoyar reducción de tiempos, con revisión humana recomendada.
 - ID: document-structure-extraction
 - Área: Documentos y conocimiento
-- Datos de entrada: PDF y adjuntos, escaneos e imágenes, formularios completados
-- Resultado: base de datos estructurada, informe operativo
+- Qué entra: PDF y adjuntos, escaneos e imágenes, formularios completados
+- Qué sale: base de datos estructurada, informe operativo
 - Valor: reducción de tiempos, menos errores, trazabilidad
 - Sectores: servicios profesionales, HSE, seguridad y servicios técnicos, manufactura
 - Servicios relacionados: Software técnico de IA
@@ -57,8 +57,8 @@ Informes, contratos, pliegos y procedimientos se comparan para detectar discrepa
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan pdf y adjuntos para producir informe operativo y apoyar menos errores, con revisión humana obligatoria.
 - ID: document-coherence-audit
 - Área: Documentos y conocimiento
-- Datos de entrada: PDF y adjuntos, documentación interna, contratos y políticas, licitaciones y pliegos
-- Resultado: informe operativo, mapa de riesgos
+- Qué entra: PDF y adjuntos, documentación interna, contratos y políticas, licitaciones y pliegos
+- Qué sale: informe operativo, mapa de riesgos
 - Valor: menos errores, reducción de riesgo, trazabilidad
 - Sectores: servicios profesionales, oficinas técnicas e ingeniería, HSE, seguridad y servicios técnicos
 - Servicios relacionados: Consultoría directiva de IA, Software técnico de IA
@@ -76,8 +76,8 @@ Manuales, procedimientos y bases de conocimiento se convierten en búsqueda sem�
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan documentación interna para producir búsqueda semántica y apoyar conocimiento transferible, con revisión humana recomendada.
 - ID: semantic-knowledge-search
 - Área: Documentos y conocimiento
-- Datos de entrada: documentación interna, PDF y adjuntos, manuales y material formativo
-- Resultado: búsqueda semántica, FAQ y respuestas
+- Qué entra: documentación interna, PDF y adjuntos, manuales y material formativo
+- Qué sale: búsqueda semántica, FAQ y respuestas
 - Valor: conocimiento transferible, decisiones más rápidas, servicio más uniforme
 - Sectores: funciones empresariales transversales, oficinas técnicas e ingeniería, formación y organizaciones intensivas en conocimiento
 - Servicios relacionados: Software técnico de IA
@@ -95,8 +95,8 @@ Transcripciones e hilos se limpian, resumen y convierten en decisiones, tareas, 
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan emails y tickets para producir digest accionable y apoyar trazabilidad, con revisión humana recomendada.
 - ID: meeting-email-decision-memory
 - Área: Procesos operativos
-- Datos de entrada: emails y tickets, transcripciones y notas, tickets y solicitudes
-- Resultado: digest accionable, roadmap y prioridades
+- Qué entra: emails y tickets, transcripciones y notas, tickets y solicitudes
+- Qué sale: digest accionable, roadmap y prioridades
 - Valor: trazabilidad, decisiones más rápidas, conocimiento transferible
 - Sectores: funciones empresariales transversales, servicios profesionales, oficinas técnicas e ingeniería
 - Servicios relacionados: Consultoría directiva de IA
@@ -114,8 +114,8 @@ Informes, cartas, contratos, FAQ y comunicaciones se producen desde datos y plan
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan base de datos estructurada para producir borradores controlados y apoyar reducción de tiempos, con revisión humana obligatoria.
 - ID: controlled-document-generation
 - Área: Documentos y conocimiento
-- Datos de entrada: base de datos estructurada, documentación interna, contratos y políticas
-- Resultado: borradores controlados, FAQ y respuestas
+- Qué entra: base de datos estructurada, documentación interna, contratos y políticas
+- Qué sale: borradores controlados, FAQ y respuestas
 - Valor: reducción de tiempos, menos errores, compliance más gobernable
 - Sectores: servicios profesionales, finanzas, control y servicios regulados, HSE, seguridad y servicios técnicos
 - Servicios relacionados: Consultoría directiva de IA
@@ -133,8 +133,8 @@ El trabajo real se reconstruye as-is, se lee por cuellos de botella y se transfo
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan transcripciones y notas para producir roadmap y prioridades y apoyar prioridades más claras, con revisión humana recomendada.
 - ID: process-mapping-redesign
 - Área: Procesos operativos
-- Datos de entrada: transcripciones y notas, logs y estados de proceso, emails y tickets, hojas de cálculo
-- Resultado: roadmap y prioridades, business case
+- Qué entra: transcripciones y notas, logs y estados de proceso, emails y tickets, hojas de cálculo
+- Qué sale: roadmap y prioridades, business case
 - Valor: prioridades más claras, decisiones más rápidas, costes evitados
 - Sectores: funciones empresariales transversales, manufactura, servicios profesionales
 - Servicios relacionados: Consultoría directiva de IA
@@ -152,8 +152,8 @@ Las comunicaciones entrantes se clasifican por urgencia, tema, responsable y acc
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan emails y tickets para producir digest accionable y apoyar reducción de tiempos, con revisión humana recomendada.
 - ID: email-ticket-triage
 - Área: Procesos operativos
-- Datos de entrada: emails y tickets, tickets y solicitudes, documentación interna
-- Resultado: digest accionable, borradores controlados, ranking de prioridad
+- Qué entra: emails y tickets, tickets y solicitudes, documentación interna
+- Qué sale: digest accionable, borradores controlados, ranking de prioridad
 - Valor: reducción de tiempos, servicio más uniforme, prioridades más claras
 - Sectores: funciones empresariales transversales, HSE, seguridad y servicios técnicos, oficinas técnicas e ingeniería
 - Servicios relacionados: Software técnico de IA
@@ -171,8 +171,8 @@ Disponibilidad, restricciones, competencias, ausencias y demanda se combinan en 
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan hojas de cálculo para producir plan y asignaciones y apoyar eficiencia productiva, con revisión humana obligatoria.
 - ID: scheduling-resource-allocation
 - Área: Procesos operativos
-- Datos de entrada: hojas de cálculo, ERP y sistemas de gestión, KPI y series históricas
-- Resultado: plan y asignaciones, dashboards y vistas filtrables
+- Qué entra: hojas de cálculo, ERP y sistemas de gestión, KPI y series históricas
+- Qué sale: plan y asignaciones, dashboards y vistas filtrables
 - Valor: eficiencia productiva, decisiones más rápidas, costes evitados
 - Sectores: manufactura, logística y supply chain, HSE, seguridad y servicios técnicos
 - Servicios relacionados: Software técnico de IA, Análisis de datos agéntico
@@ -190,8 +190,8 @@ Históricos de pedidos, ingresos, tickets o producción se convierten en previsi
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan transacciones y compras para producir previsión verificable y apoyar decisiones más rápidas, con revisión humana recomendada.
 - ID: demand-workload-forecast
 - Área: Procesos operativos
-- Datos de entrada: transacciones y compras, KPI y series históricas, datos de producción
-- Resultado: previsión verificable, dashboards y vistas filtrables
+- Qué entra: transacciones y compras, KPI y series históricas, datos de producción
+- Qué sale: previsión verificable, dashboards y vistas filtrables
 - Valor: decisiones más rápidas, costes evitados, eficiencia productiva
 - Sectores: retail y e-commerce, manufactura, logística y supply chain
 - Servicios relacionados: Análisis de datos agéntico
@@ -209,8 +209,8 @@ Reuniones y documentos de proyecto alimentan un dossier evolutivo con requisitos
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan transcripciones y notas para producir roadmap y prioridades y apoyar trazabilidad, con revisión humana obligatoria.
 - ID: project-requirements-memory
 - Área: Procesos operativos
-- Datos de entrada: transcripciones y notas, requisitos y especificaciones, documentación interna
-- Resultado: roadmap y prioridades, mapa de riesgos
+- Qué entra: transcripciones y notas, requisitos y especificaciones, documentación interna
+- Qué sale: roadmap y prioridades, mapa de riesgos
 - Valor: trazabilidad, menos errores, conocimiento transferible
 - Sectores: oficinas técnicas e ingeniería, servicios profesionales, manufactura
 - Servicios relacionados: Consultoría directiva de IA, Software técnico de IA
@@ -228,8 +228,8 @@ Textos no estructurados se agregan por temas, sentimiento, necesidades recurrent
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan feedback textual para producir informe operativo y apoyar servicio más uniforme, con revisión humana recomendada.
 - ID: customer-feedback-intelligence
 - Área: Cliente, marketing y ventas
-- Datos de entrada: feedback textual, tickets y solicitudes, fuentes públicas
-- Resultado: informe operativo, ranking de prioridad
+- Qué entra: feedback textual, tickets y solicitudes, fuentes públicas
+- Qué sale: informe operativo, ranking de prioridad
 - Valor: servicio más uniforme, valor comercial recuperado, prioridades más claras
 - Sectores: retail y e-commerce, funciones empresariales transversales, servicios profesionales
 - Servicios relacionados: Análisis de datos agéntico
@@ -247,8 +247,8 @@ Fuentes públicas y materiales se sintetizan en mapas de pain point, lenguaje, s
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan fuentes públicas para producir informe operativo y apoyar valor comercial recuperado, con revisión humana recomendada.
 - ID: market-customer-discovery
 - Área: Cliente, marketing y ventas
-- Datos de entrada: fuentes públicas, feedback textual, documentación interna
-- Resultado: informe operativo, business case
+- Qué entra: fuentes públicas, feedback textual, documentación interna
+- Qué sale: informe operativo, business case
 - Valor: valor comercial recuperado, prioridades más claras, decisiones más rápidas
 - Sectores: retail y e-commerce, servicios profesionales, entidades públicas y territorio
 - Servicios relacionados: Consultoría directiva de IA
@@ -266,8 +266,8 @@ Entrevistas, ejemplos aprobados y material comercial se convierten en guías y b
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan documentación interna para producir políticas y guardrails y apoyar reducción de tiempos, con revisión humana obligatoria.
 - ID: brand-voice-content-engine
 - Área: Cliente, marketing y ventas
-- Datos de entrada: documentación interna, feedback textual, fuentes públicas
-- Resultado: políticas y guardrails, borradores controlados
+- Qué entra: documentación interna, feedback textual, fuentes públicas
+- Qué sale: políticas y guardrails, borradores controlados
 - Valor: reducción de tiempos, valor comercial recuperado, trazabilidad
 - Sectores: funciones empresariales transversales, retail y e-commerce, entidades públicas y territorio
 - Servicios relacionados: Consultoría directiva de IA
@@ -285,8 +285,8 @@ Históricos de compra, catálogos e información competitiva ayudan a crear pitc
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan transacciones y compras para producir recomendaciones operativas y apoyar valor comercial recuperado, con revisión humana obligatoria.
 - ID: sales-pricing-recommendations
 - Área: Cliente, marketing y ventas
-- Datos de entrada: transacciones y compras, documentación interna, fuentes públicas
-- Resultado: recomendaciones operativas, business case
+- Qué entra: transacciones y compras, documentación interna, fuentes públicas
+- Qué sale: recomendaciones operativas, business case
 - Valor: valor comercial recuperado, decisiones más rápidas, prioridades más claras
 - Sectores: retail y e-commerce, funciones empresariales transversales
 - Servicios relacionados: Análisis de datos agéntico
@@ -304,8 +304,8 @@ Competencias, roles, objetivos futuros y tendencias se conectan para priorizar d
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan datos rr. hh. agregados para producir roadmap y prioridades y apoyar conocimiento transferible, con revisión humana obligatoria.
 - ID: hr-competence-map
 - Área: Personas y RR. HH.
-- Datos de entrada: datos RR. HH. agregados, documentación interna, fuentes públicas
-- Resultado: roadmap y prioridades, informe operativo
+- Qué entra: datos RR. HH. agregados, documentación interna, fuentes públicas
+- Qué sale: roadmap y prioridades, informe operativo
 - Valor: conocimiento transferible, prioridades más claras, formación más rápida
 - Sectores: funciones empresariales transversales, formación y organizaciones intensivas en conocimiento
 - Servicios relacionados: Consultoría directiva de IA
@@ -323,8 +323,8 @@ Job descriptions, candidaturas y materiales de entrada se estructuran para evalu
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan cv y candidaturas para producir informe operativo y apoyar reducción de tiempos, con revisión humana obligatoria.
 - ID: recruiting-onboarding-support
 - Área: Personas y RR. HH.
-- Datos de entrada: CV y candidaturas, datos RR. HH. agregados, manuales y material formativo
-- Resultado: informe operativo, borradores controlados
+- Qué entra: CV y candidaturas, datos RR. HH. agregados, manuales y material formativo
+- Qué sale: informe operativo, borradores controlados
 - Valor: reducción de tiempos, menos errores, formación más rápida
 - Sectores: funciones empresariales transversales, formación y organizaciones intensivas en conocimiento
 - Servicios relacionados: Consultoría directiva de IA
@@ -342,8 +342,8 @@ Políticas, beneficios, procedimientos y solicitudes recurrentes se convierten e
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan datos rr. hh. agregados para producir faq y respuestas y apoyar servicio más uniforme, con revisión humana obligatoria.
 - ID: hr-policy-requests
 - Área: Personas y RR. HH.
-- Datos de entrada: datos RR. HH. agregados, documentación interna, contratos y políticas
-- Resultado: FAQ y respuestas, borradores controlados
+- Qué entra: datos RR. HH. agregados, documentación interna, contratos y políticas
+- Qué sale: FAQ y respuestas, borradores controlados
 - Valor: servicio más uniforme, reducción de tiempos, compliance más gobernable
 - Sectores: funciones empresariales transversales
 - Servicios relacionados: Consultoría directiva de IA
@@ -361,8 +361,8 @@ Una necesidad técnica se transforma en requisitos, user stories, restricciones 
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan requisitos y especificaciones para producir roadmap y prioridades y apoyar menos errores, con revisión humana obligatoria.
 - ID: software-requirements-and-mvp
 - Área: Área técnica y software
-- Datos de entrada: requisitos y especificaciones, transcripciones y notas, documentación interna
-- Resultado: roadmap y prioridades, tests y checklist
+- Qué entra: requisitos y especificaciones, transcripciones y notas, documentación interna
+- Qué sale: roadmap y prioridades, tests y checklist
 - Valor: menos errores, trazabilidad, costes evitados
 - Sectores: oficinas técnicas e ingeniería, manufactura
 - Servicios relacionados: Software técnico de IA
@@ -380,8 +380,8 @@ Código existente y especificaciones guían generación controlada, tests, refac
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan código y repositorios para producir tests y checklist y apoyar reducción de tiempos, con revisión humana obligatoria.
 - ID: ai-assisted-coding-quality
 - Área: Área técnica y software
-- Datos de entrada: código y repositorios, requisitos y especificaciones
-- Resultado: tests y checklist, informe operativo
+- Qué entra: código y repositorios, requisitos y especificaciones
+- Qué sale: tests y checklist, informe operativo
 - Valor: reducción de tiempos, menos errores, trazabilidad
 - Sectores: oficinas técnicas e ingeniería
 - Servicios relacionados: Software técnico de IA
@@ -399,8 +399,8 @@ Licitaciones, pliegos, informes y fichas técnicas se analizan para requisitos c
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan licitaciones y pliegos para producir informe operativo y apoyar reducción de riesgo, con revisión humana obligatoria.
 - ID: technical-tender-documentation
 - Área: Área técnica y software
-- Datos de entrada: licitaciones y pliegos, documentación interna, planos técnicos
-- Resultado: informe operativo, borradores controlados, mapa de riesgos
+- Qué entra: licitaciones y pliegos, documentación interna, planos técnicos
+- Qué sale: informe operativo, borradores controlados, mapa de riesgos
 - Valor: reducción de riesgo, menos errores, trazabilidad
 - Sectores: oficinas técnicas e ingeniería, servicios profesionales, manufactura
 - Servicios relacionados: Software técnico de IA
@@ -418,8 +418,8 @@ Fotos, planos y renders se convierten en fichas, análisis de componentes, cotas
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan fotografías operativas para producir informe operativo y apoyar conocimiento transferible, con revisión humana obligatoria.
 - ID: visual-technical-analysis
 - Área: Área técnica y software
-- Datos de entrada: fotografías operativas, planos técnicos, documentación interna
-- Resultado: informe operativo, borradores controlados
+- Qué entra: fotografías operativas, planos técnicos, documentación interna
+- Qué sale: informe operativo, borradores controlados
 - Valor: conocimiento transferible, decisiones más rápidas, menos errores
 - Sectores: oficinas técnicas e ingeniería, manufactura
 - Servicios relacionados: Software técnico de IA
@@ -437,8 +437,8 @@ Actividades, datos y decisiones se clasifican en zonas de autonomía, supervisi�
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan documentación interna para producir políticas y guardrails y apoyar reducción de riesgo, con revisión humana obligatoria.
 - ID: ai-governance-policy-risk
 - Área: Gobernanza, compliance y riesgo
-- Datos de entrada: documentación interna, políticas y guías, transcripciones y notas
-- Resultado: políticas y guardrails, mapa de riesgos, roadmap y prioridades
+- Qué entra: documentación interna, políticas y guías, transcripciones y notas
+- Qué sale: políticas y guardrails, mapa de riesgos, roadmap y prioridades
 - Valor: reducción de riesgo, compliance más gobernable, prioridades más claras
 - Sectores: funciones empresariales transversales, finanzas, control y servicios regulados, HSE, seguridad y servicios técnicos
 - Servicios relacionados: Consultoría directiva de IA
@@ -456,8 +456,8 @@ Contratos, informativas, registros, procedimientos y cartas se preparan como apo
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan contratos y políticas para producir borradores controlados y apoyar reducción de tiempos, con revisión humana obligatoria.
 - ID: compliance-legal-privacy-drafting
 - Área: Gobernanza, compliance y riesgo
-- Datos de entrada: contratos y políticas, documentación interna, formularios completados
-- Resultado: borradores controlados, mapa de riesgos
+- Qué entra: contratos y políticas, documentación interna, formularios completados
+- Qué sale: borradores controlados, mapa de riesgos
 - Valor: reducción de tiempos, compliance más gobernable, reducción de riesgo
 - Sectores: servicios profesionales, finanzas, control y servicios regulados, funciones empresariales transversales
 - Servicios relacionados: Consultoría directiva de IA
@@ -475,8 +475,8 @@ Chatbots y asistentes se prueban contra manipulación, fuga de datos e instrucci
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan documentación interna para producir tests y checklist y apoyar reducción de riesgo, con revisión humana obligatoria.
 - ID: ai-system-security-tests
 - Área: Gobernanza, compliance y riesgo
-- Datos de entrada: documentación interna, requisitos y especificaciones, políticas y guías
-- Resultado: tests y checklist, políticas y guardrails, informe operativo
+- Qué entra: documentación interna, requisitos y especificaciones, políticas y guías
+- Qué sale: tests y checklist, políticas y guardrails, informe operativo
 - Valor: reducción de riesgo, compliance más gobernable, servicio más uniforme
 - Sectores: oficinas técnicas e ingeniería, funciones empresariales transversales
 - Servicios relacionados: Software técnico de IA
@@ -494,8 +494,8 @@ Fotos de inspección o área se leen para detectar no conformidades, riesgos y m
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan fotografías operativas para producir informe operativo y apoyar reducción de riesgo, con revisión humana obligatoria.
 - ID: hse-visual-inspection
 - Área: Producción, calidad y mantenimiento
-- Datos de entrada: fotografías operativas, documentación interna
-- Resultado: informe operativo, mapa de riesgos
+- Qué entra: fotografías operativas, documentación interna
+- Qué sale: informe operativo, mapa de riesgos
 - Valor: reducción de riesgo, decisiones más rápidas, compliance más gobernable
 - Sectores: HSE, seguridad y servicios técnicos, manufactura
 - Servicios relacionados: Software técnico de IA
@@ -513,8 +513,8 @@ Programas cliente, ERP, ciclos, no conformidades y costes históricos apoyan pri
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan erp y sistemas de gestión para producir plan y asignaciones y apoyar eficiencia productiva, con revisión humana obligatoria.
 - ID: production-planning-quality
 - Área: Producción, calidad y mantenimiento
-- Datos de entrada: ERP y sistemas de gestión, datos de producción, hojas de cálculo
-- Resultado: plan y asignaciones, informe operativo, recomendaciones operativas
+- Qué entra: ERP y sistemas de gestión, datos de producción, hojas de cálculo
+- Qué sale: plan y asignaciones, informe operativo, recomendaciones operativas
 - Valor: eficiencia productiva, menos errores, costes evitados
 - Sectores: manufactura, logística y supply chain
 - Servicios relacionados: Software técnico de IA, Análisis de datos agéntico
@@ -532,8 +532,8 @@ Histórico de fallos, sensores e intervenciones se convierten en prioridades y a
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan sensores y telemetría para producir alertas y umbrales y apoyar eficiencia productiva, con revisión humana obligatoria.
 - ID: maintenance-and-asset-risk
 - Área: Producción, calidad y mantenimiento
-- Datos de entrada: sensores y telemetría, datos de producción, logs y estados de proceso
-- Resultado: alertas y umbrales, ranking de prioridad, dashboards y vistas filtrables
+- Qué entra: sensores y telemetría, datos de producción, logs y estados de proceso
+- Qué sale: alertas y umbrales, ranking de prioridad, dashboards y vistas filtrables
 - Valor: eficiencia productiva, costes evitados, reducción de riesgo
 - Sectores: manufactura, logística y supply chain
 - Servicios relacionados: Análisis de datos agéntico
@@ -551,8 +551,8 @@ Manuales, slides y documentos dispersos se convierten en syllabus, quiz y casos 
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan manuales y material formativo para producir faq y respuestas y apoyar formación más rápida, con revisión humana recomendada.
 - ID: internal-training-assets
 - Área: Formación y memoria interna
-- Datos de entrada: manuales y material formativo, documentación interna, transcripciones y notas
-- Resultado: FAQ y respuestas, borradores controlados
+- Qué entra: manuales y material formativo, documentación interna, transcripciones y notas
+- Qué sale: FAQ y respuestas, borradores controlados
 - Valor: formación más rápida, conocimiento transferible, servicio más uniforme
 - Sectores: formación y organizaciones intensivas en conocimiento, funciones empresariales transversales
 - Servicios relacionados: Consultoría directiva de IA
@@ -570,8 +570,8 @@ La documentación interna alimenta asistentes Q&A, incluso vocales, con fuentes 
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan documentación interna para producir búsqueda semántica y apoyar conocimiento transferible, con revisión humana obligatoria.
 - ID: company-memory-assistants
 - Área: Formación y memoria interna
-- Datos de entrada: documentación interna, manuales y material formativo, políticas y guías
-- Resultado: búsqueda semántica, FAQ y respuestas, políticas y guardrails
+- Qué entra: documentación interna, manuales y material formativo, políticas y guías
+- Qué sale: búsqueda semántica, FAQ y respuestas, políticas y guardrails
 - Valor: conocimiento transferible, servicio más uniforme, reducción de tiempos
 - Sectores: funciones empresariales transversales, manufactura, formación y organizaciones intensivas en conocimiento
 - Servicios relacionados: Software técnico de IA
@@ -589,8 +589,8 @@ Datos, KPI y materiales heterogéneos se transforman en informes narrativos, inf
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan kpi y series históricas para producir informe operativo y apoyar decisiones más rápidas, con revisión humana recomendada.
 - ID: executive-reports-visual-assets
 - Área: Herramientas transversales
-- Datos de entrada: KPI y series históricas, hojas de cálculo, documentación interna
-- Resultado: informe operativo, dashboards y vistas filtrables, borradores controlados
+- Qué entra: KPI y series históricas, hojas de cálculo, documentación interna
+- Qué sale: informe operativo, dashboards y vistas filtrables, borradores controlados
 - Valor: decisiones más rápidas, trazabilidad, valor comercial recuperado
 - Sectores: funciones empresariales transversales
 - Servicios relacionados: Consultoría directiva de IA
@@ -608,8 +608,8 @@ Series temporales y sensores industriales se usan para alertas, degradación y m
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan sensores y telemetría para producir alertas y umbrales y apoyar eficiencia productiva, con revisión humana obligatoria.
 - ID: predictive-maintenance-anomalies
 - Área: Data science y decisiones
-- Datos de entrada: sensores y telemetría, datos de producción, KPI y series históricas
-- Resultado: alertas y umbrales, previsión verificable, dashboards y vistas filtrables
+- Qué entra: sensores y telemetría, datos de producción, KPI y series históricas
+- Qué sale: alertas y umbrales, previsión verificable, dashboards y vistas filtrables
 - Valor: eficiencia productiva, costes evitados, reducción de riesgo
 - Sectores: manufactura, logística y supply chain
 - Servicios relacionados: Análisis de datos agéntico, Software técnico de IA
@@ -627,8 +627,8 @@ Históricos transaccionales y de comportamiento se convierten en segmentos, ries
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan transacciones y compras para producir ranking de prioridad y apoyar valor comercial recuperado, con revisión humana obligatoria.
 - ID: customer-segmentation-churn-crosssell
 - Área: Data science y decisiones
-- Datos de entrada: transacciones y compras, feedback textual, KPI y series históricas
-- Resultado: ranking de prioridad, recomendaciones operativas, business case
+- Qué entra: transacciones y compras, feedback textual, KPI y series históricas
+- Qué sale: ranking de prioridad, recomendaciones operativas, business case
 - Valor: valor comercial recuperado, prioridades más claras, servicio más uniforme
 - Sectores: retail y e-commerce, finanzas, control y servicios regulados
 - Servicios relacionados: Análisis de datos agéntico
@@ -646,8 +646,8 @@ Telemetría, consumos, calidad y parámetros máquina revelan perfiles eficiente
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan sensores y telemetría para producir dashboards y vistas filtrables y apoyar eficiencia productiva, con revisión humana obligatoria.
 - ID: energy-line-optimization
 - Área: Data science y decisiones
-- Datos de entrada: sensores y telemetría, datos de producción, KPI y series históricas
-- Resultado: dashboards y vistas filtrables, recomendaciones operativas, business case
+- Qué entra: sensores y telemetría, datos de producción, KPI y series históricas
+- Qué sale: dashboards y vistas filtrables, recomendaciones operativas, business case
 - Valor: eficiencia productiva, costes evitados, decisiones más rápidas
 - Sectores: manufactura
 - Servicios relacionados: Análisis de datos agéntico
@@ -665,8 +665,8 @@ Datos fiscales, territoriales o comerciales agregados se convierten en mapas, cl
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan transacciones y compras para producir dashboards y vistas filtrables y apoyar decisiones más rápidas, con revisión humana recomendada.
 - ID: territorial-profitability-analytics
 - Área: Data science y decisiones
-- Datos de entrada: transacciones y compras, fuentes públicas, KPI y series históricas
-- Resultado: dashboards y vistas filtrables, informe operativo, business case
+- Qué entra: transacciones y compras, fuentes públicas, KPI y series históricas
+- Qué sale: dashboards y vistas filtrables, informe operativo, business case
 - Valor: decisiones más rápidas, prioridades más claras, valor comercial recuperado
 - Sectores: entidades públicas y territorio, retail y e-commerce, finanzas, control y servicios regulados
 - Servicios relacionados: Análisis de datos agéntico
@@ -684,8 +684,8 @@ El primer valor puede ser un veredicto negativo: el dato disponible aún no cont
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan kpi y series históricas para producir informe operativo y apoyar costes evitados, con revisión humana recomendada.
 - ID: data-quality-go-no-go
 - Área: Data science y decisiones
-- Datos de entrada: KPI y series históricas, transacciones y compras, logs y estados de proceso
-- Resultado: informe operativo, business case, roadmap y prioridades
+- Qué entra: KPI y series históricas, transacciones y compras, logs y estados de proceso
+- Qué sale: informe operativo, business case, roadmap y prioridades
 - Valor: costes evitados, prioridades más claras, trazabilidad
 - Sectores: funciones empresariales transversales
 - Servicios relacionados: Análisis de datos agéntico
@@ -703,8 +703,8 @@ Casos, materiales y restricciones se exploran para generar hipótesis, escenario
 - Ejemplo operativo: Cuando el proceso muestra una necesidad similar, se usan documentación interna para producir informe operativo y apoyar valor comercial recuperado, con revisión humana recomendada.
 - ID: creative-rnd-discovery
 - Área: Herramientas transversales
-- Datos de entrada: documentación interna, feedback textual, fuentes públicas
-- Resultado: informe operativo, recomendaciones operativas, borradores controlados
+- Qué entra: documentación interna, feedback textual, fuentes públicas
+- Qué sale: informe operativo, recomendaciones operativas, borradores controlados
 - Valor: valor comercial recuperado, prioridades más claras, decisiones más rápidas
 - Sectores: funciones empresariales transversales
 - Servicios relacionados: Consultoría directiva de IA
@@ -715,12 +715,12 @@ Casos, materiales y restricciones se exploran para generar hipótesis, escenario
 - Riesgo: bajo
 - Privacidad y control: Usar datos autorizados, minimizar información personal y mantener revisión humana sobre outputs relevantes.
 
-## Del mapa al proceso real: se empieza con una conversación.
+## Para pasar del ejemplo al caso de la empresa se empieza por una conversación.
 
-La página orienta. La solución nace solo después de ver sector, restricciones, datos disponibles, responsabilidades y decisión a mejorar.
+La página sirve para orientarse. La solución nace solo después de haber visto sector, restricciones, datos disponibles, responsabilidades y la decisión que hay que mejorar.
 
-1. **Contexto preliminar**: Antes del encuentro se prepara una primera lectura del contexto público y de los materiales compartidos.
-2. **Conversación estructurada**: Durante la conversación se identifican dos o tres procesos de alto potencial y se aclaran restricciones, riesgos y urgencias.
+1. **Cuadro preliminar**: Antes del encuentro se prepara una lectura del contexto público y de los materiales que se hayan compartido.
+2. **Conversación estructurada**: Durante la llamada se localizan dos o tres procesos de alto potencial y se aclaran restricciones, riesgos y urgencias.
 3. **Propuesta dirigida**: El resultado es un recorrido calibrado: formación, consultoría, análisis de datos o prototipo técnico, con resultados esperados y criterios de control.
 
 ## Preguntas frecuentes

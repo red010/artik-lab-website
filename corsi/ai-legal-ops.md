@@ -86,4 +86,10 @@ Sì, se il lavoro è scomposto in passaggi verificabili.
 
 Con anonimizzazione, minimizzazione e autorizzazione preventiva.
 
+## Corsi collegati
+
+- [AI per acquisti e conoscenza dei fornitori](https://ar-tik.com/corsi/ai-procurement.md): Corso per rendere più ordinati ricerca fornitori, confronto e documentazione acquisti, con criteri di scelta espliciti.
+- [AI per assistenza clienti e classificazione delle richieste](https://ar-tik.com/corsi/ai-customer-service.md): Corso per rendere più rapida e uniforme la gestione delle richieste senza perdere controllo su tono, escalation e qualità.
+- [AI per qualità e non conformità](https://ar-tik.com/corsi/ai-quality-management.md): Corso per migliorare analisi, classificazione e documentazione qualità mantenendo controllo formale sugli output.
+
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)

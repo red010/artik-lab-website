@@ -107,7 +107,7 @@ Il corso chiarisce la distinzione tra dati pubblici, interni, riservati e sensib
 
 ## Relazione con altri percorsi Artik Lab
 
-- [AI Workflow Redesign Lab](https://ar-tik.com/corsi/workflow-redesign.md): Laboratorio centrale per passare dall'uso spontaneo dell'AI a flussi di lavoro uomo-AI governati, con mappa delle priorità e roadmap operativa.
+- [AI Workflow Redesign Lab](https://ar-tik.com/corsi/workflow-redesign.md): Laboratorio per passare dall'uso spontaneo dell'AI a flussi di lavoro con persona e AI, regole e controlli, più una mappa delle priorità e un piano operativo.
 - [AI Governance operativa](https://ar-tik.com/corsi/ai-governance.md): Corso per trasformare policy, rischi e requisiti di controllo in pratiche applicabili nel lavoro quotidiano.
 - [AI Adoption Manager / AI Champions](https://ar-tik.com/corsi/ai-adoption-manager.md): Percorso per creare referenti interni che raccolgono bisogni, supportano i colleghi e collegano sperimentazioni locali alla governance aziendale.
 - [AI Business Case & ROI Sprint](https://ar-tik.com/corsi/ai-business-case-roi.md): Sprint per passare da entusiasmo o intuizione a una decisione economica: problema, valore, costi, rischi, metriche e raccomandazione.

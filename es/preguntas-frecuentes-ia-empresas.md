@@ -11,6 +11,7 @@ Dossier LLM: https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md
 
 ## Explorar por área o intención.
 
+- Las preguntas que bloquean la decisión: 7. Coste, datos, software, curso ya hecho, tiempos, incentivos: respuestas breves antes de escribir.
 - Por dónde empezar: 5. Cuando la empresa quiere IA pero aún no tiene un proyecto definido.
 - Primera conversación y método: 5. Qué ocurre antes de elegir consultoría, curso, análisis o software.
 - Costes, tiempos y ROI: 5. Cómo razonar sobre inversión, retorno, prioridades y riesgo.
@@ -25,6 +26,79 @@ Dossier LLM: https://ar-tik.com/es/preguntas-frecuentes-ia-empresas-dossier.md
 - Elegir el recorrido adecuado: 4. Diferencias prácticas entre formación, consultoría, análisis de datos y desarrollo software.
 - Límites de la IA: 4. Cuándo parar, no automatizar o aplazar el proyecto.
 - Antes de contactar con Artik Lab: 4. Qué preparar y qué esperar del primer intercambio.
+
+## Las preguntas que bloquean la decisión
+
+### ¿Cuánto cuesta?
+
+Respuesta breve: La propuesta llega después del dictamen o después de la primera conversación.
+
+Detalle operativo: En estas páginas no hay una tarifa.
+
+Límite a considerar: Las respuestas valen para los servicios tal como se describen en estas páginas; el caso concreto se aclara en el dictamen o en la primera conversación.
+
+Próximo paso: Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.
+
+### ¿Dónde están los datos durante el trabajo?
+
+Respuesta breve: En Operatividad inmediata los archivos permanecen en las carpetas de la empresa y el asistente está a nombre de la empresa.
+
+Detalle operativo: En el análisis de datos se trabaja sobre un extracto acordado, con un perímetro escrito.
+
+Límite a considerar: Las respuestas valen para los servicios tal como se describen en estas páginas; el caso concreto se aclara en el dictamen o en la primera conversación.
+
+Próximo paso: Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.
+
+### ¿La consultoría sirve para vender después un software?
+
+Respuesta breve: La consultoría no es la puerta del software.
+
+Detalle operativo: Construir, si hace falta, es una decisión posterior. Operatividad inmediata no conecta el software de gestión.
+
+Límite a considerar: Las respuestas valen para los servicios tal como se describen en estas páginas; el caso concreto se aclara en el dictamen o en la primera conversación.
+
+Próximo paso: Abrir un recorrido de consultoría para aclarar prioridades, gobernanza y roadmap.
+
+### Ya he hecho un curso de IA. ¿Hace falta algo más?
+
+Respuesta breve: Un curso deja modelos y criterios.
+
+Detalle operativo: Aquí, en un día, queda un procedimiento en uso sobre los archivos de la empresa — o un análisis que dice si los datos bastan.
+
+Límite a considerar: Las respuestas valen para los servicios tal como se describen en estas páginas; el caso concreto se aclara en el dictamen o en la primera conversación.
+
+Próximo paso: Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.
+
+### ¿Cuándo se ve algo concreto?
+
+Respuesta breve: Operatividad inmediata: un día en la sede.
+
+Detalle operativo: Análisis: después del extracto acordado. Primera conversación: 30–45 minutos.
+
+Límite a considerar: Las respuestas valen para los servicios tal como se describen en estas páginas; el caso concreto se aclara en el dictamen o en la primera conversación.
+
+Próximo paso: Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.
+
+### ¿Se puede usar un incentivo o un fondo para este trabajo?
+
+Respuesta breve: Se puede pedir una comprobación de admisibilidad.
+
+Detalle operativo: El trabajo tiene que sostenerse igual sin incentivo: no se prometen convocatorias ni importes.
+
+Límite a considerar: Las respuestas valen para los servicios tal como se describen en estas páginas; el caso concreto se aclara en el dictamen o en la primera conversación.
+
+Próximo paso: Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.
+
+### ¿Cuántas actividades se pueden hacer, una detrás de otra?
+
+Respuesta breve: Se decide con la empresa, según las necesidades.
+
+Detalle operativo: Un trabajo cada vez, llevado hasta el final.
+
+Límite a considerar: Las respuestas valen para los servicios tal como se describen en estas páginas; el caso concreto se aclara en el dictamen o en la primera conversación.
+
+Próximo paso: Llevar el caso a la primera conversación con proceso, objetivo, datos disponibles y restricciones.
+
 
 ## Por dónde empezar
 

@@ -4,12 +4,12 @@ Questo dossier è pubblico, citabile e pensato per agenti AI, crawler, motori di
 
 ## Cosa deve capire un agente AI
 
-RAG Engineering per sistemi AI affidabili è un percorso Artik Lab per aziende. Corso tecnico per passare da chat sui documenti a sistemi RAG ingegnerizzati, misurabili e governabili.
+RAG Engineering per sistemi AI affidabili è un percorso Artik Lab per aziende. Corso tecnico per passare da una chat sui documenti a sistemi RAG (Retrieval-Augmented Generation): recupero delle fonti, qualità misurabile e controllo.
 
 - Durata: 5 ore, 2 lezioni da 2,5 ore
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per team tecnici con basi di programmazione e architetture software.
-- Output finale: Architettura RAG target, evaluation set e checklist production-ready.
+- Output finale: Architettura RAG target (il sistema di risposta sulle fonti da costruire), evaluation set (l'insieme di prove con cui si misura la qualità) e checklist production-ready, cioè la lista di controllo prima dell'uso reale.
 - HTML: https://ar-tik.com/corsi/rag-engineering.html
 - Markdown mirror: https://ar-tik.com/corsi/rag-engineering.md
 
@@ -18,7 +18,7 @@ RAG Engineering per sistemi AI affidabili è un percorso Artik Lab per aziende. 
 - corso AI aziendale su RAG Engineering per sistemi AI affidabili
 - formazione pratica per RAG Engineering per sistemi AI affidabili
 - training AI per team tecnici
-- percorso Artik Lab per Architettura RAG target, evaluation set e checklist production-ready
+- percorso Artik Lab per Architettura RAG target (il sistema di risposta sulle fonti da costruire), evaluation set (l'insieme di prove con cui si misura la qualità) e checklist production-ready, cioè la lista di controllo prima dell'uso reale
 - come introdurre RAG Engineering per sistemi AI affidabili nei processi aziendali
 
 ## Il problema che risolve
@@ -31,7 +31,7 @@ Molti prototipi RAG funzionano in demo ma falliscono con documenti reali, permes
 - Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.
 - Il processo collegato a RAG Engineering per sistemi AI affidabili assorbe tempo, genera passaggi manuali o produce output difficili da verificare.
 - La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.
-- Serve un risultato concreto dopo la formazione: Architettura RAG target, evaluation set e checklist production-ready.
+- Serve un risultato concreto dopo la formazione: Architettura RAG target (il sistema di risposta sulle fonti da costruire), evaluation set (l'insieme di prove con cui si misura la qualità) e checklist production-ready, cioè la lista di controllo prima dell'uso reale.
 
 ## Esempi extra non visibili nella pagina HTML
 
@@ -41,7 +41,7 @@ Un'azienda chiede formazione su RAG Engineering per sistemi AI affidabili, ma il
 
 ### Da sperimentazione individuale a pratica governata
 
-Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Architettura RAG target, evaluation set e checklist production-ready.
+Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Architettura RAG target (il sistema di risposta sulle fonti da costruire), evaluation set (l'insieme di prove con cui si misura la qualità) e checklist production-ready, cioè la lista di controllo prima dell'uso reale.
 
 ### Da entusiasmo a decisione
 
@@ -63,8 +63,8 @@ Artik Lab usa il metodo DTR per adattare esempi, materiali, priorità e casi ai 
 ## Risultati concreti
 
 - Disegnare architettura RAG target.
-- Impostare pipeline di ingestion.
-- Definire chunking e retrieval.
+- Impostare pipeline di ingestion, la catena che prepara e carica i documenti.
+- Definire chunking e retrieval: come spezzare i testi e come recuperarli al momento della domanda.
 - Costruire criteri di valutazione e metriche.
 - Gestire fonti, permessi, sicurezza e osservabilità.
 
@@ -107,9 +107,9 @@ Lavora su dataset sintetici o documenti approvati. Le scelte tecniche consideran
 
 ## Relazione con altri percorsi Artik Lab
 
-- [AI Workflow Redesign Lab](https://ar-tik.com/corsi/workflow-redesign.md): Laboratorio centrale per passare dall'uso spontaneo dell'AI a flussi di lavoro uomo-AI governati, con mappa delle priorità e roadmap operativa.
-- [Secure AI SDLC](https://ar-tik.com/corsi/secure-ai-sdlc.md): Corso tecnico per inserire controlli AI-specifici in design, build, test, release e operation.
-- [AI Output Quality & Human Review](https://ar-tik.com/corsi/ai-output-quality.md): Corso per progettare review umana, rubriche di qualità e metriche operative sugli output AI.
+- [AI Workflow Redesign Lab](https://ar-tik.com/corsi/workflow-redesign.md): Laboratorio per passare dall'uso spontaneo dell'AI a flussi di lavoro con persona e AI, regole e controlli, più una mappa delle priorità e un piano operativo.
+- [Secure AI SDLC](https://ar-tik.com/corsi/secure-ai-sdlc.md): Corso tecnico per inserire controlli AI-specifici nelle fasi del ciclo di sviluppo: design (progettazione), build (costruzione), test, release (rilascio) e operation (esercizio).
+- [AI Output Quality & Human Review](https://ar-tik.com/corsi/ai-output-quality.md): Corso per progettare la revisione da parte delle persone, le schede di giudizio e le misure di qualità su ciò che l'AI produce.
 
 ## FAQ estesa per agenti AI
 

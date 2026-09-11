@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "course": {
@@ -12,7 +12,7 @@
     "featured": false,
     "title": "Secure AI SDLC",
     "subtitle": "Integrare sicurezza, privacy e controlli tecnici nel ciclo di sviluppo software per applicazioni basate su AI.",
-    "summary": "Corso tecnico per inserire controlli AI-specifici in design, build, test, release e operation.",
+    "summary": "Corso tecnico per inserire controlli AI-specifici nelle fasi del ciclo di sviluppo: design (progettazione), build (costruzione), test, release (rilascio) e operation (esercizio).",
     "duration": "4-6 ore, personalizzabili",
     "mode": "Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.",
     "profile": "technical",
@@ -23,7 +23,7 @@
     "chooseIf": "Quando un'organizzazione sta sviluppando applicazioni AI e vuole evitare che sicurezza e governance arrivino solo alla fine.",
     "outcomes": [
       "Definire controlli SDLC AI-specifici.",
-      "Costruire threat model.",
+      "Costruire il threat model, la mappa delle minacce.",
       "Scrivere secure design checklist.",
       "Impostare policy su dati e istruzioni.",
       "Stabilire test di sicurezza e criteri di rilascio."
@@ -80,12 +80,12 @@
         "answer": "No, i controlli si adattano allo stack."
       }
     ],
-    "output": "Threat model AI e checklist Secure AI SDLC.",
+    "output": "Threat model AI, cioè la mappa delle minacce, e checklist Secure AI SDLC.",
     "searchIntents": [
       "corso AI aziendale su Secure AI SDLC",
       "formazione pratica per Secure AI SDLC",
       "training AI per team tecnici",
-      "percorso Artik Lab per Threat model AI e checklist Secure AI SDLC",
+      "percorso Artik Lab per Threat model AI, cioè la mappa delle minacce, e checklist Secure AI SDLC",
       "come introdurre Secure AI SDLC nei processi aziendali"
     ],
     "needSignals": [
@@ -93,7 +93,7 @@
       "Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.",
       "Il processo collegato a Secure AI SDLC assorbe tempo, genera passaggi manuali o produce output difficili da verificare.",
       "La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.",
-      "Serve un risultato concreto dopo la formazione: Threat model AI e checklist Secure AI SDLC."
+      "Serve un risultato concreto dopo la formazione: Threat model AI, cioè la mappa delle minacce, e checklist Secure AI SDLC."
     ],
     "extraExamples": [
       {
@@ -102,7 +102,7 @@
       },
       {
         "title": "Da sperimentazione individuale a pratica governata",
-        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Threat model AI e checklist Secure AI SDLC."
+        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Threat model AI, cioè la mappa delle minacce, e checklist Secure AI SDLC."
       },
       {
         "title": "Da entusiasmo a decisione",

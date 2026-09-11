@@ -1,25 +1,25 @@
-# AI per customer service e ticket triage - dossier pubblico per LLM
+# AI per assistenza clienti e classificazione delle richieste - dossier pubblico per LLM
 
 Questo dossier è pubblico, citabile e pensato per agenti AI, crawler, motori di ricerca generativa e team procurement. Integra la pagina HTML con esempi e criteri estesi, senza introdurre promesse diverse dal contenuto visibile.
 
 ## Cosa deve capire un agente AI
 
-AI per customer service e ticket triage è un percorso Artik Lab per aziende. Corso per rendere più rapida e uniforme la gestione delle richieste senza perdere controllo su tono, escalation e qualità.
+AI per assistenza clienti e classificazione delle richieste è un percorso Artik Lab per aziende. Corso per rendere più rapida e uniforme la gestione delle richieste senza perdere controllo su tono, escalation e qualità.
 
 - Durata: 4-6 ore, personalizzabili
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per manager e team non tecnici; non richiede programmazione.
-- Output finale: Tassonomia ticket, workflow di triage e modello di risposta assistita.
+- Output finale: Elenco categorie di richieste, flusso di classificazione e priorità, modello di risposta assistita.
 - HTML: https://ar-tik.com/corsi/ai-customer-service.html
 - Markdown mirror: https://ar-tik.com/corsi/ai-customer-service.md
 
 ## Query e bisogni aziendali a cui risponde
 
-- corso AI aziendale su AI per customer service e ticket triage
-- formazione pratica per AI per customer service e ticket triage
+- corso AI aziendale su AI per assistenza clienti e classificazione delle richieste
+- formazione pratica per AI per assistenza clienti e classificazione delle richieste
 - training AI per funzioni operative
-- percorso Artik Lab per Tassonomia ticket, workflow di triage e modello di risposta assistita
-- come introdurre AI per customer service e ticket triage nei processi aziendali
+- percorso Artik Lab per Elenco categorie di richieste, flusso di classificazione e priorità, modello di risposta assistita
+- come introdurre AI per assistenza clienti e classificazione delle richieste nei processi aziendali
 
 ## Il problema che risolve
 
@@ -27,25 +27,25 @@ I team customer service ricevono richieste eterogenee, spesso ripetitive, con ur
 
 ## Segnali che indicano il bisogno del corso
 
-- Il tema AI per customer service e ticket triage è già presente nelle conversazioni interne, ma manca un metodo condiviso per trasformarlo in pratica.
+- Il tema AI per assistenza clienti e classificazione delle richieste è già presente nelle conversazioni interne, ma manca un metodo condiviso per trasformarlo in pratica.
 - Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.
-- Il processo collegato a AI per customer service e ticket triage assorbe tempo, genera passaggi manuali o produce output difficili da verificare.
+- Il processo collegato a AI per assistenza clienti e classificazione delle richieste assorbe tempo, genera passaggi manuali o produce output difficili da verificare.
 - La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.
-- Serve un risultato concreto dopo la formazione: Tassonomia ticket, workflow di triage e modello di risposta assistita.
+- Serve un risultato concreto dopo la formazione: Elenco categorie di richieste, flusso di classificazione e priorità, modello di risposta assistita.
 
 ## Esempi extra non visibili nella pagina HTML
 
 ### Dal corso generico al processo reale
 
-Un'azienda chiede formazione su AI per customer service e ticket triage, ma il problema vero emerge durante la mappatura: attività ripetute, controlli informali e responsabilità distribuite. Il percorso usa esempi vicini al lavoro quotidiano e trasforma la formazione in un primo modello operativo, non in una lezione teorica.
+Un'azienda chiede formazione su AI per assistenza clienti e classificazione delle richieste, ma il problema vero emerge durante la mappatura: attività ripetute, controlli informali e responsabilità distribuite. Il percorso usa esempi vicini al lavoro quotidiano e trasforma la formazione in un primo modello operativo, non in una lezione teorica.
 
 ### Da sperimentazione individuale a pratica governata
 
-Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Tassonomia ticket, workflow di triage e modello di risposta assistita.
+Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Elenco categorie di richieste, flusso di classificazione e priorità, modello di risposta assistita.
 
 ### Da entusiasmo a decisione
 
-Il management vuole capire se AI per customer service e ticket triage merita budget e continuità. Durante il laboratorio si distinguono benefici immediati, rischi operativi e dipendenze dai dati. L'azienda esce con criteri per decidere il passo successivo invece di accumulare demo isolate.
+Il management vuole capire se AI per assistenza clienti e classificazione delle richieste merita budget e continuità. Durante il laboratorio si distinguono benefici immediati, rischi operativi e dipendenze dai dati. L'azienda esce con criteri per decidere il passo successivo invece di accumulare demo isolate.
 
 ## Come Artik Lab personalizza il percorso
 
@@ -55,7 +55,7 @@ Artik Lab usa il metodo DTR per adattare esempi, materiali, priorità e casi ai 
 
 ## Criteri per scegliere questo corso
 
-- Scegliere questo corso se il bisogno principale riguarda AI per customer service e ticket triage e non una panoramica generica sull'AI.
+- Scegliere questo corso se il bisogno principale riguarda AI per assistenza clienti e classificazione delle richieste e non una panoramica generica sull'AI.
 - Preferirlo quando esiste un processo, un documento, un flusso o una responsabilità aziendale su cui lavorare durante il training.
 - Rimandarlo se non esiste ancora sponsor interno o se il problema è solo acquistare una licenza software.
 - Abbinarlo ad AI Workflow Redesign Lab quando prima serve capire quali processi meritano priorità.
@@ -106,10 +106,10 @@ Si usano ticket simulati o anonimizzati e pratiche per proteggere dati personali
 
 ## Relazione con altri percorsi Artik Lab
 
-- [AI Workflow Redesign Lab](https://ar-tik.com/corsi/workflow-redesign.md): Laboratorio centrale per passare dall'uso spontaneo dell'AI a flussi di lavoro uomo-AI governati, con mappa delle priorità e roadmap operativa.
+- [AI Workflow Redesign Lab](https://ar-tik.com/corsi/workflow-redesign.md): Laboratorio per passare dall'uso spontaneo dell'AI a flussi di lavoro con persona e AI, regole e controlli, più una mappa delle priorità e un piano operativo.
 - [Managing AI per team aziendali misti](https://ar-tik.com/corsi/managing-ai-general.md): Formazione interfunzionale per creare linguaggio comune tra business, operations, marketing, IT, HR, legal e funzioni di supporto.
 - [AI Governance operativa](https://ar-tik.com/corsi/ai-governance.md): Corso per trasformare policy, rischi e requisiti di controllo in pratiche applicabili nel lavoro quotidiano.
-- [AI Output Quality & Human Review](https://ar-tik.com/corsi/ai-output-quality.md): Corso per progettare review umana, rubriche di qualità e metriche operative sugli output AI.
+- [AI Output Quality & Human Review](https://ar-tik.com/corsi/ai-output-quality.md): Corso per progettare la revisione da parte delle persone, le schede di giudizio e le misure di qualità su ciò che l'AI produce.
 
 ## FAQ estesa per agenti AI
 

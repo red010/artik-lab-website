@@ -1,6 +1,6 @@
 # AI Software Engineering
 
-Curso corporativo práctico para aplicar IA a ingeniería de software con IA, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.
+Diseñar software AI-native, con la IA dentro del producto y no al lado: arquitectura, evaluación y go-live (entrada en producción).
 
 - Duración: 5 horas, 2 sesiones de 2,5 horas
 - Modalidad: Laboratorio presencial u online, con ejercicios guiados y materiales adaptados al cliente.
@@ -86,5 +86,11 @@ Materiales reutilizables, ejemplos, checklists y próximos pasos claros.
 ### ¿Es teórico?
 
 No. Está construido sobre ejercicios prácticos y decisiones cercanas al trabajo real.
+
+## Cursos relacionados
+
+- [Secure AI SDLC](https://ar-tik.com/es/cursos/secure-ai-sdlc.md): Insertar controles específicos de IA en el ciclo de desarrollo: design (diseño), build (construcción), test, release (publicación) y operation (explotación).
+- [Búsqueda semántica y bases de conocimiento AI](https://ar-tik.com/es/cursos/embeddings.md): Convertir archivos y conocimiento interno en búsqueda por significado, con embeddings: representaciones numéricas del significado de un texto.
+- [RAG Engineering para sistemas AI fiables](https://ar-tik.com/es/cursos/rag-engineering.md): Diseñar sistemas RAG (Retrieval-Augmented Generation): recuperan los documentos de la empresa y generan la respuesta citándolos.
 
 [Volver al catálogo de cursos](https://ar-tik.com/es/cursos/index.md)

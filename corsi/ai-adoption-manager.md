@@ -5,8 +5,8 @@ Formare figure interne capaci di accompagnare l'adozione dell'AI nei team, con m
 - Durata: 6-8 ore, modulabili
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per team aziendali, funzioni operative e manager; non richiede programmazione.
-- Output finale: Playbook e modello operativo per rete interna di AI Champion.
-- Sceglierlo se: Quando l'azienda vuole scalare l'adozione AI oltre la formazione iniziale, creando una rete interna di facilitatori competenti e riconoscibili.
+- Output finale: Manuale operativo e modello per una rete interna di referenti AI.
+- Sceglierlo se: Quando l'azienda vuole allargare l'uso dell'AI oltre la formazione iniziale, creando una rete interna di facilitatori competenti e riconoscibili.
 
 ## Il problema che risolve
 
@@ -18,7 +18,7 @@ Figure selezionate da HR, innovation, transformation, IT, business unit, operati
 
 ## Quando sceglierlo
 
-Quando l'azienda vuole scalare l'adozione AI oltre la formazione iniziale, creando una rete interna di facilitatori competenti e riconoscibili.
+Quando l'azienda vuole allargare l'uso dell'AI oltre la formazione iniziale, creando una rete interna di facilitatori competenti e riconoscibili.
 
 ## Risultati concreti
 
@@ -86,5 +86,11 @@ Sì, il modello è adatto a più funzioni o sedi.
 ### Produce strumenti operativi?
 
 Sì, playbook, template e schema di reporting.
+
+## Corsi collegati
+
+- [Role-Based AI Literacy & Responsible Use](https://ar-tik.com/corsi/ai-literacy.md): Formazione base ma concreta per diffondere uso AI sicuro e utile, differenziato per ruoli e responsabilità.
+- [Secure AI at Work](https://ar-tik.com/corsi/secure-ai-at-work.md): Corso tecnico-operativo per rendere l'uso quotidiano dell'AI più efficace, sicuro e governato.
+- [AI Output Quality & Human Review](https://ar-tik.com/corsi/ai-output-quality.md): Corso per progettare la revisione da parte delle persone, le schede di giudizio e le misure di qualità su ciò che l'AI produce.
 
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)

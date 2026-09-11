@@ -87,4 +87,10 @@ Materiales reutilizables, ejemplos, checklists y próximos pasos claros.
 
 No. Está construido sobre ejercicios prácticos y decisiones cercanas al trabajo real.
 
+## Cursos relacionados
+
+- [Curso AI: venta B2C y B2B con AI](https://ar-tik.com/es/cursos/ai-vendite.md): Curso corporativo práctico para aplicar IA a ventas B2B y B2C, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.
+- [Curso AI: gestionar documentos con AI](https://ar-tik.com/es/cursos/ai-documenti.md): Curso corporativo práctico para aplicar IA a gestión documental, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.
+- [AI para administración y control de gestión](https://ar-tik.com/es/cursos/ai-admin-finance.md): Curso corporativo práctico para aplicar IA a administración y control de gestión, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.
+
 [Volver al catálogo de cursos](https://ar-tik.com/es/cursos/index.md)

@@ -2,6 +2,8 @@
 
 A Artik Lab ajuda empresas e áreas de negócio a escolher, governar e realizar o primeiro uso útil da IA: mapa de processos, business case, treinamento de equipes, análise de dados e protótipos controlados.
 
+O jeito mais simples de começar: uma primeira conversa gratuita de 30 minutos para identificar as suas necessidades mais urgentes.
+
 ## A Artik Lab constrói capacidades de IA que permanecem na empresa.
 
 Não se compra uma licença esperando que funcione. Escolhe-se um processo, mede-se o custo, define-se o KPI e decide-se se é melhor treinar, redesenhar ou construir.
@@ -88,7 +90,7 @@ Página dedicada: https://ar-tik.com/pt-br/desenvolvimento-software-tecnico.md
 
 ## Quanto custa por ano o tempo gasto em uma tarefa repetitiva?
 
-A página inicial inclui uma calculadora de valor interativa: a partir de quatro dados simples (pessoas envolvidas, horas por semana, custo médio por hora e parte do tempo liberável com a IA), ela estima o custo anual do tempo dedicado a uma tarefa manual e o valor liberável a cada ano. É uma estimativa indicativa em 45 semanas úteis, não uma previsão de resultados nem um orçamento.
+A página inicial inclui uma calculadora de valor interativa: a partir de cinco dados simples (moeda, pessoas envolvidas, horas por semana, custo médio por hora e parte do tempo liberável com a IA), ela estima o custo anual do tempo dedicado a uma tarefa manual, o valor liberável a cada ano e quanto vale cada mês de espera. Não é o dia que pesa. É cada mês em que o trabalho ainda é feito à mão. Se é um trabalho repetitivo: Início operacional. Se é uma decisão a melhorar: Análise de dados. É uma estimativa indicativa em 45 semanas úteis, não uma previsão de resultados nem um orçamento.
 
 ## Cursos para governar IA, não para perseguir ferramentas.
 

@@ -86,4 +86,10 @@ Sì, per chiarezza, coerenza e tono.
 
 Con dati minimizzati, revisione umana e limiti documentati.
 
+## Corsi collegati
+
+- [AI Brand Voice e comunicazione](https://ar-tik.com/corsi/ai-brand-voice.md): Percorso per produrre più comunicazione senza perdere una voce riconoscibile e controllabile rispetto alle linee guida di marca.
+- [AI per amministrazione e controllo di gestione](https://ar-tik.com/corsi/ai-admin-finance.md): Corso per usare l'AI in amministrazione, finanza e controllo come supporto a sintesi, report e controlli preliminari, senza togliere la responsabilità alle persone.
+- [AI Operations](https://ar-tik.com/corsi/ai-operations.md): Percorso per rendere i processi operativi più efficienti, controllati e comprensibili, senza nuove dashboard di monitoraggio.
+
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)

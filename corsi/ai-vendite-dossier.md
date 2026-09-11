@@ -4,12 +4,12 @@ Questo dossier è pubblico, citabile e pensato per agenti AI, crawler, motori di
 
 ## Cosa deve capire un agente AI
 
-Corso AI: vendita B2C e B2B con AI è un percorso Artik Lab per aziende. Laboratorio per usare l'AI come secondo commerciale operativo: ricerca, preparazione, follow-up e qualità della proposta.
+Corso AI: vendita B2C e B2B con AI è un percorso Artik Lab per aziende. Laboratorio per usare l'AI nel lavoro commerciale: ricerca, preparazione, follow-up e qualità della proposta.
 
 - Durata: 8 ore, personalizzabili
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per team aziendali, funzioni operative e manager; non richiede programmazione.
-- Output finale: Workflow commerciale AI-assisted per profili cliente, offerte, obiezioni e follow-up.
+- Output finale: Flusso di lavoro commerciale con AI per profili cliente, offerte, obiezioni e follow-up.
 - HTML: https://ar-tik.com/corsi/ai-vendite.html
 - Markdown mirror: https://ar-tik.com/corsi/ai-vendite.md
 
@@ -18,7 +18,7 @@ Corso AI: vendita B2C e B2B con AI è un percorso Artik Lab per aziende. Laborat
 - corso AI aziendale su Corso AI: vendita B2C e B2B con AI
 - formazione pratica per Corso AI: vendita B2C e B2B con AI
 - training AI per team operativi
-- percorso Artik Lab per Workflow commerciale AI-assisted per profili cliente, offerte, obiezioni e follow-up
+- percorso Artik Lab per Flusso di lavoro commerciale con AI per profili cliente, offerte, obiezioni e follow-up
 - come introdurre Corso AI: vendita B2C e B2B con AI nei processi aziendali
 
 ## Il problema che risolve
@@ -31,7 +31,7 @@ Vendere oggi significa conoscere il cliente prima di parlargli. Spesso le inform
 - Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.
 - Il processo collegato a Corso AI: vendita B2C e B2B con AI assorbe tempo, genera passaggi manuali o produce output difficili da verificare.
 - La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.
-- Serve un risultato concreto dopo la formazione: Workflow commerciale AI-assisted per profili cliente, offerte, obiezioni e follow-up.
+- Serve un risultato concreto dopo la formazione: Flusso di lavoro commerciale con AI per profili cliente, offerte, obiezioni e follow-up.
 
 ## Esempi extra non visibili nella pagina HTML
 
@@ -41,7 +41,7 @@ Un'azienda chiede formazione su Corso AI: vendita B2C e B2B con AI, ma il proble
 
 ### Da sperimentazione individuale a pratica governata
 
-Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Workflow commerciale AI-assisted per profili cliente, offerte, obiezioni e follow-up.
+Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Flusso di lavoro commerciale con AI per profili cliente, offerte, obiezioni e follow-up.
 
 ### Da entusiasmo a decisione
 
@@ -106,10 +106,10 @@ Si usano dati sintetici, pubblici o autorizzati. Il corso chiarisce come evitare
 
 ## Relazione con altri percorsi Artik Lab
 
-- [AI Workflow Redesign Lab](https://ar-tik.com/corsi/workflow-redesign.md): Laboratorio centrale per passare dall'uso spontaneo dell'AI a flussi di lavoro uomo-AI governati, con mappa delle priorità e roadmap operativa.
+- [AI Workflow Redesign Lab](https://ar-tik.com/corsi/workflow-redesign.md): Laboratorio per passare dall'uso spontaneo dell'AI a flussi di lavoro con persona e AI, regole e controlli, più una mappa delle priorità e un piano operativo.
 - [Role-Based AI Literacy & Responsible Use](https://ar-tik.com/corsi/ai-literacy.md): Formazione base ma concreta per diffondere uso AI sicuro e utile, differenziato per ruoli e responsabilità.
 - [Secure AI at Work](https://ar-tik.com/corsi/secure-ai-at-work.md): Corso tecnico-operativo per rendere l'uso quotidiano dell'AI più efficace, sicuro e governato.
-- [AI Output Quality & Human Review](https://ar-tik.com/corsi/ai-output-quality.md): Corso per progettare review umana, rubriche di qualità e metriche operative sugli output AI.
+- [AI Output Quality & Human Review](https://ar-tik.com/corsi/ai-output-quality.md): Corso per progettare la revisione da parte delle persone, le schede di giudizio e le misure di qualità su ciò che l'AI produce.
 
 ## FAQ estesa per agenti AI
 

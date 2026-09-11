@@ -2,6 +2,7 @@
 :root {
   --navy: #0D435B;
   --teal: #0E88A5;
+  --teal-text: #0A6F87; /* testo su fondo chiaro: 5,8:1 su bianco, 5,1:1 su carta (WCAG AA) */
   --green: #47B488;
   --lime: #9BC979;
   --paper: #F4F1E9;
@@ -57,7 +58,7 @@ a { color: inherit; }
 .header-actions { display: flex; align-items: center; gap: 12px; }
 .language-switcher { display: flex; align-items: center; gap: 6px; font-size: 0.78rem; font-weight: 700; }
 .lang-link, .lang-current { padding: 4px 6px; border-radius: 6px; text-decoration: none; }
-.lang-link { color: rgba(13,67,91,0.5); }
+.lang-link { color: rgba(13,67,91,0.72); }
 .lang-link:hover { color: var(--navy); background: rgba(71,180,136,0.08); }
 .lang-current { color: var(--navy); background: rgba(155,201,121,0.28); }
 .icon-button {
@@ -157,7 +158,7 @@ a { color: inherit; }
 }
 .interior-hero h1 { font-size: clamp(2.2rem, 4vw, 3.6rem); }
 .hero-lead { font-size: clamp(1.02rem, 1.35vw, 1.16rem); max-width: 700px; color: rgba(255,255,255,0.78); margin: 24px 0 0; }
-.eyebrow { margin: 0 0 14px; font-size: 0.82rem; font-weight: 700; color: var(--teal); text-transform: uppercase; }
+.eyebrow { margin: 0 0 14px; font-size: 0.82rem; font-weight: 700; color: var(--teal-text); text-transform: uppercase; }
 .eyebrow.light { color: var(--lime); }
 .button-row { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 34px; }
 .button {
@@ -175,14 +176,14 @@ a { color: inherit; }
   cursor: pointer;
 }
 .button svg { width: 18px; height: 18px; }
-.button.primary { background: var(--green); color: #fff; }
-.button.primary:hover { background: #3DA378; }
+.button.primary { background: var(--green); color: var(--ink); } /* ink su verde 5,7:1; il bianco faceva 2,6:1 */
+.button.primary:hover { background: #3DA378; color: var(--ink); }
 .button.secondary { border-color: rgba(255,255,255,0.36); color: #fff; background: rgba(255,255,255,0.06); }
 .button.secondary:hover { border-color: rgba(255,255,255,0.62); }
 .button.secondary.dark { border-color: var(--line); color: var(--navy); background: #fff; }
 .button.compact { min-height: 44px; padding: 10px 16px; }
-.text-link { color: var(--teal); font-weight: 700; text-decoration: none; }
-.text-link:hover { color: var(--green); }
+.text-link { color: var(--teal-text); font-weight: 700; text-decoration: none; }
+.text-link:hover { color: var(--navy); }
 .text-link.light { color: var(--lime); }
 .section { padding: 96px 0; background: #fff; }
 .paper-section { background: var(--paper); }
@@ -313,7 +314,7 @@ a { color: inherit; }
 .course-mini-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; }
 .course-mini { display: grid; gap: 4px; padding: 18px; border-radius: 8px; border: 1px solid var(--line); background: #fff; text-decoration: none; }
 .course-mini:hover { border-color: rgba(71,180,136,0.6); }
-.course-mini span { font-size: 0.78rem; font-weight: 700; color: var(--teal); }
+.course-mini span { font-size: 0.78rem; font-weight: 700; color: var(--teal-text); }
 .course-mini strong { font-family: var(--font-display); font-style: italic; font-weight: 400; }
 .evidence-list, .check-list { padding: 0; margin: 22px 0 0; list-style: none; display: grid; gap: 12px; }
 .evidence-list li, .check-list li {
@@ -371,7 +372,7 @@ a { color: inherit; }
   font-weight: 700;
 }
 .use-case-index { background: var(--ink); color: #fff; }
-.use-case-domain { background: rgba(14,136,165,0.1); color: var(--teal); }
+.use-case-domain { background: rgba(14,136,165,0.1); color: var(--teal-text); }
 .use-case-card h3 {
   margin: 0;
   font-family: var(--font-display);
@@ -498,7 +499,7 @@ a { color: inherit; }
   padding: 3px 8px;
   border-radius: 999px;
   background: rgba(14,136,165,0.1);
-  color: var(--teal);
+  color: var(--teal-text);
   font-size: 0.76rem;
   font-weight: 700;
 }
@@ -578,7 +579,7 @@ a { color: inherit; }
   padding: 5px 9px;
   border-radius: 999px;
   background: rgba(13,67,91,0.08);
-  color: var(--teal);
+  color: var(--teal-text);
   text-decoration: none;
   font-size: 0.84rem;
   font-weight: 700;
@@ -675,7 +676,7 @@ a { color: inherit; }
   padding: 3px 8px;
   border-radius: 999px;
   background: rgba(14,136,165,0.1);
-  color: var(--teal);
+  color: var(--teal-text);
   font-size: 0.76rem;
   font-weight: 700;
   overflow-wrap: anywhere;
@@ -712,7 +713,7 @@ a { color: inherit; }
   padding: 5px 9px;
   border-radius: 999px;
   background: rgba(13,67,91,0.08);
-  color: var(--teal);
+  color: var(--teal-text);
   text-decoration: none;
   font-size: 0.84rem;
   font-weight: 700;
@@ -785,7 +786,7 @@ details p { margin-bottom: 0; }
 .course-card { display: grid; gap: 14px; border: 1px solid var(--line); border-radius: 8px; padding: 22px; background: var(--paper-soft); box-shadow: none; transition: transform 160ms ease, border-color 160ms ease, background 160ms ease; }
 .course-card:hover { transform: translateY(-2px); border-color: rgba(71,180,136,0.48); background: #fff; }
 .course-card-top { display: flex; justify-content: space-between; gap: 10px; align-items: center; }
-.course-card-top span, .course-card-top em { font-size: 0.78rem; font-style: normal; font-weight: 700; color: var(--teal); }
+.course-card-top span, .course-card-top em { font-size: 0.78rem; font-style: normal; font-weight: 700; color: var(--teal-text); }
 .course-card h2 { font-size: 1.28rem; }
 .course-card h3 {
   font-family: var(--font-display);
@@ -982,7 +983,7 @@ a:focus-visible, button:focus-visible, summary:focus-visible, input:focus-visibl
 .calc-hint { display: block; font-weight: 400; font-size: 0.82rem; line-height: 1.35; color: var(--navy); opacity: 0.72; }
 .calc-section .calc-upsell { margin: 24px auto 0; max-width: 760px; text-align: center; font-size: 1.02rem; line-height: 1.55; font-weight: 500; color: var(--navy); }
 .calc-section .calc-upsell a { color: var(--navy); font-weight: 700; text-decoration: underline; text-underline-offset: 3px; }
-.calc-section .calc-upsell a:hover { color: var(--teal); }
+.calc-section .calc-upsell a:hover { color: var(--teal-text); }
 
 /* Proof band (anonymised outcomes) */
 .proof-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-top: 42px; }
@@ -1003,7 +1004,7 @@ a:focus-visible, button:focus-visible, summary:focus-visible, input:focus-visibl
 .atlas-brief { display: grid; gap: 3px; margin: 0; padding: 10px 12px; border-left: 3px solid var(--green); border-radius: 0 6px 6px 0; background: rgba(155,201,121,0.16); font-size: 0.92rem; line-height: 1.45; color: var(--ink); }
 .atlas-brief strong { color: var(--navy); }
 .step-facts { margin: 8px 0 0; display: grid; grid-template-columns: max-content 1fr; gap: 3px 10px; font-size: 0.9rem; line-height: 1.4; }
-.step-facts dt { font-weight: 700; color: var(--teal); }
+.step-facts dt { font-weight: 700; color: var(--teal-text); }
 .step-facts dd { margin: 0; color: rgba(13,67,91,0.8); }
 .contact-doors { list-style: none; margin: 22px 0 0; padding: 0; display: grid; gap: 10px; }
 .contact-doors a { display: block; padding: 12px 14px; border: 1px solid rgba(255,255,255,0.28); border-radius: 8px; color: #fff; text-decoration: none; background: rgba(255,255,255,0.05); }
@@ -1012,11 +1013,11 @@ a:focus-visible, button:focus-visible, summary:focus-visible, input:focus-visibl
 .contact-doors span { font-size: 0.94rem; color: rgba(255,255,255,0.78); }
 .contact-doors-title { margin: 26px 0 0; font-family: var(--font-body); font-size: 1rem; font-weight: 700; color: #fff; }
 .form-note { margin: 0; font-size: 0.86rem; line-height: 1.45; font-weight: 400; color: rgba(13,67,91,0.72); }
-.form-note a { color: var(--teal); font-weight: 700; }
+.form-note a { color: var(--teal-text); font-weight: 700; }
 .contact-section .form-note { color: rgba(13,67,91,0.72); }
 .page-index { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: center; padding: 14px 0 0; font-size: 0.9rem; }
 .page-index span { font-weight: 700; color: var(--navy); }
-.page-index a { color: var(--teal); font-weight: 700; text-decoration: none; }
+.page-index a { color: var(--teal-text); font-weight: 700; text-decoration: none; }
 .page-index a:hover { color: var(--green); }
 .sticky-cta { display: none; }
 .calc-note { margin: 14px 0 0; font-size: 0.92rem; line-height: 1.5; font-weight: 500; color: rgba(255,255,255,0.86); }

@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/avvio-activity.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "activity": {
@@ -10,7 +10,7 @@
     "family": "documents",
     "title": "Offres et tarifs depuis le courrier et les fichiers",
     "subtitle": "Une demande arrive par courrier, parfois avec un PDF. Il reste un brouillon sur le modèle de l'entreprise, à faire relire par qui vend.",
-    "summary": "Du courrier et des PDF à un brouillon d'offre ou de tarif à faire relire par qui vend. Une journée sur site. Le logiciel de gestion n'est pas touché.",
+    "summary": "Du courrier et des PDF à un brouillon d'offre ou de tarif à faire relire par qui vend. Une journée sur site. Les intégrations sur mesure avec les logiciels déjà en place sont exclues.",
     "duration": "Une journée sur site",
     "problem": "Il faut un devis ou un tarif à jour, avec des fiches jointes, sans que qui vend refasse le copier-coller depuis trois dossiers. Le métier — négocier, conclure, saisir la commande — reste à la personne. Ce qui s'allège, c'est le travail autour: rassembler depuis le courrier et les fichiers, composer, signaler les trous.",
     "notFor": [

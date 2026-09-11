@@ -1,6 +1,6 @@
 # Secure AI SDLC
 
-Curso corporativo práctico para aplicar IA a ciclo de vida seguro para software con IA, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.
+Insertar controles específicos de IA en el ciclo de desarrollo: design (diseño), build (construcción), test, release (publicación) y operation (explotación).
 
 - Duración: 4-6 horas, personalizables
 - Modalidad: Laboratorio presencial u online, con ejercicios guiados y materiales adaptados al cliente.
@@ -86,5 +86,11 @@ Materiales reutilizables, ejemplos, checklists y próximos pasos claros.
 ### ¿Es teórico?
 
 No. Está construido sobre ejercicios prácticos y decisiones cercanas al trabajo real.
+
+## Cursos relacionados
+
+- [Búsqueda semántica y bases de conocimiento AI](https://ar-tik.com/es/cursos/embeddings.md): Convertir archivos y conocimiento interno en búsqueda por significado, con embeddings: representaciones numéricas del significado de un texto.
+- [RAG Engineering para sistemas AI fiables](https://ar-tik.com/es/cursos/rag-engineering.md): Diseñar sistemas RAG (Retrieval-Augmented Generation): recuperan los documentos de la empresa y generan la respuesta citándolos.
+- [AI Coding Agents para equipos software](https://ar-tik.com/es/cursos/ai-coding-agents.md): Usar agentes de código como partes controladas del ciclo software: desarrollo, revisión, pruebas y publicación, con responsabilidad declarada.
 
 [Volver al catálogo de cursos](https://ar-tik.com/es/cursos/index.md)

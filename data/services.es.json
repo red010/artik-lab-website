@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/services-catalog.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "locale": "es",
@@ -48,7 +48,7 @@
       "locale": "es",
       "language": "es",
       "title": "Atlas de aplicaciones IA",
-      "description": "Un mapa público de ejemplos concretos para reconocer dónde la inteligencia artificial puede reducir tiempos, errores, riesgos o retrasos decisionales en procesos empresariales.",
+      "description": "Un mapa público de ejemplos concretos para reconocer dónde la inteligencia artificial puede reducir tiempos, errores, riesgos o retrasos en las decisiones en los procesos de la empresa.",
       "urls": {
         "html": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.html",
         "markdown": "https://ar-tik.com/es/atlas-aplicaciones-ia-empresas.md",
@@ -74,7 +74,7 @@
       "locale": "es",
       "language": "es",
       "title": "Software técnico de IA",
-      "description": "Artik Lab desarrolla software avanzado para clientes cuando el problema no se resuelve con un dashboard o una aplicación estándar: cálculos técnicos, modelos matemáticos, datos operativos, reglas expertas y flujos de trabajo que deben volverse verificables.",
+      "description": "Artik Lab desarrolla por cuenta de los clientes software avanzado cuando el problema no se resuelve con un cuadro de mando o con el software estándar de la empresa: cálculos técnicos, modelos matemáticos, datos operativos, reglas de experto y flujos de trabajo que se puedan controlar con pruebas.",
       "urls": {
         "html": "https://ar-tik.com/es/desarrollo-software-tecnico.html",
         "markdown": "https://ar-tik.com/es/desarrollo-software-tecnico.md",
@@ -87,7 +87,7 @@
       "locale": "es",
       "language": "es",
       "title": "Arranque operativo",
-      "description": "La empresa puede usar la inteligencia artificial de inmediato, en los procesos que hoy roban más tiempo. No es un curso. No es un software. El sistema de gestión no se toca.",
+      "description": "Se parte de un trabajo que hoy roba tiempo: preparar una oferta, reunir los documentos para un cliente, comparar tres proveedores, clasificar el correo de la semana. Al final de la jornada queda un procedimiento automático, que la empresa podrá usar por su cuenta. Los archivos permanecen en la empresa. Se excluyen las integraciones a medida con el software ya en uso. No es un curso y no es un software que se instala: es la automatización de un proceso entero con inteligencia artificial.",
       "urls": {
         "html": "https://ar-tik.com/es/arranque-operativo/",
         "markdown": "https://ar-tik.com/es/arranque-operativo/index.md",

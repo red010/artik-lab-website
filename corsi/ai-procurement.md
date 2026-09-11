@@ -1,12 +1,12 @@
-# AI per procurement e supplier intelligence
+# AI per acquisti e conoscenza dei fornitori
 
-Applicare l'AI a vendor scouting, analisi fornitori, comparazione offerte, sintesi contrattuali e rischi di fornitura.
+Applicare l'AI a ricerca fornitori, analisi, confronto offerte, sintesi contrattuali e rischi di fornitura.
 
 - Durata: 4-6 ore, personalizzabili
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per manager e team non tecnici; non richiede programmazione.
-- Output finale: Griglia di supplier intelligence e workflow di comparazione offerte.
-- Sceglierlo se: Quando l'azienda vuole rendere più strutturati scouting, comparazione, documentazione e analisi preliminare dei fornitori.
+- Output finale: Griglia di profilo e rischio fornitore, e flusso di confronto delle offerte.
+- Sceglierlo se: Quando l'azienda vuole rendere più ordinati ricerca, confronto, documentazione e analisi preliminare dei fornitori.
 
 ## Il problema che risolve
 
@@ -18,7 +18,7 @@ Procurement, uffici acquisti, supply chain, vendor management, category manager,
 
 ## Quando sceglierlo
 
-Quando l'azienda vuole rendere più strutturati scouting, comparazione, documentazione e analisi preliminare dei fornitori.
+Quando l'azienda vuole rendere più ordinati ricerca, confronto, documentazione e analisi preliminare dei fornitori.
 
 ## Risultati concreti
 
@@ -85,5 +85,11 @@ Sì, riduce lavoro ripetitivo e chiarisce criteri.
 ### Come evitare confronti distorti?
 
 Con criteri espliciti, fonti tracciate e revisione umana.
+
+## Corsi collegati
+
+- [AI per assistenza clienti e classificazione delle richieste](https://ar-tik.com/corsi/ai-customer-service.md): Corso per rendere più rapida e uniforme la gestione delle richieste senza perdere controllo su tono, escalation e qualità.
+- [AI per qualità e non conformità](https://ar-tik.com/corsi/ai-quality-management.md): Corso per migliorare analisi, classificazione e documentazione qualità mantenendo controllo formale sugli output.
+- [AI People Ops](https://ar-tik.com/corsi/ai-people-ops.md): Corso per rendere più efficienti processi HR ricorrenti preservando riservatezza, inclusione, controllo e responsabilità.
 
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)

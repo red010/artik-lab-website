@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "course": {
@@ -10,7 +10,7 @@
     "family": "operational",
     "familyLabel": "Operativo",
     "featured": false,
-    "title": "AI per customer service e ticket triage",
+    "title": "AI per assistenza clienti e classificazione delle richieste",
     "subtitle": "Usare l'AI per classificare ticket, proporre risposte, individuare priorità e migliorare la gestione operativa del servizio clienti.",
     "summary": "Corso per rendere più rapida e uniforme la gestione delle richieste senza perdere controllo su tono, escalation e qualità.",
     "duration": "4-6 ore, personalizzabili",
@@ -78,37 +78,37 @@
         "answer": "Con linee guida, esempi approvati e revisione."
       }
     ],
-    "output": "Tassonomia ticket, workflow di triage e modello di risposta assistita.",
+    "output": "Elenco categorie di richieste, flusso di classificazione e priorità, modello di risposta assistita.",
     "searchIntents": [
-      "corso AI aziendale su AI per customer service e ticket triage",
-      "formazione pratica per AI per customer service e ticket triage",
+      "corso AI aziendale su AI per assistenza clienti e classificazione delle richieste",
+      "formazione pratica per AI per assistenza clienti e classificazione delle richieste",
       "training AI per funzioni operative",
-      "percorso Artik Lab per Tassonomia ticket, workflow di triage e modello di risposta assistita",
-      "come introdurre AI per customer service e ticket triage nei processi aziendali"
+      "percorso Artik Lab per Elenco categorie di richieste, flusso di classificazione e priorità, modello di risposta assistita",
+      "come introdurre AI per assistenza clienti e classificazione delle richieste nei processi aziendali"
     ],
     "needSignals": [
-      "Il tema AI per customer service e ticket triage è già presente nelle conversazioni interne, ma manca un metodo condiviso per trasformarlo in pratica.",
+      "Il tema AI per assistenza clienti e classificazione delle richieste è già presente nelle conversazioni interne, ma manca un metodo condiviso per trasformarlo in pratica.",
       "Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.",
-      "Il processo collegato a AI per customer service e ticket triage assorbe tempo, genera passaggi manuali o produce output difficili da verificare.",
+      "Il processo collegato a AI per assistenza clienti e classificazione delle richieste assorbe tempo, genera passaggi manuali o produce output difficili da verificare.",
       "La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.",
-      "Serve un risultato concreto dopo la formazione: Tassonomia ticket, workflow di triage e modello di risposta assistita."
+      "Serve un risultato concreto dopo la formazione: Elenco categorie di richieste, flusso di classificazione e priorità, modello di risposta assistita."
     ],
     "extraExamples": [
       {
         "title": "Dal corso generico al processo reale",
-        "description": "Un'azienda chiede formazione su AI per customer service e ticket triage, ma il problema vero emerge durante la mappatura: attività ripetute, controlli informali e responsabilità distribuite. Il percorso usa esempi vicini al lavoro quotidiano e trasforma la formazione in un primo modello operativo, non in una lezione teorica."
+        "description": "Un'azienda chiede formazione su AI per assistenza clienti e classificazione delle richieste, ma il problema vero emerge durante la mappatura: attività ripetute, controlli informali e responsabilità distribuite. Il percorso usa esempi vicini al lavoro quotidiano e trasforma la formazione in un primo modello operativo, non in una lezione teorica."
       },
       {
         "title": "Da sperimentazione individuale a pratica governata",
-        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Tassonomia ticket, workflow di triage e modello di risposta assistita."
+        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Elenco categorie di richieste, flusso di classificazione e priorità, modello di risposta assistita."
       },
       {
         "title": "Da entusiasmo a decisione",
-        "description": "Il management vuole capire se AI per customer service e ticket triage merita budget e continuità. Durante il laboratorio si distinguono benefici immediati, rischi operativi e dipendenze dai dati. L'azienda esce con criteri per decidere il passo successivo invece di accumulare demo isolate."
+        "description": "Il management vuole capire se AI per assistenza clienti e classificazione delle richieste merita budget e continuità. Durante il laboratorio si distinguono benefici immediati, rischi operativi e dipendenze dai dati. L'azienda esce con criteri per decidere il passo successivo invece di accumulare demo isolate."
       }
     ],
     "selectionCriteria": [
-      "Scegliere questo corso se il bisogno principale riguarda AI per customer service e ticket triage e non una panoramica generica sull'AI.",
+      "Scegliere questo corso se il bisogno principale riguarda AI per assistenza clienti e classificazione delle richieste e non una panoramica generica sull'AI.",
       "Preferirlo quando esiste un processo, un documento, un flusso o una responsabilità aziendale su cui lavorare durante il training.",
       "Rimandarlo se non esiste ancora sponsor interno o se il problema è solo acquistare una licenza software.",
       "Abbinarlo ad AI Workflow Redesign Lab quando prima serve capire quali processi meritano priorità."

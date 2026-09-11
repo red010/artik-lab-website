@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "course": {
@@ -11,8 +11,8 @@
     "familyLabel": "Técnico",
     "featured": false,
     "title": "Secure AI SDLC",
-    "subtitle": "Curso corporativo prático para aplicar IA a ciclo de vida seguro para software com IA, com exercícios sobre trabalho realista, materiais reutilizáveis e critérios claros de governança.",
-    "summary": "Curso corporativo prático para aplicar IA a ciclo de vida seguro para software com IA, com exercícios sobre trabalho realista, materiais reutilizáveis e critérios claros de governança.",
+    "subtitle": "Inserir controles específicos de IA no ciclo de desenvolvimento: design (projeto), build (construção), test, release (publicação) e operation (operação).",
+    "summary": "Inserir controles específicos de IA no ciclo de desenvolvimento: design (projeto), build (construção), test, release (publicação) e operation (operação).",
     "duration": "4-6 horas, personalizáveis",
     "mode": "Laboratório presencial ou online, com exercícios guiados e materiais adaptados ao cliente.",
     "profile": "technical",

@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "course": {
@@ -11,16 +11,16 @@
     "familyLabel": "Tecnico",
     "featured": false,
     "title": "Ricerca semantica e knowledge base AI",
-    "subtitle": "Trasformare documenti, procedure e conoscenza interna in sistemi di ricerca intelligenti, navigabili e governati.",
-    "summary": "Modulo per capire come rendere archivi e conoscenza aziendale interrogabili per significato, preparando basi solide per progetti AI.",
+    "subtitle": "Trasformare documenti, procedure e conoscenza interna in una knowledge base con ricerca semantica: si cerca per significato e non per parola esatta, con permessi e regole.",
+    "summary": "Modulo per rendere archivi e conoscenza aziendale cercabili per significato, con gli embeddings: rappresentazioni numeriche del significato di un testo, base dei progetti AI che rispondono sui documenti.",
     "duration": "60-90 minuti o modulo breve",
     "mode": "Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.",
     "profile": "technical",
     "profileDescription": "Per team tecnici con basi di programmazione e architetture software.",
     "problem": "La conoscenza aziendale è spesso distribuita tra cartelle, wiki, ticket, manuali e repository. La ricerca tradizionale restituisce risultati rumorosi o incompleti. La ricerca semantica consente di trovare concetti e risposte, ma richiede progettazione accurata di fonti, metadati e governance.",
     "audience": "Team IT, data, knowledge management, supporto tecnico, software, operations, document management e responsabili di piattaforme interne.",
-    "whenToChoose": "Quando l'organizzazione vuole migliorare accesso alla conoscenza, ridurre tempi di ricerca, supportare operatori o preparare basi informative per applicazioni AI.",
-    "chooseIf": "Quando l'organizzazione vuole migliorare accesso alla conoscenza, ridurre tempi di ricerca, supportare operatori o preparare basi informative per applicazioni AI.",
+    "whenToChoose": "Quando cercare in archivi e procedure è lento o inaffidabile, e serve un accesso alla conoscenza più preciso.",
+    "chooseIf": "Quando cercare in archivi e procedure è lento o inaffidabile, e serve un accesso alla conoscenza più preciso.",
     "outcomes": [
       "Disegnare un modello di knowledge base.",
       "Definire strategia di indicizzazione.",
@@ -79,12 +79,12 @@
         "answer": "No, l'architettura si adatta allo stack scelto."
       }
     ],
-    "output": "Blueprint per knowledge base semantica e criteri di indicizzazione.",
+    "output": "Blueprint della knowledge base semantica: lo schema dell'archivio di conoscenza e i criteri per renderlo cercabile.",
     "searchIntents": [
       "corso AI aziendale su Ricerca semantica e knowledge base AI",
       "formazione pratica per Ricerca semantica e knowledge base AI",
       "training AI per team tecnici",
-      "percorso Artik Lab per Blueprint per knowledge base semantica e criteri di indicizzazione",
+      "percorso Artik Lab per Blueprint della knowledge base semantica: lo schema dell'archivio di conoscenza e i criteri per renderlo cercabile",
       "come introdurre Ricerca semantica e knowledge base AI nei processi aziendali"
     ],
     "needSignals": [
@@ -92,7 +92,7 @@
       "Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.",
       "Il processo collegato a Ricerca semantica e knowledge base AI assorbe tempo, genera passaggi manuali o produce output difficili da verificare.",
       "La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.",
-      "Serve un risultato concreto dopo la formazione: Blueprint per knowledge base semantica e criteri di indicizzazione."
+      "Serve un risultato concreto dopo la formazione: Blueprint della knowledge base semantica: lo schema dell'archivio di conoscenza e i criteri per renderlo cercabile."
     ],
     "extraExamples": [
       {
@@ -101,7 +101,7 @@
       },
       {
         "title": "Da sperimentazione individuale a pratica governata",
-        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Blueprint per knowledge base semantica e criteri di indicizzazione."
+        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Blueprint della knowledge base semantica: lo schema dell'archivio di conoscenza e i criteri per renderlo cercabile."
       },
       {
         "title": "Da entusiasmo a decisione",

@@ -1,6 +1,6 @@
 # RAG Engineering pour systèmes AI fiables
 
-Cours d'entreprise pratique pour appliquer l'IA à RAG engineering, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+Concevoir des systèmes RAG (Retrieval-Augmented Generation) : ils récupèrent les documents de l'entreprise et génèrent la réponse en les citant.
 
 - Durée: 5 heures, 2 sessions de 2,5 heures
 - Modalité: Laboratoire en présentiel ou en ligne, avec exercices guidés et matériaux adaptés au client.
@@ -86,5 +86,11 @@ Matériaux réutilisables, exemples, checklists et prochaines étapes claires.
 ### Est-ce théorique?
 
 Non. Le cours repose sur exercices pratiques et décisions proches du travail réel.
+
+## Cours associés
+
+- [AI Coding Agents pour équipes software](https://ar-tik.com/fr/cours/ai-coding-agents.md): Utiliser des agents de code comme pièces contrôlées du cycle logiciel : développement, revue, tests et mise en production, avec une responsabilité nommée.
+- [AI Software Engineering](https://ar-tik.com/fr/cours/ai-software-engineering.md): Concevoir un logiciel AI-native, avec l'IA dans le produit et non à côté : architecture, évaluation et mise en production (go-live).
+- [Secure AI SDLC](https://ar-tik.com/fr/cours/secure-ai-sdlc.md): Insérer des contrôles spécifiques à l'IA dans le cycle de développement : design (conception), build (construction), test, release (mise en production) et operation (exploitation).
 
 [Retour au catalogue des cours](https://ar-tik.com/fr/cours/index.md)

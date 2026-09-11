@@ -87,4 +87,10 @@ Sì, soprattutto quando serve allineamento strategico.
 
 Sì, in forma operativa e introduttiva.
 
+## Corsi collegati
+
+- [Managing AI per team aziendali misti](https://ar-tik.com/corsi/managing-ai-general.md): Formazione interfunzionale per creare linguaggio comune tra business, operations, marketing, IT, HR, legal e funzioni di supporto.
+- [AI Governance operativa](https://ar-tik.com/corsi/ai-governance.md): Corso per trasformare policy, rischi e requisiti di controllo in pratiche applicabili nel lavoro quotidiano.
+- [AI Business Case & ROI Sprint](https://ar-tik.com/corsi/ai-business-case-roi.md): Sprint per passare da entusiasmo o intuizione a una decisione economica: problema, valore, costi, rischi, metriche e raccomandazione.
+
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)

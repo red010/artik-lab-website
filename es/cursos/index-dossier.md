@@ -250,7 +250,7 @@ Curso corporativo práctico para aplicar IA a brand voice y comunicación, con e
 
 ### Búsqueda semántica y bases de conocimiento AI
 
-Curso corporativo práctico para aplicar IA a búsqueda semántica y bases de conocimiento, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.
+Convertir archivos y conocimiento interno en búsqueda por significado, con embeddings: representaciones numéricas del significado de un texto.
 
 - Duración: 60-90 minuti o modulo breve
 - Elegirlo si: Cuando la empresa quiere avanzar de forma concreta en búsqueda semántica y bases de conocimiento y necesita formación que produzca flujos de trabajo utilizables, no teoría abstracta.
@@ -262,7 +262,7 @@ Curso corporativo práctico para aplicar IA a búsqueda semántica y bases de co
 
 ### RAG Engineering para sistemas AI fiables
 
-Curso corporativo práctico para aplicar IA a RAG engineering, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.
+Diseñar sistemas RAG (Retrieval-Augmented Generation): recuperan los documentos de la empresa y generan la respuesta citándolos.
 
 - Duración: 5 horas, 2 sesiones de 2,5 horas
 - Elegirlo si: Cuando la empresa quiere avanzar de forma concreta en RAG engineering y necesita formación que produzca flujos de trabajo utilizables, no teoría abstracta.
@@ -274,7 +274,7 @@ Curso corporativo práctico para aplicar IA a RAG engineering, con ejercicios so
 
 ### AI Coding Agents para equipos software
 
-Curso corporativo práctico para aplicar IA a agentes de IA para coding, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.
+Usar agentes de código como partes controladas del ciclo software: desarrollo, revisión, pruebas y publicación, con responsabilidad declarada.
 
 - Duración: 4 horas, 2 sesiones de 2 horas
 - Elegirlo si: Cuando la empresa quiere avanzar de forma concreta en agentes de IA para coding y necesita formación que produzca flujos de trabajo utilizables, no teoría abstracta.
@@ -286,7 +286,7 @@ Curso corporativo práctico para aplicar IA a agentes de IA para coding, con eje
 
 ### AI Software Engineering
 
-Curso corporativo práctico para aplicar IA a ingeniería de software con IA, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.
+Diseñar software AI-native, con la IA dentro del producto y no al lado: arquitectura, evaluación y go-live (entrada en producción).
 
 - Duración: 5 horas, 2 sesiones de 2,5 horas
 - Elegirlo si: Cuando la empresa quiere avanzar de forma concreta en ingeniería de software con IA y necesita formación que produzca flujos de trabajo utilizables, no teoría abstracta.
@@ -298,7 +298,7 @@ Curso corporativo práctico para aplicar IA a ingeniería de software con IA, co
 
 ### Secure AI SDLC
 
-Curso corporativo práctico para aplicar IA a ciclo de vida seguro para software con IA, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.
+Insertar controles específicos de IA en el ciclo de desarrollo: design (diseño), build (construcción), test, release (publicación) y operation (explotación).
 
 - Duración: 4-6 horas, personalizables
 - Elegirlo si: Cuando la empresa quiere avanzar de forma concreta en ciclo de vida seguro para software con IA y necesita formación que produzca flujos de trabajo utilizables, no teoría abstracta.

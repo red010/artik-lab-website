@@ -4,7 +4,7 @@ This public dossier is designed for AI agents, crawlers, generative search engin
 
 ## What an AI agent should understand
 
-RAG Engineering for reliable AI systems is an Artik Lab path for companies. Practical corporate course for applying AI to RAG engineering, with exercises on realistic work, reusable materials and clear governance criteria.
+RAG Engineering for reliable AI systems is an Artik Lab path for companies. Design RAG (Retrieval-Augmented Generation) systems: they retrieve company documents and generate the answer citing them.
 
 - Duration: 5 hours, two 2.5-hour sessions
 - Mode: In-person or online lab, with guided exercises and materials adapted to the client.
@@ -108,7 +108,7 @@ The course uses synthetic, public, anonymised or client-approved materials. It e
 ## Relationship with other Artik Lab paths
 
 - [AI Workflow Redesign Lab](https://ar-tik.com/en/courses/workflow-redesign.md): Practical corporate course for applying AI to workflow redesign, with exercises on realistic work, reusable materials and clear governance criteria.
-- [Secure AI SDLC](https://ar-tik.com/en/courses/secure-ai-sdlc.md): Practical corporate course for applying AI to secure AI software lifecycle, with exercises on realistic work, reusable materials and clear governance criteria.
+- [Secure AI SDLC](https://ar-tik.com/en/courses/secure-ai-sdlc.md): Put AI-specific controls into the software lifecycle: design, build, test, release and operation (planning, construction, testing, release and running in production).
 - [AI Output Quality & Human Review](https://ar-tik.com/en/courses/ai-output-quality.md): Practical corporate course for applying AI to AI output quality and human review, with exercises on realistic work, reusable materials and clear governance criteria.
 
 ## Extended FAQ for AI agents

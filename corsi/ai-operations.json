@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "course": {
@@ -12,15 +12,15 @@
     "featured": false,
     "title": "AI Operations",
     "subtitle": "Applicare l'AI ai processi operativi: procedure, report, coordinamento attività, colli di bottiglia e standardizzazione.",
-    "summary": "Percorso per migliorare efficienza, controllo e leggibilità dei processi operativi senza aggiungere dashboard inutili.",
+    "summary": "Percorso per rendere i processi operativi più efficienti, controllati e comprensibili, senza nuove dashboard di monitoraggio.",
     "duration": "4 ore, 2 lezioni da 2 ore",
     "mode": "Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.",
     "profile": "mixed",
     "profileDescription": "Per manager e team non tecnici; non richiede programmazione.",
     "problem": "Le operations vivono di passaggi, eccezioni, comunicazioni tra funzioni e decisioni rapide. Quando informazioni e procedure sono sparse, ogni coordinamento diventa più lento. Il corso mostra come usare l'AI per trasformare note destrutturate in procedure, leggere rischi e rendere più chiari i prossimi passi.",
     "audience": "Operations manager, project operations, back office, responsabili di processo, supply chain, produzione, logistica, service operations e team trasversali.",
-    "whenToChoose": "Quando l'azienda vuole migliorare efficienza, standardizzazione e controllo dei processi operativi senza automatizzare decisioni critiche senza supervisione.",
-    "chooseIf": "Quando l'azienda vuole migliorare efficienza, standardizzazione e controllo dei processi operativi senza automatizzare decisioni critiche senza supervisione.",
+    "whenToChoose": "Quando l'azienda vuole processi operativi più efficienti e uniformi, e le decisioni critiche devono restare sotto supervisione.",
+    "chooseIf": "Quando l'azienda vuole processi operativi più efficienti e uniformi, e le decisioni critiche devono restare sotto supervisione.",
     "outcomes": [
       "Mappare processi e attività ricorrenti.",
       "Creare procedure operative e checklist.",

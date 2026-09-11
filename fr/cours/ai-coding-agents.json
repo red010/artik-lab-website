@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "course": {
@@ -11,8 +11,8 @@
     "familyLabel": "Technique",
     "featured": false,
     "title": "AI Coding Agents pour équipes software",
-    "subtitle": "Cours d'entreprise pratique pour appliquer l'IA à agents IA pour le coding, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.",
-    "summary": "Cours d'entreprise pratique pour appliquer l'IA à agents IA pour le coding, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.",
+    "subtitle": "Utiliser des agents de code comme pièces contrôlées du cycle logiciel : développement, revue, tests et mise en production, avec une responsabilité nommée.",
+    "summary": "Utiliser des agents de code comme pièces contrôlées du cycle logiciel : développement, revue, tests et mise en production, avec une responsabilité nommée.",
     "duration": "4 heures, 2 sessions de 2 heures",
     "mode": "Laboratoire en présentiel ou en ligne, avec exercices guidés et matériaux adaptés au client.",
     "profile": "technical",

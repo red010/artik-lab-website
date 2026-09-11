@@ -87,4 +87,10 @@ Materiais reutilizáveis, exemplos, checklists e próximos passos claros.
 
 Não. O curso é construído sobre exercícios práticos e decisões próximas do trabalho real.
 
+## Cursos relacionados
+
+- [AI Operations](https://ar-tik.com/pt-br/cursos/ai-operations.md): Curso corporativo prático para aplicar IA a operações e coordenação de processos, com exercícios sobre trabalho realista, materiais reutilizáveis e critérios claros de governança.
+- [AI Legal Ops e compliance documental](https://ar-tik.com/pt-br/cursos/ai-legal-ops.md): Curso corporativo prático para aplicar IA a legal ops e compliance documental, com exercícios sobre trabalho realista, materiais reutilizáveis e critérios claros de governança.
+- [AI para procurement e inteligência de fornecedores](https://ar-tik.com/pt-br/cursos/ai-procurement.md): Curso corporativo prático para aplicar IA a procurement e inteligência de fornecedores, com exercícios sobre trabalho realista, materiais reutilizáveis e critérios claros de governança.
+
 [Voltar ao catálogo de cursos](https://ar-tik.com/pt-br/cursos/index.md)

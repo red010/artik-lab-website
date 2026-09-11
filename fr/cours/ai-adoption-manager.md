@@ -87,4 +87,10 @@ Matériaux réutilisables, exemples, checklists et prochaines étapes claires.
 
 Non. Le cours repose sur exercices pratiques et décisions proches du travail réel.
 
+## Cours associés
+
+- [AI Literacy par rôle et usage responsable](https://ar-tik.com/fr/cours/ai-literacy.md): Cours d'entreprise pratique pour appliquer l'IA à culture IA par rôle, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [Secure AI at Work](https://ar-tik.com/fr/cours/secure-ai-at-work.md): Cours d'entreprise pratique pour appliquer l'IA à usage sécurisé de l'IA au travail, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI Output Quality & Human Review](https://ar-tik.com/fr/cours/ai-output-quality.md): Cours d'entreprise pratique pour appliquer l'IA à qualité des résultats IA et revue humaine, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+
 [Retour au catalogue des cours](https://ar-tik.com/fr/cours/index.md)

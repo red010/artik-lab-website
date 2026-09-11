@@ -10,21 +10,21 @@ Versioni in altre lingue: [English](https://ar-tik.com/en/llms-full.txt), [espa�
 
 Artik Lab aiuta imprese e funzioni aziendali a scegliere, governare e realizzare il primo uso utile dell'AI: mappatura dei processi, business case, formazione dei team, analisi dati e prototipi controllati.
 
-Un giorno in sede per una procedura in uso. Una prima conversazione di 30–45 minuti. Un parere scritto prima di fissare la data.
+Il modo più semplice per iniziare: una prima call di 30 minuti gratuita per individuare le vostre necessità più urgenti.
 
-## Non è un software da acquistare. È una capacità da costruire. E resta in azienda.
+## L’AI resta in azienda come competenza e processo, non come licenza da comprare.
 
 Artik Lab costruisce capacità AI che restano in azienda. Non si compra una licenza e si spera che funzioni. Si sceglie un processo, si misura il costo, si definisce il KPI e si decide se formare, ridisegnare o costruire.
 
-- 95% delle organizzazioni non ottiene ritorno dai progetti GenAI enterprise.
-- 70% del valore, nella regola 10-20-70, dipende da persone e processi.
+- 95% delle organizzazioni non ottiene ritorno dai progetti di IA generativa in azienda.
+- 70% del valore dipende da persone e processi, non dall’algoritmo.
 - 25 corsi e laboratori per portare competenze AI in processi aziendali specifici.
 
-Dove manca governo manageriale, il rischio di progetti senza ritorno cresce: prima le decisioni e i processi, poi gli strumenti.
+Se manca chi decide regole, priorità e responsabilità, cresce il rischio di progetti senza ritorno: prima le decisioni e i processi, poi gli strumenti.
 
 Fonti: MIT Project NANDA, *The GenAI Divide: State of AI in Business*, 2025; BCG, regola 10-20-70 (AI Radar e pubblicazioni collegate), 2025.
 
-## Dal costo nascosto alla capacità che resta.
+## Da un processo che costa troppo a un risultato che l’azienda sa ripetere.
 
 La domanda non è quale strumento comprare. È quale processo costa troppo, e come si misura.
 
@@ -34,9 +34,9 @@ La domanda non è quale strumento comprare. È quale processo costa troppo, e co
 4. Si costruisce il pilota minimo e controllato.
 5. Si tiene solo ciò che una persona usa, misura e sa rifare.
 
-## Prima il processo. Poi il modello.
+## Prima si sceglie il processo. Poi si sceglie lo strumento.
 
-La tecnologia entra solo dopo aver chiarito chi decide, quali dati utilizzare e responsabilità. Questo approccio evita pilot infiniti e mette il valore prima dello strumento.
+La tecnologia entra solo dopo aver chiarito chi decide, quali dati usare e chi è responsabile. Questo approccio evita pilot infiniti e mette il valore prima dello strumento.
 
 ### Competenze durevoli
 
@@ -46,11 +46,11 @@ Il management impara a decidere quando usare l'IA, come verificare gli output e 
 
 Il lavoro viene mappato dove l'IA può ridurre tempo, errore o ritardo decisionale senza perdere controllo umano.
 
-### Soluzioni agentiche
+### Prototipi e sistemi legati a un indicatore, a un responsabile e alla manutenzione
 
 Prototipi e sistemi operativi restano legati a KPI, dati, responsabilità e manutenzione, non alla moda del momento.
 
-## Servizi che restano in azienda, non come consulenza infinita.
+## Sei servizi, ciascuno con un risultato che resta in azienda.
 
 Ogni intervento parte da una domanda semplice: quale processo costa troppo, quale decisione arriva tardi, quale dato è già stato pagato e non sta ancora lavorando?
 
@@ -62,7 +62,7 @@ Pagina dedicata: https://ar-tik.com/consulenza-manageriale-ai.md
 
 ### Operatività immediata
 
-Un giorno in sede. Resta una procedura scritta, da usare subito, sui file dell'azienda. Il gestionale non si tocca.
+Un giorno in sede. Resta una procedura scritta, da usare subito, sui file dell'azienda. Sono escluse le integrazioni su misura con i software già in uso.
 
 Pagina dedicata: https://ar-tik.com/avvio-operativo/index.md
 
@@ -84,9 +84,9 @@ Percorsi AI per dare a direzione e funzioni aziendali criteri, policy e pratiche
 
 Pagina dedicata: https://ar-tik.com/corsi/index.md
 
-### Software tecnico e motori di calcolo
+### Software tecnico e programmi di calcolo
 
-Sviluppo di sistemi tecnici, motori di calcolo, lettori di dati legacy e applicazioni verificabili per processi complessi.
+Sviluppo di programmi di calcolo, lettura di dati vecchi e applicazioni con test, per processi tecnici complessi.
 
 Pagina dedicata: https://ar-tik.com/sviluppo-software-tecnico-ai.md
 
@@ -98,7 +98,7 @@ Pagina dedicata: https://ar-tik.com/domande-frequenti-ai-aziende.md
 
 ## Quanto costa ogni anno il tempo speso in un'attività ripetitiva?
 
-La homepage include un calcolatore di valore interattivo: da quattro dati semplici (persone coinvolte, ore a settimana, costo orario medio e quota di tempo liberabile con l'AI) stima il costo annuo del tempo dedicato a un'attività manuale, il valore liberabile ogni anno e quanto vale ogni mese di attesa. Non è la giornata a pesare. È ogni mese in cui il lavoro si fa ancora a mano. È una stima indicativa calcolata su 45 settimane lavorative, non una previsione di risultato né un preventivo. Se è un lavoro ripetitivo: Operatività immediata. Se è una decisione da migliorare: Analisi dati.
+La homepage include un calcolatore di valore interattivo: da cinque dati semplici (valuta, persone coinvolte, ore a settimana, costo orario medio e quota di tempo liberabile con l'AI) stima il costo annuo del tempo dedicato a un'attività manuale, il valore liberabile ogni anno e quanto vale ogni mese di attesa. Non è la giornata a pesare. È ogni mese in cui il lavoro si fa ancora a mano. È una stima indicativa calcolata su 45 settimane lavorative, non una previsione di risultato né un preventivo. Se è un lavoro ripetitivo: Operatività immediata. Se è una decisione da migliorare: Analisi dati.
 
 ## Corsi per governare l'IA, non per rincorrere strumenti.
 
@@ -132,7 +132,7 @@ Sì. Ogni pagina contiene testo nel sorgente HTML, JSON-LD coerente, mirror Mark
 
 - Parlare del caso: una prima conversazione di 30–45 minuti. Oggetto della mail: [Prima conversazione] Domanda da ar-tik.com.
 - Provare un giorno in sede: il parere di Operatività immediata (https://ar-tik.com/avvio-operativo/index.md).
-- Portare l'estratto: l'analisi dice se i dati bastano. Oggetto della mail: [Analisi dati] Estratto da valutare.
+- Portare il file dati del mese: l'analisi dice se i dati bastano. Oggetto della mail: [Analisi dati] Estratto da valutare.
 
 Il messaggio arriva a una persona di Artik Lab, che lo legge e risponde di persona. Nessuna risposta automatica, nessuna lista. Inviando, si accettano le condizioni dell'informativa sul trattamento dei dati (https://ar-tik.com/informativa/).
 
@@ -140,17 +140,17 @@ Artik Lab s.r.l. — Via Principe Amedeo 11, Torino — P.IVA IT04120810041 — 
 
 <!-- https://ar-tik.com/consulenza-manageriale-ai.md -->
 
-# Consulenza manageriale AI per governance, priorità e competenze interne.
+# Consulenza manageriale AI per priorità, regole d’uso e competenze interne.
 
 L'IA non è un software da installare: è una capacità manageriale da costruire. Artik Lab aiuta direzione e primi livelli a scegliere dove usarla, dove fermarsi, quali processi ridisegnare e quali competenze rendere stabili in azienda.
 
 Meno licenze. Più decisioni.
 
-## Una regia per trasformare entusiasmo, licenze e prove isolate in valore governato.
+## Da licenze e prove isolate a un piano: dove usarla, dove fermarsi, che cosa misurare.
 
 La consulenza manageriale AI è il servizio che precede strumenti, agenti e automazioni. Serve a dare al management una mappa: quali decisioni valgono l'investimento, quali attività richiedono supervisione umana, quali competenze mancano, quali dati sono già utilizzabili e quale primo pilota può generare un ritorno misurabile.
 
-## Prima di scegliere il formato, riconoscere il processo.
+## Prima di scegliere consulenza, corso o software, riconoscere il processo.
 
 L'Atlante raccoglie esempi concreti di applicazioni AI per documenti, operations, HR, marketing, software, governance, produzione, formazione e dati. Serve a capire se il bisogno richiede consulenza, analisi dati, sviluppo tecnico o formazione.
 
@@ -158,19 +158,19 @@ Pagina Atlante: https://ar-tik.com/atlante-applicazioni-ai-imprese.md
 
 FAQ collegata: https://ar-tik.com/domande-frequenti-ai-aziende.md - per scegliere tra consulenza, corso, analisi dati e software tecnico.
 
-## Le aziende non falliscono perché manca un modello. Falliscono perché manca una domanda manageriale.
+## Le aziende non falliscono perché manca uno strumento. Falliscono perché nessuno ha deciso quale processo migliorare e con quale criterio.
 
 Il percorso tipico è riconoscibile: si acquistano licenze, si organizzano demo, alcune persone sperimentano strumenti personali, poi l’utilizzo cala. Non è resistenza al cambiamento: è assenza di contesto, criteri e responsabilità. L’IA va gestita come un collaboratore digitale: utile se riceve obiettivi chiari, pericolosa se riceve compiti ambigui e nessun controllo.
 
-### Shadow AI
+### Strumenti AI personali, usati senza regole aziendali
 
 Le persone usano strumenti personali perché sono flessibili. La consulenza non reprime questa energia: la trasforma in pratica aziendale sicura e governata.
 
-### Frontiera frastagliata
+### L’IA riesce in un compito e fallisce in un altro che sembra uguale
 
 L’IA eccelle in alcuni compiti e fallisce in altri che sembrano simili. Serve una mappa empirica dei processi, non una lista generica di casi d’uso.
 
-### Fallimento silenzioso
+### Un sistema sembra funzionare mentre peggiora le decisioni
 
 Un sistema può sembrare funzionare mentre degrada la qualità delle decisioni. Per questo si separa ciò che è azionabile da ciò che richiede giudizio umano.
 
@@ -184,7 +184,7 @@ Direzione e ruoli chiave imparano a scomporre il lavoro, giudicare output IA, ri
 
 ### Ridisegno
 
-I processi vengono classificati per valore, rischio e supervisione: zona verde per automazioni semplici, gialla per copiloti controllati, rossa per decisioni umane.
+I processi vengono classificati per valore, rischio e supervisione: zona verde per automazioni semplici, gialla per assistenza con controllo, rossa per decisioni umane.
 
 ### Tecnologia
 
@@ -192,7 +192,7 @@ Solo dove esistono KPI, responsabilità e criteri di accettazione si passa a pro
 
 ## Cosa resta in mano al management.
 
-Il servizio non termina con un incontro ispirazionale. Produce artefatti utilizzabili da direzione, funzioni aziendali e partner tecnici.
+Il servizio non termina con un incontro ispirazionale. Produce documenti utilizzabili da direzione, funzioni aziendali e partner tecnici.
 
 La consulenza non è la porta del software. Costruire, se un giorno serve, è una scelta successiva e separata, che l’azienda prende con la mappa in mano.
 
@@ -200,11 +200,11 @@ La consulenza non è la porta del software. Costruire, se un giorno serve, è un
 
 Sintesi delle decisioni da prendere: priorità, rischi, vincoli, sponsor interni e criteri per fermare iniziative deboli.
 
-### Mappa opportunità e frontiera
+### Mappa dei processi: dove l’IA rende, dove no, dove è incerto
 
 Processi ordinati per valore, fattibilità, rischio e maturità del dato. Ogni opportunità viene collegata a una decisione reale.
 
-### Governance a zone
+### Attività in autonomia, da supervisionare, o solo umane
 
 Classificazione delle attività in autonomia, supervisione o prerogativa umana, con confini interpretativi espliciti.
 
@@ -303,7 +303,7 @@ Il controllo di gestione confronta budget e consuntivo per voce: manodopera, mat
 - Scartato nel report: il solo controllo sul segno degli scostamenti avrebbe perso manodopera e logistica, il 31,8% del movimento lordo; conta la persistenza, non il segno.
 - Nota metodo: numeri misurati nel report certificato; dimostrano il metodo, non prevedono i conti di un'altra azienda.
 
-### Ogni mese devo rifare il foglio ordini estero per paese e cliente. C'è un modo per automatizzare questa procedura?
+### Il foglio ordini estero si rifà ogni mese, ma non dice quanto il fatturato dipende da pochi paesi e clienti.
 
 Ufficio export · Caso reale, analisi certificata.
 
@@ -337,7 +337,7 @@ Laboratorio e certificati ci sono già. L'analisi dice, prima di chiudere il lot
 - Scartato nel report: l'ipotesi «basta il grado alcolico», segnale più forte da solo ma insufficiente; la densità è risultata ridondante con l'alcol.
 - Nota metodo: numeri misurati nel report certificato; dimostrano il metodo, non prevedono i lotti di un'altra cantina.
 
-### Mi chiedono tempi certi, ma quale macchina è libera lo so solo a occhio.
+### Le macchine registrano già stati e misure, ma guasto e diversi modi di lavorare si vedono tardi.
 
 Reparto macchine · Caso reale, analisi certificata.
 
@@ -390,7 +390,7 @@ Una boutique in rete vorrebbe sapere quali capi torneranno indietro. La tentazio
 - Scartato nel report: il motivo del reso come variabile, perché compilato solo dopo il reso è un esito del fenomeno, non un segnale anticipatore.
 - Nota metodo: numeri misurati nel report certificato; dimostrano il metodo, non descrivono i resi di un'altra azienda.
 
-### Il fornitore che dice di no.
+### Nel report c’è anche ciò che è stato provato e scartato, con i numeri.
 
 In ogni report · Alternative scartate.
 
@@ -407,7 +407,7 @@ Ogni report certificato ha una sezione dedicata alle alternative scartate: che c
 
 ## Il passo successivo
 
-Portare l'estratto che già si prepara a mano ogni mese. Artik Lab dice che cosa dice, che cosa non dice e se i dati bastano, prima di impegnarsi in un progetto. La prima conversazione dura 30-45 minuti: scrivere a dtr@ar-tik.com con oggetto «[Analisi dati] Estratto da valutare». Il messaggio arriva a una persona di Artik Lab, che lo legge e risponde di persona.
+Portare il file che già si prepara a mano ogni mese. Artik Lab dice che cosa dice, che cosa non dice e se i dati bastano, prima di impegnarsi in un progetto. La prima conversazione dura 30-45 minuti: scrivere a dtr@ar-tik.com con oggetto «[Analisi dati] Estratto da valutare». Il messaggio arriva a una persona di Artik Lab, che lo legge e risponde di persona.
 
 Se il problema è mettere in ordine PDF e procedure più che i numeri, il servizio giusto è [Operatività immediata](https://ar-tik.com/avvio-operativo/).
 
@@ -421,7 +421,7 @@ Se il problema è mettere in ordine PDF e procedure più che i numeri, il serviz
 
 ## Che cosa si riceve
 
-### Executive Summary
+### Sintesi per la direzione
 
 Risultato principale, decisione consigliata, valore in gioco, limiti e azioni nei prossimi 30, 90 o 180 giorni.
 
@@ -437,7 +437,7 @@ Pilota a basso rischio, responsabilità, tempi, misure da osservare e criterio p
 
 Quali dati raccogliere dopo, perché, con quale priorità e quale decisione renderebbero più solida.
 
-## Le forme del valore
+## Dove può stare il valore di un’analisi
 
 ### Valore recuperato
 
@@ -455,11 +455,11 @@ Risorse riallocate su fasce orarie, prodotti, controlli o processi che contano d
 
 Consegne, disponibilità, tempi e comunicazioni più credibili perché basati su stime migliori.
 
-### Governance del dato
+### Raccolta dati collegata a una decisione, non generica
 
 Raccolta dati meno generica e più collegata a decisioni concrete.
 
-## Quando il segnale non è solo nei dati
+## Se il problema sta in documenti, procedure o software, non solo nei numeri
 
 Molte opportunità AI nascono dall'incrocio fra dati, documenti, processo e decisioni operative. Per orientarsi tra applicazioni possibili, esempi e segnali di bisogno: [Atlante delle applicazioni AI per le imprese](atlante-applicazioni-ai-imprese.html).
 
@@ -474,7 +474,7 @@ Per scegliere tra analisi dati, consulenza, formazione o software tecnico: https
 
 ## Altri segnali già dimostrati
 
-Analisi realmente eseguite e certificate in altri settori: ospitalità, consegne, energia, ristorazione, banca, controlli, manifattura. Ogni storia dice quali dati operativi entrano nell'analisi, quale segnale emerge e quale decisione può essere presa. Il settore è quello del caso; il metodo è ciò che si trasferisce. Nessun cliente riconoscibile, nessuna promessa standard.
+Analisi realmente eseguite e certificate in altri settori: ospitalità, consegne, energia, ristorazione, banca, controlli, manifattura, attività locali. Ogni storia dice quali dati operativi entrano nell'analisi, quale segnale emerge e quale decisione può essere presa. Il settore è quello del caso; il metodo è ciò che si trasferisce. Nessun cliente riconoscibile, nessuna promessa standard.
 
 ### 1. Ospitalità: Scopro le disdette quando è troppo tardi
 
@@ -517,7 +517,7 @@ L’analisi parte dagli ordini e dai tempi storici, ma non si ferma alla media. 
 - Dati utili dopo: Reclami, chiamate evitate e interventi manuali del team operativo.
 - Limite da dichiarare: Non promette consegne più veloci; promette stime più credibili.
 
-### 4. Energia: Compro energia a intuito e pago gli sbilanciamenti
+### 4. Energia: Si compra energia a intuito e si pagano le correzioni quando la previsione è sbagliata.
 
 La previsione riduce l’errore del 77% rispetto alla regola di riferimento.
 
@@ -592,7 +592,7 @@ In fabbrica il guasto non è solo un evento tecnico: ferma persone, ordini e cap
 
 L’analisi costruisce un avviso quando il comportamento della macchina somiglia a situazioni di guasto già viste. È utile se attiva subito un ordine di lavoro, un controllo o una verifica sul campo.
 
-Va letta insieme alla situazione «Mi chiedono tempi certi», sopra.
+Va letta insieme alla situazione sulle macchine di reparto, sopra.
 
 - Segnale utile: Un allarme operativo quando la macchina mostra pattern compatibili con un guasto.
 - Decisione possibile: Collegare l’avviso a manutenzione, escalation e verifica del fermo evitato.
@@ -625,13 +625,28 @@ L’analisi raggruppa i comportamenti della macchina e mostra quali profili meri
 - Dati utili dopo: Costo energia, ore macchina, produzione e settaggi operativi.
 - Limite da dichiarare: Il valore in euro va stimato solo quando consumi e produzione sono collegati.
 
+### 12. Attività locale: Centinaia di recensioni, nessuna decisione
+
+Su 2.961 recensioni di venti attività della stessa categoria e zona, nessuna rispondeva alle recensioni ricevute.
+
+Un'attività locale vive delle scelte di chi legge recensioni prima di entrare, ma dal lato del titolare restano una media in stelle e un flusso di testi che nessuno riassume. Le recensioni dell'attività e dei concorrenti della stessa piazza diventano un elenco di azioni in ordine di priorità, non un cruscotto di metriche da interpretare: un documento che dice da dove cominciare.
+
+L'analisi non guarda solo l'attività: raccoglie anche i concorrenti della stessa zona e misura le stesse dimensioni su tutti. È il confronto che rende leggibile un numero, perché una media alta dice poco finché non si sa quanto è alta la media di chi sta intorno.
+
+Nel caso reale il verdetto non è arrivato dalla media in stelle, che era già ottima, ma da due cose che nessuno aveva contato: sei delle sette recensioni critiche parlavano dello stesso tema, e nessuna delle venti attività della zona rispondeva a chi scriveva.
+
+- Segnale utile: Le recensioni critiche non sono sparse: sei su sette ruotano attorno a un unico tema. È lì che si interviene, non su tutto.
+- Decisione possibile: Rispondere alle recensioni, che nella zona non faceva nessuno, e spiegare in anticipo che cosa comprende il prezzo.
+- Dati utili dopo: Esito delle risposte pubblicate, richieste di preventivo dopo la pubblicazione, recensioni nuove sullo stesso tema.
+- Limite da dichiarare: I numeri vengono da un corpus di recensioni pubbliche congelato a una data: fotografano quella zona in quel momento, non prevedono i risultati di un'altra attività.
+
 ## Domande frequenti
 
-### L'analisi dati agentica sostituisce la Business Intelligence?
+### L'analisi dati agentica sostituisce i cruscotti di controllo già in uso (Business Intelligence)?
 
-No. La Business Intelligence controlla indicatori noti; l'analisi agentica diagnostica cause, cerca segnali non evidenti e collega il risultato a una decisione.
+No. I cruscotti di controllo già in uso (Business Intelligence) tengono sotto controllo gli indicatori noti; l'analisi agentica diagnostica cause, cerca segnali non evidenti e collega il risultato a una decisione.
 
-### Serve già un data warehouse perfetto?
+### Servono già dati perfetti, in un unico archivio?
 
 No. Il primo valore può essere proprio verificare se i dati esistenti sono adatti, quali limiti hanno e quali dati raccogliere dopo.
 
@@ -657,9 +672,9 @@ Si lavora su un estratto concordato, con un perimetro scritto.
 
 Una mappa pubblica di esempi concreti per riconoscere dove l'intelligenza artificiale può ridurre tempi, errori, rischi o ritardi decisionali nei processi aziendali.
 
-## L'Atlante non è un catalogo rigido di prodotti.
+## Ogni scheda è un esempio di lavoro, non un prodotto da comprare.
 
-Ogni scheda descrive un modello applicativo: quali dati o materiali entrano, quale risultato può essere prodotto, quale valore aziendale può generare e quali controlli restano umani. Artik Lab parte sempre da una prima conversazione di diagnosi e progetta soluzioni specifiche sul contesto del cliente.
+Ogni scheda descrive un esempio di uso: quali dati o materiali entrano, quale risultato può essere prodotto, quale valore aziendale può generare e quali controlli restano umani. Artik Lab parte sempre da una prima conversazione di diagnosi e progetta soluzioni specifiche sul contesto del cliente.
 
 ## Esplorare per area, bisogno o processo.
 
@@ -672,13 +687,13 @@ Dossier LLM: https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md
 
 - Documenti e conoscenza: 4. Se il lavoro passa da PDF, scansioni, contratti o procedure.
 - Processi operativi: 6. Se decisioni, priorità e passaggi manuali rallentano il processo.
-- Persone e HR: 3. Se competenze, onboarding o feedback restano dispersi tra funzioni.
-- Cliente, marketing e vendite: 4. Se cliente, contenuti e vendite generano segnali che non vengono letti.
+- Persone e HR: 3. Se competenze, ingresso dei nuovi o giudizi restano sparsi tra uffici.
+- Cliente, marketing e vendite: 4. Se recensioni, ticket e vendite restano in testi che nessuno riassume.
 - Area tecnica e software: 4. Se regole, codice, disegni o sistemi tecnici devono diventare verificabili.
-- Governance, compliance e rischio: 3. Se uso AI, privacy, rischio e responsabilità non hanno ancora confini chiari.
+- Regole, obblighi e rischio: 3. Se uso AI, privacy, rischio e responsabilità non hanno ancora confini chiari.
 - Produzione, qualità e manutenzione: 3. Se produzione, qualità o manutenzione hanno dati che arrivano troppo tardi.
 - Formazione e memoria interna: 2. Se conoscenza interna e materiali formativi devono restare accessibili.
-- Data science e decisioni: 5. Se esistono storici, KPI o segnali da verificare prima di costruire.
+- Dati e decisioni: 5. Se ci sono storici o indicatori da controllare prima di fare un sistema.
 - Strumenti trasversali: 2. Se l'AI serve a esplorare, sintetizzare o preparare decisioni trasversali.
 
 ## Cosa si può fare con l'AI in azienda.
@@ -688,8 +703,8 @@ Dossier LLM: https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md
 PDF, immagini e moduli diventano testo, tabelle e campi strutturati riutilizzabili nei sistemi aziendali.
 
 - Area: Documenti e conoscenza
-- Input: PDF e allegati, scansioni e immagini, moduli compilati
-- Output: database strutturato, report operativo
+- Che cosa entra: PDF e allegati, scansioni e immagini, moduli compilati
+- Che cosa esce: database strutturato, report operativo
 - Valore: riduzione tempi, meno errori, tracciabilità
 - Segnali di bisogno: documenti dispersi e difficili da consultare, copie manuali tra email, fogli e gestionali
 - Revisione umana: consigliata
@@ -700,68 +715,68 @@ PDF, immagini e moduli diventano testo, tabelle e campi strutturati riutilizzabi
 Relazioni, contratti, capitolati e procedure vengono confrontati per trovare discrepanze, versioni divergenti e definizioni non allineate.
 
 - Area: Documenti e conoscenza
-- Input: PDF e allegati, documentazione interna, contratti e policy, bandi e capitolati
-- Output: report operativo, mappa rischi
+- Che cosa entra: PDF e allegati, documentazione interna, contratti e policy, bandi e capitolati
+- Che cosa esce: report operativo, mappa rischi
 - Valore: meno errori, riduzione del rischio, tracciabilità
 - Segnali di bisogno: errori ricorrenti in documenti, procedure o controlli, documenti dispersi e difficili da consultare
 - Revisione umana: necessaria
 - Rischio: medio
 
-### Rendere interrogabile la conoscenza aziendale
+### Cercare in manuali e procedure dell'azienda
 
 Manuali, procedure e knowledge base diventano un motore di ricerca semantico con risposte fondate su fonti citabili.
 
 - Area: Documenti e conoscenza
-- Input: documentazione interna, PDF e allegati, manuali e materiali formativi
-- Output: ricerca semantica, FAQ e risposte
-- Valore: conoscenza trasferibile, decisioni più rapide, servizio più uniforme
+- Che cosa entra: documentazione interna, PDF e allegati, manuali e materiali formativi
+- Che cosa esce: ricerca per significato, FAQ e risposte
+- Valore: sapere che non resta in una persona sola, decisioni più rapide, servizio più uniforme
 - Segnali di bisogno: documenti dispersi e difficili da consultare, conoscenza critica concentrata in poche persone
 - Revisione umana: consigliata
 - Rischio: medio
 
-### Trasformare riunioni, email e ticket in memoria operativa
+### Trasformare riunioni, email e ticket in decisioni e scadenze scritte
 
 Trascrizioni e thread vengono puliti, sintetizzati e convertiti in decisioni, attività, scadenze e rischi tracciabili.
 
 - Area: Processi operativi
-- Input: email e ticket, trascrizioni e appunti, ticket e richieste
-- Output: digest azionabile, roadmap e priorità
-- Valore: tracciabilità, decisioni più rapide, conoscenza trasferibile
+- Che cosa entra: email e ticket, trascrizioni e appunti, ticket e richieste
+- Che cosa esce: elenco di azioni, roadmap e priorità
+- Valore: tracciabilità, decisioni più rapide, sapere che non resta in una persona sola
 - Segnali di bisogno: decisioni ricorrenti lente o basate su informazioni incomplete, conoscenza critica concentrata in poche persone
 - Revisione umana: consigliata
 - Rischio: basso
 
-### Generare documenti controllati da template
+### Generare bozze da modelli aziendali, da far rileggere
 
 Report, lettere, contratti, FAQ e comunicazioni vengono prodotti da dati e template, con coerenza formale e revisione umana.
 
 - Area: Documenti e conoscenza
-- Input: database strutturato, documentazione interna, contratti e policy
-- Output: bozze controllate, FAQ e risposte
-- Valore: riduzione tempi, meno errori, conformità più governabile
+- Che cosa entra: database strutturato, documentazione interna, contratti e policy
+- Che cosa esce: bozze controllate, FAQ e risposte
+- Valore: riduzione tempi, meno errori, obblighi più facili da rispettare
 - Segnali di bisogno: copie manuali tra email, fogli e gestionali, errori ricorrenti in documenti, procedure o controlli
 - Revisione umana: necessaria
 - Rischio: medio
 
-### Mappare processi e ridisegnare workflow
+### Ricostruire come si lavora e dove si perde tempo
 
-Il lavoro reale viene ricostruito as-is, letto per colli di bottiglia e trasformato in uno scenario to-be con priorità e controlli.
+Il lavoro reale viene ricostruito come avviene oggi, letto per colli di bottiglia e trasformato in uno scenario futuro con priorità e controlli.
 
 - Area: Processi operativi
-- Input: trascrizioni e appunti, log e stati di processo, email e ticket, fogli di calcolo
-- Output: roadmap e priorità, business case
+- Che cosa entra: trascrizioni e appunti, registri e stati del lavoro, email e ticket, fogli di calcolo
+- Che cosa esce: roadmap e priorità, valutazione di costo e ritorno
 - Valore: priorità più chiare, decisioni più rapide, costi evitati
 - Segnali di bisogno: decisioni ricorrenti lente o basate su informazioni incomplete, copie manuali tra email, fogli e gestionali, uso AI già presente ma senza regole condivise
 - Revisione umana: consigliata
 - Rischio: medio
 
-### Fare triage di email, ticket e richieste
+### Classificare email, ticket e richieste in arrivo
 
 Le comunicazioni in ingresso vengono classificate per urgenza, tema, responsabilità e azione richiesta, con bozze di risposta controllate.
 
 - Area: Processi operativi
-- Input: email e ticket, ticket e richieste, documentazione interna
-- Output: digest azionabile, bozze controllate, ranking di priorità
+- Che cosa entra: email e ticket, ticket e richieste, documentazione interna
+- Che cosa esce: elenco di azioni, bozze controllate, ranking di priorità
 - Valore: riduzione tempi, servizio più uniforme, priorità più chiare
 - Segnali di bisogno: copie manuali tra email, fogli e gestionali, decisioni ricorrenti lente o basate su informazioni incomplete
 - Revisione umana: consigliata
@@ -772,8 +787,8 @@ Le comunicazioni in ingresso vengono classificate per urgenza, tema, responsabil
 Disponibilità, vincoli, competenze, ferie e domanda vengono combinati per proporre piani fattibili e spiegabili.
 
 - Area: Processi operativi
-- Input: fogli di calcolo, ERP e gestionali, KPI e serie storiche
-- Output: piano e assegnazioni, dashboard e viste filtrabili
+- Che cosa entra: fogli di calcolo, ERP e gestionali, indicatori e serie storiche
+- Che cosa esce: piano e assegnazioni, dashboard e viste filtrabili
 - Valore: efficienza produttiva, decisioni più rapide, costi evitati
 - Segnali di bisogno: pianificazione ancora molto manuale, dati storici disponibili ma non trasformati in segnali
 - Revisione umana: necessaria
@@ -784,92 +799,92 @@ Disponibilità, vincoli, competenze, ferie e domanda vengono combinati per propo
 Serie storiche di ordini, incassi, ticket o produzione diventano stime operative da usare per acquisti, turni e capacità.
 
 - Area: Processi operativi
-- Input: transazioni e acquisti, KPI e serie storiche, dati di produzione
-- Output: previsione verificabile, dashboard e viste filtrabili
+- Che cosa entra: transazioni e acquisti, indicatori e serie storiche, dati di produzione
+- Che cosa esce: previsione verificabile, dashboard e viste filtrabili
 - Valore: decisioni più rapide, costi evitati, efficienza produttiva
 - Segnali di bisogno: dati storici disponibili ma non trasformati in segnali, pianificazione ancora molto manuale
 - Revisione umana: consigliata
 - Rischio: medio
 
-### Tenere vivi requisiti, decisioni e stakeholder
+### Tenere aggiornati requisiti, decisioni e persone coinvolte
 
 Riunioni e documenti progettuali alimentano un dossier evolutivo con requisiti, conflitti latenti, decisioni e issue.
 
 - Area: Processi operativi
-- Input: trascrizioni e appunti, requisiti e specifiche, documentazione interna
-- Output: roadmap e priorità, mappa rischi
-- Valore: tracciabilità, meno errori, conoscenza trasferibile
+- Che cosa entra: trascrizioni e appunti, requisiti e specifiche, documentazione interna
+- Che cosa esce: roadmap e priorità, mappa rischi
+- Valore: tracciabilità, meno errori, sapere che non resta in una persona sola
 - Segnali di bisogno: decisioni ricorrenti lente o basate su informazioni incomplete, conoscenza critica concentrata in poche persone
 - Revisione umana: necessaria
 - Rischio: medio
 
 ### Leggere feedback, recensioni e ticket cliente
 
-Testi non strutturati vengono aggregati per temi, sentiment, bisogni ricorrenti e azioni prioritarie.
+Testi liberi vengono raggruppati per temi, tono, bisogni ricorrenti e azioni prioritarie.
 
 - Area: Cliente, marketing e vendite
-- Input: feedback testuali, ticket e richieste, fonti pubbliche
-- Output: report operativo, ranking di priorità
-- Valore: servizio più uniforme, valore commerciale recuperato, priorità più chiare
+- Che cosa entra: feedback testuali, ticket e richieste, fonti pubbliche
+- Che cosa esce: report operativo, ranking di priorità
+- Valore: servizio più uniforme, vendite o margine recuperati, priorità più chiare
 - Segnali di bisogno: feedback abbondante ma non analizzato, decisioni ricorrenti lente o basate su informazioni incomplete
 - Revisione umana: consigliata
 - Rischio: medio
 
 ### Scoprire bisogni di mercato e target
 
-Fonti pubbliche e materiali forniti vengono sintetizzati in mappe di pain point, linguaggi, segmenti, partner e opportunità.
+Fonti pubbliche e materiali forniti vengono sintetizzati in mappe di problemi, linguaggi, segmenti, partner e opportunità.
 
 - Area: Cliente, marketing e vendite
-- Input: fonti pubbliche, feedback testuali, documentazione interna
-- Output: report operativo, business case
-- Valore: valore commerciale recuperato, priorità più chiare, decisioni più rapide
+- Che cosa entra: fonti pubbliche, feedback testuali, documentazione interna
+- Che cosa esce: report operativo, valutazione di costo e ritorno
+- Valore: vendite o margine recuperati, priorità più chiare, decisioni più rapide
 - Segnali di bisogno: feedback abbondante ma non analizzato, decisioni ricorrenti lente o basate su informazioni incomplete
 - Revisione umana: consigliata
 - Rischio: medio
 
-### Codificare voce di marca e contenuti
+### Fissare il tono di marca e preparare bozze coerenti
 
 Interviste, esempi approvati e materiali commerciali diventano linee guida operative e bozze multicanale coerenti.
 
 - Area: Cliente, marketing e vendite
-- Input: documentazione interna, feedback testuali, fonti pubbliche
-- Output: policy e guardrail, bozze controllate
-- Valore: riduzione tempi, valore commerciale recuperato, tracciabilità
+- Che cosa entra: documentazione interna, feedback testuali, fonti pubbliche
+- Che cosa esce: regole e limiti d'uso, bozze controllate
+- Valore: riduzione tempi, vendite o margine recuperati, tracciabilità
 - Segnali di bisogno: errori ricorrenti in documenti, procedure o controlli, copie manuali tra email, fogli e gestionali
 - Revisione umana: necessaria
 - Rischio: basso
 
-### Supportare vendite, pricing e raccomandazioni
+### Aiutare vendite, prezzi e proposte al cliente
 
 Storici di acquisto, cataloghi e informazioni competitive aiutano a costruire pitch, bundle, priorità commerciali e scenari prezzo.
 
 - Area: Cliente, marketing e vendite
-- Input: transazioni e acquisti, documentazione interna, fonti pubbliche
-- Output: raccomandazioni operative, business case
-- Valore: valore commerciale recuperato, decisioni più rapide, priorità più chiare
+- Che cosa entra: transazioni e acquisti, documentazione interna, fonti pubbliche
+- Che cosa esce: raccomandazioni operative, valutazione di costo e ritorno
+- Valore: vendite o margine recuperati, decisioni più rapide, priorità più chiare
 - Segnali di bisogno: dati storici disponibili ma non trasformati in segnali, decisioni ricorrenti lente o basate su informazioni incomplete
 - Revisione umana: necessaria
 - Rischio: medio
 
 ### Mappare competenze e fabbisogni
 
-Competenze, ruoli, obiettivi futuri e trend vengono collegati per definire priorità di sviluppo, upskilling e reskilling.
+Competenze, ruoli, obiettivi futuri e trend vengono collegati per definire priorità di sviluppo, di formazione e di riqualificazione.
 
 - Area: Persone e HR
-- Input: dati HR aggregati, documentazione interna, fonti pubbliche
-- Output: roadmap e priorità, report operativo
-- Valore: conoscenza trasferibile, priorità più chiare, formazione più rapida
+- Che cosa entra: dati HR aggregati, documentazione interna, fonti pubbliche
+- Che cosa esce: roadmap e priorità, report operativo
+- Valore: sapere che non resta in una persona sola, priorità più chiare, formazione più rapida
 - Segnali di bisogno: conoscenza critica concentrata in poche persone, uso AI già presente ma senza regole condivise
 - Revisione umana: necessaria
 - Rischio: medio
 
-### Supportare recruiting e onboarding
+### Aiutare selezione e ingresso dei nuovi assunti
 
 Job description, candidature e materiali di ingresso vengono strutturati per preparare valutazioni, comunicazioni e percorsi iniziali.
 
 - Area: Persone e HR
-- Input: CV e candidature, dati HR aggregati, manuali e materiali formativi
-- Output: report operativo, bozze controllate
+- Che cosa entra: CV e candidature, dati HR aggregati, manuali e materiali formativi
+- Che cosa esce: report operativo, bozze controllate
 - Valore: riduzione tempi, meno errori, formazione più rapida
 - Segnali di bisogno: copie manuali tra email, fogli e gestionali, conoscenza critica concentrata in poche persone
 - Revisione umana: necessaria
@@ -880,32 +895,32 @@ Job description, candidature e materiali di ingresso vengono strutturati per pre
 Policy, benefit, procedure e richieste ricorrenti diventano FAQ, bozze e percorsi guidati, sempre con controllo della funzione competente.
 
 - Area: Persone e HR
-- Input: dati HR aggregati, documentazione interna, contratti e policy
-- Output: FAQ e risposte, bozze controllate
-- Valore: servizio più uniforme, riduzione tempi, conformità più governabile
+- Che cosa entra: dati HR aggregati, documentazione interna, contratti e policy
+- Che cosa esce: FAQ e risposte, bozze controllate
+- Valore: servizio più uniforme, riduzione tempi, obblighi più facili da rispettare
 - Segnali di bisogno: copie manuali tra email, fogli e gestionali, documenti dispersi e difficili da consultare
 - Revisione umana: necessaria
 - Rischio: alto
 
-### Definire requisiti, MVP e criteri di accettazione
+### Definire requisiti, primo rilascio minimo e criteri di accettazione
 
-Un bisogno tecnico viene trasformato in requisiti, user story, vincoli non funzionali, stime e confini del primo rilascio.
+Un bisogno tecnico viene trasformato in requisiti, storie d'uso, vincoli, stime e confini del primo rilascio.
 
 - Area: Area tecnica e software
-- Input: requisiti e specifiche, trascrizioni e appunti, documentazione interna
-- Output: roadmap e priorità, test e checklist
+- Che cosa entra: requisiti e specifiche, trascrizioni e appunti, documentazione interna
+- Che cosa esce: roadmap e priorità, test e checklist
 - Valore: meno errori, tracciabilità, costi evitati
 - Segnali di bisogno: decisioni ricorrenti lente o basate su informazioni incomplete, errori ricorrenti in documenti, procedure o controlli
 - Revisione umana: necessaria
 - Rischio: medio
 
-### Accelerare sviluppo, refactoring e test
+### Accelerare scrittura, pulizia e test del codice
 
 Codice esistente e specifiche guidano generazione controllata di codice, test unitari, refactoring e audit di qualità.
 
 - Area: Area tecnica e software
-- Input: codice e repository, requisiti e specifiche
-- Output: test e checklist, report operativo
+- Che cosa entra: codice e repository, requisiti e specifiche
+- Che cosa esce: test e checklist, report operativo
 - Valore: riduzione tempi, meno errori, tracciabilità
 - Segnali di bisogno: errori ricorrenti in documenti, procedure o controlli, copie manuali tra email, fogli e gestionali
 - Revisione umana: necessaria
@@ -916,8 +931,8 @@ Codice esistente e specifiche guidano generazione controllata di codice, test un
 Bandi, capitolati, relazioni e schede tecniche vengono analizzati per requisiti critici, rischi e bozze documentali.
 
 - Area: Area tecnica e software
-- Input: bandi e capitolati, documentazione interna, disegni tecnici
-- Output: report operativo, bozze controllate, mappa rischi
+- Che cosa entra: bandi e capitolati, documentazione interna, disegni tecnici
+- Che cosa esce: report operativo, bozze controllate, mappa rischi
 - Valore: riduzione del rischio, meno errori, tracciabilità
 - Segnali di bisogno: documenti dispersi e difficili da consultare, errori ricorrenti in documenti, procedure o controlli
 - Revisione umana: necessaria
@@ -925,24 +940,24 @@ Bandi, capitolati, relazioni e schede tecniche vengono analizzati per requisiti 
 
 ### Interpretare immagini, disegni e materiali tecnici
 
-Foto, disegni e render vengono trasformati in schede descrittive, analisi di componenti, quote e narrazioni tecniche verificabili.
+Foto, disegni e render vengono trasformati in schede descrittive, analisi di componenti, misure e descrizioni tecniche da verificare.
 
 - Area: Area tecnica e software
-- Input: fotografie operative, disegni tecnici, documentazione interna
-- Output: report operativo, bozze controllate
-- Valore: conoscenza trasferibile, decisioni più rapide, meno errori
+- Che cosa entra: fotografie operative, disegni tecnici, documentazione interna
+- Che cosa esce: report operativo, bozze controllate
+- Valore: sapere che non resta in una persona sola, decisioni più rapide, meno errori
 - Segnali di bisogno: conoscenza critica concentrata in poche persone, documenti dispersi e difficili da consultare
 - Revisione umana: necessaria
 - Rischio: medio
 
-### Costruire governance, policy e matrice di rischio AI
+### Definire regole, limiti e rischi dell'uso di AI
 
 Attività, dati e decisioni vengono classificati in zone di autonomia, supervisione o esclusione, con regole operative chiare.
 
-- Area: Governance, compliance e rischio
-- Input: documentazione interna, policy e linee guida, trascrizioni e appunti
-- Output: policy e guardrail, mappa rischi, roadmap e priorità
-- Valore: riduzione del rischio, conformità più governabile, priorità più chiare
+- Area: Regole, obblighi e rischio
+- Che cosa entra: documentazione interna, policy e linee guida, trascrizioni e appunti
+- Che cosa esce: regole e limiti d'uso, mappa rischi, roadmap e priorità
+- Valore: riduzione del rischio, obblighi più facili da rispettare, priorità più chiare
 - Segnali di bisogno: uso AI già presente ma senza regole condivise, decisioni ricorrenti lente o basate su informazioni incomplete
 - Revisione umana: necessaria
 - Rischio: alto
@@ -951,34 +966,34 @@ Attività, dati e decisioni vengono classificati in zone di autonomia, supervisi
 
 Contratti, informative, registri, procedure e lettere vengono predisposti come supporto preparatorio da verificare con specialisti.
 
-- Area: Governance, compliance e rischio
-- Input: contratti e policy, documentazione interna, moduli compilati
-- Output: bozze controllate, mappa rischi
-- Valore: riduzione tempi, conformità più governabile, riduzione del rischio
+- Area: Regole, obblighi e rischio
+- Che cosa entra: contratti e policy, documentazione interna, moduli compilati
+- Che cosa esce: bozze controllate, mappa rischi
+- Valore: riduzione tempi, obblighi più facili da rispettare, riduzione del rischio
 - Segnali di bisogno: copie manuali tra email, fogli e gestionali, errori ricorrenti in documenti, procedure o controlli
 - Revisione umana: necessaria
 - Rischio: alto
 
 ### Testare assistenti AI contro usi impropri
 
-Chatbot e assistenti vengono stressati con scenari di manipolazione, fuga dati e istruzioni conflittuali, poi rinforzati con guardrail.
+Chatbot e assistenti vengono stressati con scenari di manipolazione, fuga dati e istruzioni conflittuali, poi rinforzati con limiti d'uso scritti.
 
-- Area: Governance, compliance e rischio
-- Input: documentazione interna, requisiti e specifiche, policy e linee guida
-- Output: test e checklist, policy e guardrail, report operativo
-- Valore: riduzione del rischio, conformità più governabile, servizio più uniforme
+- Area: Regole, obblighi e rischio
+- Che cosa entra: documentazione interna, requisiti e specifiche, policy e linee guida
+- Che cosa esce: test e checklist, regole e limiti d'uso, report operativo
+- Valore: riduzione del rischio, obblighi più facili da rispettare, servizio più uniforme
 - Segnali di bisogno: uso AI già presente ma senza regole condivise, errori ricorrenti in documenti, procedure o controlli
 - Revisione umana: necessaria
 - Rischio: alto
 
-### Analizzare anomalie HSE da immagini operative
+### Analizzare da foto di reparto rischi per salute e sicurezza
 
 Fotografie di sopralluogo o reparto vengono lette per individuare non conformità, rischi e misure preventive da verificare.
 
 - Area: Produzione, qualità e manutenzione
-- Input: fotografie operative, documentazione interna
-- Output: report operativo, mappa rischi
-- Valore: riduzione del rischio, decisioni più rapide, conformità più governabile
+- Che cosa entra: fotografie operative, documentazione interna
+- Che cosa esce: report operativo, mappa rischi
+- Valore: riduzione del rischio, decisioni più rapide, obblighi più facili da rispettare
 - Segnali di bisogno: errori ricorrenti in documenti, procedure o controlli, copie manuali tra email, fogli e gestionali
 - Revisione umana: necessaria
 - Rischio: alto
@@ -988,8 +1003,8 @@ Fotografie di sopralluogo o reparto vengono lette per individuare non conformit�
 Programmi cliente, ERP, cicli, non conformità e costi storici supportano priorità, preventivi e azioni correttive.
 
 - Area: Produzione, qualità e manutenzione
-- Input: ERP e gestionali, dati di produzione, fogli di calcolo
-- Output: piano e assegnazioni, report operativo, raccomandazioni operative
+- Che cosa entra: ERP e gestionali, dati di produzione, fogli di calcolo
+- Che cosa esce: piano e assegnazioni, report operativo, raccomandazioni operative
 - Valore: efficienza produttiva, meno errori, costi evitati
 - Segnali di bisogno: pianificazione ancora molto manuale, errori ricorrenti in documenti, procedure o controlli
 - Revisione umana: necessaria
@@ -1000,8 +1015,8 @@ Programmi cliente, ERP, cicli, non conformità e costi storici supportano priori
 Storico guasti, sensori e interventi diventano priorità di controllo, finestre di manutenzione e alert operativi.
 
 - Area: Produzione, qualità e manutenzione
-- Input: sensori e telemetria, dati di produzione, log e stati di processo
-- Output: allarmi e soglie, ranking di priorità, dashboard e viste filtrabili
+- Che cosa entra: sensori e misure a distanza, dati di produzione, registri e stati del lavoro
+- Che cosa esce: allarmi e soglie, ranking di priorità, dashboard e viste filtrabili
 - Valore: efficienza produttiva, costi evitati, riduzione del rischio
 - Segnali di bisogno: dati storici disponibili ma non trasformati in segnali, pianificazione ancora molto manuale
 - Revisione umana: necessaria
@@ -1009,36 +1024,36 @@ Storico guasti, sensori e interventi diventano priorità di controllo, finestre 
 
 ### Creare formazione, quiz e slide da materiali interni
 
-Manuali, slide e documenti disaggregati diventano syllabus, quiz, casi studio e materiali didattici per ruolo.
+Manuali, slide e documenti disaggregati diventano programma del corso, quiz, casi studio e materiali didattici per ruolo.
 
 - Area: Formazione e memoria interna
-- Input: manuali e materiali formativi, documentazione interna, trascrizioni e appunti
-- Output: FAQ e risposte, bozze controllate
-- Valore: formazione più rapida, conoscenza trasferibile, servizio più uniforme
+- Che cosa entra: manuali e materiali formativi, documentazione interna, trascrizioni e appunti
+- Che cosa esce: FAQ e risposte, bozze controllate
+- Valore: formazione più rapida, sapere che non resta in una persona sola, servizio più uniforme
 - Segnali di bisogno: conoscenza critica concentrata in poche persone, documenti dispersi e difficili da consultare
 - Revisione umana: consigliata
 - Rischio: basso
 
-### Costruire assistenti per memoria aziendale
+### Costruire assistenti che rispondono dai documenti interni
 
-La documentazione interna alimenta assistenti Q&A, anche vocali, che rispondono con fonti e confini d'uso chiari.
+La documentazione interna alimenta assistenti a domande e risposte, anche vocali, che rispondono con fonti e confini d'uso chiari.
 
 - Area: Formazione e memoria interna
-- Input: documentazione interna, manuali e materiali formativi, policy e linee guida
-- Output: ricerca semantica, FAQ e risposte, policy e guardrail
-- Valore: conoscenza trasferibile, servizio più uniforme, riduzione tempi
+- Che cosa entra: documentazione interna, manuali e materiali formativi, policy e linee guida
+- Che cosa esce: ricerca per significato, FAQ e risposte, regole e limiti d'uso
+- Valore: sapere che non resta in una persona sola, servizio più uniforme, riduzione tempi
 - Segnali di bisogno: conoscenza critica concentrata in poche persone, documenti dispersi e difficili da consultare
 - Revisione umana: necessaria
 - Rischio: medio
 
-### Produrre report executive e asset visuali
+### Produrre report per la direzione e materiali visivi
 
 Dati, KPI e materiali eterogenei vengono trasformati in report narrativi, infografiche, presentazioni e contenuti visuali coerenti.
 
 - Area: Strumenti trasversali
-- Input: KPI e serie storiche, fogli di calcolo, documentazione interna
-- Output: report operativo, dashboard e viste filtrabili, bozze controllate
-- Valore: decisioni più rapide, tracciabilità, valore commerciale recuperato
+- Che cosa entra: indicatori e serie storiche, fogli di calcolo, documentazione interna
+- Che cosa esce: report operativo, dashboard e viste filtrabili, bozze controllate
+- Valore: decisioni più rapide, tracciabilità, vendite o margine recuperati
 - Segnali di bisogno: dati storici disponibili ma non trasformati in segnali, copie manuali tra email, fogli e gestionali
 - Revisione umana: consigliata
 - Rischio: basso
@@ -1047,22 +1062,22 @@ Dati, KPI e materiali eterogenei vengono trasformati in report narrativi, infogr
 
 Serie temporali e sensori industriali vengono usati per allarmi, analisi degrado e manutenzione predittiva con soglie verificabili.
 
-- Area: Data science e decisioni
-- Input: sensori e telemetria, dati di produzione, KPI e serie storiche
-- Output: allarmi e soglie, previsione verificabile, dashboard e viste filtrabili
+- Area: Dati e decisioni
+- Che cosa entra: sensori e misure a distanza, dati di produzione, indicatori e serie storiche
+- Che cosa esce: allarmi e soglie, previsione verificabile, dashboard e viste filtrabili
 - Valore: efficienza produttiva, costi evitati, riduzione del rischio
 - Segnali di bisogno: dati storici disponibili ma non trasformati in segnali, pianificazione ancora molto manuale
 - Revisione umana: necessaria
 - Rischio: medio
 
-### Segmentare clienti, churn e cross-selling
+### Segmentare i clienti, chi sta per andarsene e cosa proporre in più
 
 Storici transazionali e comportamentali diventano segmenti, ranking di rischio, bundle e azioni commerciali differenziate.
 
-- Area: Data science e decisioni
-- Input: transazioni e acquisti, feedback testuali, KPI e serie storiche
-- Output: ranking di priorità, raccomandazioni operative, business case
-- Valore: valore commerciale recuperato, priorità più chiare, servizio più uniforme
+- Area: Dati e decisioni
+- Che cosa entra: transazioni e acquisti, feedback testuali, indicatori e serie storiche
+- Che cosa esce: ranking di priorità, raccomandazioni operative, valutazione di costo e ritorno
+- Valore: vendite o margine recuperati, priorità più chiare, servizio più uniforme
 - Segnali di bisogno: dati storici disponibili ma non trasformati in segnali, feedback abbondante ma non analizzato
 - Revisione umana: necessaria
 - Rischio: medio
@@ -1071,9 +1086,9 @@ Storici transazionali e comportamentali diventano segmenti, ranking di rischio, 
 
 Telemetria, consumi, qualità e parametri macchina mostrano profili efficienti, sprechi e raccomandazioni operative.
 
-- Area: Data science e decisioni
-- Input: sensori e telemetria, dati di produzione, KPI e serie storiche
-- Output: dashboard e viste filtrabili, raccomandazioni operative, business case
+- Area: Dati e decisioni
+- Che cosa entra: sensori e misure a distanza, dati di produzione, indicatori e serie storiche
+- Che cosa esce: dashboard e viste filtrabili, raccomandazioni operative, valutazione di costo e ritorno
 - Valore: efficienza produttiva, costi evitati, decisioni più rapide
 - Segnali di bisogno: dati storici disponibili ma non trasformati in segnali, errori ricorrenti in documenti, procedure o controlli
 - Revisione umana: necessaria
@@ -1083,39 +1098,39 @@ Telemetria, consumi, qualità e parametri macchina mostrano profili efficienti, 
 
 Dati aggregati fiscali, territoriali o commerciali vengono trasformati in mappe, cluster, driver di marginalità e roadmap decisionali.
 
-- Area: Data science e decisioni
-- Input: transazioni e acquisti, fonti pubbliche, KPI e serie storiche
-- Output: dashboard e viste filtrabili, report operativo, business case
-- Valore: decisioni più rapide, priorità più chiare, valore commerciale recuperato
+- Area: Dati e decisioni
+- Che cosa entra: transazioni e acquisti, fonti pubbliche, indicatori e serie storiche
+- Che cosa esce: dashboard e viste filtrabili, report operativo, valutazione di costo e ritorno
+- Valore: decisioni più rapide, priorità più chiare, vendite o margine recuperati
 - Segnali di bisogno: dati storici disponibili ma non trasformati in segnali, decisioni ricorrenti lente o basate su informazioni incomplete
 - Revisione umana: consigliata
 - Rischio: medio
 
-### Capire quando non costruire un modello
+### Capire quando i dati non bastano per una previsione
 
 Il primo valore può essere un verdetto negativo: il dato disponibile non contiene ancora il segnale utile e va migliorata la raccolta.
 
-- Area: Data science e decisioni
-- Input: KPI e serie storiche, transazioni e acquisti, log e stati di processo
-- Output: report operativo, business case, roadmap e priorità
+- Area: Dati e decisioni
+- Che cosa entra: indicatori e serie storiche, transazioni e acquisti, registri e stati del lavoro
+- Che cosa esce: report operativo, valutazione di costo e ritorno, roadmap e priorità
 - Valore: costi evitati, priorità più chiare, tracciabilità
 - Segnali di bisogno: dati storici disponibili ma non trasformati in segnali, decisioni ricorrenti lente o basate su informazioni incomplete
 - Revisione umana: consigliata
 - Rischio: basso
 
-### Usare l'AI come laboratorio di scoperta
+### Usare l'AI per generare ipotesi da verificare
 
 Casi, materiali e vincoli vengono esplorati per generare ipotesi, scenari, concept, simulazioni di ruolo e opportunità da verificare.
 
 - Area: Strumenti trasversali
-- Input: documentazione interna, feedback testuali, fonti pubbliche
-- Output: report operativo, raccomandazioni operative, bozze controllate
-- Valore: valore commerciale recuperato, priorità più chiare, decisioni più rapide
+- Che cosa entra: documentazione interna, feedback testuali, fonti pubbliche
+- Che cosa esce: report operativo, raccomandazioni operative, bozze controllate
+- Valore: vendite o margine recuperati, priorità più chiare, decisioni più rapide
 - Segnali di bisogno: decisioni ricorrenti lente o basate su informazioni incomplete, feedback abbondante ma non analizzato
 - Revisione umana: consigliata
 - Rischio: basso
 
-## Dalla mappa al processo reale: si parte da una call.
+## Per passare dall'esempio al caso dell'azienda si parte da un colloquio.
 
 La pagina serve a orientare. La soluzione nasce solo dopo aver visto settore, vincoli, dati disponibili, responsabilità e decisione da migliorare.
 
@@ -1139,11 +1154,11 @@ Le schede aggregano pattern e settori, rimuovono nomi, clienti, persone fisiche,
 
 <!-- https://ar-tik.com/domande-frequenti-ai-aziende.md -->
 
-# FAQ AI per aziende: da dove partire, cosa scegliere, cosa evitare.
+# Domande frequenti sull'AI in azienda
 
-Un repertorio pubblico di domande reali per orientare imprenditori, direzione e funzioni aziendali tra consulenza, corsi, analisi dati, software tecnico e Atlante applicazioni AI.
+Domande per scegliere tra consulenza, corsi, analisi dati e software, prima di iniziare.
 
-## La FAQ funziona come una bussola, non come un listino.
+## Le risposte servono a scegliere il passo successivo, non a leggere un listino.
 
 Ogni risposta aiuta a capire il prossimo passo utile. Artik Lab parte da una prima conversazione di diagnosi, legge processo, dati, vincoli e responsabilità, poi propone il formato più adatto al contesto reale del cliente.
 
@@ -1152,23 +1167,23 @@ Dossier LLM: https://ar-tik.com/domande-frequenti-ai-aziende-dossier.md
 
 ## Esplorare per area o intenzione.
 
-- Le domande che bloccano la decisione: 7. Costo, dati, software, corso già fatto, tempi, incentivi: le risposte brevi prima di scrivere.
+- Dubbi prima di scrivere: costo, dati, tempi: 7. Risposte brevi su costo, dati, tempi e incentivi, prima di scrivere.
 - Da dove iniziare: 5. Quando l'azienda sente il bisogno di AI ma non ha ancora un progetto definito.
 - Prima conversazione e metodo: 5. Cosa succede prima di scegliere consulenza, corso, analisi o software.
 - Costi, tempi e ROI: 5. Come ragionare su investimento, ritorno, priorità e rischio.
 - Dati, documenti e privacy: 5. Quando servono dati, come prepararli e quali controlli rispettare.
-- Consulenza manageriale AI: 5. Domande su governance, roadmap, priorità, policy e sponsor interni.
+- Consulenza manageriale AI: 5. Domande su regole, priorità, percorsi e chi decide in azienda.
 - Formazione e corsi AI: 5. Quando trasferire competenze a manager, team e funzioni aziendali.
-- Analisi dati agentica: 5. Quando il primo valore è verificare segnali nei dati già disponibili.
-- Software tecnico e automazioni: 5. Quando serve costruire un sistema verificabile, non solo usare strumenti esistenti.
-- Atlante applicazioni AI: 4. Come usare esempi e pattern senza leggerli come prodotti standard.
-- Governance, rischi e revisione umana: 4. Responsabilità, policy, controlli e limiti operativi dell'AI.
-- Adozione interna e team: 4. Come evitare resistenze, uso informale e iniziative isolate.
+- Analisi dati agentica: 5. Quando serve capire se i dati già disponibili contengono informazioni di valore.
+- Software su misura e automazioni: 5. Quando serve costruire un sistema verificabile, non solo usare strumenti esistenti.
+- Atlante applicazioni AI: 4. Come usare gli esempi senza leggerli come prodotti già pronti.
+- Regole, rischi e controllo da parte di una persona: 4. Responsabilità, policy, controlli e limiti operativi dell'AI.
+- Far usare l'AI in azienda, senza iniziative isolate: 4. Come evitare resistenze, uso informale e iniziative isolate.
 - Scegliere il percorso giusto: 4. Differenze pratiche tra formazione, consulenza, analisi dati e sviluppo software.
 - Limiti dell'AI: 4. Quando fermarsi, non automatizzare o rimandare il progetto.
 - Prima di contattare Artik Lab: 4. Cosa preparare e che cosa aspettarsi dal primo scambio.
 
-## Le domande che bloccano la decisione
+## Dubbi prima di scrivere: costo, dati, tempi
 
 ### Quanto costa?
 
@@ -1190,7 +1205,7 @@ Limite da considerare: Le risposte valgono per i servizi come sono descritti in 
 
 Prossimo passo: Portare il caso nella prima conversazione con processo, obiettivo, dati disponibili e vincoli.
 
-### È un altro fornitore che poi vende software?
+### La consulenza serve a vendere poi un software?
 
 Risposta breve: La consulenza non è la porta del software.
 
@@ -1230,7 +1245,7 @@ Limite da considerare: Le risposte valgono per i servizi come sono descritti in 
 
 Prossimo passo: Portare il caso nella prima conversazione con processo, obiettivo, dati disponibili e vincoli.
 
-### Quanti lavori si possono fare?
+### Quante attività si possono fare, una dopo l'altra?
 
 Risposta breve: Si decide con l'azienda, in base alle necessità.
 
@@ -1359,7 +1374,7 @@ Limite da considerare: Il ROI non va promesso prima di conoscere processo, basel
 
 Prossimo passo: Portare il caso nella prima conversazione con processo, obiettivo, dati disponibili e vincoli.
 
-### Come valutare il ROI di un progetto AI?
+### Come valutare il ritorno di un progetto AI?
 
 Risposta breve: Il ROI si valuta confrontando costo attuale, miglioramento possibile e azioni realmente attivabili.
 
@@ -1410,7 +1425,7 @@ Dettaglio operativo: La pulizia perfetta raramente esiste all'inizio. Il primo l
 
 Limite da considerare: Dati personali, regolati o riservati richiedono minimizzazione, accessi e revisione competente.
 
-Prossimo passo: Valutare un'analisi dati agentica se serve verificare il segnale prima di costruire.
+Prossimo passo: Valutare un'analisi dati agentica se serve capire se i dati bastano, prima di costruire.
 
 ### L'AI può lavorare anche su documenti, email e procedure?
 
@@ -1450,7 +1465,7 @@ Dettaglio operativo: Non sempre si costruisce un modello. A volte il lavoro migl
 
 Limite da considerare: Dati personali, regolati o riservati richiedono minimizzazione, accessi e revisione competente.
 
-Prossimo passo: Valutare un'analisi dati agentica se serve verificare il segnale prima di costruire.
+Prossimo passo: Valutare un'analisi dati agentica se serve capire se i dati bastano, prima di costruire.
 
 
 ## Consulenza manageriale AI
@@ -1485,7 +1500,7 @@ Limite da considerare: Senza sponsor interno e decisioni reali, la consulenza re
 
 Prossimo passo: Aprire un percorso di consulenza per chiarire priorità, governance e roadmap.
 
-### Serve uno sponsor interno per iniziare?
+### Serve in azienda qualcuno che possa decidere le priorità?
 
 Risposta breve: Sì, almeno una persona deve poter decidere priorità e validare risultati.
 
@@ -1569,19 +1584,19 @@ Dettaglio operativo: Se l'azienda ha storici, ordini, ticket, sensori o KPI ma n
 
 Limite da considerare: Se il dato non contiene segnale, forzare il modello produce costi e false certezze.
 
-Prossimo passo: Valutare un'analisi dati agentica se serve verificare il segnale prima di costruire.
+Prossimo passo: Valutare un'analisi dati agentica se serve capire se i dati bastano, prima di costruire.
 
-### L'analisi dati agentica sostituisce la Business Intelligence?
+### L'analisi dati agentica sostituisce i cruscotti di controllo già in uso (Business Intelligence)?
 
-Risposta breve: No, la completa quando serve passare da indicatori a decisioni.
+Risposta breve: No, li completa quando serve passare da indicatori a decisioni.
 
-Dettaglio operativo: La BI controlla metriche note e andamento passato. L'analisi agentica cerca segnali, anomalie, priorità o criteri di stop collegati a un'azione concreta.
+Dettaglio operativo: I cruscotti di controllo già in uso (Business Intelligence) tengono sotto controllo metriche note e andamento passato. L'analisi agentica cerca segnali, anomalie, priorità o criteri di stop collegati a un'azione concreta.
 
 Limite da considerare: Se il dato non contiene segnale, forzare il modello produce costi e false certezze.
 
-Prossimo passo: Valutare un'analisi dati agentica se serve verificare il segnale prima di costruire.
+Prossimo passo: Valutare un'analisi dati agentica se serve capire se i dati bastano, prima di costruire.
 
-### Che valore ha un risultato negativo sui dati?
+### Che valore ha scoprire che i dati non bastano?
 
 Risposta breve: Ha valore perché evita di finanziare un modello fragile.
 
@@ -1589,9 +1604,9 @@ Dettaglio operativo: Sapere che il segnale non c'è ancora consente di cambiare 
 
 Limite da considerare: Se il dato non contiene segnale, forzare il modello produce costi e false certezze.
 
-Prossimo passo: Valutare un'analisi dati agentica se serve verificare il segnale prima di costruire.
+Prossimo passo: Valutare un'analisi dati agentica se serve capire se i dati bastano, prima di costruire.
 
-### Quale KPI serve prima di analizzare i dati?
+### Quale indicatore serve prima di analizzare i dati?
 
 Risposta breve: Serve un KPI legato a una decisione o azione, non solo a un grafico.
 
@@ -1599,7 +1614,7 @@ Dettaglio operativo: Esempi utili: ordine da sollecitare, lotto da controllare, 
 
 Limite da considerare: Se il dato non contiene segnale, forzare il modello produce costi e false certezze.
 
-Prossimo passo: Valutare un'analisi dati agentica se serve verificare il segnale prima di costruire.
+Prossimo passo: Valutare un'analisi dati agentica se serve capire se i dati bastano, prima di costruire.
 
 ### Le decisioni basate sui dati restano umane?
 
@@ -1609,12 +1624,12 @@ Dettaglio operativo: L'analisi può ordinare priorità, proporre segnali e spieg
 
 Limite da considerare: Se il dato non contiene segnale, forzare il modello produce costi e false certezze.
 
-Prossimo passo: Valutare un'analisi dati agentica se serve verificare il segnale prima di costruire.
+Prossimo passo: Valutare un'analisi dati agentica se serve capire se i dati bastano, prima di costruire.
 
 
-## Software tecnico e automazioni
+## Software su misura e automazioni
 
-### Quando ha senso costruire software tecnico AI?
+### Quando ha senso costruire un software su misura con AI?
 
 Risposta breve: Ha senso quando serve un sistema verificabile che gli strumenti standard non coprono.
 
@@ -1634,7 +1649,7 @@ Limite da considerare: Automatizzare un processo non compreso rende solo più ra
 
 Prossimo passo: Passare allo sviluppo software solo quando servono sistema verificabile, test e manutenzione.
 
-### Si può modernizzare un software legacy con AI?
+### Si può aggiornare un software vecchio e poco documentato con l'AI?
 
 Risposta breve: Sì, ma prima bisogna capire logiche, dati, vincoli e rischi del sistema esistente.
 
@@ -1644,7 +1659,7 @@ Limite da considerare: Automatizzare un processo non compreso rende solo più ra
 
 Prossimo passo: Passare allo sviluppo software solo quando servono sistema verificabile, test e manutenzione.
 
-### Che differenza c'è tra prototipo controllato e sistema in produzione?
+### Che differenza c'è tra una prova isolata e un sistema in uso quotidiano?
 
 Risposta breve: Il prototipo verifica fattibilità; la produzione richiede test, sicurezza, manutenzione e responsabilità.
 
@@ -1669,7 +1684,7 @@ Prossimo passo: Passare allo sviluppo software solo quando servono sistema verif
 
 ### L'Atlante è un catalogo di prodotti pronti?
 
-Risposta breve: No, è una mappa di pattern per riconoscere opportunità nei processi.
+Risposta breve: No, è una mappa di esempi per riconoscere opportunità nei processi.
 
 Dettaglio operativo: Ogni scheda aiuta a formulare domande migliori su dati, risultati, valore e controlli. La soluzione reale nasce solo dopo aver visto contesto, vincoli e priorità dell'azienda.
 
@@ -1677,7 +1692,7 @@ Limite da considerare: Un pattern pubblico non va trattato come promessa standar
 
 Prossimo passo: Usare l'Atlante per riconoscere pattern simili prima di definire il progetto.
 
-### Come usare l'Atlante per capire se un caso ha senso?
+### Come usare l'Atlante per capire se un caso è adatto?
 
 Risposta breve: Cercare un pattern simile e confrontarlo con dati, output e revisione umana.
 
@@ -1708,9 +1723,9 @@ Limite da considerare: Un pattern pubblico non va trattato come promessa standar
 Prossimo passo: Portare il caso nella prima conversazione con processo, obiettivo, dati disponibili e vincoli.
 
 
-## Governance, rischi e revisione umana
+## Regole, rischi e controllo da parte di una persona
 
-### Quando serve revisione umana sugli output AI?
+### Quando una persona deve rileggere ciò che produce l'AI?
 
 Risposta breve: Serve ogni volta che l'output influenza decisioni, clienti, dati sensibili o responsabilità.
 
@@ -1751,7 +1766,7 @@ Limite da considerare: Senza confini di revisione umana, privacy e responsabilit
 Prossimo passo: Aprire un percorso di consulenza per chiarire priorità, governance e roadmap.
 
 
-## Adozione interna e team
+## Far usare l'AI in azienda, senza iniziative isolate
 
 ### Come gestire resistenze del team verso l'AI?
 
@@ -1763,7 +1778,7 @@ Limite da considerare: L'adozione fallisce se le persone non capiscono scopo, li
 
 Prossimo passo: Scegliere un corso o laboratorio se il bisogno principale è trasferire metodo al team.
 
-### Servono AI champion interni?
+### Servono referenti interni che tengano viva l'AI in azienda?
 
 Risposta breve: Sono utili quando l'uso deve passare da sperimentazione individuale a pratica condivisa.
 
@@ -1826,7 +1841,7 @@ Limite da considerare: Scegliere il formato sbagliato aumenta costi, frustrazion
 
 Prossimo passo: Usare l'Atlante per riconoscere pattern simili prima di definire il progetto.
 
-### Che cosa fare se nessuno possiede davvero il processo?
+### Che cosa fare se nessuno è responsabile del processo?
 
 Risposta breve: Prima di automatizzare bisogna assegnare ownership e criteri di decisione.
 
@@ -1849,7 +1864,7 @@ Limite da considerare: L'AI non sostituisce giudizio, responsabilità profession
 
 Prossimo passo: Fermare o rimandare il caso se mancano sponsor, dati minimi, responsabilità o azione possibile.
 
-### Come gestire errori e allucinazioni dell'AI?
+### Come gestire errori e risposte inventate dell'AI?
 
 Risposta breve: Vanno previsti con fonti, controlli, esempi approvati e revisione umana.
 
@@ -1922,15 +1937,15 @@ Limite da considerare: Un primo scambio senza contesto produce risposte generich
 
 Prossimo passo: Usare l'Atlante per riconoscere pattern simili prima di definire il progetto.
 
-## Preparare la prima conversazione
+## Preparare il primo colloquio
 
 Per iniziare basta raccogliere un processo da migliorare, un esempio di materiale o dato disponibile, la decisione da rendere più affidabile e i vincoli da rispettare.
 
 <!-- https://ar-tik.com/sviluppo-software-tecnico-ai.md -->
 
-# Software tecnico, motori di calcolo e analisi dati avanzata.
+# Software tecnico, programmi di calcolo e analisi dati avanzata.
 
-Artik Lab sviluppa per conto dei clienti software avanzati quando il problema non si risolve con una dashboard o un gestionale standard: calcoli tecnici, modelli matematici, dati operativi, regole esperte e flussi di lavoro da rendere verificabili.
+Artik Lab sviluppa per conto dei clienti software avanzati quando il problema non si risolve con un cruscotto o con il software aziendale standard: calcoli tecnici, modelli matematici, dati operativi, regole esperte e flussi di lavoro da poter controllare con test.
 
 ## Quando il know-how aziendale è troppo importante per restare in fogli, codice legacy o nella testa di poche persone.
 
@@ -1940,15 +1955,15 @@ Molte aziende industriali lavorano ogni giorno con calcoli, eccezioni e decision
 
 Il valore nasce dalla combinazione di ingegneria del software, analisi dati e formalizzazione della conoscenza esperta. Il risultato non è un prototipo dimostrativo, ma un sistema con criteri di accettazione, test, documentazione e confini chiari.
 
-### Motori di calcolo e verifica
+### Programmi di calcolo e verifica
 
-Algoritmi deterministici per calcoli tecnici, controlli, scenari, simulazioni e verifiche ripetibili.
+Programmi di calcolo che, sugli stessi dati, danno sempre lo stesso risultato: controlli, scenari, simulazioni e verifiche ripetibili.
 
 ### Sistemi dati e analisi avanzata
 
 Raccolta, normalizzazione e lettura dei dati operativi per individuare anomalie, pattern, priorità e rischi.
 
-### Modernizzazione software legacy
+### Aggiornare un software tecnico che nessuno vuole più toccare
 
 Audit del codice esistente, ricostruzione delle logiche, parser di formati storici e riscrittura progressiva.
 
@@ -1956,19 +1971,19 @@ Audit del codice esistente, ricostruzione delle logiche, parser di formati stori
 
 Strumenti utilizzabili da uffici tecnici e funzioni operative: dashboard decisionali, report, export e integrazioni.
 
-## Dal processo tecnico al sistema verificabile.
+## Dal processo tecnico a un sistema che si può testare e ripetere.
 
 1. **Audit tecnico**: Si legge il sistema esistente: dati, formule, flussi, dipendenze, errori noti e rischio operativo.
-2. **Formalizzazione del dominio**: Le regole esperte diventano entità, vincoli, assunzioni, casi limite e criteri decisionali.
-3. **Architettura verificabile**: Il nucleo di calcolo viene separato da interfacce, report e componenti AI, così resta controllabile.
-4. **Prototipo calcolabile**: Si costruisce un flusso minimo completo: dati in ingresso, modello dati, calcolo, verifica e risultato.
-5. **Validazione**: Test automatici, casi sintetici, regressione e confronto con riferimenti noti misurano scarti e rischi.
+2. **Mettere per iscritto regole, eccezioni e limiti**: Le regole esperte diventano entità, vincoli, assunzioni, casi limite e criteri decisionali.
+3. **Separare il calcolo da schermate, report e AI**: Il nucleo di calcolo viene separato da interfacce, report e componenti AI, così resta controllabile.
+4. **Un primo flusso completo: dati in ingresso, calcolo, controllo, risultato**: Si costruisce un flusso minimo completo: dati in ingresso, modello dati, calcolo, verifica e risultato.
+5. **Validazione**: Test automatici, casi di prova, ripetizione dei test e confronto con risultati già noti misurano scarti e rischi.
 6. **Produzione**: Il sistema viene reso usabile con interfacce, API, report, documentazione e responsabilità di manutenzione.
 
 ## Cosa resta all'azienda.
 
-- Blueprint tecnico con architettura, rischi, dati, assunzioni e decisioni aperte.
-- Knowledge base strutturata con regole operative, vincoli, fonti e livello di confidenza.
+- Documento tecnico con struttura del sistema, rischi, dati, ipotesi e decisioni ancora aperte.
+- Base di regole scritte, con vincoli, fonti e grado di certezza.
 - Motore di calcolo, sistema dati o applicazione tecnica con test automatici.
 - Dossier di verifica con discrepanze, tolleranze, criteri di accettazione e priorità di correzione.
 - Report, interfacce o API per integrare il sistema nel lavoro reale.
@@ -1976,31 +1991,176 @@ Strumenti utilizzabili da uffici tecnici e funzioni operative: dashboard decisio
 
 ## Problemi tipici che il servizio può affrontare.
 
-### Fogli tecnici cresciuti negli anni
+### Documentazione tecnica fuori controllo
 
 Un ufficio tecnico usa file complessi per prendere decisioni ricorrenti. Il rischio è che le formule non siano più verificabili e che ogni modifica richieda memoria storica. Il progetto ricostruisce le regole, le trasforma in modello dati e aggiunge test per evitare regressioni.
 
-### Software legacy difficile da mantenere
+### Software tecnico che funziona ancora, ma nessuno può più modificarlo con sicurezza
 
 Un'applicazione critica funziona ancora, ma dipende da tecnologie datate e da logiche non documentate. Il lavoro parte dall'audit, separa ciò che va preservato da ciò che va riprogettato e costruisce una riscrittura progressiva con confronto sui risultati.
 
-### Dati industriali non ancora decisionali
+### Dati industriali che non aiutano a prendere decisioni
 
 Il processo produce dati, ma l'azienda li usa soprattutto per report retrospettivi. L'analisi cerca segnali utili per priorità operative, anomalie, previsioni e scelte di controllo, dichiarando anche quando il dato non basta.
 
-### Conoscenza esperta concentrata in poche persone
+### La conoscenza aziendale che non viene mai documentata
 
 Alcune decisioni dipendono dall'esperienza di ruoli chiave. Il progetto rende esplicite regole, eccezioni e soglie di attenzione, così il sapere resta disponibile anche quando cambiano persone, strumenti o volumi di lavoro.
 
-## Prima di scegliere il formato, riconoscere il processo.
+## Cinque casi reali
+
+Che cosa è stato ottenuto.
+
+### 1. Ufficio tecnico: Le regole di calcolo stanno nel codice e in una persona sola, non in un documento di specifiche.
+
+Otto settimane di analisi su circa 267 file sorgente: 37 regole decisionali messe per iscritto e 18 criticità che l'azienda non sapeva di avere.
+
+La situazione. Un'azienda progetta su commessa componenti il cui dimensionamento richiede verifiche normative. Da oltre vent'anni il lavoro passa da un software di calcolo scritto in casa, su una piattaforma di sviluppo non più supportata, con formati di file proprietari mai documentati. Il programma funziona, ma nessuno può più modificarlo con ragionevole sicurezza. E le specifiche non esistono: le regole vivono dentro il codice e nell'esperienza di un solo progettista.
+
+Che cosa è stato fatto. I requisiti non sono stati raccolti, sono stati ricostruiti. Il lavoro legge in parallelo tre fonti — il codice sorgente, l'archivio dei progetti realmente eseguiti e le indicazioni dell'ufficio tecnico — e le fa collidere fra loro: ogni regola estratta dal codice viene riscontrata sui dati e riportata all'esperto, ogni indicazione dell'esperto viene verificata sul codice. Nessuna affermazione è accettata sulla fiducia, né quella dell'esperto né quella del codice; ciò che non è verificabile viene dichiarato tale invece di restare implicito.
+
+Che cosa è cambiato. L'azienda ha smesso di dipendere da un sapere che esisteva in un posto solo. Ciò che era tacito è diventato un documento discutibile, e insieme alla mappa del sistema è uscito l'elenco delle incongruenze che nessuno aveva più modo di vedere, comprese divergenze fra ciò che il manuale prescrive e ciò che il programma esegue.
+
+- Misurato sul progetto: Circa 267 file sorgente e dodici librerie mappati in otto settimane di analisi. 37 regole decisionali formalizzate: 13 vincoli rigidi, 19 euristiche di ottimizzazione, 5 regole diagnostiche.
+- Che cosa è emerso: 18 criticità del software in uso, classificate per severità e ciascuna con una proposta di trattamento. A queste si aggiungono dodici limitazioni documentate e dieci requisiti per il sistema nuovo.
+- Come continua: Un percorso a pacchetti collaudabili, in cui ogni tappa ha un criterio di accettazione numerico concordato prima di cominciare.
+- Limite dichiarato: I numeri vengono da questo progetto: dicono che cosa ha prodotto il metodo lì, non che cosa produrrà altrove.
+
+### 2. Istruttoria e back office: Le richieste arrivano per email. Il software aziendale non le segue.
+
+Due documenti ufficiali già compilati con i dati controllati; nessuna comunicazione parte senza l'approvazione di una persona.
+
+La situazione. Un'organizzazione riceve le richieste via email, in forma libera, scritte da persone diverse. Ogni pratica richiede dati precisi, alcuni verificabili solo incrociando più informazioni, e produce documenti ufficiali su modelli fissi. Il tempo qualificato se ne va nel trasporto dei dati: rileggere, chiedere il dato mancante, aspettare, ricopiare gli stessi campi in più documenti, sollecitare chi deve completare la sua parte. Il collo di bottiglia non è la decisione: è il trasporto.
+
+Che cosa è stato fatto. Un assistente presidia la casella. Legge il messaggio, ne estrae i dati, li verifica contro le condizioni dell'organizzazione e risponde spiegando in italiano corrente quale dato manca e in che forma serve, invece di rispedire un modulo vuoto. Sopra di esso lavora un gestore che conosce il ciclo di vita della pratica: quante volte lo stesso dato è già stato chiesto, se chi deve completare la propria parte ha risposto nei giorni previsti, se il richiedente ha già una pratica aperta. Dopo un numero dichiarato di scambi infruttuosi la pratica si congela, invece di alimentare uno scambio infinito.
+
+Che cosa è cambiato. Quando la pratica è completa, i documenti ufficiali escono già compilati sui modelli dell'organizzazione, con i campi popolati dai dati validati. Il tempo qualificato torna alla valutazione di merito, che è l'unica parte che richiedeva davvero una persona esperta.
+
+- Misurato sul progetto: 135 test automatici verdi su modelli dati, motore di validazione, generazione documenti e gestione delle pratiche, fra cui sei percorsi completi dall'email al documento.
+- Scelta di progetto: Zero invii automatici: ogni comunicazione in uscita passa dall'approvazione di un operatore. In un processo che produce atti, l'automazione si ferma un passo prima della firma.
+- Limite dichiarato: Il tempo risparmiato non è ancora stato misurato prima e dopo su un ciclo completo. Il progetto dichiara che cosa il sistema fa, non di quanto accorcia la pratica.
+
+### 3. Squadre sul territorio: Il piano settimanale delle squadre sul territorio si fa ancora a mano.
+
+Il piano settimanale si calcola in pochi secondi e si rigenera quando un vincolo cambia. Di quanto faccia risparmiare non è ancora misurato, e non viene dichiarato.
+
+La situazione. Quando un'azienda manda squadre presso i clienti, il programma settimanale nasce da decine di vincoli che si ostacolano: indirizzi sparsi su un territorio ampio, fasce orarie imposte dai clienti, priorità commerciali e scadenze di legge, durate che cambiano con il tipo di prestazione, equipaggi non intercambiabili. Fatto a mano il piano esce sempre percorribile ma mai efficiente, e manca il termine di paragone per accorgersene.
+
+Che cosa è stato fatto. Il problema è formulato come problema di percorso con finestre temporali e risolto con un solutore di ottimizzazione. Un primo livello distribuisce gli interventi sui giorni, bilanciando la capienza degli equipaggi e collocando per primi quelli più onerosi. Un secondo risolve ogni giornata come percorso su più mezzi, con i tempi di percorrenza reali presi da un servizio stradale e le finestre orarie trattate come vincoli che non si possono violare.
+
+Che cosa è cambiato. Il responsabile riceve un piano pronto all'uso: percorsi su mappa, calendario giornaliero per unità, chilometri, ore di guida e saturazione degli equipaggi. E lo stesso piano si rigenera in pochi secondi quando un vincolo cambia, che è la parte che serve da subito, quando qualcuno dà forfait.
+
+- Come è stato provato: Su un archivio dimostrativo con nomi di fantasia — 35 sedi, 128 persone, due unità mobili — il piano settimanale completo esce in pochi secondi, contro le ore che il lavoro a mano richiede.
+- Che cosa restituisce: A ogni esecuzione: chilometri totali, ore di guida e percentuale di saturazione per equipaggio. Sono i numeri che permettono di confrontare due piani, invece di fidarsi del primo.
+- Limite dichiarato: Non esiste ancora un confronto misurato prima e dopo su un cliente reale. Finché non c'è, nessuna percentuale di risparmio viene dichiarata: sarebbe una stima presentata come misura.
+
+### 4. Servizi al pubblico: Riconoscere gli articoli del catalogo da una foto, senza una campagna di fotografie classificate a mano.
+
+Aprire una nuova sede significa caricare un file, non raccogliere e classificare a mano le fotografie di ogni articolo.
+
+La situazione. Riconoscere da una foto gli articoli di un catalogo che cambia ogni giorno costa caro se ogni sede deve prima raccogliere e classificare a mano le fotografie. È ciò che rende proibitivi i tempi di attivazione delle soluzioni tradizionali in questo tipo di servizio.
+
+Che cosa è stato fatto. L'approccio alternativo è descrivere il catalogo invece di mostrarlo. Le voci del giorno vengono caricate in forma dichiarativa — nome, categoria, descrizione estesa, ingredienti, quantità — e un modello multimodale generalista riconosce a partire da quelle descrizioni, non da un archivio di immagini etichettate. Il sistema gestisce anche le voci composte, con coefficienti di porzione, così che i valori restino corretti quando in una stessa scelta convivono mezze porzioni di prodotti diversi.
+
+Che cosa è cambiato. Attivare una nuova sede significa caricare il suo catalogo. Non serve hardware dedicato: si usa lo smartphone della persona, senza totem né lettori. E il costo scala con il traffico, invece di essere il costo fisso di un presidio da tenere anche quando passano dieci persone.
+
+- Come si controlla: Una suite di regressione su immagini reali, con la verità di riferimento dichiarata per ogni immagine: una modifica al modello o alle istruzioni si misura su un banco stabile, invece che a impressione.
+- Previsto da specifica: Sette lingue sull'intera interfaccia e sui contenuti del catalogo. La localizzazione completa è pianificata, non ancora conclusa.
+- Limite dichiarato: Il dato di accuratezza non è ancora dichiarabile: parte delle immagini recenti è priva di verità di riferimento ed è esclusa dai test. È il primo numero che chiunque valuti questa soluzione chiederà, e non viene stimato al posto di misurarlo.
+
+### 5. Sicurezza e formazione: Formazione obbligatoria che scade senza che nessuno se ne accorga.
+
+18 tipi di corso obbligatorio, ciascuno con la propria scadenza; per ogni persona quattro stati (valido, in scadenza, scaduto, mai svolto) e un preavviso che si può regolare.
+
+La situazione. Chi risponde della formazione obbligatoria di decine o centinaia di persone tiene lo stato su fogli di calcolo che invecchiano a ogni assunzione e a ogni cambio di mansione. Il rischio non è teorico: è accorgersi di una scadenza superata durante un'ispezione, con quello che comporta in materia di sicurezza sul lavoro.
+
+Che cosa è stato fatto. Il problema non è calcolare una data. È tenere insieme anagrafiche, storico dei corsi e regole di periodicità diverse per ruolo e per attività, e calcolare per ogni persona e per ogni obbligo uno stato fra quattro: valido, in scadenza entro la soglia, scaduto, mai svolto. Da lì escono la matrice formativa leggibile a colpo d'occhio, i solleciti in registro formale e il report periodico.
+
+Che cosa è cambiato. Quando la matrice esiste, il lavoro diventa programmare i corsi invece di ricostruire lo stato. I dati personali restano sul server dell'organizzazione: nessun invio a servizi esterni, ottenuto come vincolo di architettura e non come dichiarazione di intenti.
+
+- Misurato sul progetto: 18 tipologie di corso obbligatorio modellate, con periodicità da uno a cinque anni e alcune una tantum. Quattro stati calcolati per ogni combinazione fra persona e obbligo, con preavviso predefinito a 90 giorni e configurabile per cliente.
+- Come è stato provato: Su un archivio dimostrativo con nomi di fantasia: otto aziende, circa 175 persone e oltre 700 record formativi, con una distribuzione realistica degli stati.
+- Limite dichiarato: Il calcolo segue regole fisse e, sugli stessi dati, dà sempre lo stesso risultato, e va bene così: in una regola di periodicità non c'è nulla da affidare a un modello. L'AI serve un passo prima, per portare dentro dati che oggi arrivano disordinati, e un passo dopo, per accorgersi che una regola è cambiata.
+
+## Prima di scegliere consulenza, corso o software, riconoscere il processo.
 
 L'Atlante raccoglie esempi concreti di applicazioni AI per documenti, operations, HR, marketing, software, governance, produzione, formazione e dati. Serve a capire se il bisogno richiede consulenza, analisi dati, sviluppo tecnico o formazione.
 
 Pagina Atlante: https://ar-tik.com/atlante-applicazioni-ai-imprese.md
 
-## L'AI aiuta, ma il nucleo tecnico deve restare spiegabile.
+## L'AI aiuta, ma il calcolo che decide deve restare spiegabile.
 
-Nei sistemi tecnici la parte opaca non deve prendere il posto del calcolo verificabile. L'AI può aiutare a esplorare dati, spiegare risultati, proporre scenari, leggere documenti o assistere l'utente. Il nucleo deterministico, le regole di dominio e i test restano il punto di controllo.
+Nei sistemi tecnici la parte che non si può spiegare non deve prendere il posto del calcolo controllabile con test. L'AI può aiutare a esplorare dati, spiegare risultati, proporre scenari, leggere documenti o assistere chi usa il sistema. Il calcolo ripetibile, le regole dell'azienda e i test restano il punto di controllo.
+
+## Dove passa il confine: il calcolo resta ripetibile, l'AI lavora sopra.
+
+Cinque progetti diversi, la stessa scelta: ciò che decide è un calcolo ripetibile e controllabile con test, l'AI lavora sopra. Ogni scheda dice dove passa il confine e come lo si controlla.
+
+### 1. Ufficio tecnico: Il software calcola, ma le decisioni le prende una persona sola
+
+Le scelte di chi ha vent'anni di mestiere diventano regole scritte nel programma di calcolo; i controlli di norma restano un calcolo ripetibile.
+
+In molti uffici tecnici il programma esegue le verifiche, mentre le scelte che portano a una soluzione efficiente restano di chi ha vent'anni di mestiere: da dove partire, come correggere quando le verifiche non tornano, quando una soluzione formalmente corretta non è ragionevole.
+
+Il progetto trasforma queste decisioni in vincoli, euristiche e regole diagnostiche esplicite, che diventano parametri del motore di calcolo. Sopra il nucleo lavorano agenti specializzati, istruiti sui casi storici e sulle soluzioni davvero adottate: uno propone la configurazione di partenza per un problema nuovo, uno sceglie la strategia correttiva quando l'ottimizzazione non converge, uno confronta il risultato con i casi analoghi e segnala quando è matematicamente corretto ma atipico.
+
+I due piani restano separati. Le verifiche normative sono deterministiche e riproducibili, l'AI lavora sopra il calcolo e non dentro, e l'esperto resta nel ciclo a validare, correggere e arricchire.
+
+- Come si controlla: 695 test automatici sul motore, eseguiti a ogni integrazione. Il motore ricostruito riproduce 58 casi di verifica su 63 alla cifra stampata, e 44 archivi storici su 44 vengono riletti senza eccezioni da decodificatori scritti senza avere la documentazione dei formati.
+- Che cosa manca, dichiarato: La base dei fatti raggiunge il 98,8% di completezza — 399 voci su 404 — e le 5 che restano sono dichiarate e motivate invece che omesse.
+- Verifica indipendente: Otto campagne condotte da agenti incaricati di confutare il lavoro fatto. Le confutazioni trovate sono state riparate prima della consegna, non archiviate.
+
+### 2. Istruttoria e back office: L'intelligenza artificiale scrive la bozza, le regole dell'azienda decidono l'esito.
+
+Le condizioni per accettare o rifiutare una pratica stanno in un file che l'ufficio modifica senza toccare il codice. L'intelligenza artificiale prepara i dati e comunica l'esito, non lo stabilisce.
+
+Su un processo che produce documenti ufficiali, il testo può essere scritto dall'intelligenza artificiale; se la pratica è accettata o no lo decidono le regole, non il modello.
+
+Le condizioni per accettare o rifiutare una pratica stanno in un file di configurazione leggibile che l'ufficio tecnico aggiorna da sé quando una regola cambia, senza passare dallo sviluppo. L'intelligenza artificiale legge le email, estrae i dati e compone la risposta; il programma di calcolo decide l'esito e lo motiva.
+
+E l'invio resta un gesto umano: la bozza è pronta, la firma è di chi risponde.
+
+- Come si controlla: 135 test automatici verdi, fra cui sei percorsi completi dall'email al documento generato.
+- Dove passa il confine: Il 100% delle comunicazioni in uscita passa dall'approvazione di un operatore. Nessun invio automatico, per scelta di progetto e non per limite tecnico.
+
+### 3. Squadre sul territorio: Il piano delle squadre elenca anche gli interventi che non si riescono a inserire, e perché.
+
+Il programma può lasciare fuori un intervento, e lo dichiara con un costo legato alla priorità, invece di produrre un piano che sulla carta sta in piedi e in strada no.
+
+Il valore non è solo il percorso più corto: è sapere che cosa resta fuori e perché.
+
+Invece di forzare un programma infattibile, il programma può lasciare fuori un intervento e lo dichiara con un costo legato alla priorità. Quello che il responsabile riceve è un piano eseguibile più l'elenco motivato di ciò che non era pianificabile — capacità insufficiente, finestra oraria incompatibile — invece di interventi che spariscono in silenzio.
+
+Anche il tempo di calcolo è dichiarato in partenza: è un parametro di progetto, non un effetto collaterale di quanto è grande il problema.
+
+- Come si controlla: Gli indicatori restituiti a ogni esecuzione — chilometri, ore di guida, saturazione per equipaggio — rendono confrontabili due piani diversi, che è l'unico modo per sapere se il secondo è migliore del primo.
+- Limite dichiarato: Nessun confronto misurato prima e dopo su un cliente reale, quindi nessuna percentuale di risparmio dichiarata.
+
+### 4. Servizi al pubblico: Quando il riconoscimento da foto sbaglia, la correzione è già prevista e limitata.
+
+La correzione offerta alla persona mostra solo alternative visivamente simili, e non i prezzi.
+
+Un sistema di riconoscimento in mano al pubblico si giudica da come tratta i casi in cui sbaglia.
+
+Qui la qualità dell'immagine viene valutata prima dell'invio, e viene chiesto di rifarla quando è sfocata o incompleta. Dopo il riconoscimento la persona conferma o corregge, ma la correzione è progettata per non diventare una scappatoia: l'elenco delle alternative contiene solo voci visivamente simili, e i prezzi non sono visibili.
+
+L'onere della verifica si sposta sull'utente senza aprire la porta all'abuso, ed è questa scelta, più del modello, a determinare se il sistema regge in esercizio.
+
+- Come si controlla: Una suite di regressione su immagini reali con verità di riferimento dichiarata: le modifiche al modello o alle istruzioni si misurano su un banco stabile.
+- Limite dichiarato: L'accuratezza non è ancora un numero dichiarabile, perché parte del banco è priva di verità di riferimento. Viene detto, invece di essere stimato.
+
+### 5. Analisi e report: I numeri li calcola il codice, la narrativa la scrive l'AI
+
+Nessun numero del report nasce da un modello: le grandezze sono calcolate da un programma che, sugli stessi dati fermi, dà sempre lo stesso risultato.
+
+Nei report la separazione è netta. Le grandezze sono calcolate da un programma che, sugli stessi dati fermi, dà sempre lo stesso risultato, con test che le riproducono identiche a ogni esecuzione; il testo è scritto ancorato a quei numeri e alle citazioni reali.
+
+Il documento finito viene poi riletto da personas sintetiche con una soglia di qualità dichiarata, sotto la quale non si consegna.
+
+E quando la metrica ovvia non discrimina — categorie dove tutte le attività stanno sopra 4,8 stelle — il report lo dice, invece di costruirci sopra un verdetto.
+
+- Come si controlla: Una rete di test riproduce i report già consegnati byte per byte: una modifica al codice che alteri un numero già consegnato non passa.
+- Come è scritto ogni numero: Ogni numero porta il proprio denominatore e la propria fonte. Le affermazioni che non trovano riscontro nel corpus vengono corrette, anche quando erano già circolate.
 
 ## Segnali che indicano che è il momento di intervenire.
 
@@ -2030,15 +2190,15 @@ Il progetto lavora con perimetri, accessi, dati e materiali concordati. Negli es
 
 <!-- https://ar-tik.com/avvio-operativo/index.md -->
 
-# Operatività immediata: in un giorno automatizziamo uno dei vostri processi più importanti, con una procedura che resta a voi e che potete usare da subito.
+# Operatività immediata: in un giorno si automatizza un processo importante, con una procedura che resta in azienda e si può usare da subito.
 
-Si parte da un lavoro che oggi ruba tempo: preparare un'offerta, raccogliere i documenti per un cliente, confrontare tre fornitori, smistare la posta della settimana. A fine giornata resta una procedura automatica, che l'azienda potrà usare in autonomia. I file restano in azienda, il gestionale non si tocca. Non è un corso e non è un software da installare: è l'automazione di un intero processo con l'intelligenza artificiale.
+Si parte da un lavoro che oggi ruba tempo: preparare un'offerta, raccogliere i documenti per un cliente, confrontare tre fornitori, smistare la posta della settimana. A fine giornata resta una procedura automatica, che l'azienda potrà usare in autonomia. I file restano in azienda. Sono escluse le integrazioni su misura con i software già in uso. Non è un corso e non è un software da installare: è l'automazione di un intero processo con l'intelligenza artificiale.
 
 ## Che cosa si ottiene.
 
 I corsi insegnano a usare l'intelligenza artificiale in generale; qui la si mette al lavoro su un compito concreto, con una procedura pronta e una persona che la usa dal giorno dopo.
 
-Qui, in un giorno e in azienda, si fa una cosa sola: si prende un lavoro ripetitivo, si scrive come va fatto e si lascia una procedura automatica già impostata sull'intelligenza artificiale, con l'abbonamento intestato all'azienda e i file che restano in azienda. Al gestionale non si collega nulla.
+Qui, in un giorno e in azienda, si fa una cosa sola: si prende un lavoro ripetitivo, si scrive come va fatto e si lascia una procedura automatica già impostata sull'intelligenza artificiale, con l'abbonamento intestato all'azienda e i file che restano in azienda. Sono escluse le integrazioni su misura con i software già in uso.
 
 Un lavoro per volta, portato fino in fondo.
 
@@ -2128,7 +2288,7 @@ Il pezzo, la partita o l'impianto è già deciso. Manca il fascicolo che accompa
 - Quando non è adatto: Collaudo, misure, HACCP in linea e disegno restano fuori: qui si prepara il fascicolo, non si certifica.
 - Nel modulo: spunta «Allegare schede, certificati e packing list a una spedizione o a un ordine già deciso.».
 
-### Un report dall'export del gestionale
+### Un report dal file Excel già esportato dal software aziendale
 
 Il titolare o il commerciale chiede come vanno clienti, commesse o vendite. I dati sono già nel gestionale, ma escono in Excel e il report si rifà a mano ogni mese.
 
@@ -2203,7 +2363,7 @@ L'ordine del cliente, la conferma d'ordine e il documento di trasporto dovrebber
 
 ## Cosa è compreso. Cosa è un secondo giorno.
 
-In un giorno in sede resta l'intelligenza artificiale intestata all'azienda e la procedura scritta. Da subito qualcuno la sa fare. Il gestionale non si tocca. Se va cambiato il modo di lavorare, è un secondo giorno, e si chiama consulenza.
+In un giorno in sede resta l'intelligenza artificiale intestata all'azienda e la procedura scritta. Da subito qualcuno la sa fare. Sono escluse le integrazioni su misura con i software già in uso. Se va cambiato il modo di lavorare, è un secondo giorno, e si chiama consulenza.
 
 - Compreso nella giornata: Le istruzioni, le cartelle, i controlli della procedura scelta.
 - Diventa consulenza: Cambiare il metodo perché il lavoro è un altro.
@@ -2220,11 +2380,11 @@ In un giorno in sede resta l'intelligenza artificiale intestata all'azienda e la
 
 **Per chi è.** Un'azienda con un lavoro che si ripete, una persona che lo fa oggi e i file che si possono copiare in una cartella.
 
-**Per chi non ancora.** Chi cerca un corso generale sull'intelligenza artificiale, o un sistema collegato al gestionale: sono altri servizi, e stanno in questa stessa pagina.
+**Per chi non è questo servizio.** Chi cerca un corso generale sull'intelligenza artificiale, o un sistema collegato al gestionale: sono altri servizi, e stanno in questa stessa pagina.
 
 ## Cosa serve prima.
 
-- Un abbonamento all'intelligenza artificiale intestata all'azienda. Quale ambiente è già stato provato si dice in proposta, non in questa pagina.
+- Un abbonamento all'intelligenza artificiale sull'account dell'azienda. Quale ambiente è già stato provato si dice in proposta, non in questa pagina.
 - Una persona interna con l'incarico di usarla dopo.
 - File che si possono copiare in una cartella, senza entrare nei sistemi dell'azienda.
 
@@ -2237,7 +2397,7 @@ In un giorno in sede resta l'intelligenza artificiale intestata all'azienda e la
 - Serve un collegamento permanente ai sistemi: quello è sviluppo software.
 - Serve cambiare il modo di lavorare o toccare il gestionale: quello è consulenza.
 
-## Cosa non è, detto una volta.
+## Cosa non è.
 
 - Non è un corso. I corsi restano, e insegnano a usare l'intelligenza artificiale in generale.
 - Non è un software da installare. Lo sviluppo tecnico resta per dopo, se un giorno serve un collegamento permanente.
@@ -2273,9 +2433,9 @@ Il messaggio arriva a una persona di Artik Lab, che lo legge e risponde di perso
 
 No. Un corso lascia modelli e criteri. Qui resta una procedura scritta, già impostata sull'intelligenza artificiale intestata all'azienda, con i file che restano in azienda.
 
-### Si tocca il gestionale?
+### Si fanno integrazioni su misura con i software già in uso?
 
-No. Se serve toccarlo, o cambiare il modo di lavorare, è consulenza: un secondo giorno, un altro prodotto.
+No. Sono escluse. Se serve collegare i sistemi già in azienda, è consulenza o sviluppo software: un altro lavoro.
 
 ### I dati escono dall'azienda?
 
@@ -2293,7 +2453,7 @@ No. È solo per capire se è adatto. Dopo: se ha senso, verifica e giornata; se 
 
 La proposta arriva dopo il parere. In questa pagina non c'è un listino.
 
-### Quanti lavori si possono fare?
+### Quante attività si possono fare, una dopo l'altra?
 
 Si decide con l'azienda, in base alle necessità. Un lavoro per volta, portato fino in fondo.
 
@@ -2307,9 +2467,9 @@ Si può richiedere una verifica di ammissibilità. Il lavoro deve comunque regge
 
 L'intelligenza artificiale produce valore quando entra nel lavoro quotidiano con metodo: nei documenti, nelle decisioni ricorrenti, nei passaggi tra funzioni, nei controlli di qualità e nelle responsabilità operative.
 
-I corsi Artik Lab non sono un catalogo generico di lezioni sull'AI. Sono percorsi progettati sui processi del cliente, costruiti per trasformare l'uso individuale degli strumenti AI in pratiche aziendali governabili, misurabili e ripetibili.
+I corsi Artik Lab non sono un catalogo generico di lezioni sull'AI. Sono percorsi progettati sui processi del cliente, costruiti per trasformare l'uso individuale degli strumenti AI in pratiche aziendali con regole, misure e passi ripetibili.
 
-## Partire da AI Workflow Redesign Lab
+## Partire dal laboratorio che ridisegna i flussi di lavoro con l'AI
 
 Per la maggior parte delle aziende, il primo problema non è scegliere uno strumento AI. Il primo problema è capire quali attività meritano di essere ripensate, quali dati possono essere usati, quali rischi vanno governati e quali competenze devono restare in azienda.
 
@@ -2319,7 +2479,7 @@ Dynamic Training Rework è la metodologia proprietaria di Artik Lab: il percorso
 
 Le aziende sono bombardate da corsi AI generici, spesso pieni di esempi lontani dal lavoro reale. Il DTR nasce per evitare questo spreco e trasformare gli strumenti AI più avanzati in pratiche davvero utilizzabili.
 
-## Prima di scegliere il formato, riconoscere il processo.
+## Prima di scegliere consulenza, corso o software, riconoscere il processo.
 
 L'Atlante raccoglie esempi concreti di applicazioni AI per documenti, operations, HR, marketing, software, governance, produzione, formazione e dati. Serve a capire se il bisogno richiede consulenza, analisi dati, sviluppo tecnico o formazione.
 
@@ -2329,12 +2489,12 @@ L'Atlante raccoglie esempi concreti di applicazioni AI per documenti, operations
 
 ### AI Workflow Redesign Lab
 
-Laboratorio centrale per passare dall'uso spontaneo dell'AI a flussi di lavoro uomo-AI governati, con mappa delle priorità e roadmap operativa.
+Laboratorio per passare dall'uso spontaneo dell'AI a flussi di lavoro con persona e AI, regole e controlli, più una mappa delle priorità e un piano operativo.
 
 - Durata: 8 ore, modulabili in 2 o 4 sessioni
 - Sceglierlo se: Quando l'azienda ha già curiosità o sperimentazioni AI ma non ha ancora trasformato il lavoro. È il punto di partenza consigliato prima di corsi verticali, policy, piloti o acquisti tecnologici.
 - Profilo: Per team aziendali, funzioni operative e manager; non richiede programmazione.
-- Output finale: Mappa dei workflow prioritari, prototipo di flusso uomo-AI e roadmap di adozione.
+- Output finale: Mappa dei flussi di lavoro prioritari, prototipo di flusso con persona e AI, piano di adozione.
 - URL: https://ar-tik.com/corsi/workflow-redesign.html
 
 ### Managing AI
@@ -2354,7 +2514,7 @@ Formazione interfunzionale per creare linguaggio comune tra business, operations
 - Durata: 4 ore, 2 lezioni da 2 ore
 - Sceglierlo se: Quando l'AI coinvolge più funzioni e genera disallineamento tra obiettivi, aspettative, vincoli tecnici, rischi e responsabilità operative.
 - Profilo: Per manager e team non tecnici; non richiede programmazione.
-- Output finale: Mappa interfunzionale di casi d'uso, ownership e criteri di decisione.
+- Output finale: Mappa tra funzioni di casi d'uso, responsabili e criteri di decisione.
 - URL: https://ar-tik.com/corsi/managing-ai-general.html
 
 ### AI Governance operativa
@@ -2382,9 +2542,9 @@ Sprint per passare da entusiasmo o intuizione a una decisione economica: problem
 Percorso per creare referenti interni che raccolgono bisogni, supportano i colleghi e collegano sperimentazioni locali alla governance aziendale.
 
 - Durata: 6-8 ore, modulabili
-- Sceglierlo se: Quando l'azienda vuole scalare l'adozione AI oltre la formazione iniziale, creando una rete interna di facilitatori competenti e riconoscibili.
+- Sceglierlo se: Quando l'azienda vuole allargare l'uso dell'AI oltre la formazione iniziale, creando una rete interna di facilitatori competenti e riconoscibili.
 - Profilo: Per team aziendali, funzioni operative e manager; non richiede programmazione.
-- Output finale: Playbook e modello operativo per rete interna di AI Champion.
+- Output finale: Manuale operativo e modello per una rete interna di referenti AI.
 - URL: https://ar-tik.com/corsi/ai-adoption-manager.html
 
 ### Role-Based AI Literacy & Responsible Use
@@ -2392,57 +2552,57 @@ Percorso per creare referenti interni che raccolgono bisogni, supportano i colle
 Formazione base ma concreta per diffondere uso AI sicuro e utile, differenziato per ruoli e responsabilità.
 
 - Durata: 4-8 ore, adattabili per ruolo
-- Sceglierlo se: Quando l'azienda vuole diffondere cultura AI comune, evitando sia entusiasmo non governato sia blocco operativo.
+- Sceglierlo se: Quando l'azienda vuole che tutti usino l'AI in modo simile, senza usi fuori controllo e senza divieti di fatto.
 - Profilo: Per team aziendali, funzioni operative e manager; non richiede programmazione.
 - Output finale: Schede di uso responsabile per ruolo e checklist operative.
 - URL: https://ar-tik.com/corsi/ai-literacy.html
 
 ### Corso AI: gestire i documenti con AI
 
-Laboratorio pratico per trasformare il caos documentale in un sistema di lavoro più ordinato, interrogabile e controllato.
+Laboratorio pratico per mettere ordine tra i documenti e poterli cercare, sintetizzare e controllare.
 
 - Durata: 8 ore, personalizzabili
 - Sceglierlo se: Quando documenti, contratti, fatture, scansioni o email assorbono tempo e rendono difficile recuperare informazioni affidabili.
 - Profilo: Per team aziendali, funzioni operative e manager; non richiede programmazione.
-- Output finale: Workflow documentale AI-assisted e template per ricerca, sintesi, estrazione e classificazione.
+- Output finale: Flusso di lavoro sui documenti, con AI e modelli per ricerca, sintesi, estrazione e classificazione.
 - URL: https://ar-tik.com/corsi/ai-documenti.html
 
-### Corso AI: marketing e comunicazione AI driven
+### Corso AI: marketing e comunicazione con l'AI
 
 Laboratorio per usare l'AI come assistente editoriale e di analisi, senza perdere identità, qualità e controllo.
 
 - Durata: 8 ore, personalizzabili
 - Sceglierlo se: Quando comunicazione, contenuti e analisi competitor richiedono continuità, ma il team deve mantenere coerenza di marca e qualità.
 - Profilo: Per team aziendali, funzioni operative e manager; non richiede programmazione.
-- Output finale: Sistema operativo per contenuti, calendario, voce di marca e analisi competitor.
+- Output finale: Metodo di lavoro per contenuti, calendario, voce di marca e analisi dei concorrenti.
 - URL: https://ar-tik.com/corsi/ai-marketing.html
 
 ### Corso AI: vendita B2C e B2B con AI
 
-Laboratorio per usare l'AI come secondo commerciale operativo: ricerca, preparazione, follow-up e qualità della proposta.
+Laboratorio per usare l'AI nel lavoro commerciale: ricerca, preparazione, follow-up e qualità della proposta.
 
 - Durata: 8 ore, personalizzabili
 - Sceglierlo se: Quando il team commerciale perde tempo in preparazione, personalizzazione offerte, follow-up o gestione di lead non qualificati.
 - Profilo: Per team aziendali, funzioni operative e manager; non richiede programmazione.
-- Output finale: Workflow commerciale AI-assisted per profili cliente, offerte, obiezioni e follow-up.
+- Output finale: Flusso di lavoro commerciale con AI per profili cliente, offerte, obiezioni e follow-up.
 - URL: https://ar-tik.com/corsi/ai-vendite.html
 
 ### AI per amministrazione e controllo di gestione
 
-Corso per usare l'AI in AFC come supporto a sintesi, reportistica e controlli preliminari, mantenendo responsabilità umana.
+Corso per usare l'AI in amministrazione, finanza e controllo come supporto a sintesi, report e controlli preliminari, senza togliere la responsabilità alle persone.
 
 - Durata: 4-6 ore, personalizzabili
 - Sceglierlo se: Quando l'azienda vuole rendere più rapidi e tracciabili analisi, reporting e controllo, senza trasformare l'AI in un decisore contabile.
 - Profilo: Per manager e team non tecnici; non richiede programmazione.
-- Output finale: Set di template per report, analisi scostamenti e controlli AFC.
+- Output finale: Serie di modelli per report, analisi degli scostamenti e controlli di amministrazione, finanza e controllo.
 - URL: https://ar-tik.com/corsi/ai-admin-finance.html
 
 ### AI Operations
 
-Percorso per migliorare efficienza, controllo e leggibilità dei processi operativi senza aggiungere dashboard inutili.
+Percorso per rendere i processi operativi più efficienti, controllati e comprensibili, senza nuove dashboard di monitoraggio.
 
 - Durata: 4 ore, 2 lezioni da 2 ore
-- Sceglierlo se: Quando l'azienda vuole migliorare efficienza, standardizzazione e controllo dei processi operativi senza automatizzare decisioni critiche senza supervisione.
+- Sceglierlo se: Quando l'azienda vuole processi operativi più efficienti e uniformi, e le decisioni critiche devono restare sotto supervisione.
 - Profilo: Per manager e team non tecnici; non richiede programmazione.
 - Output finale: Workflow operativo ridisegnato con procedure, checklist e report assistiti da AI.
 - URL: https://ar-tik.com/corsi/ai-operations.html
@@ -2457,24 +2617,24 @@ Corso operativo per ridurre lavoro manuale su contratti, policy e procedure, man
 - Output finale: Checklist e workflow per analisi documentale, confronto versioni e riepiloghi legal/compliance.
 - URL: https://ar-tik.com/corsi/ai-legal-ops.html
 
-### AI per procurement e supplier intelligence
+### AI per acquisti e conoscenza dei fornitori
 
-Corso per rendere più strutturati scouting, comparazione e documentazione acquisti mantenendo criteri decisionali trasparenti.
+Corso per rendere più ordinati ricerca fornitori, confronto e documentazione acquisti, con criteri di scelta espliciti.
 
 - Durata: 4-6 ore, personalizzabili
-- Sceglierlo se: Quando l'azienda vuole rendere più strutturati scouting, comparazione, documentazione e analisi preliminare dei fornitori.
+- Sceglierlo se: Quando l'azienda vuole rendere più ordinati ricerca, confronto, documentazione e analisi preliminare dei fornitori.
 - Profilo: Per manager e team non tecnici; non richiede programmazione.
-- Output finale: Griglia di supplier intelligence e workflow di comparazione offerte.
+- Output finale: Griglia di profilo e rischio fornitore, e flusso di confronto delle offerte.
 - URL: https://ar-tik.com/corsi/ai-procurement.html
 
-### AI per customer service e ticket triage
+### AI per assistenza clienti e classificazione delle richieste
 
 Corso per rendere più rapida e uniforme la gestione delle richieste senza perdere controllo su tono, escalation e qualità.
 
 - Durata: 4-6 ore, personalizzabili
 - Sceglierlo se: Quando l'azienda vuole rendere più rapida e uniforme la gestione delle richieste, mantenendo controllo su escalation e qualità della risposta.
 - Profilo: Per manager e team non tecnici; non richiede programmazione.
-- Output finale: Tassonomia ticket, workflow di triage e modello di risposta assistita.
+- Output finale: Elenco categorie di richieste, flusso di classificazione e priorità, modello di risposta assistita.
 - URL: https://ar-tik.com/corsi/ai-customer-service.html
 
 ### AI per qualità e non conformità
@@ -2499,42 +2659,42 @@ Corso per rendere più efficienti processi HR ricorrenti preservando riservatezz
 
 ### AI Brand Voice e comunicazione
 
-Percorso per aziende che vogliono aumentare produzione comunicativa mantenendo una voce riconoscibile e verificabile.
+Percorso per produrre più comunicazione senza perdere una voce riconoscibile e controllabile rispetto alle linee guida di marca.
 
 - Durata: 4 ore, 2 lezioni da 2 ore
 - Sceglierlo se: Quando l'azienda vuole usare l'AI per comunicare meglio ma teme contenuti generici, incoerenti o non aderenti alla propria identità.
 - Profilo: Per manager e team non tecnici; non richiede programmazione.
-- Output finale: Brand voice sheet e workflow editoriale AI-assisted.
+- Output finale: Scheda della voce di marca e flusso editoriale con AI.
 - URL: https://ar-tik.com/corsi/ai-brand-voice.html
 
 ### Ricerca semantica e knowledge base AI
 
-Modulo per capire come rendere archivi e conoscenza aziendale interrogabili per significato, preparando basi solide per progetti AI.
+Modulo per rendere archivi e conoscenza aziendale cercabili per significato, con gli embeddings: rappresentazioni numeriche del significato di un testo, base dei progetti AI che rispondono sui documenti.
 
 - Durata: 60-90 minuti o modulo breve
-- Sceglierlo se: Quando l'organizzazione vuole migliorare accesso alla conoscenza, ridurre tempi di ricerca, supportare operatori o preparare basi informative per applicazioni AI.
+- Sceglierlo se: Quando cercare in archivi e procedure è lento o inaffidabile, e serve un accesso alla conoscenza più preciso.
 - Profilo: Per team tecnici con basi di programmazione e architetture software.
-- Output finale: Blueprint per knowledge base semantica e criteri di indicizzazione.
+- Output finale: Blueprint della knowledge base semantica: lo schema dell'archivio di conoscenza e i criteri per renderlo cercabile.
 - URL: https://ar-tik.com/corsi/embeddings.html
 
 ### RAG Engineering per sistemi AI affidabili
 
-Corso tecnico per passare da chat sui documenti a sistemi RAG ingegnerizzati, misurabili e governabili.
+Corso tecnico per passare da una chat sui documenti a sistemi RAG (Retrieval-Augmented Generation): recupero delle fonti, qualità misurabile e controllo.
 
 - Durata: 5 ore, 2 lezioni da 2,5 ore
 - Sceglierlo se: Quando esistono knowledge base, documentazione tecnica, procedure, ticket, contratti o repository da rendere interrogabili senza perdere controllo su fonti e qualità.
 - Profilo: Per team tecnici con basi di programmazione e architetture software.
-- Output finale: Architettura RAG target, evaluation set e checklist production-ready.
+- Output finale: Architettura RAG target (il sistema di risposta sulle fonti da costruire), evaluation set (l'insieme di prove con cui si misura la qualità) e checklist production-ready, cioè la lista di controllo prima dell'uso reale.
 - URL: https://ar-tik.com/corsi/rag-engineering.html
 
 ### AI Coding Agents per team software
 
-Corso tecnico per usare agenti AI come componenti controllati del ciclo software, non come scorciatoia opaca.
+Corso tecnico per usare agenti AI come componenti controllati del ciclo software: sviluppo, revisione, test e rilascio, con responsabilità dichiarate.
 
 - Durata: 4 ore, 2 lezioni da 2 ore
-- Sceglierlo se: Quando un team vuole adottare agenti di coding in modo serio: come capacità integrata in repository, review, test e delivery.
+- Sceglierlo se: Quando un team vuole gli agenti di coding dentro repository, revisione, test e rilascio, non come uso occasionale.
 - Profilo: Per team tecnici con basi di programmazione e architetture software.
-- Output finale: Playbook agentico per sviluppo, review, test e policy repository.
+- Output finale: Playbook agentico — il manuale operativo per usare gli agenti nello sviluppo, nella revisione, nei test e nelle regole del repository.
 - URL: https://ar-tik.com/corsi/ai-coding-agents.html
 
 ### AI Software Engineering
@@ -2542,19 +2702,19 @@ Corso tecnico per usare agenti AI come componenti controllati del ciclo software
 Corso tecnico per portare disciplina ingegneristica nello sviluppo di funzionalità e prodotti AI.
 
 - Durata: 5 ore, 2 lezioni da 2,5 ore
-- Sceglierlo se: Quando si deve costruire o industrializzare una funzionalità AI in prodotto, portale, workflow interno, applicazione enterprise o piattaforma dati.
+- Sceglierlo se: Quando una funzione AI deve passare da prototipo a parte stabile di un prodotto o di un sistema interno.
 - Profilo: Per team tecnici con basi di programmazione e architetture software.
-- Output finale: Blueprint AI-native e criteri di evaluation/go-live.
+- Output finale: Blueprint AI-native (lo schema architetturale del software con l'AI nel prodotto) e criteri di evaluation e go-live: le prove da superare prima dell'ingresso in esercizio.
 - URL: https://ar-tik.com/corsi/ai-software-engineering.html
 
 ### Secure AI SDLC
 
-Corso tecnico per inserire controlli AI-specifici in design, build, test, release e operation.
+Corso tecnico per inserire controlli AI-specifici nelle fasi del ciclo di sviluppo: design (progettazione), build (costruzione), test, release (rilascio) e operation (esercizio).
 
 - Durata: 4-6 ore, personalizzabili
 - Sceglierlo se: Quando un'organizzazione sta sviluppando applicazioni AI e vuole evitare che sicurezza e governance arrivino solo alla fine.
 - Profilo: Per team tecnici con basi di programmazione e architetture software.
-- Output finale: Threat model AI e checklist Secure AI SDLC.
+- Output finale: Threat model AI, cioè la mappa delle minacce, e checklist Secure AI SDLC.
 - URL: https://ar-tik.com/corsi/secure-ai-sdlc.html
 
 ### Secure AI at Work
@@ -2569,12 +2729,12 @@ Corso tecnico-operativo per rendere l'uso quotidiano dell'AI più efficace, sicu
 
 ### AI Output Quality & Human Review
 
-Corso per progettare review umana, rubriche di qualità e metriche operative sugli output AI.
+Corso per progettare la revisione da parte delle persone, le schede di giudizio e le misure di qualità su ciò che l'AI produce.
 
 - Durata: 4-6 ore, personalizzabili
-- Sceglierlo se: Quando output AI supportano decisioni, documentazione, assistenza, analisi, reportistica, coding, knowledge base o workflow che richiedono controllo qualità.
+- Sceglierlo se: Quando i risultati dell'AI entrano in decisioni o documenti e serve un controllo di qualità, non un giudizio a occhio.
 - Profilo: Per team aziendali, funzioni operative e manager; non richiede programmazione.
-- Output finale: Rubrica qualità, processo human review e metriche di accettazione output AI.
+- Output finale: Scheda di qualità, processo di revisione umana e misure per accettare o respingere i risultati dell'AI.
 - URL: https://ar-tik.com/corsi/ai-output-quality.html
 
 ## Domande frequenti
@@ -2599,12 +2759,12 @@ Materiali operativi, esempi adattati al contesto, criteri di utilizzo e una lett
 
 # AI Workflow Redesign Lab
 
-Il laboratorio fondamentale per ridisegnare attività, processi e flussi decisionali integrando l'AI generativa in modo utile, misurabile e governato.
+Il laboratorio di partenza per ridisegnare attività, processi e passaggi in cui si decide, integrando l'AI generativa con misure e regole di controllo.
 
 - Durata: 8 ore, modulabili in 2 o 4 sessioni
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per team aziendali, funzioni operative e manager; non richiede programmazione.
-- Output finale: Mappa dei workflow prioritari, prototipo di flusso uomo-AI e roadmap di adozione.
+- Output finale: Mappa dei flussi di lavoro prioritari, prototipo di flusso con persona e AI, piano di adozione.
 - Sceglierlo se: Quando l'azienda ha già curiosità o sperimentazioni AI ma non ha ancora trasformato il lavoro. È il punto di partenza consigliato prima di corsi verticali, policy, piloti o acquisti tecnologici.
 
 ## Il problema che risolve
@@ -2622,8 +2782,8 @@ Quando l'azienda ha già curiosità o sperimentazioni AI ma non ha ancora trasfo
 ## Risultati concreti
 
 - Identificare processi ad alto potenziale AI.
-- Distinguere attività automatizzabili, aumentabili e da mantenere umane.
-- Disegnare workflow ibridi con input, output, controlli e responsabilità.
+- Distinguere attività da automatizzare, da affiancare con l'AI e da lasciare alle persone.
+- Disegnare flussi misti persona-AI, con ingressi, risultati, controlli e responsabilità.
 - Definire metriche operative su tempo, qualità, rischio e costo.
 - Costruire una roadmap di implementazione per priorità e dipendenze.
 
@@ -2685,6 +2845,12 @@ No. Produce mappe, priorità, workflow ridisegnati e roadmap.
 ### È adatto come primo corso AI?
 
 Sì, è il percorso fondamentale per trasformare l'AI in cambiamento organizzativo.
+
+## Corsi collegati
+
+- [Managing AI](https://ar-tik.com/corsi/managing-ai.md): Percorso per direzione e responsabili che devono distinguere valore reale, rischio e priorità prima di avviare iniziative AI.
+- [Managing AI per team aziendali misti](https://ar-tik.com/corsi/managing-ai-general.md): Formazione interfunzionale per creare linguaggio comune tra business, operations, marketing, IT, HR, legal e funzioni di supporto.
+- [AI Governance operativa](https://ar-tik.com/corsi/ai-governance.md): Corso per trasformare policy, rischi e requisiti di controllo in pratiche applicabili nel lavoro quotidiano.
 
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)
 
@@ -2779,6 +2945,12 @@ Sì, soprattutto quando serve allineamento strategico.
 
 Sì, in forma operativa e introduttiva.
 
+## Corsi collegati
+
+- [Managing AI per team aziendali misti](https://ar-tik.com/corsi/managing-ai-general.md): Formazione interfunzionale per creare linguaggio comune tra business, operations, marketing, IT, HR, legal e funzioni di supporto.
+- [AI Governance operativa](https://ar-tik.com/corsi/ai-governance.md): Corso per trasformare policy, rischi e requisiti di controllo in pratiche applicabili nel lavoro quotidiano.
+- [AI Business Case & ROI Sprint](https://ar-tik.com/corsi/ai-business-case-roi.md): Sprint per passare da entusiasmo o intuizione a una decisione economica: problema, valore, costi, rischi, metriche e raccomandazione.
+
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)
 
 <!-- https://ar-tik.com/corsi/managing-ai-general.md -->
@@ -2790,7 +2962,7 @@ Un percorso per allineare funzioni diverse su uso, priorità, responsabilità e 
 - Durata: 4 ore, 2 lezioni da 2 ore
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per manager e team non tecnici; non richiede programmazione.
-- Output finale: Mappa interfunzionale di casi d'uso, ownership e criteri di decisione.
+- Output finale: Mappa tra funzioni di casi d'uso, responsabili e criteri di decisione.
 - Sceglierlo se: Quando l'AI coinvolge più funzioni e genera disallineamento tra obiettivi, aspettative, vincoli tecnici, rischi e responsabilità operative.
 
 ## Il problema che risolve
@@ -2810,7 +2982,7 @@ Quando l'AI coinvolge più funzioni e genera disallineamento tra obiettivi, aspe
 - Allineare funzioni diverse su opportunità e limiti.
 - Identificare casi d'uso prioritari condivisi.
 - Chiarire ruoli, controlli e passaggi decisionali.
-- Ridurre iniziative isolate.
+- Ridurre iniziative AI nate in un solo team, senza criterio condiviso.
 - Creare base comune per policy, pilota o roadmap.
 
 ## Programma
@@ -2871,6 +3043,12 @@ No, produce basi operative utili anche per una futura policy.
 ### È utile prima di un pilota?
 
 Sì, riduce ambiguità e rischi organizzativi.
+
+## Corsi collegati
+
+- [AI Governance operativa](https://ar-tik.com/corsi/ai-governance.md): Corso per trasformare policy, rischi e requisiti di controllo in pratiche applicabili nel lavoro quotidiano.
+- [AI Business Case & ROI Sprint](https://ar-tik.com/corsi/ai-business-case-roi.md): Sprint per passare da entusiasmo o intuizione a una decisione economica: problema, valore, costi, rischi, metriche e raccomandazione.
+- [AI Adoption Manager / AI Champions](https://ar-tik.com/corsi/ai-adoption-manager.md): Percorso per creare referenti interni che raccolgono bisogni, supportano i colleghi e collegano sperimentazioni locali alla governance aziendale.
 
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)
 
@@ -2964,6 +3142,12 @@ No, abilita l'uso responsabile attraverso regole chiare.
 ### Produce documenti riutilizzabili?
 
 Sì, template e matrici sono pensati per uso interno.
+
+## Corsi collegati
+
+- [AI Business Case & ROI Sprint](https://ar-tik.com/corsi/ai-business-case-roi.md): Sprint per passare da entusiasmo o intuizione a una decisione economica: problema, valore, costi, rischi, metriche e raccomandazione.
+- [AI Adoption Manager / AI Champions](https://ar-tik.com/corsi/ai-adoption-manager.md): Percorso per creare referenti interni che raccolgono bisogni, supportano i colleghi e collegano sperimentazioni locali alla governance aziendale.
+- [Role-Based AI Literacy & Responsible Use](https://ar-tik.com/corsi/ai-literacy.md): Formazione base ma concreta per diffondere uso AI sicuro e utile, differenziato per ruoli e responsabilità.
 
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)
 
@@ -3059,6 +3243,12 @@ Sì, rende confrontabili iniziative AI diverse.
 
 Sì, in forma sintetica e decisionale.
 
+## Corsi collegati
+
+- [AI Adoption Manager / AI Champions](https://ar-tik.com/corsi/ai-adoption-manager.md): Percorso per creare referenti interni che raccolgono bisogni, supportano i colleghi e collegano sperimentazioni locali alla governance aziendale.
+- [Role-Based AI Literacy & Responsible Use](https://ar-tik.com/corsi/ai-literacy.md): Formazione base ma concreta per diffondere uso AI sicuro e utile, differenziato per ruoli e responsabilità.
+- [Secure AI at Work](https://ar-tik.com/corsi/secure-ai-at-work.md): Corso tecnico-operativo per rendere l'uso quotidiano dell'AI più efficace, sicuro e governato.
+
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)
 
 <!-- https://ar-tik.com/corsi/ai-adoption-manager.md -->
@@ -3070,8 +3260,8 @@ Formare figure interne capaci di accompagnare l'adozione dell'AI nei team, con m
 - Durata: 6-8 ore, modulabili
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per team aziendali, funzioni operative e manager; non richiede programmazione.
-- Output finale: Playbook e modello operativo per rete interna di AI Champion.
-- Sceglierlo se: Quando l'azienda vuole scalare l'adozione AI oltre la formazione iniziale, creando una rete interna di facilitatori competenti e riconoscibili.
+- Output finale: Manuale operativo e modello per una rete interna di referenti AI.
+- Sceglierlo se: Quando l'azienda vuole allargare l'uso dell'AI oltre la formazione iniziale, creando una rete interna di facilitatori competenti e riconoscibili.
 
 ## Il problema che risolve
 
@@ -3083,7 +3273,7 @@ Figure selezionate da HR, innovation, transformation, IT, business unit, operati
 
 ## Quando sceglierlo
 
-Quando l'azienda vuole scalare l'adozione AI oltre la formazione iniziale, creando una rete interna di facilitatori competenti e riconoscibili.
+Quando l'azienda vuole allargare l'uso dell'AI oltre la formazione iniziale, creando una rete interna di facilitatori competenti e riconoscibili.
 
 ## Risultati concreti
 
@@ -3152,6 +3342,12 @@ Sì, il modello è adatto a più funzioni o sedi.
 
 Sì, playbook, template e schema di reporting.
 
+## Corsi collegati
+
+- [Role-Based AI Literacy & Responsible Use](https://ar-tik.com/corsi/ai-literacy.md): Formazione base ma concreta per diffondere uso AI sicuro e utile, differenziato per ruoli e responsabilità.
+- [Secure AI at Work](https://ar-tik.com/corsi/secure-ai-at-work.md): Corso tecnico-operativo per rendere l'uso quotidiano dell'AI più efficace, sicuro e governato.
+- [AI Output Quality & Human Review](https://ar-tik.com/corsi/ai-output-quality.md): Corso per progettare la revisione da parte delle persone, le schede di giudizio e le misure di qualità su ciò che l'AI produce.
+
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)
 
 <!-- https://ar-tik.com/corsi/ai-literacy.md -->
@@ -3164,7 +3360,7 @@ Alfabetizzazione AI per ruoli aziendali, con focus su uso responsabile, qualità
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per team aziendali, funzioni operative e manager; non richiede programmazione.
 - Output finale: Schede di uso responsabile per ruolo e checklist operative.
-- Sceglierlo se: Quando l'azienda vuole diffondere cultura AI comune, evitando sia entusiasmo non governato sia blocco operativo.
+- Sceglierlo se: Quando l'azienda vuole che tutti usino l'AI in modo simile, senza usi fuori controllo e senza divieti di fatto.
 
 ## Il problema che risolve
 
@@ -3176,7 +3372,7 @@ Dipendenti, team operativi, manager di primo livello, funzioni corporate, custom
 
 ## Quando sceglierlo
 
-Quando l'azienda vuole diffondere cultura AI comune, evitando sia entusiasmo non governato sia blocco operativo.
+Quando l'azienda vuole che tutti usino l'AI in modo simile, senza usi fuori controllo e senza divieti di fatto.
 
 ## Risultati concreti
 
@@ -3188,7 +3384,7 @@ Quando l'azienda vuole diffondere cultura AI comune, evitando sia entusiasmo non
 
 ## Programma
 
-### 1. AI literacy essenziale
+### 1. Che cosa fa l'AI e dove sbaglia
 
 Cosa fa l'AI, come ragiona, dove fallisce e quando usarla.
 
@@ -3196,7 +3392,7 @@ Cosa fa l'AI, come ragiona, dove fallisce e quando usarla.
 
 Attività tipiche, casi consentiti, casi da evitare ed esempi funzionali.
 
-### 3. Responsible use
+### 3. Uso responsabile: dati, verifica, controllo
 
 Dati, privacy, bias, qualità, verifica e controllo umano.
 
@@ -3245,6 +3441,12 @@ No, può essere modulato per funzione e rischio.
 
 Sì, traduce il responsible use in comportamenti pratici.
 
+## Corsi collegati
+
+- [Secure AI at Work](https://ar-tik.com/corsi/secure-ai-at-work.md): Corso tecnico-operativo per rendere l'uso quotidiano dell'AI più efficace, sicuro e governato.
+- [AI Output Quality & Human Review](https://ar-tik.com/corsi/ai-output-quality.md): Corso per progettare la revisione da parte delle persone, le schede di giudizio e le misure di qualità su ciò che l'AI produce.
+- [Managing AI](https://ar-tik.com/corsi/managing-ai.md): Percorso per direzione e responsabili che devono distinguere valore reale, rischio e priorità prima di avviare iniziative AI.
+
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)
 
 <!-- https://ar-tik.com/corsi/ai-documenti.md -->
@@ -3256,7 +3458,7 @@ Leggere, classificare, estrarre e ritrovare informazioni da contratti, fatture, 
 - Durata: 8 ore, personalizzabili
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per team aziendali, funzioni operative e manager; non richiede programmazione.
-- Output finale: Workflow documentale AI-assisted e template per ricerca, sintesi, estrazione e classificazione.
+- Output finale: Flusso di lavoro sui documenti, con AI e modelli per ricerca, sintesi, estrazione e classificazione.
 - Sceglierlo se: Quando documenti, contratti, fatture, scansioni o email assorbono tempo e rendono difficile recuperare informazioni affidabili.
 
 ## Il problema che risolve
@@ -3337,18 +3539,24 @@ Solo se autorizzati e compatibili con policy e strumenti aziendali.
 
 Sì, spesso il beneficio è immediato nei team che gestiscono molti documenti.
 
+## Corsi collegati
+
+- [Corso AI: marketing e comunicazione con l'AI](https://ar-tik.com/corsi/ai-marketing.md): Laboratorio per usare l'AI come assistente editoriale e di analisi, senza perdere identità, qualità e controllo.
+- [Corso AI: vendita B2C e B2B con AI](https://ar-tik.com/corsi/ai-vendite.md): Laboratorio per usare l'AI nel lavoro commerciale: ricerca, preparazione, follow-up e qualità della proposta.
+- [AI per amministrazione e controllo di gestione](https://ar-tik.com/corsi/ai-admin-finance.md): Corso per usare l'AI in amministrazione, finanza e controllo come supporto a sintesi, report e controlli preliminari, senza togliere la responsabilità alle persone.
+
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)
 
 <!-- https://ar-tik.com/corsi/ai-marketing.md -->
 
-# Corso AI: marketing e comunicazione AI driven
+# Corso AI: marketing e comunicazione con l'AI
 
 Produrre contenuti, analizzare mercato e concorrenti, pianificare campagne e mantenere una voce coerente con il brand.
 
 - Durata: 8 ore, personalizzabili
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per team aziendali, funzioni operative e manager; non richiede programmazione.
-- Output finale: Sistema operativo per contenuti, calendario, voce di marca e analisi competitor.
+- Output finale: Metodo di lavoro per contenuti, calendario, voce di marca e analisi dei concorrenti.
 - Sceglierlo se: Quando comunicazione, contenuti e analisi competitor richiedono continuità, ma il team deve mantenere coerenza di marca e qualità.
 
 ## Il problema che risolve
@@ -3429,6 +3637,12 @@ Include workflow e brief per visual, con attenzione a diritti e coerenza.
 
 Sì, aiuta a costruire una routine sostenibile.
 
+## Corsi collegati
+
+- [Corso AI: vendita B2C e B2B con AI](https://ar-tik.com/corsi/ai-vendite.md): Laboratorio per usare l'AI nel lavoro commerciale: ricerca, preparazione, follow-up e qualità della proposta.
+- [Corso AI: gestire i documenti con AI](https://ar-tik.com/corsi/ai-documenti.md): Laboratorio pratico per mettere ordine tra i documenti e poterli cercare, sintetizzare e controllare.
+- [AI per amministrazione e controllo di gestione](https://ar-tik.com/corsi/ai-admin-finance.md): Corso per usare l'AI in amministrazione, finanza e controllo come supporto a sintesi, report e controlli preliminari, senza togliere la responsabilità alle persone.
+
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)
 
 <!-- https://ar-tik.com/corsi/ai-vendite.md -->
@@ -3440,7 +3654,7 @@ Qualificare lead, preparare trattative, personalizzare proposte e seguire opport
 - Durata: 8 ore, personalizzabili
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per team aziendali, funzioni operative e manager; non richiede programmazione.
-- Output finale: Workflow commerciale AI-assisted per profili cliente, offerte, obiezioni e follow-up.
+- Output finale: Flusso di lavoro commerciale con AI per profili cliente, offerte, obiezioni e follow-up.
 - Sceglierlo se: Quando il team commerciale perde tempo in preparazione, personalizzazione offerte, follow-up o gestione di lead non qualificati.
 
 ## Il problema che risolve
@@ -3521,6 +3735,12 @@ Non è obbligatorio, ma aiuta a rendere il workflow più disciplinato.
 
 Sì, soprattutto su continuità, personalizzazione e memoria delle opportunità.
 
+## Corsi collegati
+
+- [Corso AI: gestire i documenti con AI](https://ar-tik.com/corsi/ai-documenti.md): Laboratorio pratico per mettere ordine tra i documenti e poterli cercare, sintetizzare e controllare.
+- [Corso AI: marketing e comunicazione con l'AI](https://ar-tik.com/corsi/ai-marketing.md): Laboratorio per usare l'AI come assistente editoriale e di analisi, senza perdere identità, qualità e controllo.
+- [AI per amministrazione e controllo di gestione](https://ar-tik.com/corsi/ai-admin-finance.md): Corso per usare l'AI in amministrazione, finanza e controllo come supporto a sintesi, report e controlli preliminari, senza togliere la responsabilità alle persone.
+
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)
 
 <!-- https://ar-tik.com/corsi/ai-admin-finance.md -->
@@ -3532,7 +3752,7 @@ Applicare l'AI a riconciliazioni, report, analisi scostamenti, budgeting e contr
 - Durata: 4-6 ore, personalizzabili
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per manager e team non tecnici; non richiede programmazione.
-- Output finale: Set di template per report, analisi scostamenti e controlli AFC.
+- Output finale: Serie di modelli per report, analisi degli scostamenti e controlli di amministrazione, finanza e controllo.
 - Sceglierlo se: Quando l'azienda vuole rendere più rapidi e tracciabili analisi, reporting e controllo, senza trasformare l'AI in un decisore contabile.
 
 ## Il problema che risolve
@@ -3613,6 +3833,12 @@ Sì, con scenari realistici e dati simulati o anonimizzati.
 
 Include workflow replicabili; l'integrazione dipende dai sistemi aziendali.
 
+## Corsi collegati
+
+- [AI Operations](https://ar-tik.com/corsi/ai-operations.md): Percorso per rendere i processi operativi più efficienti, controllati e comprensibili, senza nuove dashboard di monitoraggio.
+- [AI Legal Ops e compliance documentale](https://ar-tik.com/corsi/ai-legal-ops.md): Corso operativo per ridurre lavoro manuale su contratti, policy e procedure, mantenendo supervisione e gestione del rischio.
+- [AI per acquisti e conoscenza dei fornitori](https://ar-tik.com/corsi/ai-procurement.md): Corso per rendere più ordinati ricerca fornitori, confronto e documentazione acquisti, con criteri di scelta espliciti.
+
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)
 
 <!-- https://ar-tik.com/corsi/ai-operations.md -->
@@ -3625,7 +3851,7 @@ Applicare l'AI ai processi operativi: procedure, report, coordinamento attività
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per manager e team non tecnici; non richiede programmazione.
 - Output finale: Workflow operativo ridisegnato con procedure, checklist e report assistiti da AI.
-- Sceglierlo se: Quando l'azienda vuole migliorare efficienza, standardizzazione e controllo dei processi operativi senza automatizzare decisioni critiche senza supervisione.
+- Sceglierlo se: Quando l'azienda vuole processi operativi più efficienti e uniformi, e le decisioni critiche devono restare sotto supervisione.
 
 ## Il problema che risolve
 
@@ -3637,7 +3863,7 @@ Operations manager, project operations, back office, responsabili di processo, s
 
 ## Quando sceglierlo
 
-Quando l'azienda vuole migliorare efficienza, standardizzazione e controllo dei processi operativi senza automatizzare decisioni critiche senza supervisione.
+Quando l'azienda vuole processi operativi più efficienti e uniformi, e le decisioni critiche devono restare sotto supervisione.
 
 ## Risultati concreti
 
@@ -3704,6 +3930,12 @@ Sì, se criteri e vincoli sono chiari.
 ### Come si misura il beneficio?
 
 Con tempo risparmiato, rilavorazioni ridotte, qualità documentale e velocità di allineamento.
+
+## Corsi collegati
+
+- [AI Legal Ops e compliance documentale](https://ar-tik.com/corsi/ai-legal-ops.md): Corso operativo per ridurre lavoro manuale su contratti, policy e procedure, mantenendo supervisione e gestione del rischio.
+- [AI per acquisti e conoscenza dei fornitori](https://ar-tik.com/corsi/ai-procurement.md): Corso per rendere più ordinati ricerca fornitori, confronto e documentazione acquisti, con criteri di scelta espliciti.
+- [AI per assistenza clienti e classificazione delle richieste](https://ar-tik.com/corsi/ai-customer-service.md): Corso per rendere più rapida e uniforme la gestione delle richieste senza perdere controllo su tono, escalation e qualità.
 
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)
 
@@ -3797,19 +4029,25 @@ Sì, se il lavoro è scomposto in passaggi verificabili.
 
 Con anonimizzazione, minimizzazione e autorizzazione preventiva.
 
+## Corsi collegati
+
+- [AI per acquisti e conoscenza dei fornitori](https://ar-tik.com/corsi/ai-procurement.md): Corso per rendere più ordinati ricerca fornitori, confronto e documentazione acquisti, con criteri di scelta espliciti.
+- [AI per assistenza clienti e classificazione delle richieste](https://ar-tik.com/corsi/ai-customer-service.md): Corso per rendere più rapida e uniforme la gestione delle richieste senza perdere controllo su tono, escalation e qualità.
+- [AI per qualità e non conformità](https://ar-tik.com/corsi/ai-quality-management.md): Corso per migliorare analisi, classificazione e documentazione qualità mantenendo controllo formale sugli output.
+
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)
 
 <!-- https://ar-tik.com/corsi/ai-procurement.md -->
 
-# AI per procurement e supplier intelligence
+# AI per acquisti e conoscenza dei fornitori
 
-Applicare l'AI a vendor scouting, analisi fornitori, comparazione offerte, sintesi contrattuali e rischi di fornitura.
+Applicare l'AI a ricerca fornitori, analisi, confronto offerte, sintesi contrattuali e rischi di fornitura.
 
 - Durata: 4-6 ore, personalizzabili
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per manager e team non tecnici; non richiede programmazione.
-- Output finale: Griglia di supplier intelligence e workflow di comparazione offerte.
-- Sceglierlo se: Quando l'azienda vuole rendere più strutturati scouting, comparazione, documentazione e analisi preliminare dei fornitori.
+- Output finale: Griglia di profilo e rischio fornitore, e flusso di confronto delle offerte.
+- Sceglierlo se: Quando l'azienda vuole rendere più ordinati ricerca, confronto, documentazione e analisi preliminare dei fornitori.
 
 ## Il problema che risolve
 
@@ -3821,7 +4059,7 @@ Procurement, uffici acquisti, supply chain, vendor management, category manager,
 
 ## Quando sceglierlo
 
-Quando l'azienda vuole rendere più strutturati scouting, comparazione, documentazione e analisi preliminare dei fornitori.
+Quando l'azienda vuole rendere più ordinati ricerca, confronto, documentazione e analisi preliminare dei fornitori.
 
 ## Risultati concreti
 
@@ -3889,18 +4127,24 @@ Sì, riduce lavoro ripetitivo e chiarisce criteri.
 
 Con criteri espliciti, fonti tracciate e revisione umana.
 
+## Corsi collegati
+
+- [AI per assistenza clienti e classificazione delle richieste](https://ar-tik.com/corsi/ai-customer-service.md): Corso per rendere più rapida e uniforme la gestione delle richieste senza perdere controllo su tono, escalation e qualità.
+- [AI per qualità e non conformità](https://ar-tik.com/corsi/ai-quality-management.md): Corso per migliorare analisi, classificazione e documentazione qualità mantenendo controllo formale sugli output.
+- [AI People Ops](https://ar-tik.com/corsi/ai-people-ops.md): Corso per rendere più efficienti processi HR ricorrenti preservando riservatezza, inclusione, controllo e responsabilità.
+
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)
 
 <!-- https://ar-tik.com/corsi/ai-customer-service.md -->
 
-# AI per customer service e ticket triage
+# AI per assistenza clienti e classificazione delle richieste
 
 Usare l'AI per classificare ticket, proporre risposte, individuare priorità e migliorare la gestione operativa del servizio clienti.
 
 - Durata: 4-6 ore, personalizzabili
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per manager e team non tecnici; non richiede programmazione.
-- Output finale: Tassonomia ticket, workflow di triage e modello di risposta assistita.
+- Output finale: Elenco categorie di richieste, flusso di classificazione e priorità, modello di risposta assistita.
 - Sceglierlo se: Quando l'azienda vuole rendere più rapida e uniforme la gestione delle richieste, mantenendo controllo su escalation e qualità della risposta.
 
 ## Il problema che risolve
@@ -3980,6 +4224,12 @@ No, ma migliora qualità e coerenza.
 ### Come controllare il tono?
 
 Con linee guida, esempi approvati e revisione.
+
+## Corsi collegati
+
+- [AI per qualità e non conformità](https://ar-tik.com/corsi/ai-quality-management.md): Corso per migliorare analisi, classificazione e documentazione qualità mantenendo controllo formale sugli output.
+- [AI People Ops](https://ar-tik.com/corsi/ai-people-ops.md): Corso per rendere più efficienti processi HR ricorrenti preservando riservatezza, inclusione, controllo e responsabilità.
+- [AI Brand Voice e comunicazione](https://ar-tik.com/corsi/ai-brand-voice.md): Percorso per produrre più comunicazione senza perdere una voce riconoscibile e controllabile rispetto alle linee guida di marca.
 
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)
 
@@ -4073,6 +4323,12 @@ Sì, partendo da procedure o scenari.
 
 Con fonti esplicite, review e checklist di validazione.
 
+## Corsi collegati
+
+- [AI People Ops](https://ar-tik.com/corsi/ai-people-ops.md): Corso per rendere più efficienti processi HR ricorrenti preservando riservatezza, inclusione, controllo e responsabilità.
+- [AI Brand Voice e comunicazione](https://ar-tik.com/corsi/ai-brand-voice.md): Percorso per produrre più comunicazione senza perdere una voce riconoscibile e controllabile rispetto alle linee guida di marca.
+- [AI per amministrazione e controllo di gestione](https://ar-tik.com/corsi/ai-admin-finance.md): Corso per usare l'AI in amministrazione, finanza e controllo come supporto a sintesi, report e controlli preliminari, senza togliere la responsabilità alle persone.
+
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)
 
 <!-- https://ar-tik.com/corsi/ai-people-ops.md -->
@@ -4165,6 +4421,12 @@ Sì, per chiarezza, coerenza e tono.
 
 Con dati minimizzati, revisione umana e limiti documentati.
 
+## Corsi collegati
+
+- [AI Brand Voice e comunicazione](https://ar-tik.com/corsi/ai-brand-voice.md): Percorso per produrre più comunicazione senza perdere una voce riconoscibile e controllabile rispetto alle linee guida di marca.
+- [AI per amministrazione e controllo di gestione](https://ar-tik.com/corsi/ai-admin-finance.md): Corso per usare l'AI in amministrazione, finanza e controllo come supporto a sintesi, report e controlli preliminari, senza togliere la responsabilità alle persone.
+- [AI Operations](https://ar-tik.com/corsi/ai-operations.md): Percorso per rendere i processi operativi più efficienti, controllati e comprensibili, senza nuove dashboard di monitoraggio.
+
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)
 
 <!-- https://ar-tik.com/corsi/ai-brand-voice.md -->
@@ -4176,7 +4438,7 @@ Usare l'AI nella comunicazione senza perdere identità: tono, messaggi, linee gu
 - Durata: 4 ore, 2 lezioni da 2 ore
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per manager e team non tecnici; non richiede programmazione.
-- Output finale: Brand voice sheet e workflow editoriale AI-assisted.
+- Output finale: Scheda della voce di marca e flusso editoriale con AI.
 - Sceglierlo se: Quando l'azienda vuole usare l'AI per comunicare meglio ma teme contenuti generici, incoerenti o non aderenti alla propria identità.
 
 ## Il problema che risolve
@@ -4257,19 +4519,25 @@ Sì, adatta messaggi a contesti diversi mantenendo coerenza.
 
 No, include processo, review e governance editoriale.
 
+## Corsi collegati
+
+- [AI per amministrazione e controllo di gestione](https://ar-tik.com/corsi/ai-admin-finance.md): Corso per usare l'AI in amministrazione, finanza e controllo come supporto a sintesi, report e controlli preliminari, senza togliere la responsabilità alle persone.
+- [AI Operations](https://ar-tik.com/corsi/ai-operations.md): Percorso per rendere i processi operativi più efficienti, controllati e comprensibili, senza nuove dashboard di monitoraggio.
+- [AI Legal Ops e compliance documentale](https://ar-tik.com/corsi/ai-legal-ops.md): Corso operativo per ridurre lavoro manuale su contratti, policy e procedure, mantenendo supervisione e gestione del rischio.
+
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)
 
 <!-- https://ar-tik.com/corsi/embeddings.md -->
 
 # Ricerca semantica e knowledge base AI
 
-Trasformare documenti, procedure e conoscenza interna in sistemi di ricerca intelligenti, navigabili e governati.
+Trasformare documenti, procedure e conoscenza interna in una knowledge base con ricerca semantica: si cerca per significato e non per parola esatta, con permessi e regole.
 
 - Durata: 60-90 minuti o modulo breve
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per team tecnici con basi di programmazione e architetture software.
-- Output finale: Blueprint per knowledge base semantica e criteri di indicizzazione.
-- Sceglierlo se: Quando l'organizzazione vuole migliorare accesso alla conoscenza, ridurre tempi di ricerca, supportare operatori o preparare basi informative per applicazioni AI.
+- Output finale: Blueprint della knowledge base semantica: lo schema dell'archivio di conoscenza e i criteri per renderlo cercabile.
+- Sceglierlo se: Quando cercare in archivi e procedure è lento o inaffidabile, e serve un accesso alla conoscenza più preciso.
 
 ## Il problema che risolve
 
@@ -4281,7 +4549,7 @@ Team IT, data, knowledge management, supporto tecnico, software, operations, doc
 
 ## Quando sceglierlo
 
-Quando l'organizzazione vuole migliorare accesso alla conoscenza, ridurre tempi di ricerca, supportare operatori o preparare basi informative per applicazioni AI.
+Quando cercare in archivi e procedure è lento o inaffidabile, e serve un accesso alla conoscenza più preciso.
 
 ## Risultati concreti
 
@@ -4350,18 +4618,24 @@ Sì, è uno dei casi d'uso più forti.
 
 No, l'architettura si adatta allo stack scelto.
 
+## Corsi collegati
+
+- [RAG Engineering per sistemi AI affidabili](https://ar-tik.com/corsi/rag-engineering.md): Corso tecnico per passare da una chat sui documenti a sistemi RAG (Retrieval-Augmented Generation): recupero delle fonti, qualità misurabile e controllo.
+- [AI Coding Agents per team software](https://ar-tik.com/corsi/ai-coding-agents.md): Corso tecnico per usare agenti AI come componenti controllati del ciclo software: sviluppo, revisione, test e rilascio, con responsabilità dichiarate.
+- [AI Software Engineering](https://ar-tik.com/corsi/ai-software-engineering.md): Corso tecnico per portare disciplina ingegneristica nello sviluppo di funzionalità e prodotti AI.
+
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)
 
 <!-- https://ar-tik.com/corsi/rag-engineering.md -->
 
 # RAG Engineering per sistemi AI affidabili
 
-Progettare, valutare e portare in produzione architetture Retrieval-Augmented Generation basate su dati e documenti aziendali.
+Progettare, valutare e portare in produzione architetture RAG (Retrieval-Augmented Generation): sistemi che recuperano i documenti aziendali e generano la risposta citandoli.
 
 - Durata: 5 ore, 2 lezioni da 2,5 ore
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per team tecnici con basi di programmazione e architetture software.
-- Output finale: Architettura RAG target, evaluation set e checklist production-ready.
+- Output finale: Architettura RAG target (il sistema di risposta sulle fonti da costruire), evaluation set (l'insieme di prove con cui si misura la qualità) e checklist production-ready, cioè la lista di controllo prima dell'uso reale.
 - Sceglierlo se: Quando esistono knowledge base, documentazione tecnica, procedure, ticket, contratti o repository da rendere interrogabili senza perdere controllo su fonti e qualità.
 
 ## Il problema che risolve
@@ -4379,8 +4653,8 @@ Quando esistono knowledge base, documentazione tecnica, procedure, ticket, contr
 ## Risultati concreti
 
 - Disegnare architettura RAG target.
-- Impostare pipeline di ingestion.
-- Definire chunking e retrieval.
+- Impostare pipeline di ingestion, la catena che prepara e carica i documenti.
+- Definire chunking e retrieval: come spezzare i testi e come recuperarli al momento della domanda.
 - Costruire criteri di valutazione e metriche.
 - Gestire fonti, permessi, sicurezza e osservabilità.
 
@@ -4444,6 +4718,12 @@ Sì, se c'è familiarità con sistemi software e dati.
 
 Può includere prototipi, ma l'obiettivo è progettare sistemi robusti e valutabili.
 
+## Corsi collegati
+
+- [AI Coding Agents per team software](https://ar-tik.com/corsi/ai-coding-agents.md): Corso tecnico per usare agenti AI come componenti controllati del ciclo software: sviluppo, revisione, test e rilascio, con responsabilità dichiarate.
+- [AI Software Engineering](https://ar-tik.com/corsi/ai-software-engineering.md): Corso tecnico per portare disciplina ingegneristica nello sviluppo di funzionalità e prodotti AI.
+- [Secure AI SDLC](https://ar-tik.com/corsi/secure-ai-sdlc.md): Corso tecnico per inserire controlli AI-specifici nelle fasi del ciclo di sviluppo: design (progettazione), build (costruzione), test, release (rilascio) e operation (esercizio).
+
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)
 
 <!-- https://ar-tik.com/corsi/ai-coding-agents.md -->
@@ -4455,8 +4735,8 @@ Integrare agenti di coding nei flussi di sviluppo mantenendo controllo, qualità
 - Durata: 4 ore, 2 lezioni da 2 ore
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per team tecnici con basi di programmazione e architetture software.
-- Output finale: Playbook agentico per sviluppo, review, test e policy repository.
-- Sceglierlo se: Quando un team vuole adottare agenti di coding in modo serio: come capacità integrata in repository, review, test e delivery.
+- Output finale: Playbook agentico — il manuale operativo per usare gli agenti nello sviluppo, nella revisione, nei test e nelle regole del repository.
+- Sceglierlo se: Quando un team vuole gli agenti di coding dentro repository, revisione, test e rilascio, non come uso occasionale.
 
 ## Il problema che risolve
 
@@ -4468,11 +4748,11 @@ Software engineer, tech lead, engineering manager, platform team, QA engineer, D
 
 ## Quando sceglierlo
 
-Quando un team vuole adottare agenti di coding in modo serio: come capacità integrata in repository, review, test e delivery.
+Quando un team vuole gli agenti di coding dentro repository, revisione, test e rilascio, non come uso occasionale.
 
 ## Risultati concreti
 
-- Disegnare workflow agentici per sviluppo e test.
+- Disegnare workflow agentici per sviluppo e test, in cui ogni agente ha un ruolo definito.
 - Definire policy di review.
 - Stabilire criteri di accettazione.
 - Scrivere task operativi per agenti.
@@ -4538,19 +4818,25 @@ Sì, con attenzione a test characterization e refactoring incrementale.
 
 No, i pattern sono durevoli e adattabili.
 
+## Corsi collegati
+
+- [AI Software Engineering](https://ar-tik.com/corsi/ai-software-engineering.md): Corso tecnico per portare disciplina ingegneristica nello sviluppo di funzionalità e prodotti AI.
+- [Secure AI SDLC](https://ar-tik.com/corsi/secure-ai-sdlc.md): Corso tecnico per inserire controlli AI-specifici nelle fasi del ciclo di sviluppo: design (progettazione), build (costruzione), test, release (rilascio) e operation (esercizio).
+- [Ricerca semantica e knowledge base AI](https://ar-tik.com/corsi/embeddings.md): Modulo per rendere archivi e conoscenza aziendale cercabili per significato, con gli embeddings: rappresentazioni numeriche del significato di un testo, base dei progetti AI che rispondono sui documenti.
+
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)
 
 <!-- https://ar-tik.com/corsi/ai-software-engineering.md -->
 
 # AI Software Engineering
 
-Progettare software AI-native con architetture solide, requisiti chiari, valutazione continua e controllo del comportamento dei modelli.
+Progettare software AI-native, con l'AI dentro il prodotto e non accanto: architetture solide, requisiti chiari, valutazione continua e controllo del comportamento dei modelli.
 
 - Durata: 5 ore, 2 lezioni da 2,5 ore
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per team tecnici con basi di programmazione e architetture software.
-- Output finale: Blueprint AI-native e criteri di evaluation/go-live.
-- Sceglierlo se: Quando si deve costruire o industrializzare una funzionalità AI in prodotto, portale, workflow interno, applicazione enterprise o piattaforma dati.
+- Output finale: Blueprint AI-native (lo schema architetturale del software con l'AI nel prodotto) e criteri di evaluation e go-live: le prove da superare prima dell'ingresso in esercizio.
+- Sceglierlo se: Quando una funzione AI deve passare da prototipo a parte stabile di un prodotto o di un sistema interno.
 
 ## Il problema che risolve
 
@@ -4562,7 +4848,7 @@ Team software, solution architect, product engineer, tech lead, platform team, r
 
 ## Quando sceglierlo
 
-Quando si deve costruire o industrializzare una funzionalità AI in prodotto, portale, workflow interno, applicazione enterprise o piattaforma dati.
+Quando una funzione AI deve passare da prototipo a parte stabile di un prodotto o di un sistema interno.
 
 ## Risultati concreti
 
@@ -4570,7 +4856,7 @@ Quando si deve costruire o industrializzare una funzionalità AI in prodotto, po
 - Disegnare blueprint architetturale.
 - Scegliere pattern di integrazione.
 - Costruire strategia di evaluation.
-- Gestire errori, osservabilità e go-live.
+- Gestire errori, visibilità di che cosa fa il sistema in esercizio, e ingresso in esercizio (go-live).
 
 ## Programma
 
@@ -4632,6 +4918,12 @@ Abbastanza da guidare scelte reali su architettura, test e produzione.
 
 No, ragiona per capacità, vincoli e integrazione.
 
+## Corsi collegati
+
+- [Secure AI SDLC](https://ar-tik.com/corsi/secure-ai-sdlc.md): Corso tecnico per inserire controlli AI-specifici nelle fasi del ciclo di sviluppo: design (progettazione), build (costruzione), test, release (rilascio) e operation (esercizio).
+- [Ricerca semantica e knowledge base AI](https://ar-tik.com/corsi/embeddings.md): Modulo per rendere archivi e conoscenza aziendale cercabili per significato, con gli embeddings: rappresentazioni numeriche del significato di un testo, base dei progetti AI che rispondono sui documenti.
+- [RAG Engineering per sistemi AI affidabili](https://ar-tik.com/corsi/rag-engineering.md): Corso tecnico per passare da una chat sui documenti a sistemi RAG (Retrieval-Augmented Generation): recupero delle fonti, qualità misurabile e controllo.
+
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)
 
 <!-- https://ar-tik.com/corsi/secure-ai-sdlc.md -->
@@ -4643,7 +4935,7 @@ Integrare sicurezza, privacy e controlli tecnici nel ciclo di sviluppo software 
 - Durata: 4-6 ore, personalizzabili
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per team tecnici con basi di programmazione e architetture software.
-- Output finale: Threat model AI e checklist Secure AI SDLC.
+- Output finale: Threat model AI, cioè la mappa delle minacce, e checklist Secure AI SDLC.
 - Sceglierlo se: Quando un'organizzazione sta sviluppando applicazioni AI e vuole evitare che sicurezza e governance arrivino solo alla fine.
 
 ## Il problema che risolve
@@ -4661,7 +4953,7 @@ Quando un'organizzazione sta sviluppando applicazioni AI e vuole evitare che sic
 ## Risultati concreti
 
 - Definire controlli SDLC AI-specifici.
-- Costruire threat model.
+- Costruire il threat model, la mappa delle minacce.
 - Scrivere secure design checklist.
 - Impostare policy su dati e istruzioni.
 - Stabilire test di sicurezza e criteri di rilascio.
@@ -4725,6 +5017,12 @@ Sì, il massimo valore arriva in fase di design.
 ### Dipende da uno stack?
 
 No, i controlli si adattano allo stack.
+
+## Corsi collegati
+
+- [Ricerca semantica e knowledge base AI](https://ar-tik.com/corsi/embeddings.md): Modulo per rendere archivi e conoscenza aziendale cercabili per significato, con gli embeddings: rappresentazioni numeriche del significato di un testo, base dei progetti AI che rispondono sui documenti.
+- [RAG Engineering per sistemi AI affidabili](https://ar-tik.com/corsi/rag-engineering.md): Corso tecnico per passare da una chat sui documenti a sistemi RAG (Retrieval-Augmented Generation): recupero delle fonti, qualità misurabile e controllo.
+- [AI Coding Agents per team software](https://ar-tik.com/corsi/ai-coding-agents.md): Corso tecnico per usare agenti AI come componenti controllati del ciclo software: sviluppo, revisione, test e rilascio, con responsabilità dichiarate.
 
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)
 
@@ -4820,19 +5118,25 @@ No, lo rende più efficace e sicuro.
 
 Sì, è centrato su scenari e comportamenti concreti.
 
+## Corsi collegati
+
+- [AI Output Quality & Human Review](https://ar-tik.com/corsi/ai-output-quality.md): Corso per progettare la revisione da parte delle persone, le schede di giudizio e le misure di qualità su ciò che l'AI produce.
+- [Managing AI](https://ar-tik.com/corsi/managing-ai.md): Percorso per direzione e responsabili che devono distinguere valore reale, rischio e priorità prima di avviare iniziative AI.
+- [Managing AI per team aziendali misti](https://ar-tik.com/corsi/managing-ai-general.md): Formazione interfunzionale per creare linguaggio comune tra business, operations, marketing, IT, HR, legal e funzioni di supporto.
+
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)
 
 <!-- https://ar-tik.com/corsi/ai-output-quality.md -->
 
 # AI Output Quality & Human Review
 
-Definire criteri, metriche e processi di revisione per rendere gli output AI verificabili, affidabili e utilizzabili.
+Definire criteri, misure e processi di revisione per controllare che i testi e i risultati dell'AI siano corretti, completi e usabili.
 
 - Durata: 4-6 ore, personalizzabili
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per team aziendali, funzioni operative e manager; non richiede programmazione.
-- Output finale: Rubrica qualità, processo human review e metriche di accettazione output AI.
-- Sceglierlo se: Quando output AI supportano decisioni, documentazione, assistenza, analisi, reportistica, coding, knowledge base o workflow che richiedono controllo qualità.
+- Output finale: Scheda di qualità, processo di revisione umana e misure per accettare o respingere i risultati dell'AI.
+- Sceglierlo se: Quando i risultati dell'AI entrano in decisioni o documenti e serve un controllo di qualità, non un giudizio a occhio.
 
 ## Il problema che risolve
 
@@ -4844,14 +5148,14 @@ Team prodotto, data, software, QA, operations, compliance tecnica, knowledge man
 
 ## Quando sceglierlo
 
-Quando output AI supportano decisioni, documentazione, assistenza, analisi, reportistica, coding, knowledge base o workflow che richiedono controllo qualità.
+Quando i risultati dell'AI entrano in decisioni o documenti e serve un controllo di qualità, non un giudizio a occhio.
 
 ## Risultati concreti
 
 - Costruire rubriche di valutazione.
 - Disegnare workflow di human review.
 - Definire metriche di qualità.
-- Stabilire escalation path.
+- Stabilire quando e a chi passare i casi dubbi.
 - Creare dataset di test e criteri di accettazione.
 
 ## Programma
@@ -4914,19 +5218,25 @@ Sì, inclusi codice, documentazione, analisi dati e knowledge base.
 
 Sì, operative e verificabili.
 
+## Corsi collegati
+
+- [Managing AI](https://ar-tik.com/corsi/managing-ai.md): Percorso per direzione e responsabili che devono distinguere valore reale, rischio e priorità prima di avviare iniziative AI.
+- [Managing AI per team aziendali misti](https://ar-tik.com/corsi/managing-ai-general.md): Formazione interfunzionale per creare linguaggio comune tra business, operations, marketing, IT, HR, legal e funzioni di supporto.
+- [AI Governance operativa](https://ar-tik.com/corsi/ai-governance.md): Corso per trasformare policy, rischi e requisiti di controllo in pratiche applicabili nel lavoro quotidiano.
+
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)
 
 <!-- https://ar-tik.com/avvio-operativo/offerte-da-posta.md -->
 
 # Offerte e listini da posta e file
 
-Arriva una richiesta in mail, spesso con PDF sparsi. A fine giornata c'è una bozza di offerta, sul modello dell'azienda, da far rileggere a chi vende.
+Arriva una richiesta in mail, spesso con PDF sparsi. A fine giornata resta una bozza di offerta, sul modello dell'azienda, da far rileggere a chi vende.
 
 - Durata: Un giorno in sede
 
 ## Il problema
 
-Serve un preventivo o un listino aggiornato, con le schede allegate. Oggi chi vende perde tempo a copiare da tre cartelle. Trattare, chiudere e inserire l'ordine restano alla persona. Si alleggerisce il lavoro prima: raccogliere, mettere insieme, segnalare cosa manca.
+Serve un preventivo o un listino aggiornato, con le schede allegate. Oggi chi vende perde tempo a copiare da tre cartelle. Trattare, chiudere e inserire l'ordine restano alla persona. Si alleggerisce il lavoro di raccolta: mettere insieme i pezzi e segnalare cosa manca, prima che chi vende tratti.
 
 ## Da dove si prende e cosa si produce
 
@@ -4945,11 +5255,11 @@ Si scrive come si fa, passo passo: da dove si prendono listino e schede, come si
 
 ## Com'è la giornata
 
-1. **Si parte dagli esempi**: Si apre già pronto, con tre richieste fittizie, prima di toccare i file veri.
-2. **Si vede il disordine**: Un allegato storto, un codice che non esiste, la stessa ragione sociale scritta in due modi: si vede come viene trattato.
+1. **Si parte dagli esempi**: Si parte da un ambiente già pronto, con tre richieste fittizie, prima di toccare i file veri.
+2. **Si prova su allegati incompleti o sbagliati**: Un allegato storto, un codice che non esiste, la stessa ragione sociale scritta in due modi: si vede come viene trattato.
 3. **Si passa ai file veri**: Gli esempi restano da una parte. I file dell'azienda li sostituiscono, non li cancellano.
 4. **Si produce una bozza vera**: Almeno un'offerta o un listino sul modello dell'azienda, da rileggere.
-5. **Cosa resta**: Un responsabile interno, un tempo da misurare detto prima, la procedura scritta.
+5. **Cosa resta**: Un responsabile interno, un tempo da misurare concordato prima, la procedura scritta.
 
 ## Esempi su cui si prova
 
@@ -4969,7 +5279,7 @@ Capitolato copiato nel corpo della mail, prezzi fornitori in tre PDF con unità 
 
 ## Cosa resta in azienda
 
-La procedura scritta, l'intelligenza artificiale già impostata e intestata all'azienda, i punti in cui si deve fermare una persona, almeno una bozza vera da rileggere, un responsabile interno. La settimana dopo si rifà senza Artik in sala.
+La procedura scritta, l'intelligenza artificiale già impostata sull'account dell'azienda, i punti in cui si deve fermare una persona, almeno una bozza vera da rileggere, un responsabile interno. La settimana dopo si rifà senza Artik Lab presente.
 
 ## Quando non è adatto
 
@@ -4982,14 +5292,14 @@ La procedura scritta, l'intelligenza artificiale già impostata e intestata all'
 
 ## Cosa serve prima.
 
-- Un abbonamento all'intelligenza artificiale intestata all'azienda.
+- Un abbonamento all'intelligenza artificiale sull'account dell'azienda.
 - Una persona interna che già mette insieme le offerte, con l'incarico di usarla dopo.
 - Un modello di offerta o di listino, anche imperfetto.
 - Una cartella o un file da cui prendere listini e schede, senza entrare nel gestionale.
 
-Si lavora sui file dell'azienda, sull'intelligenza artificiale intestata all'azienda. Artik Lab non porta via i documenti. Non si entra nel gestionale. Gli esempi sono inventati.
+Si lavora sui file dell'azienda, sull'intelligenza artificiale già impostata sull'account dell'azienda. Artik Lab non porta via i documenti. Sono escluse le integrazioni su misura con i software già in uso. Gli esempi sono inventati.
 
-## Esempi, non un menu
+## Il settore è solo un'etichetta; il lavoro è lo stesso
 
 Il settore è solo un'etichetta. Il lavoro è lo stesso.
 
@@ -5003,7 +5313,7 @@ Richiesta d'offerta con disegno in PDF.
 
 ### Edilizia o impianti
 
-Capitolato e prezzi fornitori da mettere insieme prima del computo, che resta fuori.
+Capitolato e prezzi fornitori da mettere insieme prima del computo metrico, che resta fuori.
 
 ## Domande frequenti
 

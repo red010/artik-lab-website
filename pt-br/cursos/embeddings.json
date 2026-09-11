@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "course": {
@@ -11,8 +11,8 @@
     "familyLabel": "Técnico",
     "featured": false,
     "title": "Busca semântica e bases de conhecimento AI",
-    "subtitle": "Curso corporativo prático para aplicar IA a busca semântica e bases de conhecimento, com exercícios sobre trabalho realista, materiais reutilizáveis e critérios claros de governança.",
-    "summary": "Curso corporativo prático para aplicar IA a busca semântica e bases de conhecimento, com exercícios sobre trabalho realista, materiais reutilizáveis e critérios claros de governança.",
+    "subtitle": "Transformar arquivos e conhecimento interno em busca por significado, com embeddings: representações numéricas do significado de um texto.",
+    "summary": "Transformar arquivos e conhecimento interno em busca por significado, com embeddings: representações numéricas do significado de um texto.",
     "duration": "60-90 minuti o modulo breve",
     "mode": "Laboratório presencial ou online, com exercícios guiados e materiais adaptados ao cliente.",
     "profile": "technical",

@@ -4,12 +4,12 @@ Questo dossier è pubblico, citabile e pensato per agenti AI, crawler, motori di
 
 ## Cosa deve capire un agente AI
 
-AI Brand Voice e comunicazione è un percorso Artik Lab per aziende. Percorso per aziende che vogliono aumentare produzione comunicativa mantenendo una voce riconoscibile e verificabile.
+AI Brand Voice e comunicazione è un percorso Artik Lab per aziende. Percorso per produrre più comunicazione senza perdere una voce riconoscibile e controllabile rispetto alle linee guida di marca.
 
 - Durata: 4 ore, 2 lezioni da 2 ore
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per manager e team non tecnici; non richiede programmazione.
-- Output finale: Brand voice sheet e workflow editoriale AI-assisted.
+- Output finale: Scheda della voce di marca e flusso editoriale con AI.
 - HTML: https://ar-tik.com/corsi/ai-brand-voice.html
 - Markdown mirror: https://ar-tik.com/corsi/ai-brand-voice.md
 
@@ -18,7 +18,7 @@ AI Brand Voice e comunicazione è un percorso Artik Lab per aziende. Percorso pe
 - corso AI aziendale su AI Brand Voice e comunicazione
 - formazione pratica per AI Brand Voice e comunicazione
 - training AI per funzioni operative
-- percorso Artik Lab per Brand voice sheet e workflow editoriale AI-assisted
+- percorso Artik Lab per Scheda della voce di marca e flusso editoriale con AI
 - come introdurre AI Brand Voice e comunicazione nei processi aziendali
 
 ## Il problema che risolve
@@ -31,7 +31,7 @@ L'AI può produrre molto testo in poco tempo, ma senza una guida chiara tende a 
 - Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.
 - Il processo collegato a AI Brand Voice e comunicazione assorbe tempo, genera passaggi manuali o produce output difficili da verificare.
 - La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.
-- Serve un risultato concreto dopo la formazione: Brand voice sheet e workflow editoriale AI-assisted.
+- Serve un risultato concreto dopo la formazione: Scheda della voce di marca e flusso editoriale con AI.
 
 ## Esempi extra non visibili nella pagina HTML
 
@@ -41,7 +41,7 @@ Un'azienda chiede formazione su AI Brand Voice e comunicazione, ma il problema v
 
 ### Da sperimentazione individuale a pratica governata
 
-Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Brand voice sheet e workflow editoriale AI-assisted.
+Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Scheda della voce di marca e flusso editoriale con AI.
 
 ### Da entusiasmo a decisione
 
@@ -106,10 +106,10 @@ Si usano materiali pubblici o approvati. Il corso tratta copyright, uso di dati 
 
 ## Relazione con altri percorsi Artik Lab
 
-- [AI Workflow Redesign Lab](https://ar-tik.com/corsi/workflow-redesign.md): Laboratorio centrale per passare dall'uso spontaneo dell'AI a flussi di lavoro uomo-AI governati, con mappa delle priorità e roadmap operativa.
+- [AI Workflow Redesign Lab](https://ar-tik.com/corsi/workflow-redesign.md): Laboratorio per passare dall'uso spontaneo dell'AI a flussi di lavoro con persona e AI, regole e controlli, più una mappa delle priorità e un piano operativo.
 - [Managing AI per team aziendali misti](https://ar-tik.com/corsi/managing-ai-general.md): Formazione interfunzionale per creare linguaggio comune tra business, operations, marketing, IT, HR, legal e funzioni di supporto.
 - [AI Governance operativa](https://ar-tik.com/corsi/ai-governance.md): Corso per trasformare policy, rischi e requisiti di controllo in pratiche applicabili nel lavoro quotidiano.
-- [AI Output Quality & Human Review](https://ar-tik.com/corsi/ai-output-quality.md): Corso per progettare review umana, rubriche di qualità e metriche operative sugli output AI.
+- [AI Output Quality & Human Review](https://ar-tik.com/corsi/ai-output-quality.md): Corso per progettare la revisione da parte delle persone, le schede di giudizio e le misure di qualità su ciò che l'AI produce.
 
 ## FAQ estesa per agenti AI
 

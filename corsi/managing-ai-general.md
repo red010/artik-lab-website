@@ -5,7 +5,7 @@ Un percorso per allineare funzioni diverse su uso, priorità, responsabilità e 
 - Durata: 4 ore, 2 lezioni da 2 ore
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per manager e team non tecnici; non richiede programmazione.
-- Output finale: Mappa interfunzionale di casi d'uso, ownership e criteri di decisione.
+- Output finale: Mappa tra funzioni di casi d'uso, responsabili e criteri di decisione.
 - Sceglierlo se: Quando l'AI coinvolge più funzioni e genera disallineamento tra obiettivi, aspettative, vincoli tecnici, rischi e responsabilità operative.
 
 ## Il problema che risolve
@@ -25,7 +25,7 @@ Quando l'AI coinvolge più funzioni e genera disallineamento tra obiettivi, aspe
 - Allineare funzioni diverse su opportunità e limiti.
 - Identificare casi d'uso prioritari condivisi.
 - Chiarire ruoli, controlli e passaggi decisionali.
-- Ridurre iniziative isolate.
+- Ridurre iniziative AI nate in un solo team, senza criterio condiviso.
 - Creare base comune per policy, pilota o roadmap.
 
 ## Programma
@@ -86,5 +86,11 @@ No, produce basi operative utili anche per una futura policy.
 ### È utile prima di un pilota?
 
 Sì, riduce ambiguità e rischi organizzativi.
+
+## Corsi collegati
+
+- [AI Governance operativa](https://ar-tik.com/corsi/ai-governance.md): Corso per trasformare policy, rischi e requisiti di controllo in pratiche applicabili nel lavoro quotidiano.
+- [AI Business Case & ROI Sprint](https://ar-tik.com/corsi/ai-business-case-roi.md): Sprint per passare da entusiasmo o intuizione a una decisione economica: problema, valore, costi, rischi, metriche e raccomandazione.
+- [AI Adoption Manager / AI Champions](https://ar-tik.com/corsi/ai-adoption-manager.md): Percorso per creare referenti interni che raccolgono bisogni, supportano i colleghi e collegano sperimentazioni locali alla governance aziendale.
 
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)

@@ -87,4 +87,10 @@ Materiales reutilizables, ejemplos, checklists y próximos pasos claros.
 
 No. Está construido sobre ejercicios prácticos y decisiones cercanas al trabajo real.
 
+## Cursos relacionados
+
+- [Secure AI at Work](https://ar-tik.com/es/cursos/secure-ai-at-work.md): Curso corporativo práctico para aplicar IA a uso seguro de IA en el trabajo, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.
+- [AI Output Quality & Human Review](https://ar-tik.com/es/cursos/ai-output-quality.md): Curso corporativo práctico para aplicar IA a calidad de resultados de IA y revisión humana, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.
+- [Managing AI](https://ar-tik.com/es/cursos/managing-ai.md): Curso corporativo práctico para aplicar IA a adopción directiva de IA, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.
+
 [Volver al catálogo de cursos](https://ar-tik.com/es/cursos/index.md)

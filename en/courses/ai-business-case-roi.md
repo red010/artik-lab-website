@@ -87,4 +87,10 @@ Reusable materials, examples, checklists and a clear set of next steps.
 
 No. The course is built around practical exercises and decisions close to real work.
 
+## Related courses
+
+- [AI Adoption Manager / AI Champions](https://ar-tik.com/en/courses/ai-adoption-manager.md): Practical corporate course for applying AI to AI adoption champions, with exercises on realistic work, reusable materials and clear governance criteria.
+- [Role-Based AI Literacy & Responsible Use](https://ar-tik.com/en/courses/ai-literacy.md): Practical corporate course for applying AI to role-based AI literacy, with exercises on realistic work, reusable materials and clear governance criteria.
+- [Secure AI at Work](https://ar-tik.com/en/courses/secure-ai-at-work.md): Practical corporate course for applying AI to secure AI use at work, with exercises on realistic work, reusable materials and clear governance criteria.
+
 [Back to the course catalog](https://ar-tik.com/en/courses/index.md)

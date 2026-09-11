@@ -1,12 +1,12 @@
 # AI Output Quality & Human Review
 
-Definire criteri, metriche e processi di revisione per rendere gli output AI verificabili, affidabili e utilizzabili.
+Definire criteri, misure e processi di revisione per controllare che i testi e i risultati dell'AI siano corretti, completi e usabili.
 
 - Durata: 4-6 ore, personalizzabili
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per team aziendali, funzioni operative e manager; non richiede programmazione.
-- Output finale: Rubrica qualità, processo human review e metriche di accettazione output AI.
-- Sceglierlo se: Quando output AI supportano decisioni, documentazione, assistenza, analisi, reportistica, coding, knowledge base o workflow che richiedono controllo qualità.
+- Output finale: Scheda di qualità, processo di revisione umana e misure per accettare o respingere i risultati dell'AI.
+- Sceglierlo se: Quando i risultati dell'AI entrano in decisioni o documenti e serve un controllo di qualità, non un giudizio a occhio.
 
 ## Il problema che risolve
 
@@ -18,14 +18,14 @@ Team prodotto, data, software, QA, operations, compliance tecnica, knowledge man
 
 ## Quando sceglierlo
 
-Quando output AI supportano decisioni, documentazione, assistenza, analisi, reportistica, coding, knowledge base o workflow che richiedono controllo qualità.
+Quando i risultati dell'AI entrano in decisioni o documenti e serve un controllo di qualità, non un giudizio a occhio.
 
 ## Risultati concreti
 
 - Costruire rubriche di valutazione.
 - Disegnare workflow di human review.
 - Definire metriche di qualità.
-- Stabilire escalation path.
+- Stabilire quando e a chi passare i casi dubbi.
 - Creare dataset di test e criteri di accettazione.
 
 ## Programma
@@ -87,5 +87,11 @@ Sì, inclusi codice, documentazione, analisi dati e knowledge base.
 ### Produce metriche?
 
 Sì, operative e verificabili.
+
+## Corsi collegati
+
+- [Managing AI](https://ar-tik.com/corsi/managing-ai.md): Percorso per direzione e responsabili che devono distinguere valore reale, rischio e priorità prima di avviare iniziative AI.
+- [Managing AI per team aziendali misti](https://ar-tik.com/corsi/managing-ai-general.md): Formazione interfunzionale per creare linguaggio comune tra business, operations, marketing, IT, HR, legal e funzioni di supporto.
+- [AI Governance operativa](https://ar-tik.com/corsi/ai-governance.md): Corso per trasformare policy, rischi e requisiti di controllo in pratiche applicabili nel lavoro quotidiano.
 
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)

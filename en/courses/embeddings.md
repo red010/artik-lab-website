@@ -1,6 +1,6 @@
 # Semantic search and AI knowledge bases
 
-Practical corporate course for applying AI to semantic search and knowledge bases, with exercises on realistic work, reusable materials and clear governance criteria.
+Turn archives and internal knowledge into search by meaning, with embeddings: numerical representations of the meaning of a text.
 
 - Duration: 60-90 minuti o modulo breve
 - Mode: In-person or online lab, with guided exercises and materials adapted to the client.
@@ -86,5 +86,11 @@ Reusable materials, examples, checklists and a clear set of next steps.
 ### Is it theoretical?
 
 No. The course is built around practical exercises and decisions close to real work.
+
+## Related courses
+
+- [RAG Engineering for reliable AI systems](https://ar-tik.com/en/courses/rag-engineering.md): Design RAG (Retrieval-Augmented Generation) systems: they retrieve company documents and generate the answer citing them.
+- [AI Coding Agents for software teams](https://ar-tik.com/en/courses/ai-coding-agents.md): Use coding agents as controlled parts of the software cycle: development, review, tests and release, with named responsibility.
+- [AI Software Engineering](https://ar-tik.com/en/courses/ai-software-engineering.md): Design AI-native software, with AI inside the product not beside it: architecture, evaluation and go-live (entry into production).
 
 [Back to the course catalog](https://ar-tik.com/en/courses/index.md)

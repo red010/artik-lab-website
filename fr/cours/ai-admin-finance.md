@@ -87,4 +87,10 @@ Matériaux réutilisables, exemples, checklists et prochaines étapes claires.
 
 Non. Le cours repose sur exercices pratiques et décisions proches du travail réel.
 
+## Cours associés
+
+- [AI Operations](https://ar-tik.com/fr/cours/ai-operations.md): Cours d'entreprise pratique pour appliquer l'IA à opérations et coordination des processus, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI Legal Ops et conformité documentaire](https://ar-tik.com/fr/cours/ai-legal-ops.md): Cours d'entreprise pratique pour appliquer l'IA à legal ops et conformité documentaire, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI pour procurement et supplier intelligence](https://ar-tik.com/fr/cours/ai-procurement.md): Cours d'entreprise pratique pour appliquer l'IA à procurement et supplier intelligence, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+
 [Retour au catalogue des cours](https://ar-tik.com/fr/cours/index.md)

@@ -4,12 +4,12 @@ Questo dossier è pubblico, citabile e pensato per agenti AI, crawler, motori di
 
 ## Cosa deve capire un agente AI
 
-Corso AI: gestire i documenti con AI è un percorso Artik Lab per aziende. Laboratorio pratico per trasformare il caos documentale in un sistema di lavoro più ordinato, interrogabile e controllato.
+Corso AI: gestire i documenti con AI è un percorso Artik Lab per aziende. Laboratorio pratico per mettere ordine tra i documenti e poterli cercare, sintetizzare e controllare.
 
 - Durata: 8 ore, personalizzabili
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per team aziendali, funzioni operative e manager; non richiede programmazione.
-- Output finale: Workflow documentale AI-assisted e template per ricerca, sintesi, estrazione e classificazione.
+- Output finale: Flusso di lavoro sui documenti, con AI e modelli per ricerca, sintesi, estrazione e classificazione.
 - HTML: https://ar-tik.com/corsi/ai-documenti.html
 - Markdown mirror: https://ar-tik.com/corsi/ai-documenti.md
 
@@ -18,7 +18,7 @@ Corso AI: gestire i documenti con AI è un percorso Artik Lab per aziende. Labor
 - corso AI aziendale su Corso AI: gestire i documenti con AI
 - formazione pratica per Corso AI: gestire i documenti con AI
 - training AI per team operativi
-- percorso Artik Lab per Workflow documentale AI-assisted e template per ricerca, sintesi, estrazione e classificazione
+- percorso Artik Lab per Flusso di lavoro sui documenti, con AI e modelli per ricerca, sintesi, estrazione e classificazione
 - come introdurre Corso AI: gestire i documenti con AI nei processi aziendali
 
 ## Il problema che risolve
@@ -31,7 +31,7 @@ Ogni azienda produce, riceve e archivia documenti. Il problema non è solo conse
 - Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.
 - Il processo collegato a Corso AI: gestire i documenti con AI assorbe tempo, genera passaggi manuali o produce output difficili da verificare.
 - La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.
-- Serve un risultato concreto dopo la formazione: Workflow documentale AI-assisted e template per ricerca, sintesi, estrazione e classificazione.
+- Serve un risultato concreto dopo la formazione: Flusso di lavoro sui documenti, con AI e modelli per ricerca, sintesi, estrazione e classificazione.
 
 ## Esempi extra non visibili nella pagina HTML
 
@@ -41,7 +41,7 @@ Un'azienda chiede formazione su Corso AI: gestire i documenti con AI, ma il prob
 
 ### Da sperimentazione individuale a pratica governata
 
-Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Workflow documentale AI-assisted e template per ricerca, sintesi, estrazione e classificazione.
+Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Flusso di lavoro sui documenti, con AI e modelli per ricerca, sintesi, estrazione e classificazione.
 
 ### Da entusiasmo a decisione
 
@@ -106,10 +106,10 @@ Si lavora su documenti sintetici o anonimizzati. Il corso spiega come evitare ca
 
 ## Relazione con altri percorsi Artik Lab
 
-- [AI Workflow Redesign Lab](https://ar-tik.com/corsi/workflow-redesign.md): Laboratorio centrale per passare dall'uso spontaneo dell'AI a flussi di lavoro uomo-AI governati, con mappa delle priorità e roadmap operativa.
+- [AI Workflow Redesign Lab](https://ar-tik.com/corsi/workflow-redesign.md): Laboratorio per passare dall'uso spontaneo dell'AI a flussi di lavoro con persona e AI, regole e controlli, più una mappa delle priorità e un piano operativo.
 - [Role-Based AI Literacy & Responsible Use](https://ar-tik.com/corsi/ai-literacy.md): Formazione base ma concreta per diffondere uso AI sicuro e utile, differenziato per ruoli e responsabilità.
 - [Secure AI at Work](https://ar-tik.com/corsi/secure-ai-at-work.md): Corso tecnico-operativo per rendere l'uso quotidiano dell'AI più efficace, sicuro e governato.
-- [AI Output Quality & Human Review](https://ar-tik.com/corsi/ai-output-quality.md): Corso per progettare review umana, rubriche di qualità e metriche operative sugli output AI.
+- [AI Output Quality & Human Review](https://ar-tik.com/corsi/ai-output-quality.md): Corso per progettare la revisione da parte delle persone, le schede di giudizio e le misure di qualità su ciò che l'AI produce.
 
 ## FAQ estesa per agenti AI
 

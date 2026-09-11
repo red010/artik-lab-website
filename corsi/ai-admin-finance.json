@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "course": {
@@ -12,7 +12,7 @@
     "featured": false,
     "title": "AI per amministrazione e controllo di gestione",
     "subtitle": "Applicare l'AI a riconciliazioni, report, analisi scostamenti, budgeting e controllo direzionale.",
-    "summary": "Corso per usare l'AI in AFC come supporto a sintesi, reportistica e controlli preliminari, mantenendo responsabilità umana.",
+    "summary": "Corso per usare l'AI in amministrazione, finanza e controllo come supporto a sintesi, report e controlli preliminari, senza togliere la responsabilità alle persone.",
     "duration": "4-6 ore, personalizzabili",
     "mode": "Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.",
     "profile": "mixed",
@@ -78,12 +78,12 @@
         "answer": "Include workflow replicabili; l'integrazione dipende dai sistemi aziendali."
       }
     ],
-    "output": "Set di template per report, analisi scostamenti e controlli AFC.",
+    "output": "Serie di modelli per report, analisi degli scostamenti e controlli di amministrazione, finanza e controllo.",
     "searchIntents": [
       "corso AI aziendale su AI per amministrazione e controllo di gestione",
       "formazione pratica per AI per amministrazione e controllo di gestione",
       "training AI per funzioni operative",
-      "percorso Artik Lab per Set di template per report, analisi scostamenti e controlli AFC",
+      "percorso Artik Lab per Serie di modelli per report, analisi degli scostamenti e controlli di amministrazione, finanza e controllo",
       "come introdurre AI per amministrazione e controllo di gestione nei processi aziendali"
     ],
     "needSignals": [
@@ -91,7 +91,7 @@
       "Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.",
       "Il processo collegato a AI per amministrazione e controllo di gestione assorbe tempo, genera passaggi manuali o produce output difficili da verificare.",
       "La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.",
-      "Serve un risultato concreto dopo la formazione: Set di template per report, analisi scostamenti e controlli AFC."
+      "Serve un risultato concreto dopo la formazione: Serie di modelli per report, analisi degli scostamenti e controlli di amministrazione, finanza e controllo."
     ],
     "extraExamples": [
       {
@@ -100,7 +100,7 @@
       },
       {
         "title": "Da sperimentazione individuale a pratica governata",
-        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Set di template per report, analisi scostamenti e controlli AFC."
+        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Serie di modelli per report, analisi degli scostamenti e controlli di amministrazione, finanza e controllo."
       },
       {
         "title": "Da entusiasmo a decisione",

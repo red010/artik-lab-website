@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "course": {
@@ -11,21 +11,21 @@
     "familyLabel": "Manageriale",
     "featured": false,
     "title": "AI Output Quality & Human Review",
-    "subtitle": "Definire criteri, metriche e processi di revisione per rendere gli output AI verificabili, affidabili e utilizzabili.",
-    "summary": "Corso per progettare review umana, rubriche di qualità e metriche operative sugli output AI.",
+    "subtitle": "Definire criteri, misure e processi di revisione per controllare che i testi e i risultati dell'AI siano corretti, completi e usabili.",
+    "summary": "Corso per progettare la revisione da parte delle persone, le schede di giudizio e le misure di qualità su ciò che l'AI produce.",
     "duration": "4-6 ore, personalizzabili",
     "mode": "Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.",
     "profile": "all",
     "profileDescription": "Per team aziendali, funzioni operative e manager; non richiede programmazione.",
     "problem": "Un output AI può sembrare corretto anche quando è incompleto, fragile, non verificabile o inadatto al contesto. Senza criteri di qualità e review umana strutturata, il rischio viene scaricato sugli utenti finali. Il corso rende la revisione un processo, non un'impressione.",
     "audience": "Team prodotto, data, software, QA, operations, compliance tecnica, knowledge management e responsabili di processi assistiti da AI.",
-    "whenToChoose": "Quando output AI supportano decisioni, documentazione, assistenza, analisi, reportistica, coding, knowledge base o workflow che richiedono controllo qualità.",
-    "chooseIf": "Quando output AI supportano decisioni, documentazione, assistenza, analisi, reportistica, coding, knowledge base o workflow che richiedono controllo qualità.",
+    "whenToChoose": "Quando i risultati dell'AI entrano in decisioni o documenti e serve un controllo di qualità, non un giudizio a occhio.",
+    "chooseIf": "Quando i risultati dell'AI entrano in decisioni o documenti e serve un controllo di qualità, non un giudizio a occhio.",
     "outcomes": [
       "Costruire rubriche di valutazione.",
       "Disegnare workflow di human review.",
       "Definire metriche di qualità.",
-      "Stabilire escalation path.",
+      "Stabilire quando e a chi passare i casi dubbi.",
       "Creare dataset di test e criteri di accettazione."
     ],
     "modules": [
@@ -80,12 +80,12 @@
         "answer": "Sì, operative e verificabili."
       }
     ],
-    "output": "Rubrica qualità, processo human review e metriche di accettazione output AI.",
+    "output": "Scheda di qualità, processo di revisione umana e misure per accettare o respingere i risultati dell'AI.",
     "searchIntents": [
       "corso AI aziendale su AI Output Quality & Human Review",
       "formazione pratica per AI Output Quality & Human Review",
       "training AI per manager e funzioni aziendali",
-      "percorso Artik Lab per Rubrica qualità, processo human review e metriche di accettazione output AI",
+      "percorso Artik Lab per Scheda di qualità, processo di revisione umana e misure per accettare o respingere i risultati dell'AI",
       "come introdurre AI Output Quality & Human Review nei processi aziendali"
     ],
     "needSignals": [
@@ -93,7 +93,7 @@
       "Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.",
       "Il processo collegato a AI Output Quality & Human Review assorbe tempo, genera passaggi manuali o produce output difficili da verificare.",
       "La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.",
-      "Serve un risultato concreto dopo la formazione: Rubrica qualità, processo human review e metriche di accettazione output AI."
+      "Serve un risultato concreto dopo la formazione: Scheda di qualità, processo di revisione umana e misure per accettare o respingere i risultati dell'AI."
     ],
     "extraExamples": [
       {
@@ -102,7 +102,7 @@
       },
       {
         "title": "Da sperimentazione individuale a pratica governata",
-        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Rubrica qualità, processo human review e metriche di accettazione output AI."
+        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Scheda di qualità, processo di revisione umana e misure per accettare o respingere i risultati dell'AI."
       },
       {
         "title": "Da entusiasmo a decisione",

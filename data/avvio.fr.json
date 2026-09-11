@@ -1,13 +1,13 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/avvio-catalog.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "locale": "fr",
   "language": "fr",
   "catalog": {
     "title": "Démarrage opérationnel",
-    "description": "Une journée sur site. Il reste la procédure écrite sur l'assistant au nom de l'entreprise. Les fichiers restent dans l'entreprise. Le logiciel de gestion n'est pas touché.",
+    "description": "Un jour sur site. Il reste une procédure écrite, à utiliser tout de suite, sur les fichiers de l'entreprise. Sont exclues les intégrations sur mesure avec les logiciels déjà en usage.",
     "urls": {
       "html": "https://ar-tik.com/fr/demarrage-operationnel/",
       "markdown": "https://ar-tik.com/fr/demarrage-operationnel/index.md",
@@ -22,7 +22,7 @@
       "family": "documents",
       "title": "Offres et tarifs depuis le courrier et les fichiers",
       "subtitle": "Une demande arrive par courrier, parfois avec un PDF. Il reste un brouillon sur le modèle de l'entreprise, à faire relire par qui vend.",
-      "summary": "Du courrier et des PDF à un brouillon d'offre ou de tarif à faire relire par qui vend. Une journée sur site. Le logiciel de gestion n'est pas touché.",
+      "summary": "Du courrier et des PDF à un brouillon d'offre ou de tarif à faire relire par qui vend. Une journée sur site. Les intégrations sur mesure avec les logiciels déjà en place sont exclues.",
       "duration": "Une journée sur site",
       "problem": "Il faut un devis ou un tarif à jour, avec des fiches jointes, sans que qui vend refasse le copier-coller depuis trois dossiers. Le métier — négocier, conclure, saisir la commande — reste à la personne. Ce qui s'allège, c'est le travail autour: rassembler depuis le courrier et les fichiers, composer, signaler les trous.",
       "notFor": [
@@ -107,6 +107,74 @@
     {
       "id": "k",
       "label": "Comparer la commande du client, la confirmation de commande et le bon de livraison et signaler les écarts avant l'expédition."
+    }
+  ],
+  "cases": [
+    {
+      "id": "offerte-da-posta",
+      "title": "Offres et tarifs à partir du courrier et des fichiers",
+      "checkId": "a",
+      "url": "https://ar-tik.com/fr/demarrage-operationnel/offres-depuis-le-courrier.html"
+    },
+    {
+      "id": "plico-documenti",
+      "title": "La liasse de documents que l'on redemande à chaque fois",
+      "checkId": "b",
+      "url": "https://ar-tik.com/fr/demarrage-operationnel/#caso-plico-documenti"
+    },
+    {
+      "id": "confronto-fornitori",
+      "title": "Comparer trois offres de fournisseurs",
+      "checkId": "c",
+      "url": "https://ar-tik.com/fr/demarrage-operationnel/#caso-confronto-fornitori"
+    },
+    {
+      "id": "posta-e-pec",
+      "title": "Courrier et PEC de la semaine",
+      "checkId": "d",
+      "url": "https://ar-tik.com/fr/demarrage-operationnel/#caso-posta-e-pec"
+    },
+    {
+      "id": "schede-e-certificati",
+      "title": "Fiches, certificats et packing list à joindre",
+      "checkId": "e",
+      "url": "https://ar-tik.com/fr/demarrage-operationnel/#caso-schede-e-certificati"
+    },
+    {
+      "id": "report-da-export",
+      "title": "Un rapport à partir du fichier Excel déjà exporté du logiciel de l'entreprise",
+      "checkId": "f",
+      "url": "https://ar-tik.com/fr/demarrage-operationnel/#caso-report-da-export"
+    },
+    {
+      "id": "verbale-riunione",
+      "title": "Compte rendu et liste des actions à partir de notes de réunion",
+      "checkId": "g",
+      "url": "https://ar-tik.com/fr/demarrage-operationnel/#caso-verbale-riunione"
+    },
+    {
+      "id": "reclami",
+      "title": "Réponse aux réclamations et aux non-conformités",
+      "checkId": "h",
+      "url": "https://ar-tik.com/fr/demarrage-operationnel/#caso-reclami"
+    },
+    {
+      "id": "scadenzario",
+      "title": "Échéancier des documents et des certificats",
+      "checkId": "i",
+      "url": "https://ar-tik.com/fr/demarrage-operationnel/#caso-scadenzario"
+    },
+    {
+      "id": "schede-in-lingua",
+      "title": "Fiches et tarifs en langue pour l'étranger",
+      "checkId": "j",
+      "url": "https://ar-tik.com/fr/demarrage-operationnel/#caso-schede-in-lingua"
+    },
+    {
+      "id": "coerenza-ordine-ddt",
+      "title": "Contrôle de cohérence entre commande, confirmation et bon de livraison",
+      "checkId": "k",
+      "url": "https://ar-tik.com/fr/demarrage-operationnel/#caso-coerenza-ordine-ddt"
     }
   ]
 }

@@ -4,7 +4,7 @@ Ce dossier public étend la page HTML avec le répertoire structuré des applica
 
 ## Définition
 
-Chaque fiche décrit un modèle applicatif: quelles données ou quels matériaux entrent, quel résultat peut être produit, quelle valeur métier peut émerger et quels contrôles restent humains. Artik Lab commence toujours par un premier échange de diagnostic et conçoit des solutions adaptées au contexte client.
+Chaque fiche décrit un exemple d'usage : quelles données ou quels matériaux entrent, quel résultat peut être produit, quelle valeur d'entreprise peut en naître et quels contrôles restent humains. Artik Lab part toujours d'un premier échange de diagnostic et conçoit des solutions spécifiques au contexte du client.
 
 ## Dataset public
 
@@ -38,8 +38,8 @@ PDF, images et formulaires deviennent texte, tableaux et champs structurés réu
 - Exemple opérationnel: Quand le processus montre un besoin similaire, pdf et pièces jointes servent à produire base structurée et à soutenir réduction des délais, avec revue humaine recommandée.
 - ID: document-structure-extraction
 - Domaine: Documents et connaissance
-- Données d'entrée: PDF et pièces jointes, scans et images, formulaires remplis
-- Résultat: base structurée, rapport opérationnel
+- Ce qui entre: PDF et pièces jointes, scans et images, formulaires remplis
+- Ce qui sort: base structurée, rapport opérationnel
 - Valeur: réduction des délais, moins d'erreurs, traçabilité
 - Secteurs: services professionnels, HSE, sécurité et services techniques, industrie manufacturière
 - Services liés: Logiciels techniques IA
@@ -57,8 +57,8 @@ Rapports, contrats, cahiers des charges et procédures sont comparés pour repé
 - Exemple opérationnel: Quand le processus montre un besoin similaire, pdf et pièces jointes servent à produire rapport opérationnel et à soutenir moins d'erreurs, avec revue humaine obligatoire.
 - ID: document-coherence-audit
 - Domaine: Documents et connaissance
-- Données d'entrée: PDF et pièces jointes, documentation interne, contrats et politiques, appels d'offres et cahiers des charges
-- Résultat: rapport opérationnel, cartographie des risques
+- Ce qui entre: PDF et pièces jointes, documentation interne, contrats et politiques, appels d'offres et cahiers des charges
+- Ce qui sort: rapport opérationnel, cartographie des risques
 - Valeur: moins d'erreurs, réduction du risque, traçabilité
 - Secteurs: services professionnels, bureaux techniques et ingénierie, HSE, sécurité et services techniques
 - Services liés: Conseil managérial IA, Logiciels techniques IA
@@ -76,8 +76,8 @@ Manuels, procédures et bases de connaissance deviennent une recherche sémantiq
 - Exemple opérationnel: Quand le processus montre un besoin similaire, documentation interne servent à produire recherche sémantique et à soutenir connaissance transférable, avec revue humaine recommandée.
 - ID: semantic-knowledge-search
 - Domaine: Documents et connaissance
-- Données d'entrée: documentation interne, PDF et pièces jointes, manuels et supports de formation
-- Résultat: recherche sémantique, FAQ et réponses
+- Ce qui entre: documentation interne, PDF et pièces jointes, manuels et supports de formation
+- Ce qui sort: recherche sémantique, FAQ et réponses
 - Valeur: connaissance transférable, décisions plus rapides, service plus homogène
 - Secteurs: fonctions transverses, bureaux techniques et ingénierie, formation et organisations intensives en connaissance
 - Services liés: Logiciels techniques IA
@@ -95,8 +95,8 @@ Transcriptions et fils sont nettoyés, synthétisés et convertis en décisions,
 - Exemple opérationnel: Quand le processus montre un besoin similaire, emails et tickets servent à produire digest actionnable et à soutenir traçabilité, avec revue humaine recommandée.
 - ID: meeting-email-decision-memory
 - Domaine: Processus opérationnels
-- Données d'entrée: emails et tickets, transcriptions et notes, tickets et demandes
-- Résultat: digest actionnable, roadmap et priorités
+- Ce qui entre: emails et tickets, transcriptions et notes, tickets et demandes
+- Ce qui sort: digest actionnable, roadmap et priorités
 - Valeur: traçabilité, décisions plus rapides, connaissance transférable
 - Secteurs: fonctions transverses, services professionnels, bureaux techniques et ingénierie
 - Services liés: Conseil managérial IA
@@ -114,8 +114,8 @@ Rapports, lettres, contrats, FAQ et communications sont produits depuis données
 - Exemple opérationnel: Quand le processus montre un besoin similaire, base structurée servent à produire brouillons contrôlés et à soutenir réduction des délais, avec revue humaine obligatoire.
 - ID: controlled-document-generation
 - Domaine: Documents et connaissance
-- Données d'entrée: base structurée, documentation interne, contrats et politiques
-- Résultat: brouillons contrôlés, FAQ et réponses
+- Ce qui entre: base structurée, documentation interne, contrats et politiques
+- Ce qui sort: brouillons contrôlés, FAQ et réponses
 - Valeur: réduction des délais, moins d'erreurs, conformité plus gouvernable
 - Secteurs: services professionnels, finance, contrôle et services régulés, HSE, sécurité et services techniques
 - Services liés: Conseil managérial IA
@@ -133,8 +133,8 @@ Le travail réel est reconstruit as-is, analysé pour repérer les goulets d'ét
 - Exemple opérationnel: Quand le processus montre un besoin similaire, transcriptions et notes servent à produire roadmap et priorités et à soutenir priorités plus claires, avec revue humaine recommandée.
 - ID: process-mapping-redesign
 - Domaine: Processus opérationnels
-- Données d'entrée: transcriptions et notes, journaux et états de processus, emails et tickets, feuilles de calcul
-- Résultat: roadmap et priorités, business case
+- Ce qui entre: transcriptions et notes, journaux et états de processus, emails et tickets, feuilles de calcul
+- Ce qui sort: roadmap et priorités, business case
 - Valeur: priorités plus claires, décisions plus rapides, coûts évités
 - Secteurs: fonctions transverses, industrie manufacturière, services professionnels
 - Services liés: Conseil managérial IA
@@ -152,8 +152,8 @@ Les communications entrantes sont classées par urgence, sujet, responsabilité 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, emails et tickets servent à produire digest actionnable et à soutenir réduction des délais, avec revue humaine recommandée.
 - ID: email-ticket-triage
 - Domaine: Processus opérationnels
-- Données d'entrée: emails et tickets, tickets et demandes, documentation interne
-- Résultat: digest actionnable, brouillons contrôlés, classement de priorité
+- Ce qui entre: emails et tickets, tickets et demandes, documentation interne
+- Ce qui sort: digest actionnable, brouillons contrôlés, classement de priorité
 - Valeur: réduction des délais, service plus homogène, priorités plus claires
 - Secteurs: fonctions transverses, HSE, sécurité et services techniques, bureaux techniques et ingénierie
 - Services liés: Logiciels techniques IA
@@ -171,8 +171,8 @@ Disponibilités, contraintes, compétences, absences et demande sont combinées 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, feuilles de calcul servent à produire planning et affectations et à soutenir efficacité productive, avec revue humaine obligatoire.
 - ID: scheduling-resource-allocation
 - Domaine: Processus opérationnels
-- Données d'entrée: feuilles de calcul, ERP et systèmes métier, KPI et séries historiques
-- Résultat: planning et affectations, tableaux de bord et vues filtrables
+- Ce qui entre: feuilles de calcul, ERP et systèmes métier, KPI et séries historiques
+- Ce qui sort: planning et affectations, tableaux de bord et vues filtrables
 - Valeur: efficacité productive, décisions plus rapides, coûts évités
 - Secteurs: industrie manufacturière, logistique et supply chain, HSE, sécurité et services techniques
 - Services liés: Logiciels techniques IA, Analyse de données agentique
@@ -190,8 +190,8 @@ Historiques de commandes, revenus, tickets ou production deviennent des prévisi
 - Exemple opérationnel: Quand le processus montre un besoin similaire, transactions et achats servent à produire prévision vérifiable et à soutenir décisions plus rapides, avec revue humaine recommandée.
 - ID: demand-workload-forecast
 - Domaine: Processus opérationnels
-- Données d'entrée: transactions et achats, KPI et séries historiques, données de production
-- Résultat: prévision vérifiable, tableaux de bord et vues filtrables
+- Ce qui entre: transactions et achats, KPI et séries historiques, données de production
+- Ce qui sort: prévision vérifiable, tableaux de bord et vues filtrables
 - Valeur: décisions plus rapides, coûts évités, efficacité productive
 - Secteurs: retail et e-commerce, industrie manufacturière, logistique et supply chain
 - Services liés: Analyse de données agentique
@@ -209,8 +209,8 @@ Réunions et documents projet alimentent un dossier évolutif avec exigences et 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, transcriptions et notes servent à produire roadmap et priorités et à soutenir traçabilité, avec revue humaine obligatoire.
 - ID: project-requirements-memory
 - Domaine: Processus opérationnels
-- Données d'entrée: transcriptions et notes, exigences et spécifications, documentation interne
-- Résultat: roadmap et priorités, cartographie des risques
+- Ce qui entre: transcriptions et notes, exigences et spécifications, documentation interne
+- Ce qui sort: roadmap et priorités, cartographie des risques
 - Valeur: traçabilité, moins d'erreurs, connaissance transférable
 - Secteurs: bureaux techniques et ingénierie, services professionnels, industrie manufacturière
 - Services liés: Conseil managérial IA, Logiciels techniques IA
@@ -228,8 +228,8 @@ Textes non structurés agrégés par thèmes, sentiment, besoins récurrents et 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, feedback textuel servent à produire rapport opérationnel et à soutenir service plus homogène, avec revue humaine recommandée.
 - ID: customer-feedback-intelligence
 - Domaine: Client, marketing et vente
-- Données d'entrée: feedback textuel, tickets et demandes, sources publiques
-- Résultat: rapport opérationnel, classement de priorité
+- Ce qui entre: feedback textuel, tickets et demandes, sources publiques
+- Ce qui sort: rapport opérationnel, classement de priorité
 - Valeur: service plus homogène, valeur commerciale récupérée, priorités plus claires
 - Secteurs: retail et e-commerce, fonctions transverses, services professionnels
 - Services liés: Analyse de données agentique
@@ -247,8 +247,8 @@ Sources publiques et matériaux fournis synthétisés en cartes de pains, langag
 - Exemple opérationnel: Quand le processus montre un besoin similaire, sources publiques servent à produire rapport opérationnel et à soutenir valeur commerciale récupérée, avec revue humaine recommandée.
 - ID: market-customer-discovery
 - Domaine: Client, marketing et vente
-- Données d'entrée: sources publiques, feedback textuel, documentation interne
-- Résultat: rapport opérationnel, business case
+- Ce qui entre: sources publiques, feedback textuel, documentation interne
+- Ce qui sort: rapport opérationnel, business case
 - Valeur: valeur commerciale récupérée, priorités plus claires, décisions plus rapides
 - Secteurs: retail et e-commerce, services professionnels, organismes publics et territoire
 - Services liés: Conseil managérial IA
@@ -266,8 +266,8 @@ Entretiens, exemples validés et matériaux commerciaux deviennent guidelines et
 - Exemple opérationnel: Quand le processus montre un besoin similaire, documentation interne servent à produire politiques et garde-fous et à soutenir réduction des délais, avec revue humaine obligatoire.
 - ID: brand-voice-content-engine
 - Domaine: Client, marketing et vente
-- Données d'entrée: documentation interne, feedback textuel, sources publiques
-- Résultat: politiques et garde-fous, brouillons contrôlés
+- Ce qui entre: documentation interne, feedback textuel, sources publiques
+- Ce qui sort: politiques et garde-fous, brouillons contrôlés
 - Valeur: réduction des délais, valeur commerciale récupérée, traçabilité
 - Secteurs: fonctions transverses, retail et e-commerce, organismes publics et territoire
 - Services liés: Conseil managérial IA
@@ -285,8 +285,8 @@ Historiques d'achat, catalogues et données concurrentielles aident à créer pi
 - Exemple opérationnel: Quand le processus montre un besoin similaire, transactions et achats servent à produire recommandations opérationnelles et à soutenir valeur commerciale récupérée, avec revue humaine obligatoire.
 - ID: sales-pricing-recommendations
 - Domaine: Client, marketing et vente
-- Données d'entrée: transactions et achats, documentation interne, sources publiques
-- Résultat: recommandations opérationnelles, business case
+- Ce qui entre: transactions et achats, documentation interne, sources publiques
+- Ce qui sort: recommandations opérationnelles, business case
 - Valeur: valeur commerciale récupérée, décisions plus rapides, priorités plus claires
 - Secteurs: retail et e-commerce, fonctions transverses
 - Services liés: Analyse de données agentique
@@ -304,8 +304,8 @@ Compétences, rôles, objectifs futurs et tendances sont reliés pour prioriser 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, données rh agrégées servent à produire roadmap et priorités et à soutenir connaissance transférable, avec revue humaine obligatoire.
 - ID: hr-competence-map
 - Domaine: Personnes et RH
-- Données d'entrée: données RH agrégées, documentation interne, sources publiques
-- Résultat: roadmap et priorités, rapport opérationnel
+- Ce qui entre: données RH agrégées, documentation interne, sources publiques
+- Ce qui sort: roadmap et priorités, rapport opérationnel
 - Valeur: connaissance transférable, priorités plus claires, formation plus rapide
 - Secteurs: fonctions transverses, formation et organisations intensives en connaissance
 - Services liés: Conseil managérial IA
@@ -323,8 +323,8 @@ Fiches de poste, candidatures et supports d'entrée structurés pour évaluation
 - Exemple opérationnel: Quand le processus montre un besoin similaire, cv et candidatures servent à produire rapport opérationnel et à soutenir réduction des délais, avec revue humaine obligatoire.
 - ID: recruiting-onboarding-support
 - Domaine: Personnes et RH
-- Données d'entrée: CV et candidatures, données RH agrégées, manuels et supports de formation
-- Résultat: rapport opérationnel, brouillons contrôlés
+- Ce qui entre: CV et candidatures, données RH agrégées, manuels et supports de formation
+- Ce qui sort: rapport opérationnel, brouillons contrôlés
 - Valeur: réduction des délais, moins d'erreurs, formation plus rapide
 - Secteurs: fonctions transverses, formation et organisations intensives en connaissance
 - Services liés: Conseil managérial IA
@@ -342,8 +342,8 @@ Politiques, avantages, procédures et demandes récurrentes deviennent FAQ et pa
 - Exemple opérationnel: Quand le processus montre un besoin similaire, données rh agrégées servent à produire faq et réponses et à soutenir service plus homogène, avec revue humaine obligatoire.
 - ID: hr-policy-requests
 - Domaine: Personnes et RH
-- Données d'entrée: données RH agrégées, documentation interne, contrats et politiques
-- Résultat: FAQ et réponses, brouillons contrôlés
+- Ce qui entre: données RH agrégées, documentation interne, contrats et politiques
+- Ce qui sort: FAQ et réponses, brouillons contrôlés
 - Valeur: service plus homogène, réduction des délais, conformité plus gouvernable
 - Secteurs: fonctions transverses
 - Services liés: Conseil managérial IA
@@ -361,8 +361,8 @@ Un besoin technique devient exigences, user stories, contraintes et périmètre 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, exigences et spécifications servent à produire roadmap et priorités et à soutenir moins d'erreurs, avec revue humaine obligatoire.
 - ID: software-requirements-and-mvp
 - Domaine: Technique et logiciels
-- Données d'entrée: exigences et spécifications, transcriptions et notes, documentation interne
-- Résultat: roadmap et priorités, tests et checklists
+- Ce qui entre: exigences et spécifications, transcriptions et notes, documentation interne
+- Ce qui sort: roadmap et priorités, tests et checklists
 - Valeur: moins d'erreurs, traçabilité, coûts évités
 - Secteurs: bureaux techniques et ingénierie, industrie manufacturière
 - Services liés: Logiciels techniques IA
@@ -380,8 +380,8 @@ Code existant et spécifications guident génération contrôlée, tests, refact
 - Exemple opérationnel: Quand le processus montre un besoin similaire, code et dépôts servent à produire tests et checklists et à soutenir réduction des délais, avec revue humaine obligatoire.
 - ID: ai-assisted-coding-quality
 - Domaine: Technique et logiciels
-- Données d'entrée: code et dépôts, exigences et spécifications
-- Résultat: tests et checklists, rapport opérationnel
+- Ce qui entre: code et dépôts, exigences et spécifications
+- Ce qui sort: tests et checklists, rapport opérationnel
 - Valeur: réduction des délais, moins d'erreurs, traçabilité
 - Secteurs: bureaux techniques et ingénierie
 - Services liés: Logiciels techniques IA
@@ -399,8 +399,8 @@ Appels d'offres, cahiers des charges, rapports et fiches analysés pour exigence
 - Exemple opérationnel: Quand le processus montre un besoin similaire, appels d'offres et cahiers des charges servent à produire rapport opérationnel et à soutenir réduction du risque, avec revue humaine obligatoire.
 - ID: technical-tender-documentation
 - Domaine: Technique et logiciels
-- Données d'entrée: appels d'offres et cahiers des charges, documentation interne, plans techniques
-- Résultat: rapport opérationnel, brouillons contrôlés, cartographie des risques
+- Ce qui entre: appels d'offres et cahiers des charges, documentation interne, plans techniques
+- Ce qui sort: rapport opérationnel, brouillons contrôlés, cartographie des risques
 - Valeur: réduction du risque, moins d'erreurs, traçabilité
 - Secteurs: bureaux techniques et ingénierie, services professionnels, industrie manufacturière
 - Services liés: Logiciels techniques IA
@@ -418,8 +418,8 @@ Photos, plans et rendus deviennent fiches, analyses de composants, cotes et réc
 - Exemple opérationnel: Quand le processus montre un besoin similaire, photos opérationnelles servent à produire rapport opérationnel et à soutenir connaissance transférable, avec revue humaine obligatoire.
 - ID: visual-technical-analysis
 - Domaine: Technique et logiciels
-- Données d'entrée: photos opérationnelles, plans techniques, documentation interne
-- Résultat: rapport opérationnel, brouillons contrôlés
+- Ce qui entre: photos opérationnelles, plans techniques, documentation interne
+- Ce qui sort: rapport opérationnel, brouillons contrôlés
 - Valeur: connaissance transférable, décisions plus rapides, moins d'erreurs
 - Secteurs: bureaux techniques et ingénierie, industrie manufacturière
 - Services liés: Logiciels techniques IA
@@ -437,8 +437,8 @@ Activités, données et décisions classées en zones d'autonomie, supervision o
 - Exemple opérationnel: Quand le processus montre un besoin similaire, documentation interne servent à produire politiques et garde-fous et à soutenir réduction du risque, avec revue humaine obligatoire.
 - ID: ai-governance-policy-risk
 - Domaine: Gouvernance, conformité et risque
-- Données d'entrée: documentation interne, politiques et lignes directrices, transcriptions et notes
-- Résultat: politiques et garde-fous, cartographie des risques, roadmap et priorités
+- Ce qui entre: documentation interne, politiques et lignes directrices, transcriptions et notes
+- Ce qui sort: politiques et garde-fous, cartographie des risques, roadmap et priorités
 - Valeur: réduction du risque, conformité plus gouvernable, priorités plus claires
 - Secteurs: fonctions transverses, finance, contrôle et services régulés, HSE, sécurité et services techniques
 - Services liés: Conseil managérial IA
@@ -456,8 +456,8 @@ Contrats, notices, registres, procédures et lettres préparés comme support pr
 - Exemple opérationnel: Quand le processus montre un besoin similaire, contrats et politiques servent à produire brouillons contrôlés et à soutenir réduction des délais, avec revue humaine obligatoire.
 - ID: compliance-legal-privacy-drafting
 - Domaine: Gouvernance, conformité et risque
-- Données d'entrée: contrats et politiques, documentation interne, formulaires remplis
-- Résultat: brouillons contrôlés, cartographie des risques
+- Ce qui entre: contrats et politiques, documentation interne, formulaires remplis
+- Ce qui sort: brouillons contrôlés, cartographie des risques
 - Valeur: réduction des délais, conformité plus gouvernable, réduction du risque
 - Secteurs: services professionnels, finance, contrôle et services régulés, fonctions transverses
 - Services liés: Conseil managérial IA
@@ -475,8 +475,8 @@ Chatbots et assistants testés contre manipulation, fuite de données et instruc
 - Exemple opérationnel: Quand le processus montre un besoin similaire, documentation interne servent à produire tests et checklists et à soutenir réduction du risque, avec revue humaine obligatoire.
 - ID: ai-system-security-tests
 - Domaine: Gouvernance, conformité et risque
-- Données d'entrée: documentation interne, exigences et spécifications, politiques et lignes directrices
-- Résultat: tests et checklists, politiques et garde-fous, rapport opérationnel
+- Ce qui entre: documentation interne, exigences et spécifications, politiques et lignes directrices
+- Ce qui sort: tests et checklists, politiques et garde-fous, rapport opérationnel
 - Valeur: réduction du risque, conformité plus gouvernable, service plus homogène
 - Secteurs: bureaux techniques et ingénierie, fonctions transverses
 - Services liés: Logiciels techniques IA
@@ -494,8 +494,8 @@ Photos de site ou atelier analysées pour non-conformités, risques et mesures p
 - Exemple opérationnel: Quand le processus montre un besoin similaire, photos opérationnelles servent à produire rapport opérationnel et à soutenir réduction du risque, avec revue humaine obligatoire.
 - ID: hse-visual-inspection
 - Domaine: Production, qualité et maintenance
-- Données d'entrée: photos opérationnelles, documentation interne
-- Résultat: rapport opérationnel, cartographie des risques
+- Ce qui entre: photos opérationnelles, documentation interne
+- Ce qui sort: rapport opérationnel, cartographie des risques
 - Valeur: réduction du risque, décisions plus rapides, conformité plus gouvernable
 - Secteurs: HSE, sécurité et services techniques, industrie manufacturière
 - Services liés: Logiciels techniques IA
@@ -513,8 +513,8 @@ Programmes client, ERP, cycles, non-conformités et coûts historiques soutienne
 - Exemple opérationnel: Quand le processus montre un besoin similaire, erp et systèmes métier servent à produire planning et affectations et à soutenir efficacité productive, avec revue humaine obligatoire.
 - ID: production-planning-quality
 - Domaine: Production, qualité et maintenance
-- Données d'entrée: ERP et systèmes métier, données de production, feuilles de calcul
-- Résultat: planning et affectations, rapport opérationnel, recommandations opérationnelles
+- Ce qui entre: ERP et systèmes métier, données de production, feuilles de calcul
+- Ce qui sort: planning et affectations, rapport opérationnel, recommandations opérationnelles
 - Valeur: efficacité productive, moins d'erreurs, coûts évités
 - Secteurs: industrie manufacturière, logistique et supply chain
 - Services liés: Logiciels techniques IA, Analyse de données agentique
@@ -532,8 +532,8 @@ Historique pannes, capteurs et interventions deviennent priorités, fenêtres ma
 - Exemple opérationnel: Quand le processus montre un besoin similaire, capteurs et télémétrie servent à produire alertes et seuils et à soutenir efficacité productive, avec revue humaine obligatoire.
 - ID: maintenance-and-asset-risk
 - Domaine: Production, qualité et maintenance
-- Données d'entrée: capteurs et télémétrie, données de production, journaux et états de processus
-- Résultat: alertes et seuils, classement de priorité, tableaux de bord et vues filtrables
+- Ce qui entre: capteurs et télémétrie, données de production, journaux et états de processus
+- Ce qui sort: alertes et seuils, classement de priorité, tableaux de bord et vues filtrables
 - Valeur: efficacité productive, coûts évités, réduction du risque
 - Secteurs: industrie manufacturière, logistique et supply chain
 - Services liés: Analyse de données agentique
@@ -551,8 +551,8 @@ Manuels, slides et documents dispersés deviennent syllabus, quiz et cas par rô
 - Exemple opérationnel: Quand le processus montre un besoin similaire, manuels et supports de formation servent à produire faq et réponses et à soutenir formation plus rapide, avec revue humaine recommandée.
 - ID: internal-training-assets
 - Domaine: Formation et mémoire interne
-- Données d'entrée: manuels et supports de formation, documentation interne, transcriptions et notes
-- Résultat: FAQ et réponses, brouillons contrôlés
+- Ce qui entre: manuels et supports de formation, documentation interne, transcriptions et notes
+- Ce qui sort: FAQ et réponses, brouillons contrôlés
 - Valeur: formation plus rapide, connaissance transférable, service plus homogène
 - Secteurs: formation et organisations intensives en connaissance, fonctions transverses
 - Services liés: Conseil managérial IA
@@ -570,8 +570,8 @@ La documentation interne alimente assistants Q&A, y compris vocaux, avec sources
 - Exemple opérationnel: Quand le processus montre un besoin similaire, documentation interne servent à produire recherche sémantique et à soutenir connaissance transférable, avec revue humaine obligatoire.
 - ID: company-memory-assistants
 - Domaine: Formation et mémoire interne
-- Données d'entrée: documentation interne, manuels et supports de formation, politiques et lignes directrices
-- Résultat: recherche sémantique, FAQ et réponses, politiques et garde-fous
+- Ce qui entre: documentation interne, manuels et supports de formation, politiques et lignes directrices
+- Ce qui sort: recherche sémantique, FAQ et réponses, politiques et garde-fous
 - Valeur: connaissance transférable, service plus homogène, réduction des délais
 - Secteurs: fonctions transverses, industrie manufacturière, formation et organisations intensives en connaissance
 - Services liés: Logiciels techniques IA
@@ -589,8 +589,8 @@ Données, KPI et matériaux hétérogènes deviennent rapports narratifs, infogr
 - Exemple opérationnel: Quand le processus montre un besoin similaire, kpi et séries historiques servent à produire rapport opérationnel et à soutenir décisions plus rapides, avec revue humaine recommandée.
 - ID: executive-reports-visual-assets
 - Domaine: Outils transverses
-- Données d'entrée: KPI et séries historiques, feuilles de calcul, documentation interne
-- Résultat: rapport opérationnel, tableaux de bord et vues filtrables, brouillons contrôlés
+- Ce qui entre: KPI et séries historiques, feuilles de calcul, documentation interne
+- Ce qui sort: rapport opérationnel, tableaux de bord et vues filtrables, brouillons contrôlés
 - Valeur: décisions plus rapides, traçabilité, valeur commerciale récupérée
 - Secteurs: fonctions transverses
 - Services liés: Conseil managérial IA
@@ -608,8 +608,8 @@ Séries temporelles et capteurs industriels utilisés pour alertes, dégradation
 - Exemple opérationnel: Quand le processus montre un besoin similaire, capteurs et télémétrie servent à produire alertes et seuils et à soutenir efficacité productive, avec revue humaine obligatoire.
 - ID: predictive-maintenance-anomalies
 - Domaine: Data science et décisions
-- Données d'entrée: capteurs et télémétrie, données de production, KPI et séries historiques
-- Résultat: alertes et seuils, prévision vérifiable, tableaux de bord et vues filtrables
+- Ce qui entre: capteurs et télémétrie, données de production, KPI et séries historiques
+- Ce qui sort: alertes et seuils, prévision vérifiable, tableaux de bord et vues filtrables
 - Valeur: efficacité productive, coûts évités, réduction du risque
 - Secteurs: industrie manufacturière, logistique et supply chain
 - Services liés: Analyse de données agentique, Logiciels techniques IA
@@ -627,8 +627,8 @@ Historiques transactionnels et comportementaux deviennent segments, risques et a
 - Exemple opérationnel: Quand le processus montre un besoin similaire, transactions et achats servent à produire classement de priorité et à soutenir valeur commerciale récupérée, avec revue humaine obligatoire.
 - ID: customer-segmentation-churn-crosssell
 - Domaine: Data science et décisions
-- Données d'entrée: transactions et achats, feedback textuel, KPI et séries historiques
-- Résultat: classement de priorité, recommandations opérationnelles, business case
+- Ce qui entre: transactions et achats, feedback textuel, KPI et séries historiques
+- Ce qui sort: classement de priorité, recommandations opérationnelles, business case
 - Valeur: valeur commerciale récupérée, priorités plus claires, service plus homogène
 - Secteurs: retail et e-commerce, finance, contrôle et services régulés
 - Services liés: Analyse de données agentique
@@ -646,8 +646,8 @@ Télémétrie, consommations, qualité et paramètres machine révèlent profils
 - Exemple opérationnel: Quand le processus montre un besoin similaire, capteurs et télémétrie servent à produire tableaux de bord et vues filtrables et à soutenir efficacité productive, avec revue humaine obligatoire.
 - ID: energy-line-optimization
 - Domaine: Data science et décisions
-- Données d'entrée: capteurs et télémétrie, données de production, KPI et séries historiques
-- Résultat: tableaux de bord et vues filtrables, recommandations opérationnelles, business case
+- Ce qui entre: capteurs et télémétrie, données de production, KPI et séries historiques
+- Ce qui sort: tableaux de bord et vues filtrables, recommandations opérationnelles, business case
 - Valeur: efficacité productive, coûts évités, décisions plus rapides
 - Secteurs: industrie manufacturière
 - Services liés: Analyse de données agentique
@@ -665,8 +665,8 @@ Données fiscales, territoriales ou commerciales agrégées deviennent cartes, c
 - Exemple opérationnel: Quand le processus montre un besoin similaire, transactions et achats servent à produire tableaux de bord et vues filtrables et à soutenir décisions plus rapides, avec revue humaine recommandée.
 - ID: territorial-profitability-analytics
 - Domaine: Data science et décisions
-- Données d'entrée: transactions et achats, sources publiques, KPI et séries historiques
-- Résultat: tableaux de bord et vues filtrables, rapport opérationnel, business case
+- Ce qui entre: transactions et achats, sources publiques, KPI et séries historiques
+- Ce qui sort: tableaux de bord et vues filtrables, rapport opérationnel, business case
 - Valeur: décisions plus rapides, priorités plus claires, valeur commerciale récupérée
 - Secteurs: organismes publics et territoire, retail et e-commerce, finance, contrôle et services régulés
 - Services liés: Analyse de données agentique
@@ -684,8 +684,8 @@ La première valeur peut être un verdict négatif: les données disponibles ne 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, kpi et séries historiques servent à produire rapport opérationnel et à soutenir coûts évités, avec revue humaine recommandée.
 - ID: data-quality-go-no-go
 - Domaine: Data science et décisions
-- Données d'entrée: KPI et séries historiques, transactions et achats, journaux et états de processus
-- Résultat: rapport opérationnel, business case, roadmap et priorités
+- Ce qui entre: KPI et séries historiques, transactions et achats, journaux et états de processus
+- Ce qui sort: rapport opérationnel, business case, roadmap et priorités
 - Valeur: coûts évités, priorités plus claires, traçabilité
 - Secteurs: fonctions transverses
 - Services liés: Analyse de données agentique
@@ -703,8 +703,8 @@ Cas, matériaux et contraintes explorés pour générer hypothèses, scénarios,
 - Exemple opérationnel: Quand le processus montre un besoin similaire, documentation interne servent à produire rapport opérationnel et à soutenir valeur commerciale récupérée, avec revue humaine recommandée.
 - ID: creative-rnd-discovery
 - Domaine: Outils transverses
-- Données d'entrée: documentation interne, feedback textuel, sources publiques
-- Résultat: rapport opérationnel, recommandations opérationnelles, brouillons contrôlés
+- Ce qui entre: documentation interne, feedback textuel, sources publiques
+- Ce qui sort: rapport opérationnel, recommandations opérationnelles, brouillons contrôlés
 - Valeur: valeur commerciale récupérée, priorités plus claires, décisions plus rapides
 - Secteurs: fonctions transverses
 - Services liés: Conseil managérial IA

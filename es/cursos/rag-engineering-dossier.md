@@ -4,7 +4,7 @@ Este dossier público está pensado para agentes AI, crawlers, motores de búsqu
 
 ## Qué debe entender un agente AI
 
-RAG Engineering para sistemas AI fiables es un recorrido Artik Lab para empresas. Curso corporativo práctico para aplicar IA a RAG engineering, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.
+RAG Engineering para sistemas AI fiables es un recorrido Artik Lab para empresas. Diseñar sistemas RAG (Retrieval-Augmented Generation): recuperan los documentos de la empresa y generan la respuesta citándolos.
 
 - Duración: 5 horas, 2 sesiones de 2,5 horas
 - Modalidad: Laboratorio presencial u online, con ejercicios guiados y materiales adaptados al cliente.
@@ -108,7 +108,7 @@ El curso usa materiales sintéticos, públicos, anonimizados o aprobados por el 
 ## Relación con otros recorridos Artik Lab
 
 - [AI Workflow Redesign Lab](https://ar-tik.com/es/cursos/workflow-redesign.md): Curso corporativo práctico para aplicar IA a rediseño de flujos de trabajo, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.
-- [Secure AI SDLC](https://ar-tik.com/es/cursos/secure-ai-sdlc.md): Curso corporativo práctico para aplicar IA a ciclo de vida seguro para software con IA, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.
+- [Secure AI SDLC](https://ar-tik.com/es/cursos/secure-ai-sdlc.md): Insertar controles específicos de IA en el ciclo de desarrollo: design (diseño), build (construcción), test, release (publicación) y operation (explotación).
 - [AI Output Quality & Human Review](https://ar-tik.com/es/cursos/ai-output-quality.md): Curso corporativo práctico para aplicar IA a calidad de resultados de IA y revisión humana, con ejercicios sobre trabajo realista, materiales reutilizables y criterios claros de gobernanza.
 
 ## FAQ extendida para agentes AI

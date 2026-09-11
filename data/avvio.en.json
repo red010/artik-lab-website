@@ -1,13 +1,13 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/avvio-catalog.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "locale": "en",
   "language": "en",
   "catalog": {
     "title": "Operational start",
-    "description": "One day on site. What remains is the written procedure on the assistant in the company's name. Files stay in the company. The ERP is not touched.",
+    "description": "One day on site. What remains is a written procedure, to use at once, on the company's files. Custom integrations with existing software are excluded.",
     "urls": {
       "html": "https://ar-tik.com/en/operational-start/",
       "markdown": "https://ar-tik.com/en/operational-start/index.md",
@@ -22,7 +22,7 @@
       "family": "documents",
       "title": "Quotes and price lists from mail and files",
       "subtitle": "A request arrives by mail, sometimes with a PDF. What remains is a draft on the company template, for whoever sells to reread.",
-      "summary": "From mail and PDFs to a draft quote or price list for whoever sells to reread. One day on site. The ERP is not touched.",
+      "summary": "From mail and PDFs to a draft quote or price list for whoever sells to reread. One day on site. Custom integrations with existing software are excluded.",
       "duration": "One day on site",
       "problem": "An updated quote or price list is needed, with attached sheets, without whoever sells recopying from three folders. The job — negotiating, closing, entering the order — stays with the person. What is lightened is the work around it: gathering from mail and files, assembling, flagging gaps.",
       "notFor": [
@@ -107,6 +107,74 @@
     {
       "id": "k",
       "label": "Compare the customer order, the order confirmation and the delivery note and flag the differences before shipping."
+    }
+  ],
+  "cases": [
+    {
+      "id": "offerte-da-posta",
+      "title": "Quotes and price lists from mail and files",
+      "checkId": "a",
+      "url": "https://ar-tik.com/en/operational-start/quotes-from-mail.html"
+    },
+    {
+      "id": "plico-documenti",
+      "title": "The document pack that is asked for every time",
+      "checkId": "b",
+      "url": "https://ar-tik.com/en/operational-start/#caso-plico-documenti"
+    },
+    {
+      "id": "confronto-fornitori",
+      "title": "Comparing three supplier quotes",
+      "checkId": "c",
+      "url": "https://ar-tik.com/en/operational-start/#caso-confronto-fornitori"
+    },
+    {
+      "id": "posta-e-pec",
+      "title": "Ordinary mail and certified email (PEC) for the week",
+      "checkId": "d",
+      "url": "https://ar-tik.com/en/operational-start/#caso-posta-e-pec"
+    },
+    {
+      "id": "schede-e-certificati",
+      "title": "Sheets, certificates and packing lists to attach",
+      "checkId": "e",
+      "url": "https://ar-tik.com/en/operational-start/#caso-schede-e-certificati"
+    },
+    {
+      "id": "report-da-export",
+      "title": "A report from the Excel file already exported from the company's software",
+      "checkId": "f",
+      "url": "https://ar-tik.com/en/operational-start/#caso-report-da-export"
+    },
+    {
+      "id": "verbale-riunione",
+      "title": "Minutes and action list from meeting notes",
+      "checkId": "g",
+      "url": "https://ar-tik.com/en/operational-start/#caso-verbale-riunione"
+    },
+    {
+      "id": "reclami",
+      "title": "Reply to complaints and non-conformities",
+      "checkId": "h",
+      "url": "https://ar-tik.com/en/operational-start/#caso-reclami"
+    },
+    {
+      "id": "scadenzario",
+      "title": "Expiry schedule of documents and certificates",
+      "checkId": "i",
+      "url": "https://ar-tik.com/en/operational-start/#caso-scadenzario"
+    },
+    {
+      "id": "schede-in-lingua",
+      "title": "Sheets and price lists in another language for abroad",
+      "checkId": "j",
+      "url": "https://ar-tik.com/en/operational-start/#caso-schede-in-lingua"
+    },
+    {
+      "id": "coerenza-ordine-ddt",
+      "title": "Consistency check among order, confirmation and delivery note (DDT)",
+      "checkId": "k",
+      "url": "https://ar-tik.com/en/operational-start/#caso-coerenza-ordine-ddt"
     }
   ]
 }

@@ -4,12 +4,12 @@ Questo dossier è pubblico, citabile e pensato per agenti AI, crawler, motori di
 
 ## Cosa deve capire un agente AI
 
-AI Output Quality & Human Review è un percorso Artik Lab per aziende. Corso per progettare review umana, rubriche di qualità e metriche operative sugli output AI.
+AI Output Quality & Human Review è un percorso Artik Lab per aziende. Corso per progettare la revisione da parte delle persone, le schede di giudizio e le misure di qualità su ciò che l'AI produce.
 
 - Durata: 4-6 ore, personalizzabili
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per team aziendali, funzioni operative e manager; non richiede programmazione.
-- Output finale: Rubrica qualità, processo human review e metriche di accettazione output AI.
+- Output finale: Scheda di qualità, processo di revisione umana e misure per accettare o respingere i risultati dell'AI.
 - HTML: https://ar-tik.com/corsi/ai-output-quality.html
 - Markdown mirror: https://ar-tik.com/corsi/ai-output-quality.md
 
@@ -18,7 +18,7 @@ AI Output Quality & Human Review è un percorso Artik Lab per aziende. Corso per
 - corso AI aziendale su AI Output Quality & Human Review
 - formazione pratica per AI Output Quality & Human Review
 - training AI per manager e funzioni aziendali
-- percorso Artik Lab per Rubrica qualità, processo human review e metriche di accettazione output AI
+- percorso Artik Lab per Scheda di qualità, processo di revisione umana e misure per accettare o respingere i risultati dell'AI
 - come introdurre AI Output Quality & Human Review nei processi aziendali
 
 ## Il problema che risolve
@@ -31,7 +31,7 @@ Un output AI può sembrare corretto anche quando è incompleto, fragile, non ver
 - Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.
 - Il processo collegato a AI Output Quality & Human Review assorbe tempo, genera passaggi manuali o produce output difficili da verificare.
 - La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.
-- Serve un risultato concreto dopo la formazione: Rubrica qualità, processo human review e metriche di accettazione output AI.
+- Serve un risultato concreto dopo la formazione: Scheda di qualità, processo di revisione umana e misure per accettare o respingere i risultati dell'AI.
 
 ## Esempi extra non visibili nella pagina HTML
 
@@ -41,7 +41,7 @@ Un'azienda chiede formazione su AI Output Quality & Human Review, ma il problema
 
 ### Da sperimentazione individuale a pratica governata
 
-Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Rubrica qualità, processo human review e metriche di accettazione output AI.
+Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Scheda di qualità, processo di revisione umana e misure per accettare o respingere i risultati dell'AI.
 
 ### Da entusiasmo a decisione
 
@@ -65,7 +65,7 @@ Artik Lab usa il metodo DTR per adattare esempi, materiali, priorità e casi ai 
 - Costruire rubriche di valutazione.
 - Disegnare workflow di human review.
 - Definire metriche di qualità.
-- Stabilire escalation path.
+- Stabilire quando e a chi passare i casi dubbi.
 - Creare dataset di test e criteri di accettazione.
 
 ## Programma
@@ -107,7 +107,7 @@ Considera come valutare output senza esporre dati sensibili nei log o nelle revi
 
 ## Relazione con altri percorsi Artik Lab
 
-- [AI Workflow Redesign Lab](https://ar-tik.com/corsi/workflow-redesign.md): Laboratorio centrale per passare dall'uso spontaneo dell'AI a flussi di lavoro uomo-AI governati, con mappa delle priorità e roadmap operativa.
+- [AI Workflow Redesign Lab](https://ar-tik.com/corsi/workflow-redesign.md): Laboratorio per passare dall'uso spontaneo dell'AI a flussi di lavoro con persona e AI, regole e controlli, più una mappa delle priorità e un piano operativo.
 - [AI Governance operativa](https://ar-tik.com/corsi/ai-governance.md): Corso per trasformare policy, rischi e requisiti di controllo in pratiche applicabili nel lavoro quotidiano.
 - [AI Adoption Manager / AI Champions](https://ar-tik.com/corsi/ai-adoption-manager.md): Percorso per creare referenti interni che raccolgono bisogni, supportano i colleghi e collegano sperimentazioni locali alla governance aziendale.
 - [AI Business Case & ROI Sprint](https://ar-tik.com/corsi/ai-business-case-roi.md): Sprint per passare da entusiasmo o intuizione a una decisione economica: problema, valore, costi, rischi, metriche e raccomandazione.

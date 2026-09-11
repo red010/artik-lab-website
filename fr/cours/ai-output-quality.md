@@ -87,4 +87,10 @@ Matériaux réutilisables, exemples, checklists et prochaines étapes claires.
 
 Non. Le cours repose sur exercices pratiques et décisions proches du travail réel.
 
+## Cours associés
+
+- [Managing AI](https://ar-tik.com/fr/cours/managing-ai.md): Cours d'entreprise pratique pour appliquer l'IA à adoption managériale de l'IA, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [Managing AI pour équipes mixtes](https://ar-tik.com/fr/cours/managing-ai-general.md): Cours d'entreprise pratique pour appliquer l'IA à alignement IA interfonctionnel, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [Gouvernance IA opérationnelle](https://ar-tik.com/fr/cours/ai-governance.md): Cours d'entreprise pratique pour appliquer l'IA à gouvernance IA opérationnelle, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+
 [Retour au catalogue des cours](https://ar-tik.com/fr/cours/index.md)

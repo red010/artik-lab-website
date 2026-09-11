@@ -1,14 +1,14 @@
-# Consulenza manageriale AI per governance, priorità e competenze interne.
+# Consulenza manageriale AI per priorità, regole d’uso e competenze interne.
 
 L'IA non è un software da installare: è una capacità manageriale da costruire. Artik Lab aiuta direzione e primi livelli a scegliere dove usarla, dove fermarsi, quali processi ridisegnare e quali competenze rendere stabili in azienda.
 
 Meno licenze. Più decisioni.
 
-## Una regia per trasformare entusiasmo, licenze e prove isolate in valore governato.
+## Da licenze e prove isolate a un piano: dove usarla, dove fermarsi, che cosa misurare.
 
 La consulenza manageriale AI è il servizio che precede strumenti, agenti e automazioni. Serve a dare al management una mappa: quali decisioni valgono l'investimento, quali attività richiedono supervisione umana, quali competenze mancano, quali dati sono già utilizzabili e quale primo pilota può generare un ritorno misurabile.
 
-## Prima di scegliere il formato, riconoscere il processo.
+## Prima di scegliere consulenza, corso o software, riconoscere il processo.
 
 L'Atlante raccoglie esempi concreti di applicazioni AI per documenti, operations, HR, marketing, software, governance, produzione, formazione e dati. Serve a capire se il bisogno richiede consulenza, analisi dati, sviluppo tecnico o formazione.
 
@@ -16,19 +16,19 @@ Pagina Atlante: https://ar-tik.com/atlante-applicazioni-ai-imprese.md
 
 FAQ collegata: https://ar-tik.com/domande-frequenti-ai-aziende.md - per scegliere tra consulenza, corso, analisi dati e software tecnico.
 
-## Le aziende non falliscono perché manca un modello. Falliscono perché manca una domanda manageriale.
+## Le aziende non falliscono perché manca uno strumento. Falliscono perché nessuno ha deciso quale processo migliorare e con quale criterio.
 
 Il percorso tipico è riconoscibile: si acquistano licenze, si organizzano demo, alcune persone sperimentano strumenti personali, poi l’utilizzo cala. Non è resistenza al cambiamento: è assenza di contesto, criteri e responsabilità. L’IA va gestita come un collaboratore digitale: utile se riceve obiettivi chiari, pericolosa se riceve compiti ambigui e nessun controllo.
 
-### Shadow AI
+### Strumenti AI personali, usati senza regole aziendali
 
 Le persone usano strumenti personali perché sono flessibili. La consulenza non reprime questa energia: la trasforma in pratica aziendale sicura e governata.
 
-### Frontiera frastagliata
+### L’IA riesce in un compito e fallisce in un altro che sembra uguale
 
 L’IA eccelle in alcuni compiti e fallisce in altri che sembrano simili. Serve una mappa empirica dei processi, non una lista generica di casi d’uso.
 
-### Fallimento silenzioso
+### Un sistema sembra funzionare mentre peggiora le decisioni
 
 Un sistema può sembrare funzionare mentre degrada la qualità delle decisioni. Per questo si separa ciò che è azionabile da ciò che richiede giudizio umano.
 
@@ -42,7 +42,7 @@ Direzione e ruoli chiave imparano a scomporre il lavoro, giudicare output IA, ri
 
 ### Ridisegno
 
-I processi vengono classificati per valore, rischio e supervisione: zona verde per automazioni semplici, gialla per copiloti controllati, rossa per decisioni umane.
+I processi vengono classificati per valore, rischio e supervisione: zona verde per automazioni semplici, gialla per assistenza con controllo, rossa per decisioni umane.
 
 ### Tecnologia
 
@@ -50,7 +50,7 @@ Solo dove esistono KPI, responsabilità e criteri di accettazione si passa a pro
 
 ## Cosa resta in mano al management.
 
-Il servizio non termina con un incontro ispirazionale. Produce artefatti utilizzabili da direzione, funzioni aziendali e partner tecnici.
+Il servizio non termina con un incontro ispirazionale. Produce documenti utilizzabili da direzione, funzioni aziendali e partner tecnici.
 
 La consulenza non è la porta del software. Costruire, se un giorno serve, è una scelta successiva e separata, che l’azienda prende con la mappa in mano.
 
@@ -58,11 +58,11 @@ La consulenza non è la porta del software. Costruire, se un giorno serve, è un
 
 Sintesi delle decisioni da prendere: priorità, rischi, vincoli, sponsor interni e criteri per fermare iniziative deboli.
 
-### Mappa opportunità e frontiera
+### Mappa dei processi: dove l’IA rende, dove no, dove è incerto
 
 Processi ordinati per valore, fattibilità, rischio e maturità del dato. Ogni opportunità viene collegata a una decisione reale.
 
-### Governance a zone
+### Attività in autonomia, da supervisionare, o solo umane
 
 Classificazione delle attività in autonomia, supervisione o prerogativa umana, con confini interpretativi espliciti.
 

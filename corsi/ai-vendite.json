@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/course-record.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "course": {
@@ -12,7 +12,7 @@
     "featured": false,
     "title": "Corso AI: vendita B2C e B2B con AI",
     "subtitle": "Qualificare lead, preparare trattative, personalizzare proposte e seguire opportunità senza perdere continuità.",
-    "summary": "Laboratorio per usare l'AI come secondo commerciale operativo: ricerca, preparazione, follow-up e qualità della proposta.",
+    "summary": "Laboratorio per usare l'AI nel lavoro commerciale: ricerca, preparazione, follow-up e qualità della proposta.",
     "duration": "8 ore, personalizzabili",
     "mode": "Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.",
     "profile": "all",
@@ -78,12 +78,12 @@
         "answer": "Sì, soprattutto su continuità, personalizzazione e memoria delle opportunità."
       }
     ],
-    "output": "Workflow commerciale AI-assisted per profili cliente, offerte, obiezioni e follow-up.",
+    "output": "Flusso di lavoro commerciale con AI per profili cliente, offerte, obiezioni e follow-up.",
     "searchIntents": [
       "corso AI aziendale su Corso AI: vendita B2C e B2B con AI",
       "formazione pratica per Corso AI: vendita B2C e B2B con AI",
       "training AI per team operativi",
-      "percorso Artik Lab per Workflow commerciale AI-assisted per profili cliente, offerte, obiezioni e follow-up",
+      "percorso Artik Lab per Flusso di lavoro commerciale con AI per profili cliente, offerte, obiezioni e follow-up",
       "come introdurre Corso AI: vendita B2C e B2B con AI nei processi aziendali"
     ],
     "needSignals": [
@@ -91,7 +91,7 @@
       "Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.",
       "Il processo collegato a Corso AI: vendita B2C e B2B con AI assorbe tempo, genera passaggi manuali o produce output difficili da verificare.",
       "La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.",
-      "Serve un risultato concreto dopo la formazione: Workflow commerciale AI-assisted per profili cliente, offerte, obiezioni e follow-up."
+      "Serve un risultato concreto dopo la formazione: Flusso di lavoro commerciale con AI per profili cliente, offerte, obiezioni e follow-up."
     ],
     "extraExamples": [
       {
@@ -100,7 +100,7 @@
       },
       {
         "title": "Da sperimentazione individuale a pratica governata",
-        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Workflow commerciale AI-assisted per profili cliente, offerte, obiezioni e follow-up."
+        "description": "Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Flusso di lavoro commerciale con AI per profili cliente, offerte, obiezioni e follow-up."
       },
       {
         "title": "Da entusiasmo a decisione",

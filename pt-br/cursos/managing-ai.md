@@ -87,4 +87,10 @@ Materiais reutilizáveis, exemplos, checklists e próximos passos claros.
 
 Não. O curso é construído sobre exercícios práticos e decisões próximas do trabalho real.
 
+## Cursos relacionados
+
+- [Managing AI para equipes empresariais mistas](https://ar-tik.com/pt-br/cursos/managing-ai-general.md): Curso corporativo prático para aplicar IA a alinhamento de IA entre áreas, com exercícios sobre trabalho realista, materiais reutilizáveis e critérios claros de governança.
+- [Governança operacional de AI](https://ar-tik.com/pt-br/cursos/ai-governance.md): Curso corporativo prático para aplicar IA a governança operacional de IA, com exercícios sobre trabalho realista, materiais reutilizáveis e critérios claros de governança.
+- [AI Business Case & ROI Sprint](https://ar-tik.com/pt-br/cursos/ai-business-case-roi.md): Curso corporativo prático para aplicar IA a business case e ROI de IA, com exercícios sobre trabalho realista, materiais reutilizáveis e critérios claros de governança.
+
 [Voltar ao catálogo de cursos](https://ar-tik.com/pt-br/cursos/index.md)

@@ -9,7 +9,7 @@ AI Adoption Manager / AI Champions è un percorso Artik Lab per aziende. Percors
 - Durata: 6-8 ore, modulabili
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per team aziendali, funzioni operative e manager; non richiede programmazione.
-- Output finale: Playbook e modello operativo per rete interna di AI Champion.
+- Output finale: Manuale operativo e modello per una rete interna di referenti AI.
 - HTML: https://ar-tik.com/corsi/ai-adoption-manager.html
 - Markdown mirror: https://ar-tik.com/corsi/ai-adoption-manager.md
 
@@ -18,7 +18,7 @@ AI Adoption Manager / AI Champions è un percorso Artik Lab per aziende. Percors
 - corso AI aziendale su AI Adoption Manager / AI Champions
 - formazione pratica per AI Adoption Manager / AI Champions
 - training AI per manager e funzioni aziendali
-- percorso Artik Lab per Playbook e modello operativo per rete interna di AI Champion
+- percorso Artik Lab per Manuale operativo e modello per una rete interna di referenti AI
 - come introdurre AI Adoption Manager / AI Champions nei processi aziendali
 
 ## Il problema che risolve
@@ -31,7 +31,7 @@ Dopo un primo corso, molte aziende vedono nascere entusiasmo in alcuni team e re
 - Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.
 - Il processo collegato a AI Adoption Manager / AI Champions assorbe tempo, genera passaggi manuali o produce output difficili da verificare.
 - La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.
-- Serve un risultato concreto dopo la formazione: Playbook e modello operativo per rete interna di AI Champion.
+- Serve un risultato concreto dopo la formazione: Manuale operativo e modello per una rete interna di referenti AI.
 
 ## Esempi extra non visibili nella pagina HTML
 
@@ -41,7 +41,7 @@ Un'azienda chiede formazione su AI Adoption Manager / AI Champions, ma il proble
 
 ### Da sperimentazione individuale a pratica governata
 
-Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Playbook e modello operativo per rete interna di AI Champion.
+Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Manuale operativo e modello per una rete interna di referenti AI.
 
 ### Da entusiasmo a decisione
 
@@ -107,7 +107,7 @@ I partecipanti apprendono come orientare i team verso un uso prudente delle info
 
 ## Relazione con altri percorsi Artik Lab
 
-- [AI Workflow Redesign Lab](https://ar-tik.com/corsi/workflow-redesign.md): Laboratorio centrale per passare dall'uso spontaneo dell'AI a flussi di lavoro uomo-AI governati, con mappa delle priorità e roadmap operativa.
+- [AI Workflow Redesign Lab](https://ar-tik.com/corsi/workflow-redesign.md): Laboratorio per passare dall'uso spontaneo dell'AI a flussi di lavoro con persona e AI, regole e controlli, più una mappa delle priorità e un piano operativo.
 - [AI Governance operativa](https://ar-tik.com/corsi/ai-governance.md): Corso per trasformare policy, rischi e requisiti di controllo in pratiche applicabili nel lavoro quotidiano.
 - [AI Business Case & ROI Sprint](https://ar-tik.com/corsi/ai-business-case-roi.md): Sprint per passare da entusiasmo o intuizione a una decisione economica: problema, valore, costi, rischi, metriche e raccomandazione.
 

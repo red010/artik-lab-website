@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/ai-applications-atlas.schema.json",
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-11",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "locale": "it",
@@ -29,13 +29,13 @@
     {
       "id": "people",
       "label": "Persone e HR",
-      "hint": "Se competenze, onboarding o feedback restano dispersi tra funzioni.",
+      "hint": "Se competenze, ingresso dei nuovi o giudizi restano sparsi tra uffici.",
       "applicationCount": 3
     },
     {
       "id": "customer",
       "label": "Cliente, marketing e vendite",
-      "hint": "Se cliente, contenuti e vendite generano segnali che non vengono letti.",
+      "hint": "Se recensioni, ticket e vendite restano in testi che nessuno riassume.",
       "applicationCount": 4
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "id": "governance",
-      "label": "Governance, compliance e rischio",
+      "label": "Regole, obblighi e rischio",
       "hint": "Se uso AI, privacy, rischio e responsabilità non hanno ancora confini chiari.",
       "applicationCount": 3
     },
@@ -64,8 +64,8 @@
     },
     {
       "id": "data",
-      "label": "Data science e decisioni",
-      "hint": "Se esistono storici, KPI o segnali da verificare prima di costruire.",
+      "label": "Dati e decisioni",
+      "hint": "Se ci sono storici o indicatori da controllare prima di fare un sistema.",
       "applicationCount": 5
     },
     {
@@ -253,7 +253,7 @@
       "language": "it",
       "area": "documents",
       "areaLabel": "Documenti e conoscenza",
-      "title": "Rendere interrogabile la conoscenza aziendale",
+      "title": "Cercare in manuali e procedure dell'azienda",
       "description": "Manuali, procedure e knowledge base diventano un motore di ricerca semantico con risposte fondate su fonti citabili.",
       "input": [
         "documentazione interna",
@@ -261,11 +261,11 @@
         "manuali e materiali formativi"
       ],
       "output": [
-        "ricerca semantica",
+        "ricerca per significato",
         "FAQ e risposte"
       ],
       "businessValue": [
-        "conoscenza trasferibile",
+        "sapere che non resta in una persona sola",
         "decisioni più rapide",
         "servizio più uniforme"
       ],
@@ -297,7 +297,7 @@
         },
         {
           "id": "ai-customer-service",
-          "title": "AI per customer service e ticket triage",
+          "title": "AI per assistenza clienti e classificazione delle richieste",
           "url": "https://ar-tik.com/corsi/ai-customer-service.html"
         }
       ],
@@ -307,9 +307,9 @@
         "formazione e organizzazioni knowledge-intensive"
       ],
       "searchIntents": [
-        "AI per rendere interrogabile la conoscenza aziendale",
+        "AI per cercare in manuali e procedure dell'azienda",
         "applicazioni AI per documenti e conoscenza",
-        "come usare l'AI in azienda per rendere interrogabile la conoscenza aziendale"
+        "come usare l'AI in azienda per cercare in manuali e procedure dell'azienda"
       ],
       "needSignals": [
         "documenti dispersi e difficili da consultare",
@@ -327,8 +327,8 @@
       ],
       "urls": {
         "html": "https://ar-tik.com/atlante-applicazioni-ai-imprese.html#semantic-knowledge-search",
-        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Rendere interrogabile la conoscenza aziendale",
-        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Rendere interrogabile la conoscenza aziendale",
+        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Cercare in manuali e procedure dell'azienda",
+        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Cercare in manuali e procedure dell'azienda",
         "json": "https://ar-tik.com/data/ai-applications.it.json"
       }
     },
@@ -338,7 +338,7 @@
       "language": "it",
       "area": "operations",
       "areaLabel": "Processi operativi",
-      "title": "Trasformare riunioni, email e ticket in memoria operativa",
+      "title": "Trasformare riunioni, email e ticket in decisioni e scadenze scritte",
       "description": "Trascrizioni e thread vengono puliti, sintetizzati e convertiti in decisioni, attività, scadenze e rischi tracciabili.",
       "input": [
         "email e ticket",
@@ -346,13 +346,13 @@
         "ticket e richieste"
       ],
       "output": [
-        "digest azionabile",
+        "elenco di azioni",
         "roadmap e priorità"
       ],
       "businessValue": [
         "tracciabilità",
         "decisioni più rapide",
-        "conoscenza trasferibile"
+        "sapere che non resta in una persona sola"
       ],
       "relatedServiceIds": [
         "ai-management-consulting"
@@ -386,9 +386,9 @@
         "uffici tecnici e ingegneria"
       ],
       "searchIntents": [
-        "AI per trasformare riunioni, email e ticket in memoria operativa",
+        "AI per trasformare riunioni, email e ticket in decisioni e scadenze scritte",
         "applicazioni AI per processi operativi",
-        "come usare l'AI in azienda per trasformare riunioni, email e ticket in memoria operativa"
+        "come usare l'AI in azienda per trasformare riunioni, email e ticket in decisioni e scadenze scritte"
       ],
       "needSignals": [
         "decisioni ricorrenti lente o basate su informazioni incomplete",
@@ -406,8 +406,8 @@
       ],
       "urls": {
         "html": "https://ar-tik.com/atlante-applicazioni-ai-imprese.html#meeting-email-decision-memory",
-        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Trasformare riunioni, email e ticket in memoria operativa",
-        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Trasformare riunioni, email e ticket in memoria operativa",
+        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Trasformare riunioni, email e ticket in decisioni e scadenze scritte",
+        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Trasformare riunioni, email e ticket in decisioni e scadenze scritte",
         "json": "https://ar-tik.com/data/ai-applications.it.json"
       }
     },
@@ -417,7 +417,7 @@
       "language": "it",
       "area": "documents",
       "areaLabel": "Documenti e conoscenza",
-      "title": "Generare documenti controllati da template",
+      "title": "Generare bozze da modelli aziendali, da far rileggere",
       "description": "Report, lettere, contratti, FAQ e comunicazioni vengono prodotti da dati e template, con coerenza formale e revisione umana.",
       "input": [
         "database strutturato",
@@ -431,7 +431,7 @@
       "businessValue": [
         "riduzione tempi",
         "meno errori",
-        "conformità più governabile"
+        "obblighi più facili da rispettare"
       ],
       "relatedServiceIds": [
         "ai-management-consulting"
@@ -471,9 +471,9 @@
         "HSE, sicurezza e servizi tecnici"
       ],
       "searchIntents": [
-        "AI per generare documenti controllati da template",
+        "AI per generare bozze da modelli aziendali, da far rileggere",
         "applicazioni AI per documenti e conoscenza",
-        "come usare l'AI in azienda per generare documenti controllati da template"
+        "come usare l'AI in azienda per generare bozze da modelli aziendali, da far rileggere"
       ],
       "needSignals": [
         "copie manuali tra email, fogli e gestionali",
@@ -491,8 +491,8 @@
       ],
       "urls": {
         "html": "https://ar-tik.com/atlante-applicazioni-ai-imprese.html#controlled-document-generation",
-        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Generare documenti controllati da template",
-        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Generare documenti controllati da template",
+        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Generare bozze da modelli aziendali, da far rileggere",
+        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Generare bozze da modelli aziendali, da far rileggere",
         "json": "https://ar-tik.com/data/ai-applications.it.json"
       }
     },
@@ -502,17 +502,17 @@
       "language": "it",
       "area": "operations",
       "areaLabel": "Processi operativi",
-      "title": "Mappare processi e ridisegnare workflow",
-      "description": "Il lavoro reale viene ricostruito as-is, letto per colli di bottiglia e trasformato in uno scenario to-be con priorità e controlli.",
+      "title": "Ricostruire come si lavora e dove si perde tempo",
+      "description": "Il lavoro reale viene ricostruito come avviene oggi, letto per colli di bottiglia e trasformato in uno scenario futuro con priorità e controlli.",
       "input": [
         "trascrizioni e appunti",
-        "log e stati di processo",
+        "registri e stati del lavoro",
         "email e ticket",
         "fogli di calcolo"
       ],
       "output": [
         "roadmap e priorità",
-        "business case"
+        "valutazione di costo e ritorno"
       ],
       "businessValue": [
         "priorità più chiare",
@@ -551,9 +551,9 @@
         "servizi professionali"
       ],
       "searchIntents": [
-        "AI per mappare processi e ridisegnare workflow",
+        "AI per ricostruire come si lavora e dove si perde tempo",
         "applicazioni AI per processi operativi",
-        "come usare l'AI in azienda per mappare processi e ridisegnare workflow"
+        "come usare l'AI in azienda per ricostruire come si lavora e dove si perde tempo"
       ],
       "needSignals": [
         "decisioni ricorrenti lente o basate su informazioni incomplete",
@@ -572,8 +572,8 @@
       ],
       "urls": {
         "html": "https://ar-tik.com/atlante-applicazioni-ai-imprese.html#process-mapping-redesign",
-        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Mappare processi e ridisegnare workflow",
-        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Mappare processi e ridisegnare workflow",
+        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Ricostruire come si lavora e dove si perde tempo",
+        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Ricostruire come si lavora e dove si perde tempo",
         "json": "https://ar-tik.com/data/ai-applications.it.json"
       }
     },
@@ -583,7 +583,7 @@
       "language": "it",
       "area": "operations",
       "areaLabel": "Processi operativi",
-      "title": "Fare triage di email, ticket e richieste",
+      "title": "Classificare email, ticket e richieste in arrivo",
       "description": "Le comunicazioni in ingresso vengono classificate per urgenza, tema, responsabilità e azione richiesta, con bozze di risposta controllate.",
       "input": [
         "email e ticket",
@@ -591,7 +591,7 @@
         "documentazione interna"
       ],
       "output": [
-        "digest azionabile",
+        "elenco di azioni",
         "bozze controllate",
         "ranking di priorità"
       ],
@@ -617,7 +617,7 @@
       "relatedCourses": [
         {
           "id": "ai-customer-service",
-          "title": "AI per customer service e ticket triage",
+          "title": "AI per assistenza clienti e classificazione delle richieste",
           "url": "https://ar-tik.com/corsi/ai-customer-service.html"
         },
         {
@@ -632,9 +632,9 @@
         "uffici tecnici e ingegneria"
       ],
       "searchIntents": [
-        "AI per fare triage di email, ticket e richieste",
+        "AI per classificare email, ticket e richieste in arrivo",
         "applicazioni AI per processi operativi",
-        "come usare l'AI in azienda per fare triage di email, ticket e richieste"
+        "come usare l'AI in azienda per classificare email, ticket e richieste in arrivo"
       ],
       "needSignals": [
         "copie manuali tra email, fogli e gestionali",
@@ -652,8 +652,8 @@
       ],
       "urls": {
         "html": "https://ar-tik.com/atlante-applicazioni-ai-imprese.html#email-ticket-triage",
-        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Fare triage di email, ticket e richieste",
-        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Fare triage di email, ticket e richieste",
+        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Classificare email, ticket e richieste in arrivo",
+        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Classificare email, ticket e richieste in arrivo",
         "json": "https://ar-tik.com/data/ai-applications.it.json"
       }
     },
@@ -668,7 +668,7 @@
       "input": [
         "fogli di calcolo",
         "ERP e gestionali",
-        "KPI e serie storiche"
+        "indicatori e serie storiche"
       ],
       "output": [
         "piano e assegnazioni",
@@ -746,7 +746,7 @@
       "description": "Serie storiche di ordini, incassi, ticket o produzione diventano stime operative da usare per acquisti, turni e capacità.",
       "input": [
         "transazioni e acquisti",
-        "KPI e serie storiche",
+        "indicatori e serie storiche",
         "dati di produzione"
       ],
       "output": [
@@ -821,7 +821,7 @@
       "language": "it",
       "area": "operations",
       "areaLabel": "Processi operativi",
-      "title": "Tenere vivi requisiti, decisioni e stakeholder",
+      "title": "Tenere aggiornati requisiti, decisioni e persone coinvolte",
       "description": "Riunioni e documenti progettuali alimentano un dossier evolutivo con requisiti, conflitti latenti, decisioni e issue.",
       "input": [
         "trascrizioni e appunti",
@@ -835,7 +835,7 @@
       "businessValue": [
         "tracciabilità",
         "meno errori",
-        "conoscenza trasferibile"
+        "sapere che non resta in una persona sola"
       ],
       "relatedServiceIds": [
         "ai-management-consulting",
@@ -875,9 +875,9 @@
         "manifatturiero"
       ],
       "searchIntents": [
-        "AI per tenere vivi requisiti, decisioni e stakeholder",
+        "AI per tenere aggiornati requisiti, decisioni e persone coinvolte",
         "applicazioni AI per processi operativi",
-        "come usare l'AI in azienda per tenere vivi requisiti, decisioni e stakeholder"
+        "come usare l'AI in azienda per tenere aggiornati requisiti, decisioni e persone coinvolte"
       ],
       "needSignals": [
         "decisioni ricorrenti lente o basate su informazioni incomplete",
@@ -895,8 +895,8 @@
       ],
       "urls": {
         "html": "https://ar-tik.com/atlante-applicazioni-ai-imprese.html#project-requirements-memory",
-        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Tenere vivi requisiti, decisioni e stakeholder",
-        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Tenere vivi requisiti, decisioni e stakeholder",
+        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Tenere aggiornati requisiti, decisioni e persone coinvolte",
+        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Tenere aggiornati requisiti, decisioni e persone coinvolte",
         "json": "https://ar-tik.com/data/ai-applications.it.json"
       }
     },
@@ -907,7 +907,7 @@
       "area": "customer",
       "areaLabel": "Cliente, marketing e vendite",
       "title": "Leggere feedback, recensioni e ticket cliente",
-      "description": "Testi non strutturati vengono aggregati per temi, sentiment, bisogni ricorrenti e azioni prioritarie.",
+      "description": "Testi liberi vengono raggruppati per temi, tono, bisogni ricorrenti e azioni prioritarie.",
       "input": [
         "feedback testuali",
         "ticket e richieste",
@@ -919,7 +919,7 @@
       ],
       "businessValue": [
         "servizio più uniforme",
-        "valore commerciale recuperato",
+        "vendite o margine recuperati",
         "priorità più chiare"
       ],
       "relatedServiceIds": [
@@ -939,12 +939,12 @@
       "relatedCourses": [
         {
           "id": "ai-customer-service",
-          "title": "AI per customer service e ticket triage",
+          "title": "AI per assistenza clienti e classificazione delle richieste",
           "url": "https://ar-tik.com/corsi/ai-customer-service.html"
         },
         {
           "id": "ai-marketing",
-          "title": "Corso AI: marketing e comunicazione AI driven",
+          "title": "Corso AI: marketing e comunicazione con l'AI",
           "url": "https://ar-tik.com/corsi/ai-marketing.html"
         }
       ],
@@ -986,7 +986,7 @@
       "area": "customer",
       "areaLabel": "Cliente, marketing e vendite",
       "title": "Scoprire bisogni di mercato e target",
-      "description": "Fonti pubbliche e materiali forniti vengono sintetizzati in mappe di pain point, linguaggi, segmenti, partner e opportunità.",
+      "description": "Fonti pubbliche e materiali forniti vengono sintetizzati in mappe di problemi, linguaggi, segmenti, partner e opportunità.",
       "input": [
         "fonti pubbliche",
         "feedback testuali",
@@ -994,10 +994,10 @@
       ],
       "output": [
         "report operativo",
-        "business case"
+        "valutazione di costo e ritorno"
       ],
       "businessValue": [
-        "valore commerciale recuperato",
+        "vendite o margine recuperati",
         "priorità più chiare",
         "decisioni più rapide"
       ],
@@ -1018,7 +1018,7 @@
       "relatedCourses": [
         {
           "id": "ai-marketing",
-          "title": "Corso AI: marketing e comunicazione AI driven",
+          "title": "Corso AI: marketing e comunicazione con l'AI",
           "url": "https://ar-tik.com/corsi/ai-marketing.html"
         },
         {
@@ -1064,7 +1064,7 @@
       "language": "it",
       "area": "customer",
       "areaLabel": "Cliente, marketing e vendite",
-      "title": "Codificare voce di marca e contenuti",
+      "title": "Fissare il tono di marca e preparare bozze coerenti",
       "description": "Interviste, esempi approvati e materiali commerciali diventano linee guida operative e bozze multicanale coerenti.",
       "input": [
         "documentazione interna",
@@ -1072,12 +1072,12 @@
         "fonti pubbliche"
       ],
       "output": [
-        "policy e guardrail",
+        "regole e limiti d'uso",
         "bozze controllate"
       ],
       "businessValue": [
         "riduzione tempi",
-        "valore commerciale recuperato",
+        "vendite o margine recuperati",
         "tracciabilità"
       ],
       "relatedServiceIds": [
@@ -1102,7 +1102,7 @@
         },
         {
           "id": "ai-marketing",
-          "title": "Corso AI: marketing e comunicazione AI driven",
+          "title": "Corso AI: marketing e comunicazione con l'AI",
           "url": "https://ar-tik.com/corsi/ai-marketing.html"
         }
       ],
@@ -1112,9 +1112,9 @@
         "enti pubblici e territorio"
       ],
       "searchIntents": [
-        "AI per codificare voce di marca e contenuti",
+        "AI per fissare il tono di marca e preparare bozze coerenti",
         "applicazioni AI per cliente, marketing e vendite",
-        "come usare l'AI in azienda per codificare voce di marca e contenuti"
+        "come usare l'AI in azienda per fissare il tono di marca e preparare bozze coerenti"
       ],
       "needSignals": [
         "errori ricorrenti in documenti, procedure o controlli",
@@ -1132,8 +1132,8 @@
       ],
       "urls": {
         "html": "https://ar-tik.com/atlante-applicazioni-ai-imprese.html#brand-voice-content-engine",
-        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Codificare voce di marca e contenuti",
-        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Codificare voce di marca e contenuti",
+        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Fissare il tono di marca e preparare bozze coerenti",
+        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Fissare il tono di marca e preparare bozze coerenti",
         "json": "https://ar-tik.com/data/ai-applications.it.json"
       }
     },
@@ -1143,7 +1143,7 @@
       "language": "it",
       "area": "customer",
       "areaLabel": "Cliente, marketing e vendite",
-      "title": "Supportare vendite, pricing e raccomandazioni",
+      "title": "Aiutare vendite, prezzi e proposte al cliente",
       "description": "Storici di acquisto, cataloghi e informazioni competitive aiutano a costruire pitch, bundle, priorità commerciali e scenari prezzo.",
       "input": [
         "transazioni e acquisti",
@@ -1152,10 +1152,10 @@
       ],
       "output": [
         "raccomandazioni operative",
-        "business case"
+        "valutazione di costo e ritorno"
       ],
       "businessValue": [
-        "valore commerciale recuperato",
+        "vendite o margine recuperati",
         "decisioni più rapide",
         "priorità più chiare"
       ],
@@ -1190,9 +1190,9 @@
         "funzioni aziendali trasversali"
       ],
       "searchIntents": [
-        "AI per supportare vendite, pricing e raccomandazioni",
+        "AI per aiutare vendite, prezzi e proposte al cliente",
         "applicazioni AI per cliente, marketing e vendite",
-        "come usare l'AI in azienda per supportare vendite, pricing e raccomandazioni"
+        "come usare l'AI in azienda per aiutare vendite, prezzi e proposte al cliente"
       ],
       "needSignals": [
         "dati storici disponibili ma non trasformati in segnali",
@@ -1210,8 +1210,8 @@
       ],
       "urls": {
         "html": "https://ar-tik.com/atlante-applicazioni-ai-imprese.html#sales-pricing-recommendations",
-        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Supportare vendite, pricing e raccomandazioni",
-        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Supportare vendite, pricing e raccomandazioni",
+        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Aiutare vendite, prezzi e proposte al cliente",
+        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Aiutare vendite, prezzi e proposte al cliente",
         "json": "https://ar-tik.com/data/ai-applications.it.json"
       }
     },
@@ -1222,7 +1222,7 @@
       "area": "people",
       "areaLabel": "Persone e HR",
       "title": "Mappare competenze e fabbisogni",
-      "description": "Competenze, ruoli, obiettivi futuri e trend vengono collegati per definire priorità di sviluppo, upskilling e reskilling.",
+      "description": "Competenze, ruoli, obiettivi futuri e trend vengono collegati per definire priorità di sviluppo, di formazione e di riqualificazione.",
       "input": [
         "dati HR aggregati",
         "documentazione interna",
@@ -1233,7 +1233,7 @@
         "report operativo"
       ],
       "businessValue": [
-        "conoscenza trasferibile",
+        "sapere che non resta in una persona sola",
         "priorità più chiare",
         "formazione più rapida"
       ],
@@ -1299,7 +1299,7 @@
       "language": "it",
       "area": "people",
       "areaLabel": "Persone e HR",
-      "title": "Supportare recruiting e onboarding",
+      "title": "Aiutare selezione e ingresso dei nuovi assunti",
       "description": "Job description, candidature e materiali di ingresso vengono strutturati per preparare valutazioni, comunicazioni e percorsi iniziali.",
       "input": [
         "CV e candidature",
@@ -1340,9 +1340,9 @@
         "formazione e organizzazioni knowledge-intensive"
       ],
       "searchIntents": [
-        "AI per supportare recruiting e onboarding",
+        "AI per aiutare selezione e ingresso dei nuovi assunti",
         "applicazioni AI per persone e hr",
-        "come usare l'AI in azienda per supportare recruiting e onboarding"
+        "come usare l'AI in azienda per aiutare selezione e ingresso dei nuovi assunti"
       ],
       "needSignals": [
         "copie manuali tra email, fogli e gestionali",
@@ -1360,8 +1360,8 @@
       ],
       "urls": {
         "html": "https://ar-tik.com/atlante-applicazioni-ai-imprese.html#recruiting-onboarding-support",
-        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Supportare recruiting e onboarding",
-        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Supportare recruiting e onboarding",
+        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Aiutare selezione e ingresso dei nuovi assunti",
+        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Aiutare selezione e ingresso dei nuovi assunti",
         "json": "https://ar-tik.com/data/ai-applications.it.json"
       }
     },
@@ -1385,7 +1385,7 @@
       "businessValue": [
         "servizio più uniforme",
         "riduzione tempi",
-        "conformità più governabile"
+        "obblighi più facili da rispettare"
       ],
       "relatedServiceIds": [
         "ai-management-consulting"
@@ -1448,8 +1448,8 @@
       "language": "it",
       "area": "technical",
       "areaLabel": "Area tecnica e software",
-      "title": "Definire requisiti, MVP e criteri di accettazione",
-      "description": "Un bisogno tecnico viene trasformato in requisiti, user story, vincoli non funzionali, stime e confini del primo rilascio.",
+      "title": "Definire requisiti, primo rilascio minimo e criteri di accettazione",
+      "description": "Un bisogno tecnico viene trasformato in requisiti, storie d'uso, vincoli, stime e confini del primo rilascio.",
       "input": [
         "requisiti e specifiche",
         "trascrizioni e appunti",
@@ -1495,9 +1495,9 @@
         "manifatturiero"
       ],
       "searchIntents": [
-        "AI per definire requisiti, MVP e criteri di accettazione",
+        "AI per definire requisiti, primo rilascio minimo e criteri di accettazione",
         "applicazioni AI per area tecnica e software",
-        "come usare l'AI in azienda per definire requisiti, MVP e criteri di accettazione"
+        "come usare l'AI in azienda per definire requisiti, primo rilascio minimo e criteri di accettazione"
       ],
       "needSignals": [
         "decisioni ricorrenti lente o basate su informazioni incomplete",
@@ -1515,8 +1515,8 @@
       ],
       "urls": {
         "html": "https://ar-tik.com/atlante-applicazioni-ai-imprese.html#software-requirements-and-mvp",
-        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Definire requisiti, MVP e criteri di accettazione",
-        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Definire requisiti, MVP e criteri di accettazione",
+        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Definire requisiti, primo rilascio minimo e criteri di accettazione",
+        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Definire requisiti, primo rilascio minimo e criteri di accettazione",
         "json": "https://ar-tik.com/data/ai-applications.it.json"
       }
     },
@@ -1526,7 +1526,7 @@
       "language": "it",
       "area": "technical",
       "areaLabel": "Area tecnica e software",
-      "title": "Accelerare sviluppo, refactoring e test",
+      "title": "Accelerare scrittura, pulizia e test del codice",
       "description": "Codice esistente e specifiche guidano generazione controllata di codice, test unitari, refactoring e audit di qualità.",
       "input": [
         "codice e repository",
@@ -1577,9 +1577,9 @@
         "uffici tecnici e ingegneria"
       ],
       "searchIntents": [
-        "AI per accelerare sviluppo, refactoring e test",
+        "AI per accelerare scrittura, pulizia e test del codice",
         "applicazioni AI per area tecnica e software",
-        "come usare l'AI in azienda per accelerare sviluppo, refactoring e test"
+        "come usare l'AI in azienda per accelerare scrittura, pulizia e test del codice"
       ],
       "needSignals": [
         "errori ricorrenti in documenti, procedure o controlli",
@@ -1597,8 +1597,8 @@
       ],
       "urls": {
         "html": "https://ar-tik.com/atlante-applicazioni-ai-imprese.html#ai-assisted-coding-quality",
-        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Accelerare sviluppo, refactoring e test",
-        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Accelerare sviluppo, refactoring e test",
+        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Accelerare scrittura, pulizia e test del codice",
+        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Accelerare scrittura, pulizia e test del codice",
         "json": "https://ar-tik.com/data/ai-applications.it.json"
       }
     },
@@ -1689,7 +1689,7 @@
       "area": "technical",
       "areaLabel": "Area tecnica e software",
       "title": "Interpretare immagini, disegni e materiali tecnici",
-      "description": "Foto, disegni e render vengono trasformati in schede descrittive, analisi di componenti, quote e narrazioni tecniche verificabili.",
+      "description": "Foto, disegni e render vengono trasformati in schede descrittive, analisi di componenti, misure e descrizioni tecniche da verificare.",
       "input": [
         "fotografie operative",
         "disegni tecnici",
@@ -1700,7 +1700,7 @@
         "bozze controllate"
       ],
       "businessValue": [
-        "conoscenza trasferibile",
+        "sapere che non resta in una persona sola",
         "decisioni più rapide",
         "meno errori"
       ],
@@ -1765,8 +1765,8 @@
       "locale": "it",
       "language": "it",
       "area": "governance",
-      "areaLabel": "Governance, compliance e rischio",
-      "title": "Costruire governance, policy e matrice di rischio AI",
+      "areaLabel": "Regole, obblighi e rischio",
+      "title": "Definire regole, limiti e rischi dell'uso di AI",
       "description": "Attività, dati e decisioni vengono classificati in zone di autonomia, supervisione o esclusione, con regole operative chiare.",
       "input": [
         "documentazione interna",
@@ -1774,13 +1774,13 @@
         "trascrizioni e appunti"
       ],
       "output": [
-        "policy e guardrail",
+        "regole e limiti d'uso",
         "mappa rischi",
         "roadmap e priorità"
       ],
       "businessValue": [
         "riduzione del rischio",
-        "conformità più governabile",
+        "obblighi più facili da rispettare",
         "priorità più chiare"
       ],
       "relatedServiceIds": [
@@ -1821,9 +1821,9 @@
         "HSE, sicurezza e servizi tecnici"
       ],
       "searchIntents": [
-        "AI per costruire governance, policy e matrice di rischio AI",
-        "applicazioni AI per governance, compliance e rischio",
-        "come usare l'AI in azienda per costruire governance, policy e matrice di rischio AI"
+        "AI per definire regole, limiti e rischi dell'uso di AI",
+        "applicazioni AI per regole, obblighi e rischio",
+        "come usare l'AI in azienda per definire regole, limiti e rischi dell'uso di AI"
       ],
       "needSignals": [
         "uso AI già presente ma senza regole condivise",
@@ -1841,8 +1841,8 @@
       ],
       "urls": {
         "html": "https://ar-tik.com/atlante-applicazioni-ai-imprese.html#ai-governance-policy-risk",
-        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Costruire governance, policy e matrice di rischio AI",
-        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Costruire governance, policy e matrice di rischio AI",
+        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Definire regole, limiti e rischi dell'uso di AI",
+        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Definire regole, limiti e rischi dell'uso di AI",
         "json": "https://ar-tik.com/data/ai-applications.it.json"
       }
     },
@@ -1851,7 +1851,7 @@
       "locale": "it",
       "language": "it",
       "area": "governance",
-      "areaLabel": "Governance, compliance e rischio",
+      "areaLabel": "Regole, obblighi e rischio",
       "title": "Preparare documenti compliance, legali e privacy",
       "description": "Contratti, informative, registri, procedure e lettere vengono predisposti come supporto preparatorio da verificare con specialisti.",
       "input": [
@@ -1865,7 +1865,7 @@
       ],
       "businessValue": [
         "riduzione tempi",
-        "conformità più governabile",
+        "obblighi più facili da rispettare",
         "riduzione del rischio"
       ],
       "relatedServiceIds": [
@@ -1901,7 +1901,7 @@
       ],
       "searchIntents": [
         "AI per preparare documenti compliance, legali e privacy",
-        "applicazioni AI per governance, compliance e rischio",
+        "applicazioni AI per regole, obblighi e rischio",
         "come usare l'AI in azienda per preparare documenti compliance, legali e privacy"
       ],
       "needSignals": [
@@ -1930,9 +1930,9 @@
       "locale": "it",
       "language": "it",
       "area": "governance",
-      "areaLabel": "Governance, compliance e rischio",
+      "areaLabel": "Regole, obblighi e rischio",
       "title": "Testare assistenti AI contro usi impropri",
-      "description": "Chatbot e assistenti vengono stressati con scenari di manipolazione, fuga dati e istruzioni conflittuali, poi rinforzati con guardrail.",
+      "description": "Chatbot e assistenti vengono stressati con scenari di manipolazione, fuga dati e istruzioni conflittuali, poi rinforzati con limiti d'uso scritti.",
       "input": [
         "documentazione interna",
         "requisiti e specifiche",
@@ -1940,12 +1940,12 @@
       ],
       "output": [
         "test e checklist",
-        "policy e guardrail",
+        "regole e limiti d'uso",
         "report operativo"
       ],
       "businessValue": [
         "riduzione del rischio",
-        "conformità più governabile",
+        "obblighi più facili da rispettare",
         "servizio più uniforme"
       ],
       "relatedServiceIds": [
@@ -1980,7 +1980,7 @@
       ],
       "searchIntents": [
         "AI per testare assistenti AI contro usi impropri",
-        "applicazioni AI per governance, compliance e rischio",
+        "applicazioni AI per regole, obblighi e rischio",
         "come usare l'AI in azienda per testare assistenti AI contro usi impropri"
       ],
       "needSignals": [
@@ -2010,7 +2010,7 @@
       "language": "it",
       "area": "production",
       "areaLabel": "Produzione, qualità e manutenzione",
-      "title": "Analizzare anomalie HSE da immagini operative",
+      "title": "Analizzare da foto di reparto rischi per salute e sicurezza",
       "description": "Fotografie di sopralluogo o reparto vengono lette per individuare non conformità, rischi e misure preventive da verificare.",
       "input": [
         "fotografie operative",
@@ -2023,7 +2023,7 @@
       "businessValue": [
         "riduzione del rischio",
         "decisioni più rapide",
-        "conformità più governabile"
+        "obblighi più facili da rispettare"
       ],
       "relatedServiceIds": [
         "technical-software-development"
@@ -2056,9 +2056,9 @@
         "manifatturiero"
       ],
       "searchIntents": [
-        "AI per analizzare anomalie HSE da immagini operative",
+        "AI per analizzare da foto di reparto rischi per salute e sicurezza",
         "applicazioni AI per produzione, qualità e manutenzione",
-        "come usare l'AI in azienda per analizzare anomalie HSE da immagini operative"
+        "come usare l'AI in azienda per analizzare da foto di reparto rischi per salute e sicurezza"
       ],
       "needSignals": [
         "errori ricorrenti in documenti, procedure o controlli",
@@ -2076,8 +2076,8 @@
       ],
       "urls": {
         "html": "https://ar-tik.com/atlante-applicazioni-ai-imprese.html#hse-visual-inspection",
-        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Analizzare anomalie HSE da immagini operative",
-        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Analizzare anomalie HSE da immagini operative",
+        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Analizzare da foto di reparto rischi per salute e sicurezza",
+        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Analizzare da foto di reparto rischi per salute e sicurezza",
         "json": "https://ar-tik.com/data/ai-applications.it.json"
       }
     },
@@ -2175,9 +2175,9 @@
       "title": "Gestire manutenzione, asset e ricambi",
       "description": "Storico guasti, sensori e interventi diventano priorità di controllo, finestre di manutenzione e alert operativi.",
       "input": [
-        "sensori e telemetria",
+        "sensori e misure a distanza",
         "dati di produzione",
-        "log e stati di processo"
+        "registri e stati del lavoro"
       ],
       "output": [
         "allarmi e soglie",
@@ -2252,7 +2252,7 @@
       "area": "training",
       "areaLabel": "Formazione e memoria interna",
       "title": "Creare formazione, quiz e slide da materiali interni",
-      "description": "Manuali, slide e documenti disaggregati diventano syllabus, quiz, casi studio e materiali didattici per ruolo.",
+      "description": "Manuali, slide e documenti disaggregati diventano programma del corso, quiz, casi studio e materiali didattici per ruolo.",
       "input": [
         "manuali e materiali formativi",
         "documentazione interna",
@@ -2264,7 +2264,7 @@
       ],
       "businessValue": [
         "formazione più rapida",
-        "conoscenza trasferibile",
+        "sapere che non resta in una persona sola",
         "servizio più uniforme"
       ],
       "relatedServiceIds": [
@@ -2335,20 +2335,20 @@
       "language": "it",
       "area": "training",
       "areaLabel": "Formazione e memoria interna",
-      "title": "Costruire assistenti per memoria aziendale",
-      "description": "La documentazione interna alimenta assistenti Q&A, anche vocali, che rispondono con fonti e confini d'uso chiari.",
+      "title": "Costruire assistenti che rispondono dai documenti interni",
+      "description": "La documentazione interna alimenta assistenti a domande e risposte, anche vocali, che rispondono con fonti e confini d'uso chiari.",
       "input": [
         "documentazione interna",
         "manuali e materiali formativi",
         "policy e linee guida"
       ],
       "output": [
-        "ricerca semantica",
+        "ricerca per significato",
         "FAQ e risposte",
-        "policy e guardrail"
+        "regole e limiti d'uso"
       ],
       "businessValue": [
-        "conoscenza trasferibile",
+        "sapere che non resta in una persona sola",
         "servizio più uniforme",
         "riduzione tempi"
       ],
@@ -2390,9 +2390,9 @@
         "formazione e organizzazioni knowledge-intensive"
       ],
       "searchIntents": [
-        "AI per costruire assistenti per memoria aziendale",
+        "AI per costruire assistenti che rispondono dai documenti interni",
         "applicazioni AI per formazione e memoria interna",
-        "come usare l'AI in azienda per costruire assistenti per memoria aziendale"
+        "come usare l'AI in azienda per costruire assistenti che rispondono dai documenti interni"
       ],
       "needSignals": [
         "conoscenza critica concentrata in poche persone",
@@ -2410,8 +2410,8 @@
       ],
       "urls": {
         "html": "https://ar-tik.com/atlante-applicazioni-ai-imprese.html#company-memory-assistants",
-        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Costruire assistenti per memoria aziendale",
-        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Costruire assistenti per memoria aziendale",
+        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Costruire assistenti che rispondono dai documenti interni",
+        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Costruire assistenti che rispondono dai documenti interni",
         "json": "https://ar-tik.com/data/ai-applications.it.json"
       }
     },
@@ -2421,10 +2421,10 @@
       "language": "it",
       "area": "transversal",
       "areaLabel": "Strumenti trasversali",
-      "title": "Produrre report executive e asset visuali",
+      "title": "Produrre report per la direzione e materiali visivi",
       "description": "Dati, KPI e materiali eterogenei vengono trasformati in report narrativi, infografiche, presentazioni e contenuti visuali coerenti.",
       "input": [
-        "KPI e serie storiche",
+        "indicatori e serie storiche",
         "fogli di calcolo",
         "documentazione interna"
       ],
@@ -2436,7 +2436,7 @@
       "businessValue": [
         "decisioni più rapide",
         "tracciabilità",
-        "valore commerciale recuperato"
+        "vendite o margine recuperati"
       ],
       "relatedServiceIds": [
         "ai-management-consulting"
@@ -2468,9 +2468,9 @@
         "funzioni aziendali trasversali"
       ],
       "searchIntents": [
-        "AI per produrre report executive e asset visuali",
+        "AI per produrre report per la direzione e materiali visivi",
         "applicazioni AI per strumenti trasversali",
-        "come usare l'AI in azienda per produrre report executive e asset visuali"
+        "come usare l'AI in azienda per produrre report per la direzione e materiali visivi"
       ],
       "needSignals": [
         "dati storici disponibili ma non trasformati in segnali",
@@ -2488,8 +2488,8 @@
       ],
       "urls": {
         "html": "https://ar-tik.com/atlante-applicazioni-ai-imprese.html#executive-reports-visual-assets",
-        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Produrre report executive e asset visuali",
-        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Produrre report executive e asset visuali",
+        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Produrre report per la direzione e materiali visivi",
+        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Produrre report per la direzione e materiali visivi",
         "json": "https://ar-tik.com/data/ai-applications.it.json"
       }
     },
@@ -2498,13 +2498,13 @@
       "locale": "it",
       "language": "it",
       "area": "data",
-      "areaLabel": "Data science e decisioni",
+      "areaLabel": "Dati e decisioni",
       "title": "Rilevare anomalie e degrado su macchinari",
       "description": "Serie temporali e sensori industriali vengono usati per allarmi, analisi degrado e manutenzione predittiva con soglie verificabili.",
       "input": [
-        "sensori e telemetria",
+        "sensori e misure a distanza",
         "dati di produzione",
-        "KPI e serie storiche"
+        "indicatori e serie storiche"
       ],
       "output": [
         "allarmi e soglie",
@@ -2554,7 +2554,7 @@
       ],
       "searchIntents": [
         "AI per rilevare anomalie e degrado su macchinari",
-        "applicazioni AI per data science e decisioni",
+        "applicazioni AI per dati e decisioni",
         "come usare l'AI in azienda per rilevare anomalie e degrado su macchinari"
       ],
       "needSignals": [
@@ -2583,21 +2583,21 @@
       "locale": "it",
       "language": "it",
       "area": "data",
-      "areaLabel": "Data science e decisioni",
-      "title": "Segmentare clienti, churn e cross-selling",
+      "areaLabel": "Dati e decisioni",
+      "title": "Segmentare i clienti, chi sta per andarsene e cosa proporre in più",
       "description": "Storici transazionali e comportamentali diventano segmenti, ranking di rischio, bundle e azioni commerciali differenziate.",
       "input": [
         "transazioni e acquisti",
         "feedback testuali",
-        "KPI e serie storiche"
+        "indicatori e serie storiche"
       ],
       "output": [
         "ranking di priorità",
         "raccomandazioni operative",
-        "business case"
+        "valutazione di costo e ritorno"
       ],
       "businessValue": [
-        "valore commerciale recuperato",
+        "vendite o margine recuperati",
         "priorità più chiare",
         "servizio più uniforme"
       ],
@@ -2632,9 +2632,9 @@
         "finanza, controllo e servizi regolati"
       ],
       "searchIntents": [
-        "AI per segmentare clienti, churn e cross-selling",
-        "applicazioni AI per data science e decisioni",
-        "come usare l'AI in azienda per segmentare clienti, churn e cross-selling"
+        "AI per segmentare i clienti, chi sta per andarsene e cosa proporre in più",
+        "applicazioni AI per dati e decisioni",
+        "come usare l'AI in azienda per segmentare i clienti, chi sta per andarsene e cosa proporre in più"
       ],
       "needSignals": [
         "dati storici disponibili ma non trasformati in segnali",
@@ -2652,8 +2652,8 @@
       ],
       "urls": {
         "html": "https://ar-tik.com/atlante-applicazioni-ai-imprese.html#customer-segmentation-churn-crosssell",
-        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Segmentare clienti, churn e cross-selling",
-        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Segmentare clienti, churn e cross-selling",
+        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Segmentare i clienti, chi sta per andarsene e cosa proporre in più",
+        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Segmentare i clienti, chi sta per andarsene e cosa proporre in più",
         "json": "https://ar-tik.com/data/ai-applications.it.json"
       }
     },
@@ -2662,18 +2662,18 @@
       "locale": "it",
       "language": "it",
       "area": "data",
-      "areaLabel": "Data science e decisioni",
+      "areaLabel": "Dati e decisioni",
       "title": "Ottimizzare energia, qualità e prestazioni di linea",
       "description": "Telemetria, consumi, qualità e parametri macchina mostrano profili efficienti, sprechi e raccomandazioni operative.",
       "input": [
-        "sensori e telemetria",
+        "sensori e misure a distanza",
         "dati di produzione",
-        "KPI e serie storiche"
+        "indicatori e serie storiche"
       ],
       "output": [
         "dashboard e viste filtrabili",
         "raccomandazioni operative",
-        "business case"
+        "valutazione di costo e ritorno"
       ],
       "businessValue": [
         "efficienza produttiva",
@@ -2711,7 +2711,7 @@
       ],
       "searchIntents": [
         "AI per ottimizzare energia, qualità e prestazioni di linea",
-        "applicazioni AI per data science e decisioni",
+        "applicazioni AI per dati e decisioni",
         "come usare l'AI in azienda per ottimizzare energia, qualità e prestazioni di linea"
       ],
       "needSignals": [
@@ -2740,23 +2740,23 @@
       "locale": "it",
       "language": "it",
       "area": "data",
-      "areaLabel": "Data science e decisioni",
+      "areaLabel": "Dati e decisioni",
       "title": "Analizzare territori, redditività e trend",
       "description": "Dati aggregati fiscali, territoriali o commerciali vengono trasformati in mappe, cluster, driver di marginalità e roadmap decisionali.",
       "input": [
         "transazioni e acquisti",
         "fonti pubbliche",
-        "KPI e serie storiche"
+        "indicatori e serie storiche"
       ],
       "output": [
         "dashboard e viste filtrabili",
         "report operativo",
-        "business case"
+        "valutazione di costo e ritorno"
       ],
       "businessValue": [
         "decisioni più rapide",
         "priorità più chiare",
-        "valore commerciale recuperato"
+        "vendite o margine recuperati"
       ],
       "relatedServiceIds": [
         "agentic-data-analysis"
@@ -2785,7 +2785,7 @@
       ],
       "searchIntents": [
         "AI per analizzare territori, redditività e trend",
-        "applicazioni AI per data science e decisioni",
+        "applicazioni AI per dati e decisioni",
         "come usare l'AI in azienda per analizzare territori, redditività e trend"
       ],
       "needSignals": [
@@ -2814,17 +2814,17 @@
       "locale": "it",
       "language": "it",
       "area": "data",
-      "areaLabel": "Data science e decisioni",
-      "title": "Capire quando non costruire un modello",
+      "areaLabel": "Dati e decisioni",
+      "title": "Capire quando i dati non bastano per una previsione",
       "description": "Il primo valore può essere un verdetto negativo: il dato disponibile non contiene ancora il segnale utile e va migliorata la raccolta.",
       "input": [
-        "KPI e serie storiche",
+        "indicatori e serie storiche",
         "transazioni e acquisti",
-        "log e stati di processo"
+        "registri e stati del lavoro"
       ],
       "output": [
         "report operativo",
-        "business case",
+        "valutazione di costo e ritorno",
         "roadmap e priorità"
       ],
       "businessValue": [
@@ -2856,9 +2856,9 @@
         "funzioni aziendali trasversali"
       ],
       "searchIntents": [
-        "AI per capire quando non costruire un modello",
-        "applicazioni AI per data science e decisioni",
-        "come usare l'AI in azienda per capire quando non costruire un modello"
+        "AI per capire quando i dati non bastano per una previsione",
+        "applicazioni AI per dati e decisioni",
+        "come usare l'AI in azienda per capire quando i dati non bastano per una previsione"
       ],
       "needSignals": [
         "dati storici disponibili ma non trasformati in segnali",
@@ -2876,8 +2876,8 @@
       ],
       "urls": {
         "html": "https://ar-tik.com/atlante-applicazioni-ai-imprese.html#data-quality-go-no-go",
-        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Capire quando non costruire un modello",
-        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Capire quando non costruire un modello",
+        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Capire quando i dati non bastano per una previsione",
+        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Capire quando i dati non bastano per una previsione",
         "json": "https://ar-tik.com/data/ai-applications.it.json"
       }
     },
@@ -2887,7 +2887,7 @@
       "language": "it",
       "area": "transversal",
       "areaLabel": "Strumenti trasversali",
-      "title": "Usare l'AI come laboratorio di scoperta",
+      "title": "Usare l'AI per generare ipotesi da verificare",
       "description": "Casi, materiali e vincoli vengono esplorati per generare ipotesi, scenari, concept, simulazioni di ruolo e opportunità da verificare.",
       "input": [
         "documentazione interna",
@@ -2900,7 +2900,7 @@
         "bozze controllate"
       ],
       "businessValue": [
-        "valore commerciale recuperato",
+        "vendite o margine recuperati",
         "priorità più chiare",
         "decisioni più rapide"
       ],
@@ -2940,9 +2940,9 @@
         "funzioni aziendali trasversali"
       ],
       "searchIntents": [
-        "AI per usare l'AI come laboratorio di scoperta",
+        "AI per usare l'AI per generare ipotesi da verificare",
         "applicazioni AI per strumenti trasversali",
-        "come usare l'AI in azienda per usare l'AI come laboratorio di scoperta"
+        "come usare l'AI in azienda per usare l'AI per generare ipotesi da verificare"
       ],
       "needSignals": [
         "decisioni ricorrenti lente o basate su informazioni incomplete",
@@ -2960,8 +2960,8 @@
       ],
       "urls": {
         "html": "https://ar-tik.com/atlante-applicazioni-ai-imprese.html#creative-rnd-discovery",
-        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Usare l'AI come laboratorio di scoperta",
-        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Usare l'AI come laboratorio di scoperta",
+        "markdown": "https://ar-tik.com/atlante-applicazioni-ai-imprese.md#Usare l'AI per generare ipotesi da verificare",
+        "dossier": "https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md#Usare l'AI per generare ipotesi da verificare",
         "json": "https://ar-tik.com/data/ai-applications.it.json"
       }
     }

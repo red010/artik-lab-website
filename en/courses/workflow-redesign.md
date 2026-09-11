@@ -87,4 +87,10 @@ Reusable materials, examples, checklists and a clear set of next steps.
 
 No. The course is built around practical exercises and decisions close to real work.
 
+## Related courses
+
+- [Managing AI](https://ar-tik.com/en/courses/managing-ai.md): Practical corporate course for applying AI to managerial AI adoption, with exercises on realistic work, reusable materials and clear governance criteria.
+- [Managing AI for mixed company teams](https://ar-tik.com/en/courses/managing-ai-general.md): Practical corporate course for applying AI to cross-functional AI alignment, with exercises on realistic work, reusable materials and clear governance criteria.
+- [Operational AI Governance](https://ar-tik.com/en/courses/ai-governance.md): Practical corporate course for applying AI to operational AI governance, with exercises on realistic work, reusable materials and clear governance criteria.
+
 [Back to the course catalog](https://ar-tik.com/en/courses/index.md)

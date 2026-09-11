@@ -10,6 +10,8 @@ Autres langues: [italiano](https://ar-tik.com/llms-full.txt), [English](https://
 
 Artik Lab aide les entreprises et les fonctions métier à choisir, gouverner et réaliser le premier usage utile de l'IA: cartographie des processus, business case, formation des équipes, analyse de données et prototypes contrôlés.
 
+La façon la plus simple de commencer: un premier appel gratuit de 30 minutes pour identifier vos besoins les plus urgents.
+
 ## Artik Lab construit des capacités IA qui restent dans l'entreprise.
 
 On n'achète pas une licence en espérant qu'elle fonctionne. On choisit un processus, on mesure son coût, on définit le KPI, puis on décide s'il faut former, redessiner ou construire.
@@ -96,7 +98,7 @@ Page dédiée: https://ar-tik.com/fr/developpement-logiciels-techniques.md
 
 ## Combien coûte chaque année le temps passé sur une tâche répétitive ?
 
-La page d'accueil inclut un calculateur de valeur interactif : à partir de quatre données simples (personnes impliquées, heures par semaine, coût horaire moyen et part du temps libérable par l'IA), il estime le coût annuel du temps consacré à une tâche manuelle et la valeur libérable chaque année. C'est une estimation indicative sur 45 semaines de travail, ni une prévision de résultats ni un devis.
+La page d'accueil inclut un calculateur de valeur interactif : à partir de cinq données simples (devise, personnes impliquées, heures par semaine, coût horaire moyen et part du temps libérable par l'IA), il estime le coût annuel du temps consacré à une tâche manuelle, la valeur libérable chaque année et ce que vaut chaque mois d'attente. Ce n'est pas la journée qui pèse. C'est chaque mois où le travail se fait encore à la main. S'il s'agit d'un travail répétitif : Démarrage opérationnel. S'il s'agit d'une décision à améliorer : Analyse de données. C'est une estimation indicative sur 45 semaines de travail, ni une prévision de résultats ni un devis.
 
 ## Cours pour gouverner l'IA, pas pour courir après les outils.
 
@@ -238,7 +240,7 @@ Oui. Le service est conçu pour des entreprises avec forte connaissance de domai
 
 <!-- https://ar-tik.com/fr/analyse-donnees-agentique.md -->
 
-# Analyse de données agentique: des signaux qui deviennent décisions.
+# Analyse de données agentique : des données déjà en entreprise à une décision
 
 L'analyse de données agentique ne produit pas des graphiques à archiver: elle cherche des signaux dans les données déjà disponibles, les relie à une décision et indique où le modèle ne vaut pas l'investissement.
 
@@ -246,13 +248,151 @@ L'analyse de données agentique ne produit pas des graphiques à archiver: elle 
 
 C'est une méthode de conseil qui utilise modèles analytiques, automatisation contrôlée et jugement managérial pour découvrir si les données déjà présentes contiennent un signal utile. Chaque résultat est comparé à une référence minimale et accompagné de limites explicites.
 
-## Le tableau de bord regarde en arrière. Le signal décide maintenant.
-1. Données disponibles
-2. Question métier
-3. Signal vérifié
-4. Décision possible
-5. Valeur mesurable ou estimable
-6. Nouvelle collecte ciblée
+## Des situations dans lesquelles se reconnaître
+
+Ces fiches servent à se reconnaître dans une situation, pas à choisir un secteur. Chaque situation est racontée à travers un cas réel, c'est-à-dire une analyse menée jusqu'au bout par Artik Lab, avec un rapport certifié et des chiffres mesurés. La méthode vaut pour n'importe quelle entreprise ; les chiffres valent pour ce cas. Et si les données ne répondent pas à la question, le rapport le dit : c'est la façon la plus économique d'éviter un projet mal choisi.
+
+### J'estime le temps à l'œil : si je me trompe, je perds la marge.
+
+Atelier à façon · Cas réel · analyse certifiée.
+
+In breve. Entre : code pièce, quantité, machine, temps observé. Sort : le temps à mettre au devis, sous forme d'intervalle. Décide : qui établit le devis.
+
+En atelier, chaque usinage est une pièce, une quantité et une machine, et le devis sort de l'expérience. L'analyse estime combien de temps il faut pour une quantité sur une machine et quelle part de la variabilité dépend de la machine plutôt que de la pièce, de sorte que le prix et la date ne sortent plus seulement au feeling.
+
+**Dans le cas réel :** 2 916 usinages sur 13 machines. Plus de la moitié de l'écart entre un temps et un autre, 53 %, n'est expliquée par rien de ce que l'atelier enregistre ; la taille de la commande pèse pour 32 %, la machine pour 9 %, la pièce pour 6 %. Une commande d'une pièce demande typiquement 167 unités de temps, une commande de plus de seize pièces en demande 18. Une machine ne reporte pas le temps sur 53 % de ses propres usinages : un trou d'enregistrement, pas un miracle.
+
+- Signaux de besoin: devis à la main sur le dessin même pièce, temps différents selon qui estime écarts découverts en fin de commande acheteur qui demande des temps certains
+- Données en général déjà disponibles: code pièce ou outil quantité machine durée observée
+- Décision immédiate: Combien de temps mettre au devis, comme intervalle et non comme chiffre sec. Sur quelle machine cela convient. Où un temps absent est une alerte d'enregistrement.
+- Limite honnête: Il n'y a pas de recettes sur la même ligne : cela ne calcule pas la marge en euros et ne remplace pas le fichier unique « heures prévues et réelles plus recette par commande ». L'unité de temps doit être déclarée dans l'entreprise.
+- Écarté dans le rapport : quatre méthodes d'estimation comparées au temps typique d'atelier sur des pièces jamais vues ; affiner le modèle ne bat pas le fait de recueillir deux ou trois informations de plus par usinage.
+- Note de méthode : chiffres mesurés dans le rapport certifié ; ils démontrent la méthode, ils ne prévoient pas les temps d'un autre atelier.
+
+### Chaque mois le réalisé ne colle pas au budget — et je ne sais pas si c'est inévitable ou s'il y a des postes que je ne prends pas en compte.
+
+Contrôle de gestion · Cas réel · analyse certifiée.
+
+In breve. Entre : budget et réalisé par mois, ligne et poste de coût. Sort : les postes où l'écart se répète et ceux où ce n'est que du bruit. Décide : qui contrôle les coûts.
+
+Le contrôle de gestion compare budget et réalisé par poste : main-d'œuvre, matière, énergie, logistique. L'analyse dit où l'écart se répète mois après mois, à corriger, et où il change de signe au hasard, à ne pas poursuivre.
+
+**Dans le cas réel :** 144 lignes, douze mois pour deux lignes et six postes de coût. En fin d'année, la production a dépensé 28 879 euros de plus que prévu, 1,15 % d'un budget de 2,5 millions : un montant qui, au bilan, n'alarme personne. En additionnant les écarts sans les compenser, on arrive à 79 948 euros. La priorité est un seul poste, les matières premières entre juillet et septembre : 28 478 euros, 86 % de l'écart annuel de ce poste, accumulés en trois mois. En faisant varier les seuils, aucun des six postes ne change de verdict.
+
+- Signaux de besoin: feuille d'écarts refaite en fin de mois « on est au-dessus du budget » sans savoir quel poste budget figé et processus qui glissent temps perdu à expliquer des écarts qui ne sont que du bruit
+- Données en général déjà disponibles: par mois : ligne ou centre de coût catégorie de coût montant au budget montant au réalisé
+- Décision immédiate: Sur quel poste intervenir. Quel écart accepter comme variabilité ordinaire. Comment recalibrer le budget.
+- Limite honnête: Une seule année ne sépare pas un événement d'une saisonnalité. Sans prix unitaires et quantités, cela ne distingue pas le prix du volume. Ce n'est ni une prévision de chiffre d'affaires, ni les heures et la recette sur la même commande.
+- Écarté dans le rapport : le seul contrôle sur le signe des écarts aurait manqué la main-d'œuvre et la logistique, 31,8 % du mouvement brut ; ce qui compte, c'est la persistance, pas le signe.
+- Note de méthode : chiffres mesurés dans le rapport certifié ; ils démontrent la méthode, ils ne prévoient pas les comptes d'une autre entreprise.
+
+### La feuille des commandes export se refait chaque mois, mais elle ne dit pas combien le chiffre d'affaires dépend de peu de pays et de clients.
+
+Service export · Cas réel · analyse certifiée.
+
+In breve. Entre : lignes de commande avec date, pays, client et chiffre d'affaires. Sort : la concentration par pays et par client, et où ouvrir de nouveaux clients. Décide : qui pilote l'export.
+
+Le commercial export vit sur le tableau croisé : qui a commandé, de quel pays, combien cela pèse. L'analyse rend lisible la concentration, c'est-à-dire quels pays et quels clients tiennent le chiffre d'affaires et où le risque de dépendance est élevé, sans inventer un marché qui n'est pas dans les données.
+
+**Dans le cas réel :** 303 commandes de 92 clients dans 19 pays. Il suffit de 3 pays sur 19 pour faire la moitié du chiffre d'affaires, alors qu'il en faut 26 clients sur 92. L'écart entre les marchés ne naît pas de la taille des commandes : le nombre de clients actifs dans chaque pays explique 82,1 % de l'écart, donc le levier est d'ouvrir des clients dans les pays déjà couverts mais sous-couverts. Novembre vaut 3,15 fois un mois moyen parce qu'il apporte 3,4 fois plus de commandes. Et un piège typique des logiciels de gestion : le même historique marquait un recul de 60,94 % ou une croissance de 41,30 % selon la façon de comparer une année incomplète.
+
+- Signaux de besoin: le même tableau croisé chaque mois : pays, client, produit « la France et l'Allemagne tiennent » dit à voix, sans classement stable peur de perdre un gros client sans le voir arriver l'export sauve le bilan, mais personne ne connaît la longue traîne
+- Données en général déjà disponibles: lignes de commande avec date ou mois pays et client code produit et quantité chiffre d'affaires, idéalement 24–36 mois
+- Décision immédiate: Où pousser la liste. Qui tenir. Combien le portefeuille est concentré. Quelle date utiliser avant n'importe quel graphique.
+- Limite honnête: N'inclut ni le fret, ni le droit de douane, ni la remise par marché : c'est de la concentration et un profil, pas une marge nette. Si le logiciel de gestion tronque les prix, les montants sont des planchers, pas des mesures. Avec des dates incohérentes dans le fichier, il faut choisir une chronologie avant les graphiques : cela fait partie du travail, pas d'un détail informatique.
+- Écarté dans le rapport : l'hypothèse « chaque pays a un goût de catalogue » tombe, parce que connaître le pays ne réduit que de 5,8 % l'incertitude sur la ligne de produit. Les deux datations de la même commande ne coïncidaient que sur 58,55 % des lignes : l'analyse a été relancée sur les deux avant de choisir.
+- Note de méthode : chiffres mesurés dans le rapport certifié ; ils démontrent la méthode, ils ne prévoient pas le portefeuille d'une autre entreprise.
+
+### Le client veut la même qualité que le lot précédent et je dois « courir après » les certificats de laboratoire.
+
+Cave et laboratoire · Cas réel · analyse certifiée.
+
+In breve. Entre : analyses de laboratoire par lot et classification commerciale. Sort : les lots à expédier, à retenir ou à destiner ailleurs, avant le chargement. Décide : qui clôt le lot.
+
+Le laboratoire et les certificats sont déjà là. L'analyse dit, avant de clore le lot, à quel point ce profil ressemble aux lots déjà acceptés et où le risque de rebut ou de réclamation est le plus élevé. Elle ne remplace pas la dégustation : elle l'anticipe.
+
+**Dans le cas réel :** 1 143 lots avec onze mesures chimiques de laboratoire chacun. À partir des seuls chiffres de laboratoire, le système reconnaît à l'avance 87 % des lots de prestige, 108 sur 124 dans l'échantillon de vérification, et lorsqu'il indique un lot comme de prestige il a raison dans 81 % des cas. La qualité n'est pas dans un seul indice mais dans un bloc : degré alcoolique, contrôle de l'acidité volatile et stabilisation par les sulfites lus ensemble.
+
+- Signaux de besoin: rapports qualité refaits à la main pour chaque client ou vérification acheteur qui demande « comme le lot de mars » sans règle écrite non-conformités et réclamations qui arrivent après l'expédition certifications déjà dans la maison, mais utilisées seulement en aval
+- Données en général déjà disponibles: analyses de laboratoire par lot résultat de l'essai ou de la dégustation classification commerciale du lot historique des réclamations ou des retours
+- Décision immédiate: Quels lots expédier, retenir ou destiner à un autre canal, avant le chargement et non après la réclamation. Quels lots protéger avant coupes et assemblages.
+- Limite honnête: Ne prédit pas le goût du marché et ne remplace pas la dégustation. Les lots de prestige à bas degré alcoolique échappent plus souvent. Sans un historique de laboratoire structuré, le premier résultat utile peut être : ces données ne suffisent pas, et voici ce qui manque.
+- Écarté dans le rapport : l'hypothèse « le degré alcoolique suffit », signal le plus fort à lui seul mais insuffisant ; la densité s'est révélée redondante avec l'alcool.
+- Note de méthode : chiffres mesurés dans le rapport certifié ; ils démontrent la méthode, ils ne prévoient pas les lots d'une autre cave.
+
+### Les machines enregistrent déjà des états et des mesures, mais la panne et les différents modes de travail se voient tard.
+
+Atelier machines · Cas réel · analyse certifiée.
+
+In breve. Entre : états et mesures machine déjà enregistrés, temps de cycle et arrêts. Sort : l'alarme de panne en cours et les profils de fonctionnement à comparer. Décide : qui planifie l'atelier.
+
+Le devis et la promesse de livraison sortent aujourd'hui de l'expérience de qui connaît l'atelier. L'analyse regarde l'historique d'utilisation et les états machine, ou de processus, et rend visibles les régimes : quand la capacité est vraiment pleine, quand une commande urgente déplace tout, quand la promesse ne tient pas.
+
+**Dans le cas réel :** les mesures déjà enregistrées par les machines ont montré deux choses. Sur plus de 7 600 relevés d'état, le système reconnaît une panne en cours dans environ 84 cas sur 100 et, lorsqu'il lance une alarme, il a raison dans plus de 97 fois sur 100 : la panne s'annonce comme une montée conjointe de vibration, de température et de pression. Sur cinq machines lues à la minute, huit profils de fonctionnement sont apparus, avec 11,4 points d'écart d'efficacité entre le meilleur et le pire : le premier levier n'est pas d'acheter de nouvelles installations, c'est de comprendre pourquoi les mêmes installations rendent de façon si différente.
+
+- Signaux de besoin: « temps certains » en page d'accueil, mais planning machines de mémoire heures supplémentaires et priorités décidées à voix dans l'atelier dates promises et dates réelles tenues dans des feuilles éparses acheteur qui demande traçabilité et rapports, pas seulement la pièce
+- Données en général déjà disponibles: historique d'états ou de mesures machine par session de travail temps de cycle et arrêts planning ou retard par machine, s'il existe aucun projet nouveau de capteurs si les registres existent déjà
+- Décision immédiate: Accepter ou refuser une urgence. Déplacer un lot. Promettre une date que l'on peut tenir. Relier l'alarme de panne à un ordre de travail immédiat.
+- Limite honnête: Ne calcule pas la marge du devis : heures estimées et réalisé sont les deux situations ci-dessus. Reconnaît une panne en cours, ne l'annonce pas avec des jours d'avance. Les profils de fonctionnement doivent être confirmés sur une fenêtre plus longue qu'un jour.
+- Écarté dans le rapport : l'hypothèse « la panne dépend du type de machine » est exclue à base égale ; écartés le capteur unique décisif et le regroupement sur la seule efficacité.
+- Note de méthode : chiffres mesurés dans les rapports certifiés ; ils démontrent la méthode, ils ne prévoient pas l'atelier d'une autre entreprise.
+
+## Quand l'analyse dit de ne pas investir
+
+Si les données ne répondent pas à la question, on l'écrit dans le rapport, avec la liste de ce qui manque. Le rapport se paie, l'investissement mal choisi non. Deux cas réels et une page qui figure dans chaque rapport.
+
+### Nous allions investir dans un modèle de prévision des retards, mais les données ne le soutenaient pas.
+
+Logistique et expéditions · Cas réel · verdict négatif.
+
+In breve. Entre : livraisons planifiées et résultat réel issus du logiciel de gestion. Sort : le verdict : à partir des données de planification, le retard ne se prévoit pas. Décide : qui devait financer le modèle.
+
+Un opérateur logistique veut savoir, au moment de la planification du voyage, quelles livraisons arriveront en retard. L'analyse ne force pas une prévision faible : elle vérifie si le signal existe dans les données disponibles avant le départ.
+
+**Dans le cas réel :** 85 410 livraisons reconstruites à partir de 14 tables de gestion ; 55,4 % arrivent au-delà de l'horaire prévu. Avec la seule information disponible à la planification, le meilleur système atteint une capacité à distinguer égale à 50,3 sur 100, où 50 est le pur hasard. Le retard naît pendant le voyage, dans des événements que le logiciel de gestion n'enregistre pas : arrêts au chargement et au déchargement, trafic, météo, retards en amont.
+
+- Signaux de besoin: pénalités et réclamations pour des retards que personne ne voit arriver un fournisseur qui propose le modèle prédictif sur les données de planification archive de gestion complète et propre, mais arrêtée au départ
+- Décision immédiate: Arrêter le développement d'un modèle de planification. Commencer à enregistrer quelques événements de voyage. Reposer la question quand les nouvelles données couvrent quelques mois.
+- Limite honnête: C'est une limite de nature des données, pas de qualité : affiner l'algorithme ne crée pas un signal absent. Les grandeurs économiques doivent être recalculées sur les données de qui décide.
+- Écarté dans le rapport : distance, poids et client comme prédicteurs, parce que le retard est presque identique sur chaque segment ; l'historique de tournée et de chauffeur, retiré du modèle, déplace le résultat d'une quantité négligeable.
+- Note de méthode : chiffres mesurés dans le rapport certifié ; ils démontrent la méthode, ils ne décrivent pas la flotte d'une autre entreprise.
+
+### J'aurais voulu prévoir quels articles reviendraient en retours, mais l'analyse a découvert qu'à partir des seules fiches produit on ne pouvait pas obtenir cette réponse.
+
+Vente au détail et retours · Cas réel · verdict négatif.
+
+In breve. Entre : fiches produit, prix, remises, retours enregistrés. Sort : le verdict : à partir des seules fiches produit, le retour ne se prévoit pas, avec les quatre données à recueillir. Décide : qui gère les retours.
+
+Une boutique en ligne voudrait savoir quels articles reviendront. La tentation est d'utiliser les données déjà commodes : catégorie, prix, couleur, fiche produit. L'analyse dit s'il y a un signal dans ces données, avant que quelqu'un construise un système par-dessus.
+
+**Dans le cas réel :** 2 176 articles au catalogue, un peu moins d'un article sur sept revient. Aucun modèle ne dépasse la référence minimale : la caractéristique la plus informative, la remise appliquée, explique moins de 2 % du phénomène, les autres presque rien. Les méthodes les plus puissantes ont été essayées et font moins bien que les simples : la puissance n'aide pas quand il n'y a rien à apprendre.
+
+- Signaux de besoin: retours traités comme un coût subi motif du retour renseigné après, ou jamais proposition d'un système prédictif sur les seules fiches produit
+- Décision immédiate: Ne pas financer le modèle. Lancer dans les trois mois la collecte de quatre données : ajustement, historique du client, expérience après la livraison, motif du retour enregistré au bon moment.
+- Limite honnête: Le « non » ne clôt pas le problème : il indique quelles données le rendent abordable. Ajouter d'autres produits avec les mêmes caractéristiques n'ajoute pas de signal.
+- Écarté dans le rapport : le motif du retour comme variable, parce que renseigné seulement après le retour c'est un résultat du phénomène, pas un signal anticipateur.
+- Note de méthode : chiffres mesurés dans le rapport certifié ; ils démontrent la méthode, ils ne décrivent pas les retours d'une autre entreprise.
+
+### Dans le rapport il y a aussi ce qui a été essayé et écarté, avec les chiffres.
+
+Dans chaque rapport · Alternatives écartées.
+
+In breve. Entre : les méthodes et les hypothèses essayées dans l'analyse. Sort : la section du rapport avec ce qui a été écarté et pourquoi, avec les chiffres. Décide : qui lit le rapport.
+
+Chaque rapport certifié a une section dédiée aux alternatives écartées : ce qui a été essayé, ce qui a été jeté et pourquoi, avec les chiffres. C'est le contraire du fournisseur qui n'apporte que la seule méthode qu'il sait faire.
+
+**Dans le cas réel :** dans l'analyse des temps en atelier, quatre méthodes d'estimation ont été comparées à la référence minimale, le temps typique d'atelier, sur des pièces jamais vues. Aucun affinage du modèle ne bat l'enrichissement de l'enregistrement, parce que 53 % de la variabilité n'est pas dans les champs que l'atelier renseigne aujourd'hui. La recommandation a été de recueillir deux ou trois informations de plus par usinage, pas d'acheter une méthode plus raffinée.
+
+- Méthodes: La méthode retenue et les méthodes écartées, avec les mesures en comparaison et la règle avec laquelle a été choisi le plus simple à résultat égal.
+- Hypothèses: Les hypothèses exclues par un contrôle et celles déclarées non vérifiables avec les données disponibles, sans faire passer l'ignorance pour une exclusion.
+- Limites: Les limites déclarées avant les recommandations, pas dans une note de bas de page.
+- Note de méthode : aucun algorithme sur cette page ; les noms et les mesures sont dans le rapport technique qui accompagne chaque analyse.
+
+## Apporter le fichier que l'on prépare déjà à la main chaque mois.
+
+Artik Lab dit ce que les données disent, ce qu'elles ne disent pas et si elles suffisent, avant de s'engager dans un projet. Le premier échange dure 30-45 minutes.
+
+## Les tableaux de bord regardent le passé. Mais vos données peuvent vous aider à décider pour l'avenir.
 
 ## Des livrables faits pour décider
 
@@ -294,218 +434,205 @@ Livraisons, disponibilités, délais et communications plus crédibles grâce à
 
 Collecte moins générique et plus liée à des décisions concrètes.
 
-## Quand le signal n'est pas seulement dans les données
+## Quand le signal n'est pas seulement dans les données.
 
-Beaucoup d'opportunités IA naissent au croisement des données, documents, processus et décisions opérationnelles. Pour parcourir des applications possibles, exemples et signaux de besoin: [Atlas des applications IA pour les entreprises](atlas-applications-ia-entreprises.html).
-
-Pour choisir entre analyse de données, conseil, formation ou logiciel technique: https://ar-tik.com/fr/questions-frequentes-ia-entreprises.md
+Beaucoup de projets partent des données, mais la valeur peut se trouver dans les documents, emails, procédures, logiciels techniques, gouvernance ou formation. L'Atlas aide à reconnaître le bon domaine avant de cadrer le premier projet.
 
 ## Première question: quelle décision doit s'améliorer?
 
-- Décision récurrente: commander, planifier, contacter, contrôler.
-- Coût visible ou suspecté: gaspillage, retards, retours, pannes, pénalités.
-- Données disponibles: transactions, capteurs, commandes, tickets, référentiels.
-- Action possible: appel, contrôle, modification de processus, priorité différente.
+## D'autres signaux déjà démontrés
 
-## Exemples anonymisés de signaux et décisions
+Analyses réellement exécutées et certifiées dans d'autres secteurs : hospitalité, livraisons, énergie, restauration, banque, contrôles, manufacture, activité locale. Chaque histoire dit quelles données opérationnelles entrent dans l'analyse, quel signal émerge et quelle décision peut être prise. Le secteur est celui du cas ; la méthode est ce qui se transfère. Aucun client reconnaissable, aucune promesse standard.
 
-Chaque histoire explique le problème métier, quelles données opérationnelles entrent dans l’analyse, quel signal émerge et quelle décision peut être soutenue. Ce ne sont pas des promesses standard; elles montrent comment des datasets publics, anonymisés ou réalistes, sans projets client reconnaissables, peuvent devenir des actions vérifiables.
+### 1. Hospitalité: Je découvre les annulations trop tard
 
-### 1. Hôtellerie: Comprendre quelles réservations risquent d’être annulées
+Un hôtel peut lire le risque dès le moment de la réservation : sur plus de 119 000 réservations, le système intercepte plus de huit annulations sur dix.
 
-Un hôtel peut lire le risque dès la réservation: sur plus de 119 000 réservations, le système intercepte plus de huit annulations sur dix.
+L'histoire est simple : la direction ne voit les annulations que lorsque le dommage est déjà arrivé. L'analyse de données agentique — des données déjà en entreprise à une décision — lit au contraire les signaux disponibles avant le séjour, comme l'anticipation de la réservation, le mode de paiement et l'historique du client.
 
-L’histoire est simple: la direction voit souvent les annulations quand la perte est déjà là. L’analyse agentique regarde plus tôt, avec les signaux disponibles avant le séjour: délai de réservation, paiement et historique client.
+Pour un hôtel, une résidence ou un groupe d'hospitalité, la donnée du booking engine devient une liste de priorités commerciales. Les réservations les plus fragiles peuvent être confirmées, rappelées ou gérées avec des conditions différentes.
 
-Pour un hôtel, une résidence ou un groupe hospitality, les données du moteur de réservation deviennent une liste de priorités commerciales. Les réservations fragiles peuvent être confirmées, contactées ou gérées avec des conditions différentes.
+Le secteur est différent, le signal est le même : une commande ou un client qui se refroidit avant l'encaissement, lu à temps. Ce cas vaut pour n'importe quel portefeuille de réservations ou de commandes avec anticipation, conditions de paiement et historique.
 
-- Signal utile: Le système sépare les réservations solides de celles qui méritent une action préventive.
-- Décision possible: Confirmer, contacter ou protéger d’abord les réservations les plus exposées.
-- Données utiles ensuite: Résultat du contact, valeur récupérée et réponse client.
-- Limite à déclarer: L’analyse ne supprime pas les annulations; elle aide à choisir où agir à temps.
+- Signal utile: Le système distingue les réservations solides de celles qui méritent une intervention préventive.
+- Décision possible: Confirmer, rappeler ou protéger d'abord les réservations les plus exposées.
+- Données utiles ensuite: Résultat du rappel, valeur récupérée et réponse du client.
+- Limite à déclarer: L'analyse n'élimine pas les annulations ; elle aide à choisir où intervenir à temps.
 
-### 2. Food delivery: Découvrir où commence vraiment une commande perdue
+### 2. Food delivery: Je perds la commande avant même la livraison
 
-Quand la cuisine ne confirme pas la commande prête, le risque de la perdre monte à 35,7%.
+Quand la cuisine ne confirme pas la commande comme prête, le risque de la perdre monte à 35,7 %.
 
-Au départ, le problème semble être la livraison finale: une commande n’arrive pas, le client réclame, le restaurant perd de la confiance. L’analyse montre que le signal apparaît plus tôt, dans le flux de cuisine.
+Au premier regard, le problème semble dans la livraison finale : une commande n'arrive pas, le client réclame, le restaurant perd de la confiance. L'analyse montre au contraire que le signal naît avant, dans le flux opérationnel de la cuisine.
 
-Pour une plateforme de livraison ou une chaîne de restaurants, la question change: non pas “quel livreur est en retard?”, mais “quelle commande sort du processus avant de pouvoir être livrée?”.
+Pour une plateforme de livraison ou une chaîne de restaurants, cela change la question : non pas « quel coursier est en retard ? », mais « quelle commande est en train de sortir du processus avant même d'être livrée ? ».
 
-- Signal utile: Une confirmation intermédiaire manquante devient un avertissement opérationnel.
-- Décision possible: Déclencher immédiatement une relance, une réaffectation ou une communication client.
+- Signal utile: L'absence d'une confirmation intermédiaire devient un avis opérationnel.
+- Décision possible: Activer tout de suite une relance, une réaffectation ou une communication au client.
 - Données utiles ensuite: Cause enregistrée, récupération de la commande et coût du dysfonctionnement.
-- Limite à déclarer: Le modèle fonctionne quand les états intermédiaires sont bien enregistrés.
+- Limite à déclarer: Le modèle fonctionne si les états intermédiaires de la commande sont bien enregistrés.
 
-### 3. Dernier kilomètre: Donner au client une fenêtre de livraison plus crédible
+### 3. Dernier kilomètre: Je promets un horaire, puis le service client explose
 
-L’erreur moyenne de temps de livraison passe d’environ 41 minutes à environ 17 minutes.
+L'estimation du temps de livraison passe d'une erreur moyenne d'environ 41 minutes à environ 17 minutes.
 
-En logistique urbaine, l’enjeu n’est pas seulement de livrer plus vite. Il faut promettre une heure réaliste pour que le client attende moins, que le support reçoive moins d’appels et que la flotte soit mieux coordonnée.
+Dans beaucoup d'entreprises de logistique urbaine, le problème n'est pas seulement de livrer plus vite. C'est de promettre un horaire réaliste, pour que le client attende moins, que le service client reçoive moins d'appels et que la flotte soit mieux coordonnée.
 
-L’analyse part des commandes et des historiques de délais, mais ne s’arrête pas à la moyenne. Elle trouve les conditions récurrentes qui ralentissent ou accélèrent une livraison et les transforme en prévision utile.
+L'analyse part des commandes et des temps historiques, mais ne s'arrête pas à la moyenne. Elle cherche des conditions récurrentes qui rendent une livraison plus lente ou plus rapide et les transforme en une prévision plus utile.
 
-- Signal utile: Une fenêtre d’arrivée plus fiable pour chaque livraison.
-- Décision possible: Mettre à jour messages client, priorités opérationnelles et planification de flotte.
-- Données utiles ensuite: Réclamations, appels évités et interventions manuelles des opérations.
-- Limite à déclarer: Cela ne promet pas des livraisons plus rapides; cela promet des estimations plus crédibles.
+- Signal utile: Une fenêtre d'arrivée plus fiable pour chaque livraison.
+- Décision possible: Mettre à jour les communications au client, les priorités opérationnelles et la planification de la flotte.
+- Données utiles ensuite: Réclamations, appels évités et interventions manuelles de l'équipe opérationnelle.
+- Limite à déclarer: Ne promet pas des livraisons plus rapides ; promet des estimations plus crédibles.
 
-### 4. Énergie: Mieux prévoir la demande du lendemain
+### 4. Énergie: On achète l'énergie à l'intuition et on paie les corrections quand la prévision est fausse.
 
-La prévision réduit l’erreur de 77% face à la règle de référence.
+La prévision réduit l'erreur de 77 % par rapport à la règle de référence.
 
-Un opérateur énergétique ou un grand consommateur doit décider en avance combien acheter, couvrir ou réserver. Une prévision trop prudente immobilise des ressources; trop basse, elle expose à des coûts de correction.
+Un opérateur énergétique ou un grand consommateur doit décider à l'avance quelle quantité d'énergie acheter, couvrir ou réserver. Si la prévision est trop prudente, elle immobilise des ressources ; si elle est trop basse, elle expose à des coûts et à des corrections.
 
-L’analyse lit l’historique des consommations horaires et construit un profil attendu pour le lendemain. Le résultat n’est pas un graphique à archiver, mais un support de planification énergétique.
+L'analyse lit la série historique des consommations horaires et construit un profil attendu du jour suivant. Le résultat n'est pas un graphique à classer, mais un appui à la planification énergétique.
 
-- Signal utile: Un profil horaire attendu plus fiable que la règle de comparaison.
+- Signal utile: Un profil horaire attendu plus fiable que la règle utilisée comme comparaison.
 - Décision possible: Acheter, se couvrir ou planifier la capacité avec moins de marge défensive.
-- Données utiles ensuite: Prix, coûts de déséquilibre et règles d’approvisionnement.
-- Limite à déclarer: L’économie doit être calculée avec les vrais chiffres du contrat.
+- Données utiles ensuite: Prix, coûts de déséquilibre et règles d'approvisionnement.
+- Limite à déclarer: L'économie en euros se calcule avec les chiffres réels du contrat énergétique.
 
-### 5. Restauration: Se préparer à la semaine qui arrive
+### 5. Restauration: Je commande et je pose les tours comme la semaine dernière
 
-La prévision des recettes s’améliore de 24% face à la règle “comme la semaine dernière”.
+La prévision des encaissements s'améliore de 24 % par rapport à la règle « comme la semaine dernière ».
 
-Un restaurant décide chaque semaine combien acheter et combien de personnes planifier. À l’intuition seule, les jours faibles créent du gaspillage et les jours forts de la pression de service.
+Un restaurant décide chaque semaine quelle quantité de matières premières commander et combien de personnes mettre en service. S'il décide à l'intuition, il risque le gaspillage les jours faibles et un service insuffisant les jours forts.
 
-L’analyse part de l’historique des recettes et reconnaît le vrai rythme du lieu. La prévision devient un outil pratique pour cuisine, salle et achats avant l’arrivée de la demande.
+L'analyse part de l'historique des encaissements et reconnaît le rythme réel de l'établissement. La prévision devient un outil pratique pour préparer cuisine, salle et achats avant que la demande arrive.
 
-- Signal utile: Une estimation des recettes futures plus solide que la règle empirique.
-- Décision possible: Utiliser la prévision avec les décisions d’achats, préparation et planning.
+- Signal utile: Une estimation des encaissements futurs plus solide que la règle empirique.
+- Décision possible: Appuyer la prévision aux choix sur les achats, les préparations et les tours.
 - Données utiles ensuite: Gaspillage réel, ventes perdues et coût du personnel.
-- Limite à déclarer: La valeur apparaît seulement si la prévision change les décisions opérationnelles.
+- Limite à déclarer: La valeur naît seulement si la prévision change des décisions opérationnelles.
 
-### 6. Retail alimentaire: Sauver les lots périssables avant qu’ils deviennent gaspillage
+### 6. Commerce alimentaire: Je vois le gaspillage quand c'est déjà trop tard
 
-Les lots les plus risqués gaspillent presque trois fois plus que les plus sûrs.
+Les lots les plus risqués gaspillent presque trois fois ceux les plus sûrs.
 
-Dans un supermarché ou une chaîne alimentaire, le gaspillage n’apparaît pas d’un coup. Il commence par de petits signaux: emballage, manutention, froid, délai d’arrivée et priorité de vente.
+Dans un supermarché ou une filière alimentaire, le gaspillage n'apparaît pas tout d'un coup. Il naît de petits signaux : emballage, manutention, froid, délais d'arrivée, priorités de vente.
 
-L’analyse lit ces signaux quand le lot entre dans le processus et crée un classement de risque. L’objectif n’est pas de prévoir toute perte, mais de décider quels lots contrôler, tourner ou démarquer plus tôt.
+L'analyse lit ces signaux quand le lot entre dans le processus et crée un classement de risque. Le point n'est pas de prévoir chaque perte, mais de décider quels lots contrôler, faire tourner ou solder avant.
 
-- Signal utile: Une liste de lots à surveiller avant la détérioration visible.
-- Décision possible: Concentrer contrôles, rotations et démarques préventives sur les lots exposés.
-- Données utiles ensuite: Valeur sauvée, raison du gaspillage et marge après intervention.
-- Limite à déclarer: Tout le gaspillage n’est pas prévisible; l’objectif est de mieux utiliser les actions préventives.
+- Signal utile: Une liste de lots qui méritent de l'attention avant la détérioration visible.
+- Décision possible: Concentrer contrôles, rotations et baisses préventives sur les lots les plus exposés.
+- Données utiles ensuite: Valeur sauvée, motif du gaspillage et marge après l'intervention.
+- Limite à déclarer: Tout le gaspillage n'est pas prévisible ; l'objectif est de mieux utiliser les actions préventives.
 
-### 7. Banque: Reconnaître les clients qui s’apprêtent à partir
+### 7. Banque: Le client s'en va et je le découvre après
 
 Le système reconnaît environ trois clients à risque sur quatre.
 
-Une banque peut voir un client partir quand le compte est déjà perdu, ou lire plus tôt les signes de refroidissement de la relation. L’analyse sépare le risque générique du levier commercial actionnable.
+Une banque peut voir un client partir seulement quand le compte est déjà perdu, ou elle peut lire avant les signaux de refroidissement de la relation. L'analyse distingue le risque générique du levier commercial sur lequel agir.
 
-L’histoire utile n’est pas “ce client partira”, mais “ce client montre de l’inactivité et peut être réactivé avec une action ciblée”. Cette différence compte pour créer des campagnes crédibles.
+L'histoire utile n'est pas « ce client partira », mais « ce client montre des signaux d'inactivité et peut être réactivé par une action ciblée ». C'est une différence décisive pour construire des campagnes crédibles.
 
-- Signal utile: Une priorité de contact fondée sur comportement et risque d’attrition.
-- Décision possible: Lancer des campagnes ciblées de réactivation, pas le même message pour tous.
-- Données utiles ensuite: Historique comportemental, contacts réalisés et valeur retenue.
-- Limite à déclarer: Reconnaître un risque aujourd’hui ne signifie pas toujours le prévoir très longtemps à l’avance.
+Le secteur est différent ; le type de question, qui est sur le point de partir, est le même pour n'importe quel portefeuille clients, y compris entre entreprises.
 
-### 8. Restauration rapide: Voir quels menus et créneaux portent vraiment le business
+- Signal utile: Une priorité de contact fondée sur le comportement et le risque d'abandon.
+- Décision possible: Lancer des campagnes de réactivation ciblées, pas des communications identiques pour tous.
+- Données utiles ensuite: Historique comportemental, contacts faits et valeur retenue.
+- Limite à déclarer: Reconnaître le risque aujourd'hui ne signifie pas toujours le prévoir avec une large avance.
 
-Quelques moments de la journée et quelques items génèrent presque trois quarts du chiffre d’affaires.
+### 8. Restauration rapide: Le menu est plein mais je gagne sur peu d'articles
 
-Dans une chaîne de restauration rapide, l’enjeu n’est pas seulement de vendre plus. Il faut comprendre où naît vraiment le chiffre: quels créneaux exigent du personnel, quels produits méritent du stock, quels items occupent de l’espace sans rendre.
+Peu de moments de la journée et peu d'articles de menu génèrent presque les trois quarts du chiffre d'affaires.
 
-L’analyse descriptive devient une histoire opérationnelle: le menu n’a pas partout le même poids et la journée non plus. Elle aide à décider plannings, stocks et promotions avec moins d’impression et plus de preuve.
+Dans une chaîne de restauration rapide, le problème n'est pas seulement de vendre plus. C'est de comprendre où le chiffre d'affaires naît vraiment : quelles plages horaires demandent du personnel, quels produits méritent du stock, quels articles occupent de la place sans rapporter.
 
-- Signal utile: Une carte des produits et moments qui soutiennent l’économie.
-- Décision possible: Réaligner personnel, achats, promotions et revue du menu.
-- Données utiles ensuite: Marge par item, temps de préparation et ruptures de stock.
-- Limite à déclarer: Ce n’est pas une prévision; c’est une priorité opérationnelle à compléter par les marges.
+L'analyse descriptive devient une histoire opérationnelle : le menu n'est pas tout égal et la journée ne pèse pas toute de la même façon. Cela aide à décider tours, stocks et promotions avec moins d'impressions et plus d'évidence.
 
-### 9. Domaine viticole: Protéger tôt les lots de vin les plus prometteurs
+- Signal utile: Une carte des produits et des moments qui soutiennent le compte d'exploitation.
+- Décision possible: Réaligner personnel, achats, promotions et révision du menu.
+- Données utiles ensuite: Marge par article, temps de préparation et ruptures de stock.
+- Limite à déclarer: Ce n'est pas une prévision ; c'est une priorité opérationnelle à compléter avec des données de marge.
 
-Avec les données de laboratoire, le système reconnaît 87% des lots haut de gamme.
+### 9. Maintenance industrielle: La machine s'arrête et je le découvre trop tard
 
-Un domaine collecte déjà des mesures chimiques pendant la production. Souvent, ces données restent techniques, séparées des choix commerciaux et de destination du lot.
+Avec les capteurs disponibles, l'analyse reconnaît environ 84 % des pannes observées.
 
-L’analyse montre que ces signaux peuvent aider à repérer tôt les lots à potentiel premium. Elle ne remplace pas le jugement œnologique; elle aide à protéger la valeur avant que coupes ou assemblages la dispersent.
+En usine, la panne n'est pas seulement un événement technique : elle arrête des personnes, des commandes et de la capacité de production. Beaucoup de machines ont déjà des capteurs, mais les signaux restent dispersés ou sont lus trop tard.
 
-- Signal utile: Une classification précoce des lots qui méritent plus d’attention.
-- Décision possible: Prioriser dégustations, élevage et destination commerciale des lots prometteurs.
-- Données utiles ensuite: Destination finale, valeur réalisée et jugement qualitatif.
-- Limite à déclarer: Le modèle soutient le jugement technique; il ne le remplace pas.
+L'analyse construit un avis lorsque le comportement de la machine ressemble à des situations de panne déjà vues. C'est utile s'il active tout de suite un ordre de travail, un contrôle ou une vérification sur le terrain.
 
-### 10. Maintenance industrielle: Utiliser les capteurs pour reconnaître une panne en cours
+À lire avec la situation sur les machines d'atelier , plus haut.
 
-Avec les capteurs disponibles, l’analyse reconnaît environ 84% des pannes observées.
+- Signal utile: Une alarme opérationnelle lorsque la machine montre des schémas compatibles avec une panne.
+- Décision possible: Relier l'avis à la maintenance, à l'escalade et à la vérification de l'arrêt évité.
+- Données utiles ensuite: Temps d'intervention, coût de l'arrêt et pièces de rechange utilisées.
+- Limite à déclarer: Reconnaître une panne en cours n'est pas la même chose que la prévoir des semaines avant.
 
-En usine, une panne n’est pas seulement un événement technique: elle arrête personnes, commandes et capacité productive. Beaucoup de machines ont déjà des capteurs, mais les signaux restent dispersés ou lus trop tard.
+### 10. Conformité: J'ai plus de contrôles à faire que je ne peux en suivre
 
-L’analyse crée une alerte quand le comportement machine ressemble à des pannes déjà vues. Elle est utile si elle déclenche immédiatement un ordre de travail, une inspection ou un contrôle terrain.
+Avec le même nombre de vérifications, le classement intercepte plus de cas graves.
 
-- Signal utile: Une alerte opérationnelle quand la machine montre des motifs compatibles avec une panne.
-- Décision possible: Relier l’alerte à la maintenance, l’escalade et la vérification de l’arrêt évité.
-- Données utiles ensuite: Temps d’intervention, coût d’arrêt et pièces utilisées.
-- Limite à déclarer: Reconnaître une panne en cours n’est pas la prévoir plusieurs semaines avant.
+Un organisme de contrôle ou une fonction de conformité a toujours plus de cas à vérifier qu'il n'en peut suivre tout de suite. La question n'est pas de faire des contrôles infinis, mais de décider le bon ordre.
 
-### 11. Mode et retours: Éviter un modèle quand la bonne donnée manque
+L'analyse utilise l'historique des vérifications pour construire une liste de priorités. Les contrôles restent humains, mais l'agenda est ordonné de façon à augmenter la probabilité de trouver d'abord les cas les plus sérieux.
 
-Dans les données catalogue, la meilleure variable explique moins de 2% des retours.
-
-Un e-commerce mode peut vouloir prévoir quels articles seront retournés. La tentation est d’utiliser les données pratiques: catégorie, prix, couleur et fiche produit.
-
-L’analyse montre que ces données ne suffisent pas. C’est une bonne découverte managériale: elle évite un investissement fragile et indique les informations utiles, comme ajustement, historique client et motif de retour.
-
-- Signal utile: Un verdict négatif clair: le signal n’est pas dans le catalogue produit.
-- Décision possible: Ne pas financer le modèle prédictif avant de changer la collecte de données.
-- Données utiles ensuite: Ajustement, motif de retour, mesures et historique client.
-- Limite à déclarer: Le “non” ne ferme pas le problème; il montre quelles données le rendraient traitable.
-
-### 12. Logistique: Savoir quand un modèle ne peut pas prévoir le retard
-
-Avec les seules données de planification, le meilleur modèle reste proche du hasard.
-
-Un opérateur logistique veut savoir avant le départ quelles livraisons arriveront en retard. Mais avec les seules données de planification, il regarde une image incomplète: les événements du trajet manquent.
-
-L’analyse évite de forcer une prévision faible. La meilleure décision est de collecter événements de voyage, arrêts, déchargement, météo et anomalies opérationnelles avant un modèle plus ambitieux.
-
-- Signal utile: Absence de signal utile dans les données disponibles avant le départ.
-- Décision possible: Arrêter le modèle et concevoir une collecte sur les événements réels du transport.
-- Données utiles ensuite: Arrêts, déchargement, trafic, météo, exceptions et coût du retard.
-- Limite à déclarer: Un algorithme plus complexe ne crée pas l’information que le processus n’enregistre pas.
-
-### 13. Conformité: Mettre les contrôles d’abord là où le risque est plus élevé
-
-Avec le même nombre de contrôles, le ranking détecte plus de cas graves.
-
-Un organisme de contrôle ou une fonction conformité a toujours plus de cas à vérifier qu’il ne peut en traiter immédiatement. La question n’est pas de faire des contrôles infinis, mais de choisir le bon ordre.
-
-L’analyse utilise l’historique des vérifications pour construire une liste de priorité. Les contrôles restent humains, mais l’agenda est ordonné pour augmenter la probabilité de trouver d’abord les cas sérieux.
-
-- Signal utile: Un classement de risque pour programmer contrôles et follow-up.
+- Signal utile: Un classement de risque pour programmer vérifications et suivis.
 - Décision possible: Ordonner inspections, audits ou contrôles internes sans augmenter le budget.
-- Données utiles ensuite: Résultat du contrôle, récidive, gravité et temps de retour à conformité.
-- Limite à déclarer: Le modèle ne décide pas des sanctions; il aide à ordonner les priorités.
+- Données utiles ensuite: Résultat du contrôle, récidive, gravité et temps de retour en conformité.
+- Limite à déclarer: Le modèle ne décide pas des sanctions ; il aide à ordonner les priorités.
 
-### 14. Manufacture: Voir quand une machine consomme sans assez produire
+### 11. Manufacture: La même machine rend de façon différente et je ne sais pas pourquoi
 
-Les profils opérationnels montrent un écart d’efficacité de 11,4 points.
+Entre les profils opérationnels apparaît un écart de 11,4 points d'efficacité.
 
-En production, la consommation moyenne cache souvent des histoires différentes. La même machine peut travailler de façon plus ou moins efficace, mais la donnée énergétique brute n’explique pas immédiatement pourquoi.
+En production, la consommation moyenne cache souvent des histoires différentes. La même machine peut travailler de façons plus ou moins efficaces, mais la donnée énergétique brute n'explique pas tout de suite pourquoi.
 
-L’analyse regroupe les comportements machine et montre quels profils méritent comparaison. Avant d’acheter de nouveaux capteurs ou équipements, l’entreprise peut demander quelles conditions séparent travail efficace et gaspillage.
+L'analyse regroupe les comportements de la machine et montre quels profils méritent une comparaison. Avant d'acheter de nouveaux capteurs ou installations, l'entreprise peut se demander quelles conditions opérationnelles distinguent le profil qui rend de celui qui gaspille.
 
 - Signal utile: Une carte des profils de fonctionnement, pas seulement de la consommation moyenne.
-- Décision possible: Comparer meilleurs et pires profils et lancer un pilote de réduction du gaspillage.
-- Données utiles ensuite: Coût énergie, heures machine, production et réglages opérationnels.
-- Limite à déclarer: La valeur en euros doit être estimée seulement quand consommation et production sont reliées.
+- Décision possible: Comparer les profils meilleurs et pires et lancer un pilote de réduction des gaspillages.
+- Données utiles ensuite: Coût de l'énergie, heures machine, production et réglages opérationnels.
+- Limite à déclarer: La valeur en euros ne s'estime que lorsque consommations et production sont reliées.
+
+### 12. Activité locale: Des centaines d'avis, aucune décision
+
+Sur 2 961 avis de vingt activités de la même catégorie et de la même zone, aucune ne répondait aux avis reçus.
+
+Une activité locale vit des choix de qui lit les avis avant d'entrer, mais du côté du titulaire ils restent une moyenne en étoiles et un flux de textes que personne ne résume. Les avis de l'activité et des concurrents de la même place deviennent une liste d'actions par ordre de priorité, pas un tableau de bord de métriques à interpréter : un document qui dit par où commencer.
+
+L'analyse ne regarde pas seulement l'activité : elle rassemble aussi les concurrents de la même zone et mesure les mêmes dimensions sur tous. C'est la comparaison qui rend un chiffre lisible, parce qu'une moyenne haute dit peu tant qu'on ne sait pas combien est haute la moyenne de qui est autour.
+
+Dans le cas réel, le verdict n'est pas venu de la moyenne en étoiles, déjà excellente, mais de deux choses que personne n'avait comptées : six des sept avis critiques parlaient du même thème, et aucune des vingt activités de la zone ne répondait à qui écrivait.
+
+- Signal utile: Les avis critiques ne sont pas dispersés : six sur sept tournent autour d'un seul thème. C'est là qu'on intervient, pas sur tout.
+- Décision possible: Répondre aux avis, ce que dans la zone personne ne faisait, et expliquer à l'avance ce que le prix comprend.
+- Données utiles ensuite: Résultat des réponses publiées, demandes de devis après la publication, nouveaux avis sur le même thème.
+- Limite à déclarer: Les chiffres viennent d'un corpus d'avis publics figé à une date : ils photographient cette zone à ce moment, ils ne prévoient pas les résultats d'une autre activité.
 
 ## Questions fréquentes
 
-### Remplace-t-elle la Business Intelligence?
+### Remplace-t-elle les tableaux de bord déjà en place (Business Intelligence)?
 
-Non. La BI suit les indicateurs connus; l'analyse agentique diagnostique les causes, cherche des signaux non évidents et relie le résultat à une décision.
+Non. Les tableaux de bord déjà en place (Business Intelligence) surveillent des indicateurs connus; l'analyse agentique diagnostique des causes, cherche des signaux peu visibles et relie le résultat à une décision.
 
-### Un data warehouse parfait est-il nécessaire?
+### Faut-il déjà des données parfaites, réunies au même endroit?
 
-Non. La première valeur peut être de vérifier si les données existantes conviennent, quelles limites elles ont et quelles données collecter ensuite.
+Non. La première valeur peut être justement de vérifier si les données existantes conviennent, quelles sont leurs limites et quelles données collecter ensuite.
 
 ### Que se passe-t-il s'il n'y a pas de signal?
 
-La méthode énonce le verdict négatif et indique quel investissement éviter ou quelle collecte lancer avant de financer un modèle.
+La méthode énonce le verdict négatif et indique quel investissement éviter, ou quelle collecte de données lancer avant de financer un modèle.
+
+### Les cas de l'atlas sont-ils des clients d'Artik Lab?
+
+Non. Ce sont des analyses réellement menées et certifiées par Artik Lab sur des archives opérationnelles du même type que celles des entreprises, sans client reconnaissable. Les chiffres démontrent la méthode; ils ne prédisent pas les résultats d'une autre entreprise.
+
+### Que faut-il préparer pour le premier échange?
+
+L'extrait déjà préparé à la main chaque mois et la décision qui devrait s'améliorer. En 30-45 minutes on sait si les données suffisent, ce qui manque et quel premier projet a du sens, avant de s'engager.
+
+### Où sont les données pendant l'analyse?
+
+On travaille sur un extrait convenu, dans un périmètre écrit.
 
 <!-- https://ar-tik.com/fr/atlas-applications-ia-entreprises.md -->
 
@@ -513,9 +640,9 @@ La méthode énonce le verdict négatif et indique quel investissement éviter o
 
 Une carte publique d'exemples concrets pour reconnaître où l'intelligence artificielle peut réduire délais, erreurs, risques ou retards décisionnels dans les processus métier.
 
-## L'Atlas n'est pas un catalogue rigide de produits.
+## Chaque fiche est un exemple de travail, pas un produit à acheter.
 
-Chaque fiche décrit un modèle applicatif: quelles données ou quels matériaux entrent, quel résultat peut être produit, quelle valeur métier peut émerger et quels contrôles restent humains. Artik Lab commence toujours par un premier échange de diagnostic et conçoit des solutions adaptées au contexte client.
+Chaque fiche décrit un exemple d'usage : quelles données ou quels matériaux entrent, quel résultat peut être produit, quelle valeur d'entreprise peut en naître et quels contrôles restent humains. Artik Lab part toujours d'un premier échange de diagnostic et conçoit des solutions spécifiques au contexte du client.
 
 ## Explorer par domaine, besoin ou processus.
 
@@ -545,8 +672,8 @@ PDF, images et formulaires deviennent texte, tableaux et champs structurés réu
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, pdf et pièces jointes servent à produire base structurée et à soutenir réduction des délais, avec revue humaine recommandée.
 - Domaine: Documents et connaissance
-- Données d'entrée: PDF et pièces jointes, scans et images, formulaires remplis
-- Résultat: base structurée, rapport opérationnel
+- Ce qui entre: PDF et pièces jointes, scans et images, formulaires remplis
+- Ce qui sort: base structurée, rapport opérationnel
 - Valeur: réduction des délais, moins d'erreurs, traçabilité
 - Signaux de besoin: documents dispersés difficiles à consulter, copie manuelle entre emails, feuilles et systèmes
 - Revue humaine: recommandée
@@ -558,8 +685,8 @@ Rapports, contrats, cahiers des charges et procédures sont comparés pour repé
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, pdf et pièces jointes servent à produire rapport opérationnel et à soutenir moins d'erreurs, avec revue humaine obligatoire.
 - Domaine: Documents et connaissance
-- Données d'entrée: PDF et pièces jointes, documentation interne, contrats et politiques, appels d'offres et cahiers des charges
-- Résultat: rapport opérationnel, cartographie des risques
+- Ce qui entre: PDF et pièces jointes, documentation interne, contrats et politiques, appels d'offres et cahiers des charges
+- Ce qui sort: rapport opérationnel, cartographie des risques
 - Valeur: moins d'erreurs, réduction du risque, traçabilité
 - Signaux de besoin: erreurs récurrentes dans documents, procédures ou contrôles, documents dispersés difficiles à consulter
 - Revue humaine: obligatoire
@@ -571,8 +698,8 @@ Manuels, procédures et bases de connaissance deviennent une recherche sémantiq
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, documentation interne servent à produire recherche sémantique et à soutenir connaissance transférable, avec revue humaine recommandée.
 - Domaine: Documents et connaissance
-- Données d'entrée: documentation interne, PDF et pièces jointes, manuels et supports de formation
-- Résultat: recherche sémantique, FAQ et réponses
+- Ce qui entre: documentation interne, PDF et pièces jointes, manuels et supports de formation
+- Ce qui sort: recherche sémantique, FAQ et réponses
 - Valeur: connaissance transférable, décisions plus rapides, service plus homogène
 - Signaux de besoin: documents dispersés difficiles à consulter, connaissance critique concentrée chez peu de personnes
 - Revue humaine: recommandée
@@ -584,8 +711,8 @@ Transcriptions et fils sont nettoyés, synthétisés et convertis en décisions,
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, emails et tickets servent à produire digest actionnable et à soutenir traçabilité, avec revue humaine recommandée.
 - Domaine: Processus opérationnels
-- Données d'entrée: emails et tickets, transcriptions et notes, tickets et demandes
-- Résultat: digest actionnable, roadmap et priorités
+- Ce qui entre: emails et tickets, transcriptions et notes, tickets et demandes
+- Ce qui sort: digest actionnable, roadmap et priorités
 - Valeur: traçabilité, décisions plus rapides, connaissance transférable
 - Signaux de besoin: décisions récurrentes lentes ou fondées sur une information incomplète, connaissance critique concentrée chez peu de personnes
 - Revue humaine: recommandée
@@ -597,8 +724,8 @@ Rapports, lettres, contrats, FAQ et communications sont produits depuis données
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, base structurée servent à produire brouillons contrôlés et à soutenir réduction des délais, avec revue humaine obligatoire.
 - Domaine: Documents et connaissance
-- Données d'entrée: base structurée, documentation interne, contrats et politiques
-- Résultat: brouillons contrôlés, FAQ et réponses
+- Ce qui entre: base structurée, documentation interne, contrats et politiques
+- Ce qui sort: brouillons contrôlés, FAQ et réponses
 - Valeur: réduction des délais, moins d'erreurs, conformité plus gouvernable
 - Signaux de besoin: copie manuelle entre emails, feuilles et systèmes, erreurs récurrentes dans documents, procédures ou contrôles
 - Revue humaine: obligatoire
@@ -610,8 +737,8 @@ Le travail réel est reconstruit as-is, analysé pour repérer les goulets d'ét
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, transcriptions et notes servent à produire roadmap et priorités et à soutenir priorités plus claires, avec revue humaine recommandée.
 - Domaine: Processus opérationnels
-- Données d'entrée: transcriptions et notes, journaux et états de processus, emails et tickets, feuilles de calcul
-- Résultat: roadmap et priorités, business case
+- Ce qui entre: transcriptions et notes, journaux et états de processus, emails et tickets, feuilles de calcul
+- Ce qui sort: roadmap et priorités, business case
 - Valeur: priorités plus claires, décisions plus rapides, coûts évités
 - Signaux de besoin: décisions récurrentes lentes ou fondées sur une information incomplète, copie manuelle entre emails, feuilles et systèmes, usage IA déjà présent sans règles partagées
 - Revue humaine: recommandée
@@ -623,8 +750,8 @@ Les communications entrantes sont classées par urgence, sujet, responsabilité 
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, emails et tickets servent à produire digest actionnable et à soutenir réduction des délais, avec revue humaine recommandée.
 - Domaine: Processus opérationnels
-- Données d'entrée: emails et tickets, tickets et demandes, documentation interne
-- Résultat: digest actionnable, brouillons contrôlés, classement de priorité
+- Ce qui entre: emails et tickets, tickets et demandes, documentation interne
+- Ce qui sort: digest actionnable, brouillons contrôlés, classement de priorité
 - Valeur: réduction des délais, service plus homogène, priorités plus claires
 - Signaux de besoin: copie manuelle entre emails, feuilles et systèmes, décisions récurrentes lentes ou fondées sur une information incomplète
 - Revue humaine: recommandée
@@ -636,8 +763,8 @@ Disponibilités, contraintes, compétences, absences et demande sont combinées 
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, feuilles de calcul servent à produire planning et affectations et à soutenir efficacité productive, avec revue humaine obligatoire.
 - Domaine: Processus opérationnels
-- Données d'entrée: feuilles de calcul, ERP et systèmes métier, KPI et séries historiques
-- Résultat: planning et affectations, tableaux de bord et vues filtrables
+- Ce qui entre: feuilles de calcul, ERP et systèmes métier, KPI et séries historiques
+- Ce qui sort: planning et affectations, tableaux de bord et vues filtrables
 - Valeur: efficacité productive, décisions plus rapides, coûts évités
 - Signaux de besoin: planification encore très manuelle, données historiques disponibles mais non transformées en signaux
 - Revue humaine: obligatoire
@@ -649,8 +776,8 @@ Historiques de commandes, revenus, tickets ou production deviennent des prévisi
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, transactions et achats servent à produire prévision vérifiable et à soutenir décisions plus rapides, avec revue humaine recommandée.
 - Domaine: Processus opérationnels
-- Données d'entrée: transactions et achats, KPI et séries historiques, données de production
-- Résultat: prévision vérifiable, tableaux de bord et vues filtrables
+- Ce qui entre: transactions et achats, KPI et séries historiques, données de production
+- Ce qui sort: prévision vérifiable, tableaux de bord et vues filtrables
 - Valeur: décisions plus rapides, coûts évités, efficacité productive
 - Signaux de besoin: données historiques disponibles mais non transformées en signaux, planification encore très manuelle
 - Revue humaine: recommandée
@@ -662,8 +789,8 @@ Réunions et documents projet alimentent un dossier évolutif avec exigences et 
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, transcriptions et notes servent à produire roadmap et priorités et à soutenir traçabilité, avec revue humaine obligatoire.
 - Domaine: Processus opérationnels
-- Données d'entrée: transcriptions et notes, exigences et spécifications, documentation interne
-- Résultat: roadmap et priorités, cartographie des risques
+- Ce qui entre: transcriptions et notes, exigences et spécifications, documentation interne
+- Ce qui sort: roadmap et priorités, cartographie des risques
 - Valeur: traçabilité, moins d'erreurs, connaissance transférable
 - Signaux de besoin: décisions récurrentes lentes ou fondées sur une information incomplète, connaissance critique concentrée chez peu de personnes
 - Revue humaine: obligatoire
@@ -675,8 +802,8 @@ Textes non structurés agrégés par thèmes, sentiment, besoins récurrents et 
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, feedback textuel servent à produire rapport opérationnel et à soutenir service plus homogène, avec revue humaine recommandée.
 - Domaine: Client, marketing et vente
-- Données d'entrée: feedback textuel, tickets et demandes, sources publiques
-- Résultat: rapport opérationnel, classement de priorité
+- Ce qui entre: feedback textuel, tickets et demandes, sources publiques
+- Ce qui sort: rapport opérationnel, classement de priorité
 - Valeur: service plus homogène, valeur commerciale récupérée, priorités plus claires
 - Signaux de besoin: feedback abondant mais non analysé, décisions récurrentes lentes ou fondées sur une information incomplète
 - Revue humaine: recommandée
@@ -688,8 +815,8 @@ Sources publiques et matériaux fournis synthétisés en cartes de pains, langag
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, sources publiques servent à produire rapport opérationnel et à soutenir valeur commerciale récupérée, avec revue humaine recommandée.
 - Domaine: Client, marketing et vente
-- Données d'entrée: sources publiques, feedback textuel, documentation interne
-- Résultat: rapport opérationnel, business case
+- Ce qui entre: sources publiques, feedback textuel, documentation interne
+- Ce qui sort: rapport opérationnel, business case
 - Valeur: valeur commerciale récupérée, priorités plus claires, décisions plus rapides
 - Signaux de besoin: feedback abondant mais non analysé, décisions récurrentes lentes ou fondées sur une information incomplète
 - Revue humaine: recommandée
@@ -701,8 +828,8 @@ Entretiens, exemples validés et matériaux commerciaux deviennent guidelines et
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, documentation interne servent à produire politiques et garde-fous et à soutenir réduction des délais, avec revue humaine obligatoire.
 - Domaine: Client, marketing et vente
-- Données d'entrée: documentation interne, feedback textuel, sources publiques
-- Résultat: politiques et garde-fous, brouillons contrôlés
+- Ce qui entre: documentation interne, feedback textuel, sources publiques
+- Ce qui sort: politiques et garde-fous, brouillons contrôlés
 - Valeur: réduction des délais, valeur commerciale récupérée, traçabilité
 - Signaux de besoin: erreurs récurrentes dans documents, procédures ou contrôles, copie manuelle entre emails, feuilles et systèmes
 - Revue humaine: obligatoire
@@ -714,8 +841,8 @@ Historiques d'achat, catalogues et données concurrentielles aident à créer pi
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, transactions et achats servent à produire recommandations opérationnelles et à soutenir valeur commerciale récupérée, avec revue humaine obligatoire.
 - Domaine: Client, marketing et vente
-- Données d'entrée: transactions et achats, documentation interne, sources publiques
-- Résultat: recommandations opérationnelles, business case
+- Ce qui entre: transactions et achats, documentation interne, sources publiques
+- Ce qui sort: recommandations opérationnelles, business case
 - Valeur: valeur commerciale récupérée, décisions plus rapides, priorités plus claires
 - Signaux de besoin: données historiques disponibles mais non transformées en signaux, décisions récurrentes lentes ou fondées sur une information incomplète
 - Revue humaine: obligatoire
@@ -727,8 +854,8 @@ Compétences, rôles, objectifs futurs et tendances sont reliés pour prioriser 
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, données rh agrégées servent à produire roadmap et priorités et à soutenir connaissance transférable, avec revue humaine obligatoire.
 - Domaine: Personnes et RH
-- Données d'entrée: données RH agrégées, documentation interne, sources publiques
-- Résultat: roadmap et priorités, rapport opérationnel
+- Ce qui entre: données RH agrégées, documentation interne, sources publiques
+- Ce qui sort: roadmap et priorités, rapport opérationnel
 - Valeur: connaissance transférable, priorités plus claires, formation plus rapide
 - Signaux de besoin: connaissance critique concentrée chez peu de personnes, usage IA déjà présent sans règles partagées
 - Revue humaine: obligatoire
@@ -740,8 +867,8 @@ Fiches de poste, candidatures et supports d'entrée structurés pour évaluation
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, cv et candidatures servent à produire rapport opérationnel et à soutenir réduction des délais, avec revue humaine obligatoire.
 - Domaine: Personnes et RH
-- Données d'entrée: CV et candidatures, données RH agrégées, manuels et supports de formation
-- Résultat: rapport opérationnel, brouillons contrôlés
+- Ce qui entre: CV et candidatures, données RH agrégées, manuels et supports de formation
+- Ce qui sort: rapport opérationnel, brouillons contrôlés
 - Valeur: réduction des délais, moins d'erreurs, formation plus rapide
 - Signaux de besoin: copie manuelle entre emails, feuilles et systèmes, connaissance critique concentrée chez peu de personnes
 - Revue humaine: obligatoire
@@ -753,8 +880,8 @@ Politiques, avantages, procédures et demandes récurrentes deviennent FAQ et pa
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, données rh agrégées servent à produire faq et réponses et à soutenir service plus homogène, avec revue humaine obligatoire.
 - Domaine: Personnes et RH
-- Données d'entrée: données RH agrégées, documentation interne, contrats et politiques
-- Résultat: FAQ et réponses, brouillons contrôlés
+- Ce qui entre: données RH agrégées, documentation interne, contrats et politiques
+- Ce qui sort: FAQ et réponses, brouillons contrôlés
 - Valeur: service plus homogène, réduction des délais, conformité plus gouvernable
 - Signaux de besoin: copie manuelle entre emails, feuilles et systèmes, documents dispersés difficiles à consulter
 - Revue humaine: obligatoire
@@ -766,8 +893,8 @@ Un besoin technique devient exigences, user stories, contraintes et périmètre 
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, exigences et spécifications servent à produire roadmap et priorités et à soutenir moins d'erreurs, avec revue humaine obligatoire.
 - Domaine: Technique et logiciels
-- Données d'entrée: exigences et spécifications, transcriptions et notes, documentation interne
-- Résultat: roadmap et priorités, tests et checklists
+- Ce qui entre: exigences et spécifications, transcriptions et notes, documentation interne
+- Ce qui sort: roadmap et priorités, tests et checklists
 - Valeur: moins d'erreurs, traçabilité, coûts évités
 - Signaux de besoin: décisions récurrentes lentes ou fondées sur une information incomplète, erreurs récurrentes dans documents, procédures ou contrôles
 - Revue humaine: obligatoire
@@ -779,8 +906,8 @@ Code existant et spécifications guident génération contrôlée, tests, refact
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, code et dépôts servent à produire tests et checklists et à soutenir réduction des délais, avec revue humaine obligatoire.
 - Domaine: Technique et logiciels
-- Données d'entrée: code et dépôts, exigences et spécifications
-- Résultat: tests et checklists, rapport opérationnel
+- Ce qui entre: code et dépôts, exigences et spécifications
+- Ce qui sort: tests et checklists, rapport opérationnel
 - Valeur: réduction des délais, moins d'erreurs, traçabilité
 - Signaux de besoin: erreurs récurrentes dans documents, procédures ou contrôles, copie manuelle entre emails, feuilles et systèmes
 - Revue humaine: obligatoire
@@ -792,8 +919,8 @@ Appels d'offres, cahiers des charges, rapports et fiches analysés pour exigence
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, appels d'offres et cahiers des charges servent à produire rapport opérationnel et à soutenir réduction du risque, avec revue humaine obligatoire.
 - Domaine: Technique et logiciels
-- Données d'entrée: appels d'offres et cahiers des charges, documentation interne, plans techniques
-- Résultat: rapport opérationnel, brouillons contrôlés, cartographie des risques
+- Ce qui entre: appels d'offres et cahiers des charges, documentation interne, plans techniques
+- Ce qui sort: rapport opérationnel, brouillons contrôlés, cartographie des risques
 - Valeur: réduction du risque, moins d'erreurs, traçabilité
 - Signaux de besoin: documents dispersés difficiles à consulter, erreurs récurrentes dans documents, procédures ou contrôles
 - Revue humaine: obligatoire
@@ -805,8 +932,8 @@ Photos, plans et rendus deviennent fiches, analyses de composants, cotes et réc
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, photos opérationnelles servent à produire rapport opérationnel et à soutenir connaissance transférable, avec revue humaine obligatoire.
 - Domaine: Technique et logiciels
-- Données d'entrée: photos opérationnelles, plans techniques, documentation interne
-- Résultat: rapport opérationnel, brouillons contrôlés
+- Ce qui entre: photos opérationnelles, plans techniques, documentation interne
+- Ce qui sort: rapport opérationnel, brouillons contrôlés
 - Valeur: connaissance transférable, décisions plus rapides, moins d'erreurs
 - Signaux de besoin: connaissance critique concentrée chez peu de personnes, documents dispersés difficiles à consulter
 - Revue humaine: obligatoire
@@ -818,8 +945,8 @@ Activités, données et décisions classées en zones d'autonomie, supervision o
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, documentation interne servent à produire politiques et garde-fous et à soutenir réduction du risque, avec revue humaine obligatoire.
 - Domaine: Gouvernance, conformité et risque
-- Données d'entrée: documentation interne, politiques et lignes directrices, transcriptions et notes
-- Résultat: politiques et garde-fous, cartographie des risques, roadmap et priorités
+- Ce qui entre: documentation interne, politiques et lignes directrices, transcriptions et notes
+- Ce qui sort: politiques et garde-fous, cartographie des risques, roadmap et priorités
 - Valeur: réduction du risque, conformité plus gouvernable, priorités plus claires
 - Signaux de besoin: usage IA déjà présent sans règles partagées, décisions récurrentes lentes ou fondées sur une information incomplète
 - Revue humaine: obligatoire
@@ -831,8 +958,8 @@ Contrats, notices, registres, procédures et lettres préparés comme support pr
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, contrats et politiques servent à produire brouillons contrôlés et à soutenir réduction des délais, avec revue humaine obligatoire.
 - Domaine: Gouvernance, conformité et risque
-- Données d'entrée: contrats et politiques, documentation interne, formulaires remplis
-- Résultat: brouillons contrôlés, cartographie des risques
+- Ce qui entre: contrats et politiques, documentation interne, formulaires remplis
+- Ce qui sort: brouillons contrôlés, cartographie des risques
 - Valeur: réduction des délais, conformité plus gouvernable, réduction du risque
 - Signaux de besoin: copie manuelle entre emails, feuilles et systèmes, erreurs récurrentes dans documents, procédures ou contrôles
 - Revue humaine: obligatoire
@@ -844,8 +971,8 @@ Chatbots et assistants testés contre manipulation, fuite de données et instruc
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, documentation interne servent à produire tests et checklists et à soutenir réduction du risque, avec revue humaine obligatoire.
 - Domaine: Gouvernance, conformité et risque
-- Données d'entrée: documentation interne, exigences et spécifications, politiques et lignes directrices
-- Résultat: tests et checklists, politiques et garde-fous, rapport opérationnel
+- Ce qui entre: documentation interne, exigences et spécifications, politiques et lignes directrices
+- Ce qui sort: tests et checklists, politiques et garde-fous, rapport opérationnel
 - Valeur: réduction du risque, conformité plus gouvernable, service plus homogène
 - Signaux de besoin: usage IA déjà présent sans règles partagées, erreurs récurrentes dans documents, procédures ou contrôles
 - Revue humaine: obligatoire
@@ -857,8 +984,8 @@ Photos de site ou atelier analysées pour non-conformités, risques et mesures p
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, photos opérationnelles servent à produire rapport opérationnel et à soutenir réduction du risque, avec revue humaine obligatoire.
 - Domaine: Production, qualité et maintenance
-- Données d'entrée: photos opérationnelles, documentation interne
-- Résultat: rapport opérationnel, cartographie des risques
+- Ce qui entre: photos opérationnelles, documentation interne
+- Ce qui sort: rapport opérationnel, cartographie des risques
 - Valeur: réduction du risque, décisions plus rapides, conformité plus gouvernable
 - Signaux de besoin: erreurs récurrentes dans documents, procédures ou contrôles, copie manuelle entre emails, feuilles et systèmes
 - Revue humaine: obligatoire
@@ -870,8 +997,8 @@ Programmes client, ERP, cycles, non-conformités et coûts historiques soutienne
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, erp et systèmes métier servent à produire planning et affectations et à soutenir efficacité productive, avec revue humaine obligatoire.
 - Domaine: Production, qualité et maintenance
-- Données d'entrée: ERP et systèmes métier, données de production, feuilles de calcul
-- Résultat: planning et affectations, rapport opérationnel, recommandations opérationnelles
+- Ce qui entre: ERP et systèmes métier, données de production, feuilles de calcul
+- Ce qui sort: planning et affectations, rapport opérationnel, recommandations opérationnelles
 - Valeur: efficacité productive, moins d'erreurs, coûts évités
 - Signaux de besoin: planification encore très manuelle, erreurs récurrentes dans documents, procédures ou contrôles
 - Revue humaine: obligatoire
@@ -883,8 +1010,8 @@ Historique pannes, capteurs et interventions deviennent priorités, fenêtres ma
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, capteurs et télémétrie servent à produire alertes et seuils et à soutenir efficacité productive, avec revue humaine obligatoire.
 - Domaine: Production, qualité et maintenance
-- Données d'entrée: capteurs et télémétrie, données de production, journaux et états de processus
-- Résultat: alertes et seuils, classement de priorité, tableaux de bord et vues filtrables
+- Ce qui entre: capteurs et télémétrie, données de production, journaux et états de processus
+- Ce qui sort: alertes et seuils, classement de priorité, tableaux de bord et vues filtrables
 - Valeur: efficacité productive, coûts évités, réduction du risque
 - Signaux de besoin: données historiques disponibles mais non transformées en signaux, planification encore très manuelle
 - Revue humaine: obligatoire
@@ -896,8 +1023,8 @@ Manuels, slides et documents dispersés deviennent syllabus, quiz et cas par rô
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, manuels et supports de formation servent à produire faq et réponses et à soutenir formation plus rapide, avec revue humaine recommandée.
 - Domaine: Formation et mémoire interne
-- Données d'entrée: manuels et supports de formation, documentation interne, transcriptions et notes
-- Résultat: FAQ et réponses, brouillons contrôlés
+- Ce qui entre: manuels et supports de formation, documentation interne, transcriptions et notes
+- Ce qui sort: FAQ et réponses, brouillons contrôlés
 - Valeur: formation plus rapide, connaissance transférable, service plus homogène
 - Signaux de besoin: connaissance critique concentrée chez peu de personnes, documents dispersés difficiles à consulter
 - Revue humaine: recommandée
@@ -909,8 +1036,8 @@ La documentation interne alimente assistants Q&A, y compris vocaux, avec sources
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, documentation interne servent à produire recherche sémantique et à soutenir connaissance transférable, avec revue humaine obligatoire.
 - Domaine: Formation et mémoire interne
-- Données d'entrée: documentation interne, manuels et supports de formation, politiques et lignes directrices
-- Résultat: recherche sémantique, FAQ et réponses, politiques et garde-fous
+- Ce qui entre: documentation interne, manuels et supports de formation, politiques et lignes directrices
+- Ce qui sort: recherche sémantique, FAQ et réponses, politiques et garde-fous
 - Valeur: connaissance transférable, service plus homogène, réduction des délais
 - Signaux de besoin: connaissance critique concentrée chez peu de personnes, documents dispersés difficiles à consulter
 - Revue humaine: obligatoire
@@ -922,8 +1049,8 @@ Données, KPI et matériaux hétérogènes deviennent rapports narratifs, infogr
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, kpi et séries historiques servent à produire rapport opérationnel et à soutenir décisions plus rapides, avec revue humaine recommandée.
 - Domaine: Outils transverses
-- Données d'entrée: KPI et séries historiques, feuilles de calcul, documentation interne
-- Résultat: rapport opérationnel, tableaux de bord et vues filtrables, brouillons contrôlés
+- Ce qui entre: KPI et séries historiques, feuilles de calcul, documentation interne
+- Ce qui sort: rapport opérationnel, tableaux de bord et vues filtrables, brouillons contrôlés
 - Valeur: décisions plus rapides, traçabilité, valeur commerciale récupérée
 - Signaux de besoin: données historiques disponibles mais non transformées en signaux, copie manuelle entre emails, feuilles et systèmes
 - Revue humaine: recommandée
@@ -935,8 +1062,8 @@ Séries temporelles et capteurs industriels utilisés pour alertes, dégradation
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, capteurs et télémétrie servent à produire alertes et seuils et à soutenir efficacité productive, avec revue humaine obligatoire.
 - Domaine: Data science et décisions
-- Données d'entrée: capteurs et télémétrie, données de production, KPI et séries historiques
-- Résultat: alertes et seuils, prévision vérifiable, tableaux de bord et vues filtrables
+- Ce qui entre: capteurs et télémétrie, données de production, KPI et séries historiques
+- Ce qui sort: alertes et seuils, prévision vérifiable, tableaux de bord et vues filtrables
 - Valeur: efficacité productive, coûts évités, réduction du risque
 - Signaux de besoin: données historiques disponibles mais non transformées en signaux, planification encore très manuelle
 - Revue humaine: obligatoire
@@ -948,8 +1075,8 @@ Historiques transactionnels et comportementaux deviennent segments, risques et a
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, transactions et achats servent à produire classement de priorité et à soutenir valeur commerciale récupérée, avec revue humaine obligatoire.
 - Domaine: Data science et décisions
-- Données d'entrée: transactions et achats, feedback textuel, KPI et séries historiques
-- Résultat: classement de priorité, recommandations opérationnelles, business case
+- Ce qui entre: transactions et achats, feedback textuel, KPI et séries historiques
+- Ce qui sort: classement de priorité, recommandations opérationnelles, business case
 - Valeur: valeur commerciale récupérée, priorités plus claires, service plus homogène
 - Signaux de besoin: données historiques disponibles mais non transformées en signaux, feedback abondant mais non analysé
 - Revue humaine: obligatoire
@@ -961,8 +1088,8 @@ Télémétrie, consommations, qualité et paramètres machine révèlent profils
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, capteurs et télémétrie servent à produire tableaux de bord et vues filtrables et à soutenir efficacité productive, avec revue humaine obligatoire.
 - Domaine: Data science et décisions
-- Données d'entrée: capteurs et télémétrie, données de production, KPI et séries historiques
-- Résultat: tableaux de bord et vues filtrables, recommandations opérationnelles, business case
+- Ce qui entre: capteurs et télémétrie, données de production, KPI et séries historiques
+- Ce qui sort: tableaux de bord et vues filtrables, recommandations opérationnelles, business case
 - Valeur: efficacité productive, coûts évités, décisions plus rapides
 - Signaux de besoin: données historiques disponibles mais non transformées en signaux, erreurs récurrentes dans documents, procédures ou contrôles
 - Revue humaine: obligatoire
@@ -974,8 +1101,8 @@ Données fiscales, territoriales ou commerciales agrégées deviennent cartes, c
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, transactions et achats servent à produire tableaux de bord et vues filtrables et à soutenir décisions plus rapides, avec revue humaine recommandée.
 - Domaine: Data science et décisions
-- Données d'entrée: transactions et achats, sources publiques, KPI et séries historiques
-- Résultat: tableaux de bord et vues filtrables, rapport opérationnel, business case
+- Ce qui entre: transactions et achats, sources publiques, KPI et séries historiques
+- Ce qui sort: tableaux de bord et vues filtrables, rapport opérationnel, business case
 - Valeur: décisions plus rapides, priorités plus claires, valeur commerciale récupérée
 - Signaux de besoin: données historiques disponibles mais non transformées en signaux, décisions récurrentes lentes ou fondées sur une information incomplète
 - Revue humaine: recommandée
@@ -987,8 +1114,8 @@ La première valeur peut être un verdict négatif: les données disponibles ne 
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, kpi et séries historiques servent à produire rapport opérationnel et à soutenir coûts évités, avec revue humaine recommandée.
 - Domaine: Data science et décisions
-- Données d'entrée: KPI et séries historiques, transactions et achats, journaux et états de processus
-- Résultat: rapport opérationnel, business case, roadmap et priorités
+- Ce qui entre: KPI et séries historiques, transactions et achats, journaux et états de processus
+- Ce qui sort: rapport opérationnel, business case, roadmap et priorités
 - Valeur: coûts évités, priorités plus claires, traçabilité
 - Signaux de besoin: données historiques disponibles mais non transformées en signaux, décisions récurrentes lentes ou fondées sur une information incomplète
 - Revue humaine: recommandée
@@ -1000,8 +1127,8 @@ Cas, matériaux et contraintes explorés pour générer hypothèses, scénarios,
 
 - Exemple opérationnel: Quand le processus montre un besoin similaire, documentation interne servent à produire rapport opérationnel et à soutenir valeur commerciale récupérée, avec revue humaine recommandée.
 - Domaine: Outils transverses
-- Données d'entrée: documentation interne, feedback textuel, sources publiques
-- Résultat: rapport opérationnel, recommandations opérationnelles, brouillons contrôlés
+- Ce qui entre: documentation interne, feedback textuel, sources publiques
+- Ce qui sort: rapport opérationnel, recommandations opérationnelles, brouillons contrôlés
 - Valeur: valeur commerciale récupérée, priorités plus claires, décisions plus rapides
 - Signaux de besoin: décisions récurrentes lentes ou fondées sur une information incomplète, feedback abondant mais non analysé
 - Revue humaine: recommandée
@@ -1044,6 +1171,7 @@ Dossier LLM: https://ar-tik.com/fr/questions-frequentes-ia-entreprises-dossier.m
 
 ## Explorer par domaine ou intention.
 
+- Les questions qui bloquent la décision: 7. Coût, données, logiciel, formation déjà faite, délais, aides: réponses brèves avant d'écrire.
 - Par où commencer: 5. Quand l'entreprise veut utiliser l'IA sans projet défini.
 - Premier échange et méthode: 5. Ce qui se passe avant de choisir conseil, cours, analyse ou logiciel.
 - Coûts, délais et ROI: 5. Comment raisonner sur investissement, retour, priorités et risque.
@@ -1058,6 +1186,79 @@ Dossier LLM: https://ar-tik.com/fr/questions-frequentes-ia-entreprises-dossier.m
 - Choisir le bon parcours: 4. Différences pratiques entre formation, conseil, analyse de données et développement logiciel.
 - Limites de l'IA: 4. Quand arrêter, éviter l'automatisation ou reporter le projet.
 - Avant de contacter Artik Lab: 4. Que préparer et à quoi s'attendre lors du premier échange.
+
+## Les questions qui bloquent la décision
+
+### Combien cela coûte-t-il ?
+
+Réponse courte: La proposition arrive après l'avis ou après le premier échange.
+
+Détail opérationnel: Sur ces pages, il n'y a pas de tarif.
+
+Limite à considérer: Les réponses valent pour les services tels qu'ils sont décrits sur ces pages ; le cas précis se clarifie dans l'avis ou lors du premier échange.
+
+Prochaine étape: Apporter le cas au premier échange avec processus, objectif, données disponibles et contraintes.
+
+### Où sont les données pendant le travail ?
+
+Réponse courte: En Démarrage opérationnel, les fichiers restent dans les dossiers de l'entreprise et l'assistant est au nom de l'entreprise.
+
+Détail opérationnel: Dans l'analyse de données, on travaille sur un extrait convenu, avec un périmètre écrit.
+
+Limite à considérer: Les réponses valent pour les services tels qu'ils sont décrits sur ces pages ; le cas précis se clarifie dans l'avis ou lors du premier échange.
+
+Prochaine étape: Apporter le cas au premier échange avec processus, objectif, données disponibles et contraintes.
+
+### Le conseil sert-il ensuite à vendre un logiciel ?
+
+Réponse courte: Le conseil n'est pas la porte du logiciel.
+
+Détail opérationnel: Construire, si c'est nécessaire, est un choix ultérieur. Le Démarrage opérationnel ne relie pas le logiciel de gestion.
+
+Limite à considérer: Les réponses valent pour les services tels qu'ils sont décrits sur ces pages ; le cas précis se clarifie dans l'avis ou lors du premier échange.
+
+Prochaine étape: Ouvrir un parcours de conseil pour clarifier priorités, gouvernance et feuille de route.
+
+### J'ai déjà suivi un cours sur l'IA. Est-ce encore utile ?
+
+Réponse courte: Un cours laisse des modèles et des critères.
+
+Détail opérationnel: Ici, en un jour, il reste une procédure en usage sur les fichiers de l'entreprise — ou une analyse qui dit si les données suffisent.
+
+Limite à considérer: Les réponses valent pour les services tels qu'ils sont décrits sur ces pages ; le cas précis se clarifie dans l'avis ou lors du premier échange.
+
+Prochaine étape: Apporter le cas au premier échange avec processus, objectif, données disponibles et contraintes.
+
+### Quand voit-on quelque chose de concret ?
+
+Réponse courte: Démarrage opérationnel : un jour sur site.
+
+Détail opérationnel: Analyse : après l'extrait convenu. Premier échange : 30–45 minutes.
+
+Limite à considérer: Les réponses valent pour les services tels qu'ils sont décrits sur ces pages ; le cas précis se clarifie dans l'avis ou lors du premier échange.
+
+Prochaine étape: Apporter le cas au premier échange avec processus, objectif, données disponibles et contraintes.
+
+### Peut-on utiliser une aide ou un fonds pour ce travail ?
+
+Réponse courte: On peut demander une vérification d'éligibilité.
+
+Détail opérationnel: Le travail doit de toute façon tenir sans aide : on ne promet ni appels à projets ni montants.
+
+Limite à considérer: Les réponses valent pour les services tels qu'ils sont décrits sur ces pages ; le cas précis se clarifie dans l'avis ou lors du premier échange.
+
+Prochaine étape: Apporter le cas au premier échange avec processus, objectif, données disponibles et contraintes.
+
+### Combien d'activités peut-on faire, l'une après l'autre ?
+
+Réponse courte: On décide avec l'entreprise, selon les besoins.
+
+Détail opérationnel: Un travail à la fois, mené jusqu'au bout.
+
+Limite à considérer: Les réponses valent pour les services tels qu'ils sont décrits sur ces pages ; le cas précis se clarifie dans l'avis ou lors du premier échange.
+
+Prochaine étape: Apporter le cas au premier échange avec processus, objectif, données disponibles et contraintes.
+
 
 ## Par où commencer
 
@@ -1746,9 +1947,9 @@ Pour démarrer, réunir un processus à améliorer, un exemple de matériau ou d
 
 <!-- https://ar-tik.com/fr/developpement-logiciels-techniques.md -->
 
-# Logiciels techniques, moteurs de calcul et analyse avancée de données.
+# Logiciels techniques, programmes de calcul et analyse avancée de données.
 
-Artik Lab développe pour ses clients des logiciels avancés lorsque le problème ne se résout pas avec un tableau de bord ou une application standard: calculs techniques, modèles mathématiques, données opérationnelles, règles expertes et flux de travail à rendre vérifiables.
+Artik Lab développe pour le compte de ses clients des logiciels avancés lorsque le problème ne se résout pas avec un tableau de bord ou avec le logiciel d'entreprise standard : calculs techniques, modèles mathématiques, données opérationnelles, règles d'experts et flux de travail que l'on peut contrôler par des tests.
 
 ## Quand le savoir-faire de l'entreprise est trop important pour rester dans des feuilles de calcul, du code legacy ou la tête de quelques personnes.
 
@@ -1758,21 +1959,21 @@ Beaucoup d'entreprises industrielles travaillent avec des calculs, exceptions et
 
 La valeur vient de la combinaison entre ingénierie logicielle, analyse de données et formalisation de connaissance experte. Le résultat n'est pas une démo, mais un système avec critères d'acceptation, tests, documentation et limites claires.
 
-### Moteurs de calcul et vérification
+### Programmes de calcul et de vérification
 
-Algorithmes déterministes pour calculs techniques, contrôles, scénarios, simulations et vérifications répétables.
+Des programmes de calcul qui, sur les mêmes données, donnent toujours le même résultat : contrôles, scénarios, simulations et vérifications répétables.
 
 ### Systèmes de données et analyse avancée
 
-Collecte, normalisation et lecture des données opérationnelles pour détecter anomalies, schémas récurrents, priorités et risques.
+Collecte, normalisation et lecture des données opérationnelles pour repérer anomalies, régularités, priorités et risques.
 
-### Modernisation de logiciels legacy
+### Mettre à jour un logiciel technique que plus personne ne veut toucher
 
-Audit du code, reconstruction des logiques, lecture de formats historiques et réécriture progressive.
+Audit du code existant, reconstruction des logiques, analyseurs de formats historiques et réécriture progressive.
 
 ### Interfaces, rapports et API
 
-Outils pour bureaux techniques et fonctions opérationnelles: tableaux décisionnels, rapports, exports et intégrations.
+Outils utilisables par les bureaux d'études et les fonctions opérationnelles : tableaux de bord décisionnels, rapports, exports et intégrations.
 
 ## Du processus technique au système vérifiable.
 
@@ -1794,21 +1995,96 @@ Outils pour bureaux techniques et fonctions opérationnelles: tableaux décision
 
 ## Problèmes typiques que le service peut traiter.
 
-### Feuilles techniques accumulées au fil des ans
+### Documentation technique hors de contrôle
 
-Un bureau technique utilise des fichiers complexes pour des décisions récurrentes. Les formules sont difficiles à vérifier. Le projet reconstruit les règles, les transforme en modèle de données et ajoute des tests.
+Un bureau d'études utilise des fichiers complexes pour prendre des décisions récurrentes. Le risque est que les formules ne soient plus vérifiables et que chaque modification exige une mémoire historique. Le projet reconstruit les règles, les transforme en modèle de données et ajoute des tests pour éviter les régressions.
 
-### Logiciel legacy difficile à maintenir
+### Un logiciel technique qui fonctionne encore, mais que plus personne ne peut modifier en sécurité
 
-Une application critique fonctionne encore, mais dépend de technologies datées et de logiques non documentées. Le travail commence par l'audit et construit une réécriture progressive avec comparaison des résultats.
+Une application critique fonctionne encore, mais dépend de technologies datées et de logiques non documentées. Le travail part de l'audit, sépare ce qu'il faut préserver de ce qu'il faut reconcevoir et construit une réécriture progressive avec comparaison des résultats.
 
-### Données industrielles pas encore décisionnelles
+### Des données industrielles qui n'aident pas à décider
 
-Le processus produit des données, mais l'entreprise les utilise surtout pour du reporting rétrospectif. L'analyse cherche des signaux pour priorités, anomalies, prévisions et décisions de contrôle.
+Le processus produit des données, mais l'entreprise les utilise surtout pour des rapports rétrospectifs. L'analyse cherche des signaux utiles pour les priorités opérationnelles, les anomalies, les prévisions et les choix de contrôle, et déclare aussi quand la donnée ne suffit pas.
 
-### Connaissance experte concentrée
+### La connaissance de l'entreprise qui n'est jamais documentée
 
-Certaines décisions dépendent de l'expérience de rôles clés. Le projet explicite règles, exceptions et seuils d'attention pour rendre le savoir disponible.
+Certaines décisions dépendent de l'expérience de rôles clés. Le projet rend explicites les règles, les exceptions et les seuils d'attention, de sorte que le savoir reste disponible même quand changent les personnes, les outils ou les volumes de travail.
+
+## Cinq cas réels
+
+Ce qui a été obtenu.
+
+### 1. Bureau d'études: Les règles de calcul sont dans le code et dans une seule personne, pas dans un document de spécifications.
+
+Huit semaines d'analyse sur environ 267 fichiers source : 37 règles de décision mises par écrit et 18 points critiques que l'entreprise ne savait pas avoir.
+
+La situation. Une entreprise conçoit sur commande des composants dont le dimensionnement exige des vérifications réglementaires. Depuis plus de vingt ans, le travail passe par un logiciel de calcul écrit en interne, sur une plateforme de développement qui n'est plus prise en charge, avec des formats de fichiers propriétaires jamais documentés. Le programme fonctionne, mais plus personne ne peut le modifier avec une sécurité raisonnable. Et les spécifications n'existent pas : les règles vivent dans le code et dans l'expérience d'un seul concepteur.
+
+Ce qui a été fait. Les exigences n'ont pas été recueillies, elles ont été reconstruites. Le travail lit en parallèle trois sources — le code source, les archives des projets réellement exécutés et les indications du bureau d'études — et les fait se confronter : chaque règle extraite du code est recoupée sur les données et rapportée à l'expert, chaque indication de l'expert est vérifiée sur le code. Aucune affirmation n'est acceptée sur parole, ni celle de l'expert ni celle du code ; ce qui n'est pas vérifiable est déclaré tel, au lieu de rester implicite.
+
+Ce qui a changé. L'entreprise a cessé de dépendre d'un savoir qui n'existait qu'à un seul endroit. Ce qui était tacite est devenu un document discutable, et avec la carte du système est sorti la liste des incohérences que plus personne n'avait le moyen de voir, y compris les écarts entre ce que le manuel prescrit et ce que le programme exécute.
+
+- Mesuré sur le projet: Environ 267 fichiers source et douze bibliothèques cartographiés en huit semaines d'analyse. 37 règles de décision formalisées : 13 contraintes strictes, 19 heuristiques d'optimisation, 5 règles de diagnostic.
+- Ce qui a émergé: 18 points critiques du logiciel en usage, classés par gravité, chacun avec une proposition de traitement. S'y ajoutent douze limitations documentées et dix exigences pour le système nouveau.
+- Comment cela continue: Un parcours par lots testables, où chaque étape a un critère d'acceptation numérique convenu avant de commencer.
+- Limite déclarée: Les chiffres viennent de ce projet : ils disent ce que la méthode y a produit, pas ce qu'elle produira ailleurs.
+
+### 2. Instruction des dossiers et back-office: Les demandes arrivent par e-mail. Le logiciel de l'entreprise ne les suit pas.
+
+Deux documents officiels déjà remplis avec les données contrôlées ; aucune communication ne part sans l'approbation d'une personne.
+
+La situation. Une organisation reçoit les demandes par e-mail, en forme libre, rédigées par des personnes différentes. Chaque dossier exige des données précises, dont certaines ne se vérifient qu'en croisant plusieurs informations, et produit des documents officiels sur des modèles fixes. Le temps qualifié se perd dans le transport des données : relire, demander la donnée manquante, attendre, recopier les mêmes champs dans plusieurs documents, relancer celui qui doit compléter sa part. Le goulet n'est pas la décision : c'est le transport.
+
+Ce qui a été fait. Un assistant surveille la boîte. Il lit le message, en extrait les données, les vérifie contre les conditions de l'organisation et répond en langage courant pour dire quelle donnée manque et sous quelle forme elle est nécessaire, au lieu de renvoyer un formulaire vide. Au-dessus travaille un gestionnaire qui connaît le cycle de vie du dossier : combien de fois la même donnée a déjà été demandée, si celui qui doit compléter sa part a répondu dans les délais, si le demandeur a déjà un dossier ouvert. Après un nombre déclaré d'échanges infructueux, le dossier est gelé, au lieu d'alimenter un échange infini.
+
+Ce qui a changé. Quand le dossier est complet, les documents officiels sortent déjà remplis sur les modèles de l'organisation, avec les champs alimentés par les données validées. Le temps qualifié revient à l'appréciation de fond, la seule part qui exigeait vraiment une personne expérimentée.
+
+- Mesuré sur le projet: 135 tests automatiques au vert sur les modèles de données, le programme de validation, la génération des documents et la gestion des dossiers, dont six parcours complets de l'e-mail au document.
+- Choix de projet: Zéro envoi automatique : chaque communication sortante passe par l'approbation d'un opérateur. Dans un processus qui produit des actes, l'automatisation s'arrête un pas avant la signature.
+- Limite déclarée: Le temps gagné n'a pas encore été mesuré avant et après sur un cycle complet. Le projet déclare ce que le système fait, pas de combien il raccourcit le dossier.
+
+### 3. Équipes sur le terrain: Le planning hebdomadaire des équipes sur le terrain se fait encore à la main.
+
+Le planning hebdomadaire se calcule en quelques secondes et se régénère quand une contrainte change. De combien il fait économiser n'est pas encore mesuré, et n'est pas déclaré.
+
+La situation. Quand une entreprise envoie des équipes chez les clients, le programme de la semaine naît de dizaines de contraintes qui se gênent : adresses dispersées sur un territoire large, plages horaires imposées par les clients, priorités commerciales et échéances légales, durées qui changent avec le type de prestation, équipages non interchangeables. Fait à la main, le planning sort toujours praticable mais jamais efficace, et il manque le terme de comparaison pour s'en apercevoir.
+
+Ce qui a été fait. Le problème est formulé comme un problème de tournée avec fenêtres temporelles et résolu avec un solveur d'optimisation. Un premier niveau répartit les interventions sur les jours, en équilibrant la capacité des équipages et en plaçant d'abord les plus lourdes. Un second résout chaque journée comme une tournée sur plusieurs véhicules, avec les temps de parcours réels pris auprès d'un service routier et les fenêtres horaires traitées comme des contraintes qu'on ne peut pas violer.
+
+Ce qui a changé. Le responsable reçoit un planning prêt à l'emploi : tournées sur carte, calendrier quotidien par unité, kilomètres, heures de conduite et saturation des équipages. Et le même planning se régénère en quelques secondes quand une contrainte change, ce qui est la part dont on a besoin tout de suite, quand quelqu'un se décommande.
+
+- Comment cela a été éprouvé: Sur une archive de démonstration avec des noms fictifs — 35 sites, 128 personnes, deux unités mobiles — le planning hebdomadaire complet sort en quelques secondes, contre les heures que le travail à la main demande.
+- Ce que cela restitue: À chaque exécution : kilomètres totaux, heures de conduite et pourcentage de saturation par équipage. Ce sont les chiffres qui permettent de comparer deux plannings, au lieu de se fier au premier.
+- Limite déclarée: Il n'existe pas encore de comparaison mesurée avant et après chez un client réel. Tant qu'elle n'existe pas, aucun pourcentage d'économie n'est déclaré : ce serait une estimation présentée comme une mesure.
+
+### 4. Services au public: Reconnaître les articles du catalogue à partir d'une photo, sans campagne de photographies classées à la main.
+
+Ouvrir un nouveau site, c'est charger un fichier, pas recueillir et classer à la main les photographies de chaque article.
+
+La situation. Reconnaître à partir d'une photo les articles d'un catalogue qui change chaque jour coûte cher si chaque site doit d'abord recueillir et classer les photographies à la main. C'est ce qui rend prohibitifs les délais d'activation des solutions traditionnelles dans ce type de service.
+
+Ce qui a été fait. L'approche alternative consiste à décrire le catalogue au lieu de le montrer. Les articles du jour sont chargés sous forme déclarative — nom, catégorie, description étendue, ingrédients, quantités — et un modèle multimodal généraliste reconnaît à partir de ces descriptions, pas à partir d'une archive d'images étiquetées. Le système gère aussi les articles composés, avec des coefficients de portion, de sorte que les valeurs restent correctes quand, dans un même choix, coexistent des demi-portions de produits différents.
+
+Ce qui a changé. Activer un nouveau site, c'est charger son catalogue. Il n'est pas besoin de matériel dédié : on utilise le smartphone de la personne, sans totem ni lecteurs. Et le coût varie avec le trafic, au lieu d'être le coût fixe d'une présence à maintenir même quand il passe dix personnes.
+
+- Comment on contrôle: Une suite de régression sur des images réelles, avec la vérité de référence déclarée pour chaque image : une modification du modèle ou des instructions se mesure sur un banc stable, au lieu de se juger à l'impression.
+- Prévu par spécification: Sept langues sur l'ensemble de l'interface et sur les contenus du catalogue. La localisation complète est planifiée, pas encore achevée.
+- Limite déclarée: Le chiffre d'exactitude n'est pas encore déclarable : une partie des images récentes est sans vérité de référence et est exclue des tests. C'est le premier nombre que quiconque évalue cette solution demandera, et il n'est pas estimé à la place d'être mesuré.
+
+### 5. Sécurité et formation: Des formations obligatoires qui expirent sans que personne s'en aperçoive.
+
+18 types de cours obligatoires, chacun avec sa propre échéance ; pour chaque personne quatre états (valide, bientôt échu, échu, jamais suivi) et un préavis que l'on peut régler.
+
+La situation. Qui répond de la formation obligatoire de dizaines ou de centaines de personnes tient l'état sur des feuilles de calcul qui vieillissent à chaque embauche et à chaque changement de poste. Le risque n'est pas théorique : c'est de s'apercevoir d'une échéance dépassée pendant une inspection, avec ce que cela implique en matière de sécurité au travail.
+
+Ce qui a été fait. Le problème n'est pas de calculer une date. C'est de tenir ensemble les fichiers du personnel, l'historique des cours et des règles de périodicité différentes selon le rôle et l'activité, et de calculer pour chaque personne et chaque obligation un état parmi quatre : valide, bientôt échu dans le seuil, échu, jamais suivi. De là sortent la matrice de formation lisible d'un coup d'œil, les relances en registre formel et le rapport périodique.
+
+Ce qui a changé. Quand la matrice existe, le travail devient de programmer les cours au lieu de reconstruire l'état. Les données personnelles restent sur le serveur de l'organisation : aucun envoi vers des services externes, obtenu comme contrainte d'architecture et non comme déclaration d'intention.
+
+- Mesuré sur le projet: 18 types de cours obligatoires modélisés, avec une périodicité d'un à cinq ans et certains une fois pour toutes. Quatre états calculés pour chaque combinaison entre personne et obligation, avec un préavis par défaut à 90 jours et configurable par client.
+- Comment cela a été éprouvé: Sur une archive de démonstration avec des noms fictifs : huit entreprises, environ 175 personnes et plus de 700 enregistrements de formation, avec une distribution réaliste des états.
+- Limite déclarée: Le calcul suit des règles fixes et, sur les mêmes données, donne toujours le même résultat, et c'est bien ainsi : dans une règle de périodicité, il n'y a rien à confier à un modèle. L'IA sert un pas avant, pour faire entrer des données qui arrivent aujourd'hui en désordre, et un pas après, pour s'apercevoir qu'une règle a changé.
 
 ## Avant de choisir le format, reconnaître le processus.
 
@@ -1819,6 +2095,76 @@ Page Atlas: https://ar-tik.com/fr/atlas-applications-ia-entreprises.md
 ## L'IA aide, mais le noyau technique doit rester explicable.
 
 Dans les systèmes techniques, les composants opaques ne doivent pas remplacer le calcul vérifiable. L'IA peut aider à explorer les données, expliquer les résultats, proposer des scénarios, lire des documents ou assister l'utilisateur. Le coeur déterministe, les règles métier et les tests restent le point de contrôle.
+
+## Où passe la frontière : le calcul reste répétable, l'IA travaille au-dessus.
+
+Cinq projets différents, le même choix : ce qui décide est un calcul répétable et contrôlable par des tests, l'IA travaille au-dessus. Chaque fiche dit où passe la frontière et comment on la contrôle.
+
+### 1. Bureau d'études: Le logiciel calcule, mais les décisions sont prises par une seule personne
+
+Les choix de qui a vingt ans de métier deviennent des règles écrites dans le programme de calcul ; les contrôles réglementaires restent un calcul répétable.
+
+Dans beaucoup de bureaux d'études, le programme exécute les vérifications, tandis que les choix qui mènent à une solution efficace restent à qui a vingt ans de métier : par où commencer, comment corriger quand les vérifications ne collent pas, quand une solution formellement correcte n'est pas raisonnable.
+
+Le projet transforme ces décisions en contraintes, heuristiques et règles de diagnostic explicites, qui deviennent des paramètres du programme de calcul. Au-dessus du noyau travaillent des agents spécialisés, instruits sur les cas historiques et sur les solutions réellement adoptées : l'un propose la configuration de départ pour un problème nouveau, l'un choisit la stratégie corrective quand l'optimisation ne converge pas, l'un compare le résultat aux cas analogues et signale quand il est mathématiquement correct mais atypique.
+
+Les deux plans restent séparés. Les vérifications réglementaires sont déterministes et reproductibles, l'IA travaille au-dessus du calcul et non dedans, et l'expert reste dans le cycle pour valider, corriger et enrichir.
+
+- Comment on contrôle: 695 tests automatiques sur le programme de calcul, exécutés à chaque intégration. Le programme reconstruit reproduit 58 cas de vérification sur 63 au chiffre imprimé, et 44 archives historiques sur 44 sont relues sans exception par des décodeurs écrits sans avoir la documentation des formats.
+- Ce qui manque, déclaré: La base des faits atteint 98,8 % de complétude — 399 entrées sur 404 — et les 5 qui restent sont déclarées et motivées au lieu d'être omises.
+- Vérification indépendante: Huit campagnes menées par des agents chargés de réfuter le travail fait. Les réfutations trouvées ont été réparées avant la livraison, pas classées.
+
+### 2. Instruction des dossiers et back-office: L'intelligence artificielle rédige le brouillon, les règles de l'entreprise décident de l'issue.
+
+Les conditions pour accepter ou refuser un dossier sont dans un fichier que le service modifie sans toucher au code. L'intelligence artificielle prépare les données et communique l'issue, elle ne la fixe pas.
+
+Sur un processus qui produit des documents officiels, le texte peut être écrit par l'intelligence artificielle ; si le dossier est accepté ou non, ce sont les règles qui le décident, pas le modèle.
+
+Les conditions pour accepter ou refuser un dossier sont dans un fichier de configuration lisible que le bureau d'études met à jour lui-même quand une règle change, sans passer par le développement. L'intelligence artificielle lit les e-mails, en extrait les données et compose la réponse ; le programme de calcul décide de l'issue et la motive.
+
+Et l'envoi reste un geste humain : le brouillon est prêt, la signature est de qui répond.
+
+- Comment on contrôle: 135 tests automatiques au vert, dont six parcours complets de l'e-mail au document généré.
+- Où passe la frontière: 100 % des communications sortantes passent par l'approbation d'un opérateur. Aucun envoi automatique, par choix de projet et non par limite technique.
+
+### 3. Équipes sur le terrain: Le planning des équipes liste aussi les interventions qu'on n'arrive pas à insérer, et pourquoi.
+
+Le programme peut laisser de côté une intervention, et le déclare avec un coût lié à la priorité, au lieu de produire un planning qui tient sur le papier et pas sur la route.
+
+La valeur n'est pas seulement le trajet le plus court : c'est de savoir ce qui reste dehors et pourquoi.
+
+Au lieu de forcer un programme infaisable, le programme peut laisser de côté une intervention et le déclare avec un coût lié à la priorité. Ce que le responsable reçoit, c'est un planning exécutable plus la liste motivée de ce qui n'était pas planifiable — capacité insuffisante, fenêtre horaire incompatible — au lieu d'interventions qui disparaissent en silence.
+
+Le temps de calcul aussi est déclaré au départ : c'est un paramètre de projet, pas un effet collatéral de la taille du problème.
+
+- Comment on contrôle: Les indicateurs restitués à chaque exécution — kilomètres, heures de conduite, saturation par équipage — rendent comparables deux plannings différents, ce qui est le seul moyen de savoir si le second est meilleur que le premier.
+- Limite déclarée: Aucune comparaison mesurée avant et après chez un client réel, donc aucun pourcentage d'économie déclaré.
+
+### 4. Services au public: Quand la reconnaissance par photo se trompe, la correction est déjà prévue et limitée.
+
+La correction proposée à la personne n'affiche que des alternatives visuellement proches, et pas les prix.
+
+Un système de reconnaissance mis entre les mains du public se juge à la façon dont il traite les cas où il se trompe.
+
+Ici la qualité de l'image est évaluée avant l'envoi, et il est demandé de la refaire quand elle est floue ou incomplète. Après la reconnaissance, la personne confirme ou corrige, mais la correction est conçue pour ne pas devenir une échappatoire : la liste des alternatives ne contient que des articles visuellement proches, et les prix ne sont pas visibles.
+
+La charge de la vérification se déplace sur l'utilisateur sans ouvrir la porte à l'abus, et c'est ce choix, plus que le modèle, qui détermine si le système tient en exploitation.
+
+- Comment on contrôle: Une suite de régression sur des images réelles avec vérité de référence déclarée : les modifications du modèle ou des instructions se mesurent sur un banc stable.
+- Limite déclarée: L'exactitude n'est pas encore un nombre déclarable, parce qu'une partie du banc est sans vérité de référence. Cela est dit, au lieu d'être estimé.
+
+### 5. Analyse et rapports: Les chiffres, c'est le code qui les calcule ; le récit, c'est l'IA qui l'écrit
+
+Aucun chiffre du rapport ne naît d'un modèle : les grandeurs sont calculées par un programme qui, sur les mêmes données figées, donne toujours le même résultat.
+
+Dans les rapports, la séparation est nette. Les grandeurs sont calculées par un programme qui, sur les mêmes données figées, donne toujours le même résultat, avec des tests qui les reproduisent identiques à chaque exécution ; le texte est écrit ancré à ces chiffres et aux citations réelles.
+
+Le document fini est ensuite relu par des personas synthétiques avec un seuil de qualité déclaré, en dessous duquel on ne livre pas.
+
+Et quand l'indicateur évident ne discrimine pas — des catégories où toutes les activités sont au-dessus de 4,8 étoiles — le rapport le dit, au lieu de construire dessus un verdict.
+
+- Comment on contrôle: Un réseau de tests reproduit les rapports déjà livrés octet par octet : une modification du code qui altérerait un chiffre déjà livré ne passe pas.
+- Comment est écrit chaque chiffre: Chaque chiffre porte son propre dénominateur et sa propre source. Les affirmations qui ne trouvent pas d'appui dans le corpus sont corrigées, même lorsqu'elles avaient déjà circulé.
 
 ## Signaux indiquant qu'il est temps d'intervenir.
 
@@ -1848,9 +2194,9 @@ Le projet travaille avec périmètres, accès, données et matériaux convenus. 
 
 <!-- https://ar-tik.com/fr/demarrage-operationnel/index.md -->
 
-# Une journée sur site. Il reste la procédure allumée, sur l'assistant au nom de l'entreprise.
+# Démarrage opérationnel : en un jour, on automatise un processus important, avec une procédure qui reste dans l'entreprise et que l'on peut utiliser tout de suite.
 
-L'entreprise peut utiliser l'intelligence artificielle tout de suite, sur les processus qui prennent le plus de temps. Ce n'est pas un cours. Ce n'est pas un logiciel. Le logiciel de gestion n'est pas touché.
+On part d'un travail qui aujourd'hui prend du temps : préparer une offre, rassembler les documents pour un client, comparer trois fournisseurs, trier le courrier de la semaine. En fin de journée, il reste une procédure automatique, que l'entreprise pourra utiliser en autonomie. Les fichiers restent dans l'entreprise. Sont exclues les intégrations sur mesure avec les logiciels déjà en usage. Ce n'est pas un cours et ce n'est pas un logiciel à installer : c'est l'automatisation d'un processus entier avec l'intelligence artificielle.
 
 ## Qu'est-ce que le Démarrage opérationnel.
 
@@ -1864,36 +2210,160 @@ Un travail à la fois, mené jusqu’au bout.
 
 Quelqu'un dans l'entreprise est responsable de la procédure. La procédure est écrite. La semaine suivante, on s'en sert. Une métrique est dite avant la journée, même grossière: le temps d'un brouillon à relire, pas un envoi tout seul.
 
+## Quand un travail est terminé
+
+Un travail est terminé lorsque quatre choses sont vraies ensemble : une personne dans l'entreprise a pour mission d'utiliser la procédure ; la procédure est écrite en français ; la mesure a été convenue avant la journée ; dans la semaine suivante, la procédure a été utilisée sur les fichiers réels.
+
 ## Comment ça se passe.
 
 1. **Le besoin**: On décrit le processus à alléger: qui l'exécute aujourd'hui, combien de fois par mois, où le temps se perd. Il n'est pas nécessaire de savoir quel outil acheter.
+   Entre: qui fait le travail aujourd'hui, combien de fois par mois, où le temps se perd · Reste: la description du travail · Qui décide: qui le fait aujourd'hui et la direction · Combien ça dure: un premier échange
 2. **La vérification**: On s'assure que la procédure est stable et descriptible, que les données existent et sont exportables, qu'une personne interne a le mandat de l'adopter, et qu'il ne reste pas de contraintes de confidentialité non résolues. Les blocages se découvrent ici, avant la proposition.
+   Entre: la description et un exemple de fichier · Reste: un avis écrit : cela tient en un jour ou non, et ce que l'on ne fera pas · Qui décide: Artik Lab · Combien ça dure: avant de proposer la journée
 3. **La proposition**: Elle indique l'activité, ce que contient la journée, quelles licences l'entreprise doit détenir à son nom, quels dossiers préparer. Artik Lab ne revend pas les licences et n'en répond pas.
+   Entre: l'avis · Reste: la proposition : quel travail, ce que contient la journée, quel abonnement activer, quels dossiers préparer · Qui décide: l'entreprise · Combien ça dure: le temps de la lire
 4. **L'environnement**: Il arrive déjà réglé, avec des données d'exemple. On peut l'ouvrir et l'essayer avant la rencontre.
+   Entre: les dossiers préparés · Reste: la procédure déjà réglée, avec des exemples, à essayer avant la rencontre · Qui décide: la personne chargée · Combien ça dure: avant la journée
 5. **Le premier test**: Une journée sur site: des exemples aux fichiers réels. En fin de journée il reste un résultat réel, pas un exercice. S'il apparaît que le processus doit changer, c'est du conseil, pas une extension de la journée.
+   Entre: les fichiers réels · Reste: un résultat réel et la procédure écrite · Qui décide: la personne chargée, avec Artik Lab dans la salle · Combien ça dure: un jour sur site
 
-## Les processus, pas les métiers.
+## Quelques exemples d'automatisation
 
-Les items sont des processus. Le secteur (cave, sous-traitant, chantier) est une étiquette dans les exemples, pas un droit d'entrée.
+Onze travaux répétitifs qui tiennent en un jour. Chaque exemple dit la situation d'aujourd'hui, ce qui reste en fin de journée, où la personne s'arrête et quand ce n'est pas adapté. Le secteur est un exemple, pas une condition : le document change, pas la méthode.
 
-### Offres et tarifs depuis le courrier et les fichiers
+### Offres et tarifs à partir du courrier et des fichiers
 
-Du courrier et des PDF à un brouillon d'offre ou de tarif à faire relire par qui vend. Une journée sur site. Le logiciel de gestion n'est pas touché.
+Une demande arrive par e-mail, souvent avec des PDF épars. Il faut un devis ou un tarif à jour avec les fiches jointes, et qui vend perd du temps à copier depuis trois dossiers.
 
+- En bref: Entre: e-mails et PDF de demande, tarif, fiches. Reste: le brouillon d'offre sur le modèle de l'entreprise, avec la liste de ce qui manque. Contrôle: qui vend, sur le prix, la remise et l'envoi.
+- En fin de journée, il reste : Une procédure qui, à partir de l'e-mail et des PDF, compose le brouillon d'offre ou de tarif sur le modèle de l'entreprise et signale ce qui manque. Le brouillon, c'est qui vend qui le relit.
+- Où la personne s'arrête: prix et remise; oui ou non à la demande; envoi au client.
+- Fichiers nécessaires: e-mails et PDF de demande; tarif interne; fiches produit; modèle d'offre.
+- Où cela arrive souvent: transformation alimentaire; mécanique à façon; bâtiment et installations.
+- Quand ce n'est pas adapté: Si le devis est un métré à partir d'un dessin ou une négociation : cela, c'est le métier, pas ce service.
+- Dans le formulaire : cocher «Offres, tarifs et fiches à assembler (courrier et PDF), à faire relire par qui vend.».
 - URL: https://ar-tik.com/fr/demarrage-operationnel/offres-depuis-le-courrier.html
 
-### Dans le formulaire, sans fiche à ce tour
+### La liasse de documents que l'on redemande à chaque fois
 
-- Le dossier de documents que clients, appels d'offres, auditeurs ou transitaires demandent à chaque fois.
-- Comparer trois offres fournisseurs et avoir un tableau avant que quelqu'un négocie.
-- Trier le courrier certifié et le courrier de la semaine.
-- Joindre fiches, certificats et packing list à une expédition ou à une commande déjà décidée.
-- Un rapport à partir d'un export Excel pour la direction ou le commercial.
-- Transformer les notes d'une réunion ou d'une visite en compte rendu et liste d'actions.
-- Préparer le brouillon de réponse à une réclamation ou une non-conformité, avec le registre mis à jour.
-- Tenir l'échéancier des attestations, polices, certifications et habilitations à partir des PDF.
-- Préparer fiches produit et tarifs dans une autre langue sur le modèle de l'entreprise, à faire relire.
-- Comparer la commande du client, la confirmation de commande et le bon de livraison et signaler les écarts avant l'expédition.
+Un client, un auditeur, un pouvoir adjudicateur ou un transitaire demande « les papiers ». Aujourd'hui la liasse se refait de zéro à chaque fois, en piochant dans la PEC, les dossiers et les portails d'où l'on télécharge un PDF.
+
+- En bref: Entre: demande du client ou de l'appel d'offres, liste des pièces, dossiers épars. Reste: liste de contrôle de la liasse et dossiers rangés, avec ce qu'il faut télécharger et ce qu'il faut demander en interne. Contrôle: qui remet la liasse.
+- En fin de journée, il reste : Une liste de contrôle de la liasse, les dossiers rangés et une procédure qui rassemble les documents déjà dans la maison, signale ceux qui sont échus ou manquants et prépare le dossier à remettre.
+- Où la personne s'arrête: contrôle final du dossier; demande des documents manquants; remise ou chargement.
+- Fichiers nécessaires: PDF déjà téléchargés : DURC, extraits, polices, certificats; liste de ce qui est demandé d'habitude; modèle de lettre d'accompagnement.
+- Où cela arrive souvent: bâtiment et installations; vin et export; mécanique pour appels d'offres et fournitures.
+- Quand ce n'est pas adapté: Signature du technicien, documents qui n'existent que dans des portails fermés, dépôt sur des plateformes d'appels d'offres ou conservation à la norme.
+- Dans le formulaire : cocher «Le dossier de documents que clients, appels d'offres, auditeurs ou transitaires demandent à chaque fois.».
+
+### Comparer trois offres de fournisseurs
+
+Trois PDF ou trois e-mails dans des formats différents, l'un incomplet. Il faut un tableau avec prix, délais, rendements et conditions avant que qui négocie s'assoie à table.
+
+- En bref: Entre: trois devis en désordre, critères de l'entreprise. Reste: tableau de comparaison prêt pour qui négocie. Contrôle: qui décide du fournisseur.
+- En fin de journée, il reste : Une grille de comparaison fixe de l'entreprise et une procédure qui reporte chaque offre sur la grille, met en évidence les écarts et les postes manquants et prépare les questions à poser aux fournisseurs.
+- Où la personne s'arrête: négociation et choix du fournisseur; commande dans le logiciel de gestion; recherche de nouveaux fournisseurs.
+- Fichiers nécessaires: offres reçues en PDF ou par e-mail; grille ou tableau de comparaison déjà en usage; historique des achats, s'il existe.
+- Où cela arrive souvent: achats alimentaires et emballages; mécanique et traitements; sous-traitance dans le bâtiment.
+- Quand ce n'est pas adapté: Si le choix dépend d'une négociation ouverte ou si les achats passent déjà par une plateforme avec son propre processus d'évaluation.
+- Dans le formulaire : cocher «Comparer trois offres fournisseurs et avoir un tableau avant que quelqu'un négocie.».
+
+### Courrier et PEC de la semaine
+
+Dans la boîte arrivent des commandes, des demandes de fiches, des relances, des non-conformités, des communications d'organismes. Il faut une liste claire : quoi faire, quoi transmettre au cabinet, quoi classer, quelle échéance.
+
+- En bref: Entre: boîte de la semaine, règles de tri. Reste: quoi faire, quoi transmettre, quoi classer — sans envoyer tout seul. Contrôle: qui gère le courrier.
+- En fin de journée, il reste : Des critères de tri écrits sur le type de courrier de l'entreprise, un modèle de transfert et une procédure qui, à partir d'une exportation de la boîte, produit la liste hebdomadaire avec les échéances.
+- Où la personne s'arrête: réponse et envoi; décisions sur les échéances; tout ce qui concerne les personnes, les paies ou les accidents du travail.
+- Fichiers nécessaires: exportation de la boîte en EML ou PDF; liste des expéditeurs et des thèmes récurrents; modèle de transfert vers le cabinet ou le service.
+- Où cela arrive souvent: tous les secteurs; PEC d'appel d'offres; entreprises avec domicile numérique obligatoire.
+- Quand ce n'est pas adapté: S'il faut entrer dans la boîte sans exporter, ou si l'on demande un envoi automatique des réponses.
+- Dans le formulaire : cocher «Trier le courrier certifié et le courrier de la semaine.».
+
+### Fiches, certificats et packing list à joindre
+
+La pièce, le lot ou l'installation est déjà décidé. Il manque le dossier qui accompagne l'expédition : fiche technique, certificat, packing list, visa, chacun dans un dossier différent.
+
+- En bref: Entre: fiches techniques et certificats en PDF, modèle de packing list, commande déjà décidée. Reste: le dossier prêt pour chaque commande ou expédition, avec l'ordre des pièces jointes et les manques signalés. Contrôle: qui contrôle le dossier avant le départ.
+- En fin de journée, il reste : Une procédure qui dit où sont les PDF, dans quel ordre on les joint et quoi signaler si une pièce manque, avec le dossier prêt pour chaque commande ou expédition.
+- Où la personne s'arrête: contrôle du dossier avant le départ; essai et mesures; signature des certificats.
+- Fichiers nécessaires: fiches techniques et certificats en PDF; modèle de packing list; commande ou confirmation déjà décidées.
+- Où cela arrive souvent: mécanique avec expéditions certifiées; alimentaire avec fiches et HACCP documentaire; vin avec packing list et origine.
+- Quand ce n'est pas adapté: Essai, mesures, HACCP en ligne et dessin restent dehors : ici on prépare le dossier, on ne certifie pas.
+- Dans le formulaire : cocher «Joindre fiches, certificats et packing list à une expédition ou à une commande déjà décidée.».
+
+### Un rapport à partir du fichier Excel déjà exporté du logiciel de l'entreprise
+
+Le dirigeant ou le commercial demande comment vont les clients, les commandes ou les ventes. Les données sont déjà dans le logiciel de gestion, mais elles sortent en Excel et le rapport se refait à la main chaque mois.
+
+- En bref: Entre: export Excel ou CSV du logiciel de gestion, modèle du rapport. Reste: listes et récapitulatif régénérés à chaque nouvel export, avec les règles écrites. Contrôle: qui lit le rapport et décide.
+- En fin de journée, il reste : Des règles écrites, par exemple depuis combien de mois un client est à l'arrêt ou comment on calcule le mix, et une procédure qui, à partir d'un nouvel export, régénère les listes et le récapitulatif pour qui doit le lire.
+- Où la personne s'arrête: lecture et décisions commerciales; contact avec les clients; correction des données dans le logiciel de gestion.
+- Fichiers nécessaires: export Excel ou CSV du logiciel de gestion; modèle du rapport que l'on prépare aujourd'hui; liste des questions récurrentes de la direction.
+- Où cela arrive souvent: commercial et ventes; commandes en mécanique; réalisés à partir des bons de livraison.
+- Quand ce n'est pas adapté: S'il n'existe pas d'exportation, ou si l'on demande une prévision : ici on remet en ordre ce qui est là, on ne prévoit pas.
+- Dans le formulaire : cocher «Un rapport à partir d'un export Excel pour la direction ou le commercial.».
+
+### Compte rendu et liste des actions à partir de notes de réunion
+
+Après une réunion ou une visite sur site restent des notes, des photos et, parfois, un enregistrement. Le compte rendu avec les décisions et les choses à faire arrive tard, ou n'arrive pas.
+
+- En bref: Entre: notes, photos ou transcription de la réunion, modèle de compte rendu. Reste: le brouillon de compte rendu avec décisions, actions, responsable et date. Contrôle: qui approuve le compte rendu et l'envoie.
+- En fin de journée, il reste : Un modèle de compte rendu de l'entreprise et une procédure qui, à partir des notes ou de la transcription, prépare le brouillon avec décisions, actions, responsable et date, à approuver avant de le faire circuler.
+- Où la personne s'arrête: approbation du compte rendu; attribution définitive des actions; envoi aux participants.
+- Fichiers nécessaires: notes, photos ou transcription de la réunion; modèle de compte rendu; liste des participants.
+- Où cela arrive souvent: chantiers et visites sur site; réunions de production; conseils et comités internes.
+- Quand ce n'est pas adapté: Enregistrements sans le consentement des présents, ou réunions où l'on parle de personnes : ce matériau ne se copie pas dans un dossier.
+- Dans le formulaire : cocher «Transformer les notes d'une réunion ou d'une visite en compte rendu et liste d'actions.».
+
+### Réponse aux réclamations et aux non-conformités
+
+Arrive l'e-mail d'un client avec des photos, un numéro de lot ou de commande et une demande. La réponse doit être bien écrite et vite, et le registre des non-conformités s'actualise à la main.
+
+- En bref: Entre: e-mail et pièces jointes du client, modèle de réponse, registre des non-conformités. Reste: le brouillon de réponse et la ligne pour le registre, avec les points à vérifier. Contrôle: qui décide de la réclamation et envoie la réponse.
+- En fin de journée, il reste : Une procédure qui rassemble les références (commande, lot, documents), prépare le brouillon de réponse sur le modèle de l'entreprise et la ligne pour le registre, avec les points à vérifier mis en évidence.
+- Où la personne s'arrête: décision sur la réclamation : accepter, refuser, rembourser; analyse de la cause; envoi de la réponse.
+- Fichiers nécessaires: e-mail et pièces jointes du client; modèle de réponse; registre des non-conformités en Excel.
+- Où cela arrive souvent: alimentaire et vin; mécanique et composants; fournitures sur catalogue.
+- Quand ce n'est pas adapté: Si l'on demande que la réponse parte toute seule, ou si la réclamation concerne la sécurité, la santé ou un contentieux : là, une personne décide, tout de suite.
+- Dans le formulaire : cocher «Préparer le brouillon de réponse à une réclamation ou une non-conformité, avec le registre mis à jour.».
+
+### Échéancier des documents et des certificats
+
+DURC, polices, certifications, habilitations, étalonnages des instruments : chacun avec son échéance, en PDF épars entre dossiers et e-mails. On s'aperçoit de l'échéance quand quelqu'un la demande.
+
+- En bref: Entre: PDF des documents avec échéance, liste de ce que demandent clients et auditeurs. Reste: le tableau des échéances et le mémo de ce qui échoit dans le mois. Contrôle: qui renouvelle les documents.
+- En fin de journée, il reste : Un tableau des échéances construit à partir des PDF, une procédure pour le mettre à jour quand un document nouveau arrive et un mémo de ce qui échoit dans le mois.
+- Où la personne s'arrête: renouvellement des documents; demande aux organismes ou aux fournisseurs; contrôle des dates ambiguës.
+- Fichiers nécessaires: PDF des documents avec échéance; liste de ce que demandent clients et auditeurs; éventuel tableau déjà en usage.
+- Où cela arrive souvent: bâtiment et installations; transport routier et logistique; qualité certifiée.
+- Quand ce n'est pas adapté: Documents qui n'existent que dans des portails fermés, ou échéances qui dépendent de calculs réglementaires : le tableau les enregistre, il ne les interprète pas.
+- Dans le formulaire : cocher «Tenir l'échéancier des attestations, polices, certifications et habilitations à partir des PDF.».
+
+### Fiches et tarifs en langue pour l'étranger
+
+La fiche produit et le tarif existent en italien. Le client étranger les veut dans sa langue, sur le modèle de l'entreprise, et aujourd'hui on traduit par morceaux avec le copier-coller.
+
+- En bref: Entre: fiches et tarifs en italien, modèle en langue, glossaire. Reste: le brouillon en langue sur le modèle choisi, avec la liste de ce qu'il faut relire. Contrôle: qui connaît la langue et le client, sur les textes juridiques, les prix et les conditions.
+- En fin de journée, il reste : Un glossaire des termes de l'entreprise, la procédure qui produit le brouillon en langue sur le modèle choisi et la liste de ce qu'il faut toujours relire avant l'envoi.
+- Où la personne s'arrête: relecture par qui connaît la langue et le client; textes juridiques et étiquettes; prix et conditions.
+- Fichiers nécessaires: fiches et tarifs en italien; modèle en langue, même imparfait; glossaire ou traductions déjà approuvées.
+- Où cela arrive souvent: agroalimentaire et vin; mécanique avec clients étrangers; composants et catalogues.
+- Quand ce n'est pas adapté: Traductions assermentées, étiquetage obligatoire et textes contractuels : ils restent à qui en répond.
+- Dans le formulaire : cocher «Préparer fiches produit et tarifs dans une autre langue sur le modèle de l'entreprise, à faire relire.».
+
+### Contrôle de cohérence entre commande, confirmation et bon de livraison
+
+La commande du client, la confirmation de commande et le bon de livraison devraient dire la même chose. Codes, quantités et prix se contrôlent à l'œil, et les écarts se découvrent à la facture ou à la réclamation.
+
+- En bref: Entre: commande du client, confirmation de commande, bon de livraison en PDF. Reste: la liste des écarts, classée par gravité, avant l'expédition ou la facture. Contrôle: qui corrige dans le logiciel de gestion et décide de ce qu'il faut expédier.
+- En fin de journée, il reste : Une procédure qui compare les trois documents en PDF et produit la liste des écarts, classée par gravité, avant l'expédition ou la facture.
+- Où la personne s'arrête: correction dans le logiciel de gestion; décision sur ce qu'il faut expédier; contact avec le client.
+- Fichiers nécessaires: commande du client en PDF ou par e-mail; confirmation de commande; bon de livraison.
+- Où cela arrive souvent: distribution et fournitures sur catalogue; mécanique à façon; alimentaire avec commandes fréquentes.
+- Quand ce n'est pas adapté: Si les documents ne peuvent pas s'exporter en PDF, ou si l'on demande d'émettre le bon de livraison : cela reste dans le logiciel de gestion.
+- Dans le formulaire : cocher «Comparer la commande du client, la confirmation de commande et le bon de livraison et signaler les écarts avant l'expédition.».
+
 
 ## Ce qui est compris. Ce qui est un deuxième jour.
 
@@ -1909,6 +2379,12 @@ Après une journée sur site, il reste l'assistant au nom de l'entreprise et la 
 - Devient du conseil: Intégration au logiciel de gestion, au courrier de l'entreprise ou à des portails fermés.
 - Compris dans la journée: Correction de ce que la journée a livré.
 - Devient du conseil: Formation étendue de l'organisation.
+
+## À qui s'adresse cette journée.
+
+**Pour qui c'est.** Une entreprise avec un travail qui se répète, une personne qui le fait aujourd'hui et des fichiers que l'on peut copier dans un dossier.
+
+**Pour qui ce service n'est pas.** Qui cherche un cours général sur l'intelligence artificielle, ou un système relié au logiciel de gestion : ce sont d'autres services, et ils sont sur cette même page.
 
 ## Prérequis.
 
@@ -1953,29 +2429,37 @@ Le rapport est une porte, pas le produit. On utilise le site public indiqué. Pa
 
 ## Questions fréquentes
 
-### Est-ce un cours?
+### Est-ce un cours ?
 
-Non. Un cours laisse des modèles et des critères. Le Démarrage laisse la procédure allumée, sur l'assistant au nom de l'entreprise, avec les fichiers qui restent dans l'entreprise.
+Non. Un cours laisse des modèles et des critères. Ici reste une procédure écrite, déjà réglée sur l'intelligence artificielle au nom de l'entreprise, avec les fichiers qui restent dans l'entreprise.
 
-### Touche-t-on le logiciel de gestion?
+### Fait-on des intégrations sur mesure avec les logiciels déjà en usage ?
 
-Non. S'il faut le toucher, ou changer le processus, c'est du conseil: un deuxième jour, un autre produit.
+Non. Elles sont exclues. S'il faut relier les systèmes déjà dans l'entreprise, c'est du conseil ou du développement logiciel : un autre travail.
 
-### Les données sortent-elles de l'entreprise?
+### Les données sortent-elles de l'entreprise ?
 
-Non. Les fichiers restent où ils sont. Artik Lab ne les emporte pas.
+Les fichiers restent dans l'entreprise. L'assistant est au nom de l'entreprise. Artik Lab ne les emporte pas.
 
-### Peut-on faire cinq travaux en même temps ?
+### Peut-on faire cinq travaux ensemble ?
 
-Non : un seul à la fois. La journée sert à laisser une procédure en usage, et une procédure en usage vaut plus que cinq ébauches.
+Non, un à la fois. La journée sert à laisser une procédure en usage, et une procédure en usage vaut plus que cinq ébauches.
 
-### Le rapport du formulaire est-il déjà le Démarrage?
+### L'avis du formulaire est-il déjà le service ?
 
-Non. Le rapport est une porte de faisabilité. Ensuite: s'il y a adéquation, vérification et journée; sinon, cours ou conseil.
+Non. Il sert seulement à comprendre si c'est adapté. Ensuite : si cela a du sens, vérification et journée ; sinon, cours ou conseil.
 
-### Combien ça coûte?
+### Combien cela coûte-t-il ?
 
-La proposition arrive après le rapport. Il n'y a pas de tarif sur cette page.
+La proposition arrive après l'avis. Sur cette page, il n'y a pas de tarif.
+
+### Combien d'activités peut-on faire, l'une après l'autre ?
+
+On décide avec l'entreprise, selon les besoins. Un travail à la fois, mené jusqu'au bout.
+
+### Peut-on utiliser une aide ou un fonds pour ce travail ?
+
+On peut demander une vérification d'éligibilité. Le travail doit de toute façon tenir sans aide : on ne promet ni appels à projets ni montants.
 
 <!-- https://ar-tik.com/fr/cours/index.md -->
 
@@ -2185,7 +2669,7 @@ Cours d'entreprise pratique pour appliquer l'IA à brand voice et communication,
 
 ### Recherche sémantique et bases de connaissance AI
 
-Cours d'entreprise pratique pour appliquer l'IA à recherche sémantique et bases de connaissance, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+Transformer archives et connaissance interne en recherche par le sens, avec les embeddings : représentations numériques du sens d'un texte.
 
 - Durée: 60-90 minuti o modulo breve
 - Le choisir si: Quand l'entreprise veut progresser concrètement sur recherche sémantique et bases de connaissance et a besoin d'une formation qui produit des flux de travail utilisables, pas de théorie abstraite.
@@ -2195,7 +2679,7 @@ Cours d'entreprise pratique pour appliquer l'IA à recherche sémantique et base
 
 ### RAG Engineering pour systèmes AI fiables
 
-Cours d'entreprise pratique pour appliquer l'IA à RAG engineering, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+Concevoir des systèmes RAG (Retrieval-Augmented Generation) : ils récupèrent les documents de l'entreprise et génèrent la réponse en les citant.
 
 - Durée: 5 heures, 2 sessions de 2,5 heures
 - Le choisir si: Quand l'entreprise veut progresser concrètement sur RAG engineering et a besoin d'une formation qui produit des flux de travail utilisables, pas de théorie abstraite.
@@ -2205,7 +2689,7 @@ Cours d'entreprise pratique pour appliquer l'IA à RAG engineering, avec exercic
 
 ### AI Coding Agents pour équipes software
 
-Cours d'entreprise pratique pour appliquer l'IA à agents IA pour le coding, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+Utiliser des agents de code comme pièces contrôlées du cycle logiciel : développement, revue, tests et mise en production, avec une responsabilité nommée.
 
 - Durée: 4 heures, 2 sessions de 2 heures
 - Le choisir si: Quand l'entreprise veut progresser concrètement sur agents IA pour le coding et a besoin d'une formation qui produit des flux de travail utilisables, pas de théorie abstraite.
@@ -2215,7 +2699,7 @@ Cours d'entreprise pratique pour appliquer l'IA à agents IA pour le coding, ave
 
 ### AI Software Engineering
 
-Cours d'entreprise pratique pour appliquer l'IA à ingénierie logicielle avec IA, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+Concevoir un logiciel AI-native, avec l'IA dans le produit et non à côté : architecture, évaluation et mise en production (go-live).
 
 - Durée: 5 heures, 2 sessions de 2,5 heures
 - Le choisir si: Quand l'entreprise veut progresser concrètement sur ingénierie logicielle avec IA et a besoin d'une formation qui produit des flux de travail utilisables, pas de théorie abstraite.
@@ -2225,7 +2709,7 @@ Cours d'entreprise pratique pour appliquer l'IA à ingénierie logicielle avec I
 
 ### Secure AI SDLC
 
-Cours d'entreprise pratique pour appliquer l'IA à cycle de vie sécurisé pour logiciel avec IA, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+Insérer des contrôles spécifiques à l'IA dans le cycle de développement : design (conception), build (construction), test, release (mise en production) et operation (exploitation).
 
 - Durée: 4-6 heures, personnalisables
 - Le choisir si: Quand l'entreprise veut progresser concrètement sur cycle de vie sécurisé pour logiciel avec IA et a besoin d'une formation qui produit des flux de travail utilisables, pas de théorie abstraite.
@@ -2362,6 +2846,12 @@ Matériaux réutilisables, exemples, checklists et prochaines étapes claires.
 
 Non. Le cours repose sur exercices pratiques et décisions proches du travail réel.
 
+## Cours associés
+
+- [Managing AI](https://ar-tik.com/fr/cours/managing-ai.md): Cours d'entreprise pratique pour appliquer l'IA à adoption managériale de l'IA, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [Managing AI pour équipes mixtes](https://ar-tik.com/fr/cours/managing-ai-general.md): Cours d'entreprise pratique pour appliquer l'IA à alignement IA interfonctionnel, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [Gouvernance IA opérationnelle](https://ar-tik.com/fr/cours/ai-governance.md): Cours d'entreprise pratique pour appliquer l'IA à gouvernance IA opérationnelle, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+
 [Retour au catalogue des cours](https://ar-tik.com/fr/cours/index.md)
 
 <!-- https://ar-tik.com/fr/cours/managing-ai.md -->
@@ -2454,6 +2944,12 @@ Matériaux réutilisables, exemples, checklists et prochaines étapes claires.
 ### Est-ce théorique?
 
 Non. Le cours repose sur exercices pratiques et décisions proches du travail réel.
+
+## Cours associés
+
+- [Managing AI pour équipes mixtes](https://ar-tik.com/fr/cours/managing-ai-general.md): Cours d'entreprise pratique pour appliquer l'IA à alignement IA interfonctionnel, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [Gouvernance IA opérationnelle](https://ar-tik.com/fr/cours/ai-governance.md): Cours d'entreprise pratique pour appliquer l'IA à gouvernance IA opérationnelle, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI Business Case & ROI Sprint](https://ar-tik.com/fr/cours/ai-business-case-roi.md): Cours d'entreprise pratique pour appliquer l'IA à business case et ROI de l'IA, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
 
 [Retour au catalogue des cours](https://ar-tik.com/fr/cours/index.md)
 
@@ -2548,6 +3044,12 @@ Matériaux réutilisables, exemples, checklists et prochaines étapes claires.
 
 Non. Le cours repose sur exercices pratiques et décisions proches du travail réel.
 
+## Cours associés
+
+- [Gouvernance IA opérationnelle](https://ar-tik.com/fr/cours/ai-governance.md): Cours d'entreprise pratique pour appliquer l'IA à gouvernance IA opérationnelle, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI Business Case & ROI Sprint](https://ar-tik.com/fr/cours/ai-business-case-roi.md): Cours d'entreprise pratique pour appliquer l'IA à business case et ROI de l'IA, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI Adoption Manager / AI Champions](https://ar-tik.com/fr/cours/ai-adoption-manager.md): Cours d'entreprise pratique pour appliquer l'IA à champions d'adoption IA, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+
 [Retour au catalogue des cours](https://ar-tik.com/fr/cours/index.md)
 
 <!-- https://ar-tik.com/fr/cours/ai-governance.md -->
@@ -2640,6 +3142,12 @@ Matériaux réutilisables, exemples, checklists et prochaines étapes claires.
 ### Est-ce théorique?
 
 Non. Le cours repose sur exercices pratiques et décisions proches du travail réel.
+
+## Cours associés
+
+- [AI Business Case & ROI Sprint](https://ar-tik.com/fr/cours/ai-business-case-roi.md): Cours d'entreprise pratique pour appliquer l'IA à business case et ROI de l'IA, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI Adoption Manager / AI Champions](https://ar-tik.com/fr/cours/ai-adoption-manager.md): Cours d'entreprise pratique pour appliquer l'IA à champions d'adoption IA, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI Literacy par rôle et usage responsable](https://ar-tik.com/fr/cours/ai-literacy.md): Cours d'entreprise pratique pour appliquer l'IA à culture IA par rôle, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
 
 [Retour au catalogue des cours](https://ar-tik.com/fr/cours/index.md)
 
@@ -2734,6 +3242,12 @@ Matériaux réutilisables, exemples, checklists et prochaines étapes claires.
 
 Non. Le cours repose sur exercices pratiques et décisions proches du travail réel.
 
+## Cours associés
+
+- [AI Adoption Manager / AI Champions](https://ar-tik.com/fr/cours/ai-adoption-manager.md): Cours d'entreprise pratique pour appliquer l'IA à champions d'adoption IA, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI Literacy par rôle et usage responsable](https://ar-tik.com/fr/cours/ai-literacy.md): Cours d'entreprise pratique pour appliquer l'IA à culture IA par rôle, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [Secure AI at Work](https://ar-tik.com/fr/cours/secure-ai-at-work.md): Cours d'entreprise pratique pour appliquer l'IA à usage sécurisé de l'IA au travail, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+
 [Retour au catalogue des cours](https://ar-tik.com/fr/cours/index.md)
 
 <!-- https://ar-tik.com/fr/cours/ai-adoption-manager.md -->
@@ -2826,6 +3340,12 @@ Matériaux réutilisables, exemples, checklists et prochaines étapes claires.
 ### Est-ce théorique?
 
 Non. Le cours repose sur exercices pratiques et décisions proches du travail réel.
+
+## Cours associés
+
+- [AI Literacy par rôle et usage responsable](https://ar-tik.com/fr/cours/ai-literacy.md): Cours d'entreprise pratique pour appliquer l'IA à culture IA par rôle, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [Secure AI at Work](https://ar-tik.com/fr/cours/secure-ai-at-work.md): Cours d'entreprise pratique pour appliquer l'IA à usage sécurisé de l'IA au travail, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI Output Quality & Human Review](https://ar-tik.com/fr/cours/ai-output-quality.md): Cours d'entreprise pratique pour appliquer l'IA à qualité des résultats IA et revue humaine, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
 
 [Retour au catalogue des cours](https://ar-tik.com/fr/cours/index.md)
 
@@ -2920,6 +3440,12 @@ Matériaux réutilisables, exemples, checklists et prochaines étapes claires.
 
 Non. Le cours repose sur exercices pratiques et décisions proches du travail réel.
 
+## Cours associés
+
+- [Secure AI at Work](https://ar-tik.com/fr/cours/secure-ai-at-work.md): Cours d'entreprise pratique pour appliquer l'IA à usage sécurisé de l'IA au travail, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI Output Quality & Human Review](https://ar-tik.com/fr/cours/ai-output-quality.md): Cours d'entreprise pratique pour appliquer l'IA à qualité des résultats IA et revue humaine, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [Managing AI](https://ar-tik.com/fr/cours/managing-ai.md): Cours d'entreprise pratique pour appliquer l'IA à adoption managériale de l'IA, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+
 [Retour au catalogue des cours](https://ar-tik.com/fr/cours/index.md)
 
 <!-- https://ar-tik.com/fr/cours/ai-documenti.md -->
@@ -3012,6 +3538,12 @@ Matériaux réutilisables, exemples, checklists et prochaines étapes claires.
 ### Est-ce théorique?
 
 Non. Le cours repose sur exercices pratiques et décisions proches du travail réel.
+
+## Cours associés
+
+- [Cours AI: marketing et communication AI driven](https://ar-tik.com/fr/cours/ai-marketing.md): Cours d'entreprise pratique pour appliquer l'IA à marketing et communication, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [Cours AI: vente B2C et B2B avec l'AI](https://ar-tik.com/fr/cours/ai-vendite.md): Cours d'entreprise pratique pour appliquer l'IA à vente B2B et B2C, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI pour administration et contrôle de gestion](https://ar-tik.com/fr/cours/ai-admin-finance.md): Cours d'entreprise pratique pour appliquer l'IA à administration et contrôle de gestion, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
 
 [Retour au catalogue des cours](https://ar-tik.com/fr/cours/index.md)
 
@@ -3106,6 +3638,12 @@ Matériaux réutilisables, exemples, checklists et prochaines étapes claires.
 
 Non. Le cours repose sur exercices pratiques et décisions proches du travail réel.
 
+## Cours associés
+
+- [Cours AI: vente B2C et B2B avec l'AI](https://ar-tik.com/fr/cours/ai-vendite.md): Cours d'entreprise pratique pour appliquer l'IA à vente B2B et B2C, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [Cours AI: gérer les documents avec l'AI](https://ar-tik.com/fr/cours/ai-documenti.md): Cours d'entreprise pratique pour appliquer l'IA à gestion documentaire, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI pour administration et contrôle de gestion](https://ar-tik.com/fr/cours/ai-admin-finance.md): Cours d'entreprise pratique pour appliquer l'IA à administration et contrôle de gestion, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+
 [Retour au catalogue des cours](https://ar-tik.com/fr/cours/index.md)
 
 <!-- https://ar-tik.com/fr/cours/ai-vendite.md -->
@@ -3198,6 +3736,12 @@ Matériaux réutilisables, exemples, checklists et prochaines étapes claires.
 ### Est-ce théorique?
 
 Non. Le cours repose sur exercices pratiques et décisions proches du travail réel.
+
+## Cours associés
+
+- [Cours AI: gérer les documents avec l'AI](https://ar-tik.com/fr/cours/ai-documenti.md): Cours d'entreprise pratique pour appliquer l'IA à gestion documentaire, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [Cours AI: marketing et communication AI driven](https://ar-tik.com/fr/cours/ai-marketing.md): Cours d'entreprise pratique pour appliquer l'IA à marketing et communication, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI pour administration et contrôle de gestion](https://ar-tik.com/fr/cours/ai-admin-finance.md): Cours d'entreprise pratique pour appliquer l'IA à administration et contrôle de gestion, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
 
 [Retour au catalogue des cours](https://ar-tik.com/fr/cours/index.md)
 
@@ -3292,6 +3836,12 @@ Matériaux réutilisables, exemples, checklists et prochaines étapes claires.
 
 Non. Le cours repose sur exercices pratiques et décisions proches du travail réel.
 
+## Cours associés
+
+- [AI Operations](https://ar-tik.com/fr/cours/ai-operations.md): Cours d'entreprise pratique pour appliquer l'IA à opérations et coordination des processus, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI Legal Ops et conformité documentaire](https://ar-tik.com/fr/cours/ai-legal-ops.md): Cours d'entreprise pratique pour appliquer l'IA à legal ops et conformité documentaire, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI pour procurement et supplier intelligence](https://ar-tik.com/fr/cours/ai-procurement.md): Cours d'entreprise pratique pour appliquer l'IA à procurement et supplier intelligence, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+
 [Retour au catalogue des cours](https://ar-tik.com/fr/cours/index.md)
 
 <!-- https://ar-tik.com/fr/cours/ai-operations.md -->
@@ -3384,6 +3934,12 @@ Matériaux réutilisables, exemples, checklists et prochaines étapes claires.
 ### Est-ce théorique?
 
 Non. Le cours repose sur exercices pratiques et décisions proches du travail réel.
+
+## Cours associés
+
+- [AI Legal Ops et conformité documentaire](https://ar-tik.com/fr/cours/ai-legal-ops.md): Cours d'entreprise pratique pour appliquer l'IA à legal ops et conformité documentaire, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI pour procurement et supplier intelligence](https://ar-tik.com/fr/cours/ai-procurement.md): Cours d'entreprise pratique pour appliquer l'IA à procurement et supplier intelligence, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI pour service client et triage de tickets](https://ar-tik.com/fr/cours/ai-customer-service.md): Cours d'entreprise pratique pour appliquer l'IA à service client et triage de tickets, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
 
 [Retour au catalogue des cours](https://ar-tik.com/fr/cours/index.md)
 
@@ -3478,6 +4034,12 @@ Matériaux réutilisables, exemples, checklists et prochaines étapes claires.
 
 Non. Le cours repose sur exercices pratiques et décisions proches du travail réel.
 
+## Cours associés
+
+- [AI pour procurement et supplier intelligence](https://ar-tik.com/fr/cours/ai-procurement.md): Cours d'entreprise pratique pour appliquer l'IA à procurement et supplier intelligence, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI pour service client et triage de tickets](https://ar-tik.com/fr/cours/ai-customer-service.md): Cours d'entreprise pratique pour appliquer l'IA à service client et triage de tickets, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI pour qualité et non-conformités](https://ar-tik.com/fr/cours/ai-quality-management.md): Cours d'entreprise pratique pour appliquer l'IA à qualité et non-conformités, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+
 [Retour au catalogue des cours](https://ar-tik.com/fr/cours/index.md)
 
 <!-- https://ar-tik.com/fr/cours/ai-procurement.md -->
@@ -3570,6 +4132,12 @@ Matériaux réutilisables, exemples, checklists et prochaines étapes claires.
 ### Est-ce théorique?
 
 Non. Le cours repose sur exercices pratiques et décisions proches du travail réel.
+
+## Cours associés
+
+- [AI pour service client et triage de tickets](https://ar-tik.com/fr/cours/ai-customer-service.md): Cours d'entreprise pratique pour appliquer l'IA à service client et triage de tickets, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI pour qualité et non-conformités](https://ar-tik.com/fr/cours/ai-quality-management.md): Cours d'entreprise pratique pour appliquer l'IA à qualité et non-conformités, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI People Ops](https://ar-tik.com/fr/cours/ai-people-ops.md): Cours d'entreprise pratique pour appliquer l'IA à People Ops et processus RH, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
 
 [Retour au catalogue des cours](https://ar-tik.com/fr/cours/index.md)
 
@@ -3664,6 +4232,12 @@ Matériaux réutilisables, exemples, checklists et prochaines étapes claires.
 
 Non. Le cours repose sur exercices pratiques et décisions proches du travail réel.
 
+## Cours associés
+
+- [AI pour qualité et non-conformités](https://ar-tik.com/fr/cours/ai-quality-management.md): Cours d'entreprise pratique pour appliquer l'IA à qualité et non-conformités, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI People Ops](https://ar-tik.com/fr/cours/ai-people-ops.md): Cours d'entreprise pratique pour appliquer l'IA à People Ops et processus RH, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI Brand Voice et communication](https://ar-tik.com/fr/cours/ai-brand-voice.md): Cours d'entreprise pratique pour appliquer l'IA à brand voice et communication, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+
 [Retour au catalogue des cours](https://ar-tik.com/fr/cours/index.md)
 
 <!-- https://ar-tik.com/fr/cours/ai-quality-management.md -->
@@ -3756,6 +4330,12 @@ Matériaux réutilisables, exemples, checklists et prochaines étapes claires.
 ### Est-ce théorique?
 
 Non. Le cours repose sur exercices pratiques et décisions proches du travail réel.
+
+## Cours associés
+
+- [AI People Ops](https://ar-tik.com/fr/cours/ai-people-ops.md): Cours d'entreprise pratique pour appliquer l'IA à People Ops et processus RH, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI Brand Voice et communication](https://ar-tik.com/fr/cours/ai-brand-voice.md): Cours d'entreprise pratique pour appliquer l'IA à brand voice et communication, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI pour administration et contrôle de gestion](https://ar-tik.com/fr/cours/ai-admin-finance.md): Cours d'entreprise pratique pour appliquer l'IA à administration et contrôle de gestion, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
 
 [Retour au catalogue des cours](https://ar-tik.com/fr/cours/index.md)
 
@@ -3850,6 +4430,12 @@ Matériaux réutilisables, exemples, checklists et prochaines étapes claires.
 
 Non. Le cours repose sur exercices pratiques et décisions proches du travail réel.
 
+## Cours associés
+
+- [AI Brand Voice et communication](https://ar-tik.com/fr/cours/ai-brand-voice.md): Cours d'entreprise pratique pour appliquer l'IA à brand voice et communication, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI pour administration et contrôle de gestion](https://ar-tik.com/fr/cours/ai-admin-finance.md): Cours d'entreprise pratique pour appliquer l'IA à administration et contrôle de gestion, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI Operations](https://ar-tik.com/fr/cours/ai-operations.md): Cours d'entreprise pratique pour appliquer l'IA à opérations et coordination des processus, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+
 [Retour au catalogue des cours](https://ar-tik.com/fr/cours/index.md)
 
 <!-- https://ar-tik.com/fr/cours/ai-brand-voice.md -->
@@ -3943,13 +4529,19 @@ Matériaux réutilisables, exemples, checklists et prochaines étapes claires.
 
 Non. Le cours repose sur exercices pratiques et décisions proches du travail réel.
 
+## Cours associés
+
+- [AI pour administration et contrôle de gestion](https://ar-tik.com/fr/cours/ai-admin-finance.md): Cours d'entreprise pratique pour appliquer l'IA à administration et contrôle de gestion, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI Operations](https://ar-tik.com/fr/cours/ai-operations.md): Cours d'entreprise pratique pour appliquer l'IA à opérations et coordination des processus, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [AI Legal Ops et conformité documentaire](https://ar-tik.com/fr/cours/ai-legal-ops.md): Cours d'entreprise pratique pour appliquer l'IA à legal ops et conformité documentaire, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+
 [Retour au catalogue des cours](https://ar-tik.com/fr/cours/index.md)
 
 <!-- https://ar-tik.com/fr/cours/embeddings.md -->
 
 # Recherche sémantique et bases de connaissance AI
 
-Cours d'entreprise pratique pour appliquer l'IA à recherche sémantique et bases de connaissance, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+Transformer archives et connaissance interne en recherche par le sens, avec les embeddings : représentations numériques du sens d'un texte.
 
 - Durée: 60-90 minuti o modulo breve
 - Modalité: Laboratoire en présentiel ou en ligne, avec exercices guidés et matériaux adaptés au client.
@@ -4036,13 +4628,19 @@ Matériaux réutilisables, exemples, checklists et prochaines étapes claires.
 
 Non. Le cours repose sur exercices pratiques et décisions proches du travail réel.
 
+## Cours associés
+
+- [RAG Engineering pour systèmes AI fiables](https://ar-tik.com/fr/cours/rag-engineering.md): Concevoir des systèmes RAG (Retrieval-Augmented Generation) : ils récupèrent les documents de l'entreprise et génèrent la réponse en les citant.
+- [AI Coding Agents pour équipes software](https://ar-tik.com/fr/cours/ai-coding-agents.md): Utiliser des agents de code comme pièces contrôlées du cycle logiciel : développement, revue, tests et mise en production, avec une responsabilité nommée.
+- [AI Software Engineering](https://ar-tik.com/fr/cours/ai-software-engineering.md): Concevoir un logiciel AI-native, avec l'IA dans le produit et non à côté : architecture, évaluation et mise en production (go-live).
+
 [Retour au catalogue des cours](https://ar-tik.com/fr/cours/index.md)
 
 <!-- https://ar-tik.com/fr/cours/rag-engineering.md -->
 
 # RAG Engineering pour systèmes AI fiables
 
-Cours d'entreprise pratique pour appliquer l'IA à RAG engineering, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+Concevoir des systèmes RAG (Retrieval-Augmented Generation) : ils récupèrent les documents de l'entreprise et génèrent la réponse en les citant.
 
 - Durée: 5 heures, 2 sessions de 2,5 heures
 - Modalité: Laboratoire en présentiel ou en ligne, avec exercices guidés et matériaux adaptés au client.
@@ -4129,13 +4727,19 @@ Matériaux réutilisables, exemples, checklists et prochaines étapes claires.
 
 Non. Le cours repose sur exercices pratiques et décisions proches du travail réel.
 
+## Cours associés
+
+- [AI Coding Agents pour équipes software](https://ar-tik.com/fr/cours/ai-coding-agents.md): Utiliser des agents de code comme pièces contrôlées du cycle logiciel : développement, revue, tests et mise en production, avec une responsabilité nommée.
+- [AI Software Engineering](https://ar-tik.com/fr/cours/ai-software-engineering.md): Concevoir un logiciel AI-native, avec l'IA dans le produit et non à côté : architecture, évaluation et mise en production (go-live).
+- [Secure AI SDLC](https://ar-tik.com/fr/cours/secure-ai-sdlc.md): Insérer des contrôles spécifiques à l'IA dans le cycle de développement : design (conception), build (construction), test, release (mise en production) et operation (exploitation).
+
 [Retour au catalogue des cours](https://ar-tik.com/fr/cours/index.md)
 
 <!-- https://ar-tik.com/fr/cours/ai-coding-agents.md -->
 
 # AI Coding Agents pour équipes software
 
-Cours d'entreprise pratique pour appliquer l'IA à agents IA pour le coding, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+Utiliser des agents de code comme pièces contrôlées du cycle logiciel : développement, revue, tests et mise en production, avec une responsabilité nommée.
 
 - Durée: 4 heures, 2 sessions de 2 heures
 - Modalité: Laboratoire en présentiel ou en ligne, avec exercices guidés et matériaux adaptés au client.
@@ -4222,13 +4826,19 @@ Matériaux réutilisables, exemples, checklists et prochaines étapes claires.
 
 Non. Le cours repose sur exercices pratiques et décisions proches du travail réel.
 
+## Cours associés
+
+- [AI Software Engineering](https://ar-tik.com/fr/cours/ai-software-engineering.md): Concevoir un logiciel AI-native, avec l'IA dans le produit et non à côté : architecture, évaluation et mise en production (go-live).
+- [Secure AI SDLC](https://ar-tik.com/fr/cours/secure-ai-sdlc.md): Insérer des contrôles spécifiques à l'IA dans le cycle de développement : design (conception), build (construction), test, release (mise en production) et operation (exploitation).
+- [Recherche sémantique et bases de connaissance AI](https://ar-tik.com/fr/cours/embeddings.md): Transformer archives et connaissance interne en recherche par le sens, avec les embeddings : représentations numériques du sens d'un texte.
+
 [Retour au catalogue des cours](https://ar-tik.com/fr/cours/index.md)
 
 <!-- https://ar-tik.com/fr/cours/ai-software-engineering.md -->
 
 # AI Software Engineering
 
-Cours d'entreprise pratique pour appliquer l'IA à ingénierie logicielle avec IA, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+Concevoir un logiciel AI-native, avec l'IA dans le produit et non à côté : architecture, évaluation et mise en production (go-live).
 
 - Durée: 5 heures, 2 sessions de 2,5 heures
 - Modalité: Laboratoire en présentiel ou en ligne, avec exercices guidés et matériaux adaptés au client.
@@ -4315,13 +4925,19 @@ Matériaux réutilisables, exemples, checklists et prochaines étapes claires.
 
 Non. Le cours repose sur exercices pratiques et décisions proches du travail réel.
 
+## Cours associés
+
+- [Secure AI SDLC](https://ar-tik.com/fr/cours/secure-ai-sdlc.md): Insérer des contrôles spécifiques à l'IA dans le cycle de développement : design (conception), build (construction), test, release (mise en production) et operation (exploitation).
+- [Recherche sémantique et bases de connaissance AI](https://ar-tik.com/fr/cours/embeddings.md): Transformer archives et connaissance interne en recherche par le sens, avec les embeddings : représentations numériques du sens d'un texte.
+- [RAG Engineering pour systèmes AI fiables](https://ar-tik.com/fr/cours/rag-engineering.md): Concevoir des systèmes RAG (Retrieval-Augmented Generation) : ils récupèrent les documents de l'entreprise et génèrent la réponse en les citant.
+
 [Retour au catalogue des cours](https://ar-tik.com/fr/cours/index.md)
 
 <!-- https://ar-tik.com/fr/cours/secure-ai-sdlc.md -->
 
 # Secure AI SDLC
 
-Cours d'entreprise pratique pour appliquer l'IA à cycle de vie sécurisé pour logiciel avec IA, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+Insérer des contrôles spécifiques à l'IA dans le cycle de développement : design (conception), build (construction), test, release (mise en production) et operation (exploitation).
 
 - Durée: 4-6 heures, personnalisables
 - Modalité: Laboratoire en présentiel ou en ligne, avec exercices guidés et matériaux adaptés au client.
@@ -4407,6 +5023,12 @@ Matériaux réutilisables, exemples, checklists et prochaines étapes claires.
 ### Est-ce théorique?
 
 Non. Le cours repose sur exercices pratiques et décisions proches du travail réel.
+
+## Cours associés
+
+- [Recherche sémantique et bases de connaissance AI](https://ar-tik.com/fr/cours/embeddings.md): Transformer archives et connaissance interne en recherche par le sens, avec les embeddings : représentations numériques du sens d'un texte.
+- [RAG Engineering pour systèmes AI fiables](https://ar-tik.com/fr/cours/rag-engineering.md): Concevoir des systèmes RAG (Retrieval-Augmented Generation) : ils récupèrent les documents de l'entreprise et génèrent la réponse en les citant.
+- [AI Coding Agents pour équipes software](https://ar-tik.com/fr/cours/ai-coding-agents.md): Utiliser des agents de code comme pièces contrôlées du cycle logiciel : développement, revue, tests et mise en production, avec une responsabilité nommée.
 
 [Retour au catalogue des cours](https://ar-tik.com/fr/cours/index.md)
 
@@ -4501,6 +5123,12 @@ Matériaux réutilisables, exemples, checklists et prochaines étapes claires.
 
 Non. Le cours repose sur exercices pratiques et décisions proches du travail réel.
 
+## Cours associés
+
+- [AI Output Quality & Human Review](https://ar-tik.com/fr/cours/ai-output-quality.md): Cours d'entreprise pratique pour appliquer l'IA à qualité des résultats IA et revue humaine, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [Managing AI](https://ar-tik.com/fr/cours/managing-ai.md): Cours d'entreprise pratique pour appliquer l'IA à adoption managériale de l'IA, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [Managing AI pour équipes mixtes](https://ar-tik.com/fr/cours/managing-ai-general.md): Cours d'entreprise pratique pour appliquer l'IA à alignement IA interfonctionnel, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+
 [Retour au catalogue des cours](https://ar-tik.com/fr/cours/index.md)
 
 <!-- https://ar-tik.com/fr/cours/ai-output-quality.md -->
@@ -4593,6 +5221,12 @@ Matériaux réutilisables, exemples, checklists et prochaines étapes claires.
 ### Est-ce théorique?
 
 Non. Le cours repose sur exercices pratiques et décisions proches du travail réel.
+
+## Cours associés
+
+- [Managing AI](https://ar-tik.com/fr/cours/managing-ai.md): Cours d'entreprise pratique pour appliquer l'IA à adoption managériale de l'IA, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [Managing AI pour équipes mixtes](https://ar-tik.com/fr/cours/managing-ai-general.md): Cours d'entreprise pratique pour appliquer l'IA à alignement IA interfonctionnel, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+- [Gouvernance IA opérationnelle](https://ar-tik.com/fr/cours/ai-governance.md): Cours d'entreprise pratique pour appliquer l'IA à gouvernance IA opérationnelle, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
 
 [Retour au catalogue des cours](https://ar-tik.com/fr/cours/index.md)
 

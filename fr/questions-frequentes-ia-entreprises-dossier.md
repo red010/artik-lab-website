@@ -29,6 +29,121 @@ Le dossier reprend questions et réponses visibles dans la page HTML et ajoute d
 ## Répertoire FAQ
 
 
+## Les questions qui bloquent la décision
+
+### Combien cela coûte-t-il ?
+
+La proposition arrive après l'avis ou après le premier échange.
+
+Sur ces pages, il n'y a pas de tarif.
+
+- ID: objection-cost
+- Domaine: Les questions qui bloquent la décision
+- Audience: dirigeants et propriétaires
+- Search intent: choix du parcours
+- Need signals: intérêt pour l'IA sans projet défini
+- Related services: Conseil managérial IA, Analyse de données agentique
+- Related courses: aucun
+- Risk or limit: Les réponses valent pour les services tels qu'ils sont décrits sur ces pages ; le cas précis se clarifie dans l'avis ou lors du premier échange.
+- Next step: Apporter le cas au premier échange avec processus, objectif, données disponibles et contraintes.
+
+### Où sont les données pendant le travail ?
+
+En Démarrage opérationnel, les fichiers restent dans les dossiers de l'entreprise et l'assistant est au nom de l'entreprise.
+
+Dans l'analyse de données, on travaille sur un extrait convenu, avec un périmètre écrit.
+
+- ID: objection-data
+- Domaine: Les questions qui bloquent la décision
+- Audience: dirigeants et propriétaires
+- Search intent: gestion du risque
+- Need signals: données personnelles ou confidentielles impliquées
+- Related services: Analyse de données agentique
+- Related courses: aucun
+- Risk or limit: Les réponses valent pour les services tels qu'ils sont décrits sur ces pages ; le cas précis se clarifie dans l'avis ou lors du premier échange.
+- Next step: Apporter le cas au premier échange avec processus, objectif, données disponibles et contraintes.
+
+### Le conseil sert-il ensuite à vendre un logiciel ?
+
+Le conseil n'est pas la porte du logiciel.
+
+Construire, si c'est nécessaire, est un choix ultérieur. Le Démarrage opérationnel ne relie pas le logiciel de gestion.
+
+- ID: objection-software
+- Domaine: Les questions qui bloquent la décision
+- Audience: dirigeants et propriétaires
+- Search intent: choix du parcours
+- Need signals: outils choisis avant le processus
+- Related services: Conseil managérial IA
+- Related courses: aucun
+- Risk or limit: Les réponses valent pour les services tels qu'ils sont décrits sur ces pages ; le cas précis se clarifie dans l'avis ou lors du premier échange.
+- Next step: Ouvrir un parcours de conseil pour clarifier priorités, gouvernance et feuille de route.
+
+### J'ai déjà suivi un cours sur l'IA. Est-ce encore utile ?
+
+Un cours laisse des modèles et des critères.
+
+Ici, en un jour, il reste une procédure en usage sur les fichiers de l'entreprise — ou une analyse qui dit si les données suffisent.
+
+- ID: objection-course-done
+- Domaine: Les questions qui bloquent la décision
+- Audience: dirigeants et propriétaires
+- Search intent: orientation initiale
+- Need signals: compétences IA non alignées entre rôles
+- Related services: Analyse de données agentique
+- Related courses: AI Workflow Redesign Lab
+- Risk or limit: Les réponses valent pour les services tels qu'ils sont décrits sur ces pages ; le cas précis se clarifie dans l'avis ou lors du premier échange.
+- Next step: Apporter le cas au premier échange avec processus, objectif, données disponibles et contraintes.
+
+### Quand voit-on quelque chose de concret ?
+
+Démarrage opérationnel : un jour sur site.
+
+Analyse : après l'extrait convenu. Premier échange : 30–45 minutes.
+
+- ID: objection-timing
+- Domaine: Les questions qui bloquent la décision
+- Audience: dirigeants et propriétaires
+- Search intent: orientation initiale
+- Need signals: décisions récurrentes lentes
+- Related services: Analyse de données agentique
+- Related courses: aucun
+- Risk or limit: Les réponses valent pour les services tels qu'ils sont décrits sur ces pages ; le cas précis se clarifie dans l'avis ou lors du premier échange.
+- Next step: Apporter le cas au premier échange avec processus, objectif, données disponibles et contraintes.
+
+### Peut-on utiliser une aide ou un fonds pour ce travail ?
+
+On peut demander une vérification d'éligibilité.
+
+Le travail doit de toute façon tenir sans aide : on ne promet ni appels à projets ni montants.
+
+- ID: objection-incentives
+- Domaine: Les questions qui bloquent la décision
+- Audience: dirigeants et propriétaires
+- Search intent: choix du parcours
+- Need signals: intérêt pour l'IA sans projet défini
+- Related services: Conseil managérial IA
+- Related courses: aucun
+- Risk or limit: Les réponses valent pour les services tels qu'ils sont décrits sur ces pages ; le cas précis se clarifie dans l'avis ou lors du premier échange.
+- Next step: Apporter le cas au premier échange avec processus, objectif, données disponibles et contraintes.
+
+### Combien d'activités peut-on faire, l'une après l'autre ?
+
+On décide avec l'entreprise, selon les besoins.
+
+Un travail à la fois, mené jusqu'au bout.
+
+- ID: objection-capacity
+- Domaine: Les questions qui bloquent la décision
+- Audience: dirigeants et propriétaires
+- Search intent: orientation initiale
+- Need signals: travail manuel répétitif
+- Related services: Conseil managérial IA
+- Related courses: aucun
+- Risk or limit: Les réponses valent pour les services tels qu'ils sont décrits sur ces pages ; le cas précis se clarifie dans l'avis ou lors du premier échange.
+- Next step: Apporter le cas au premier échange avec processus, objectif, données disponibles et contraintes.
+
+
 ## Par où commencer
 
 ### Par où commencer si l'entreprise n'a pas encore de projet IA défini?

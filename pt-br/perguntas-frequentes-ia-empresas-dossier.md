@@ -29,6 +29,121 @@ O dossiê reutiliza perguntas e respostas visíveis na página HTML e acrescenta
 ## Repertório FAQ
 
 
+## As perguntas que travam a decisão
+
+### Quanto custa?
+
+A proposta chega depois do parecer ou depois da primeira conversa.
+
+Nestas páginas não há tabela de preços.
+
+- ID: objection-cost
+- Área: As perguntas que travam a decisão
+- Audience: direção e sócios
+- Search intent: escolha da trilha
+- Need signals: interesse por IA sem projeto definido
+- Related services: Consultoria gerencial de IA, Análise de dados agêntica
+- Related courses: nenhum
+- Risk or limit: As respostas valem para os serviços como estão descritos nestas páginas; o caso específico se esclarece no parecer ou na primeira conversa.
+- Next step: Levar o caso à primeira conversa com processo, objetivo, dados disponíveis e restrições.
+
+### Onde ficam os dados durante o trabalho?
+
+Na Operação imediata os arquivos permanecem nas pastas da empresa e o assistente de inteligência artificial está no nome da empresa.
+
+Na análise de dados trabalha-se sobre um extrato combinado, com um perímetro escrito.
+
+- ID: objection-data
+- Área: As perguntas que travam a decisão
+- Audience: direção e sócios
+- Search intent: gestão de risco
+- Need signals: dados pessoais ou confidenciais envolvidos
+- Related services: Análise de dados agêntica
+- Related courses: nenhum
+- Risk or limit: As respostas valem para os serviços como estão descritos nestas páginas; o caso específico se esclarece no parecer ou na primeira conversa.
+- Next step: Levar o caso à primeira conversa com processo, objetivo, dados disponíveis e restrições.
+
+### A consultoria serve para vender um software depois?
+
+A consultoria não é a porta de entrada do software.
+
+Construir, se for preciso, é uma escolha posterior. A Operação imediata não liga o software de gestão da empresa.
+
+- ID: objection-software
+- Área: As perguntas que travam a decisão
+- Audience: direção e sócios
+- Search intent: escolha da trilha
+- Need signals: ferramentas escolhidas antes do processo
+- Related services: Consultoria gerencial de IA
+- Related courses: nenhum
+- Risk or limit: As respostas valem para os serviços como estão descritos nestas páginas; o caso específico se esclarece no parecer ou na primeira conversa.
+- Next step: Abrir uma trilha de consultoria para esclarecer prioridades, governança e roadmap.
+
+### Já fiz um curso de IA. Ainda é preciso?
+
+Um curso deixa modelos e critérios.
+
+Aqui, em um dia, fica um procedimento em uso sobre os arquivos da empresa — ou uma análise que diz se os dados bastam.
+
+- ID: objection-course-done
+- Área: As perguntas que travam a decisão
+- Audience: direção e sócios
+- Search intent: orientação inicial
+- Need signals: competências de IA desalinhadas entre funções
+- Related services: Análise de dados agêntica
+- Related courses: AI Workflow Redesign Lab
+- Risk or limit: As respostas valem para os serviços como estão descritos nestas páginas; o caso específico se esclarece no parecer ou na primeira conversa.
+- Next step: Levar o caso à primeira conversa com processo, objetivo, dados disponíveis e restrições.
+
+### Quando se vê algo concreto?
+
+Operação imediata: um dia na sede da empresa.
+
+Análise: depois do extrato combinado. Primeira conversa: 30–45 minutos.
+
+- ID: objection-timing
+- Área: As perguntas que travam a decisão
+- Audience: direção e sócios
+- Search intent: orientação inicial
+- Need signals: decisões recorrentes lentas
+- Related services: Análise de dados agêntica
+- Related courses: nenhum
+- Risk or limit: As respostas valem para os serviços como estão descritos nestas páginas; o caso específico se esclarece no parecer ou na primeira conversa.
+- Next step: Levar o caso à primeira conversa com processo, objetivo, dados disponíveis e restrições.
+
+### É possível usar um incentivo ou um fundo para este trabalho?
+
+É possível pedir uma verificação de elegibilidade.
+
+O trabalho precisa se sustentar sem incentivo: não se prometem editais nem valores.
+
+- ID: objection-incentives
+- Área: As perguntas que travam a decisão
+- Audience: direção e sócios
+- Search intent: escolha da trilha
+- Need signals: interesse por IA sem projeto definido
+- Related services: Consultoria gerencial de IA
+- Related courses: nenhum
+- Risk or limit: As respostas valem para os serviços como estão descritos nestas páginas; o caso específico se esclarece no parecer ou na primeira conversa.
+- Next step: Levar o caso à primeira conversa com processo, objetivo, dados disponíveis e restrições.
+
+### Quantas atividades é possível fazer, uma depois da outra?
+
+Decide-se com a empresa, conforme a necessidade.
+
+Um trabalho de cada vez, levado até o fim.
+
+- ID: objection-capacity
+- Área: As perguntas que travam a decisão
+- Audience: direção e sócios
+- Search intent: orientação inicial
+- Need signals: trabalho manual repetitivo
+- Related services: Consultoria gerencial de IA
+- Related courses: nenhum
+- Risk or limit: As respostas valem para os serviços como estão descritos nestas páginas; o caso específico se esclarece no parecer ou na primeira conversa.
+- Next step: Levar o caso à primeira conversa com processo, objetivo, dados disponíveis e restrições.
+
+
 ## Por onde começar
 
 ### Por onde começar se a empresa ainda não tem um projeto de IA definido?

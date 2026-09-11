@@ -1,6 +1,6 @@
 # Recherche sémantique et bases de connaissance AI
 
-Cours d'entreprise pratique pour appliquer l'IA à recherche sémantique et bases de connaissance, avec exercices sur travail réaliste, supports réutilisables et critères de gouvernance clairs.
+Transformer archives et connaissance interne en recherche par le sens, avec les embeddings : représentations numériques du sens d'un texte.
 
 - Durée: 60-90 minuti o modulo breve
 - Modalité: Laboratoire en présentiel ou en ligne, avec exercices guidés et matériaux adaptés au client.
@@ -86,5 +86,11 @@ Matériaux réutilisables, exemples, checklists et prochaines étapes claires.
 ### Est-ce théorique?
 
 Non. Le cours repose sur exercices pratiques et décisions proches du travail réel.
+
+## Cours associés
+
+- [RAG Engineering pour systèmes AI fiables](https://ar-tik.com/fr/cours/rag-engineering.md): Concevoir des systèmes RAG (Retrieval-Augmented Generation) : ils récupèrent les documents de l'entreprise et génèrent la réponse en les citant.
+- [AI Coding Agents pour équipes software](https://ar-tik.com/fr/cours/ai-coding-agents.md): Utiliser des agents de code comme pièces contrôlées du cycle logiciel : développement, revue, tests et mise en production, avec une responsabilité nommée.
+- [AI Software Engineering](https://ar-tik.com/fr/cours/ai-software-engineering.md): Concevoir un logiciel AI-native, avec l'IA dans le produit et non à côté : architecture, évaluation et mise en production (go-live).
 
 [Retour au catalogue des cours](https://ar-tik.com/fr/cours/index.md)

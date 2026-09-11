@@ -1,11 +1,11 @@
 # RAG Engineering per sistemi AI affidabili
 
-Progettare, valutare e portare in produzione architetture Retrieval-Augmented Generation basate su dati e documenti aziendali.
+Progettare, valutare e portare in produzione architetture RAG (Retrieval-Augmented Generation): sistemi che recuperano i documenti aziendali e generano la risposta citandoli.
 
 - Durata: 5 ore, 2 lezioni da 2,5 ore
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per team tecnici con basi di programmazione e architetture software.
-- Output finale: Architettura RAG target, evaluation set e checklist production-ready.
+- Output finale: Architettura RAG target (il sistema di risposta sulle fonti da costruire), evaluation set (l'insieme di prove con cui si misura la qualità) e checklist production-ready, cioè la lista di controllo prima dell'uso reale.
 - Sceglierlo se: Quando esistono knowledge base, documentazione tecnica, procedure, ticket, contratti o repository da rendere interrogabili senza perdere controllo su fonti e qualità.
 
 ## Il problema che risolve
@@ -23,8 +23,8 @@ Quando esistono knowledge base, documentazione tecnica, procedure, ticket, contr
 ## Risultati concreti
 
 - Disegnare architettura RAG target.
-- Impostare pipeline di ingestion.
-- Definire chunking e retrieval.
+- Impostare pipeline di ingestion, la catena che prepara e carica i documenti.
+- Definire chunking e retrieval: come spezzare i testi e come recuperarli al momento della domanda.
 - Costruire criteri di valutazione e metriche.
 - Gestire fonti, permessi, sicurezza e osservabilità.
 
@@ -87,5 +87,11 @@ Sì, se c'è familiarità con sistemi software e dati.
 ### Produce codice?
 
 Può includere prototipi, ma l'obiettivo è progettare sistemi robusti e valutabili.
+
+## Corsi collegati
+
+- [AI Coding Agents per team software](https://ar-tik.com/corsi/ai-coding-agents.md): Corso tecnico per usare agenti AI come componenti controllati del ciclo software: sviluppo, revisione, test e rilascio, con responsabilità dichiarate.
+- [AI Software Engineering](https://ar-tik.com/corsi/ai-software-engineering.md): Corso tecnico per portare disciplina ingegneristica nello sviluppo di funzionalità e prodotti AI.
+- [Secure AI SDLC](https://ar-tik.com/corsi/secure-ai-sdlc.md): Corso tecnico per inserire controlli AI-specifici nelle fasi del ciclo di sviluppo: design (progettazione), build (costruzione), test, release (rilascio) e operation (esercizio).
 
 [Torna al catalogo corsi](https://ar-tik.com/corsi/index.md)

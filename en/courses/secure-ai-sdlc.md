@@ -1,6 +1,6 @@
 # Secure AI SDLC
 
-Practical corporate course for applying AI to secure AI software lifecycle, with exercises on realistic work, reusable materials and clear governance criteria.
+Put AI-specific controls into the software lifecycle: design, build, test, release and operation (planning, construction, testing, release and running in production).
 
 - Duration: 4-6 hours, customisable
 - Mode: In-person or online lab, with guided exercises and materials adapted to the client.
@@ -86,5 +86,11 @@ Reusable materials, examples, checklists and a clear set of next steps.
 ### Is it theoretical?
 
 No. The course is built around practical exercises and decisions close to real work.
+
+## Related courses
+
+- [Semantic search and AI knowledge bases](https://ar-tik.com/en/courses/embeddings.md): Turn archives and internal knowledge into search by meaning, with embeddings: numerical representations of the meaning of a text.
+- [RAG Engineering for reliable AI systems](https://ar-tik.com/en/courses/rag-engineering.md): Design RAG (Retrieval-Augmented Generation) systems: they retrieve company documents and generate the answer citing them.
+- [AI Coding Agents for software teams](https://ar-tik.com/en/courses/ai-coding-agents.md): Use coding agents as controlled parts of the software cycle: development, review, tests and release, with named responsibility.
 
 [Back to the course catalog](https://ar-tik.com/en/courses/index.md)

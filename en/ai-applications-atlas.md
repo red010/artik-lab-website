@@ -1,14 +1,14 @@
-# What AI can do inside a company.
+# What can be done with AI in a company.
 
-A public map of concrete examples to recognise where artificial intelligence can reduce time, errors, risk or decision delays in company workflows.
+A public map of concrete examples to recognise where artificial intelligence can reduce times, errors, risks or decision delays in company processes.
 
-## The Atlas is not a rigid product catalog.
+## Each card is an example of work, not a product to buy.
 
-Each card describes an application pattern: what input enters, what output can be produced, what business value it can create and which controls remain human. Artik Lab always starts from a discovery call and designs solutions around the client's context.
+Each card describes an example of use: which data or materials go in, which result can be produced, which company value it can generate and which checks stay human. Artik Lab always starts from a first diagnostic conversation and designs specific solutions on the client's context.
 
 ## Explore by area, need or process.
 
-Applications are examples: they help formulate better questions before choosing training, consulting, data analysis or technical software development.
+The applications are examples: they help formulate better questions before choosing training, consulting, data analysis or technical software development.
 
 Dataset JSON: https://ar-tik.com/data/ai-applications.en.json
 Dossier LLM: https://ar-tik.com/en/ai-applications-atlas-dossier.md
@@ -26,7 +26,7 @@ Dossier LLM: https://ar-tik.com/en/ai-applications-atlas-dossier.md
 - Data science and decisions: 5. When histories, KPIs or signals need validation before anything is built.
 - Cross-functional tools: 2. When AI is needed to explore, synthesise or prepare cross-functional decisions.
 
-## What AI can do inside a company.
+## What can be done with AI in a company.
 
 ### Extract data from documents and scans
 
@@ -34,8 +34,8 @@ PDFs, images and forms become text, tables and structured fields reusable in com
 
 - Operating example: When a process shows a similar need, pdfs and attachments are used to produce structured database and support time reduction, with human review recommended.
 - Area: Documents and knowledge
-- Input: PDFs and attachments, scans and images, completed forms
-- Output: structured database, operational report
+- What goes in: PDFs and attachments, scans and images, completed forms
+- What comes out: structured database, operational report
 - Value: time reduction, fewer errors, traceability
 - Need signals: scattered documents that are hard to consult, manual copying between emails, spreadsheets and systems
 - Human review: recommended
@@ -47,8 +47,8 @@ Reports, contracts, specifications and procedures are compared to find discrepan
 
 - Operating example: When a process shows a similar need, pdfs and attachments are used to produce operational report and support fewer errors, with human review required.
 - Area: Documents and knowledge
-- Input: PDFs and attachments, internal documentation, contracts and policies, tenders and specifications
-- Output: operational report, risk map
+- What goes in: PDFs and attachments, internal documentation, contracts and policies, tenders and specifications
+- What comes out: operational report, risk map
 - Value: fewer errors, risk reduction, traceability
 - Need signals: recurring errors in documents, procedures or controls, scattered documents that are hard to consult
 - Human review: required
@@ -60,8 +60,8 @@ Manuals, procedures and knowledge bases become semantic search with answers grou
 
 - Operating example: When a process shows a similar need, internal documentation are used to produce semantic search and support transferable knowledge, with human review recommended.
 - Area: Documents and knowledge
-- Input: internal documentation, PDFs and attachments, manuals and training material
-- Output: semantic search, FAQs and answers
+- What goes in: internal documentation, PDFs and attachments, manuals and training material
+- What comes out: semantic search, FAQs and answers
 - Value: transferable knowledge, faster decisions, more consistent service
 - Need signals: scattered documents that are hard to consult, critical knowledge concentrated in a few people
 - Human review: recommended
@@ -73,8 +73,8 @@ Transcripts and threads are cleaned, summarised and converted into traceable dec
 
 - Operating example: When a process shows a similar need, emails and tickets are used to produce actionable digest and support traceability, with human review recommended.
 - Area: Operations
-- Input: emails and tickets, transcripts and notes, tickets and requests
-- Output: actionable digest, roadmap and priorities
+- What goes in: emails and tickets, transcripts and notes, tickets and requests
+- What comes out: actionable digest, roadmap and priorities
 - Value: traceability, faster decisions, transferable knowledge
 - Need signals: recurring decisions that are slow or based on incomplete information, critical knowledge concentrated in a few people
 - Human review: recommended
@@ -86,8 +86,8 @@ Reports, letters, contracts, FAQs and communications are produced from data and 
 
 - Operating example: When a process shows a similar need, structured database are used to produce controlled drafts and support time reduction, with human review required.
 - Area: Documents and knowledge
-- Input: structured database, internal documentation, contracts and policies
-- Output: controlled drafts, FAQs and answers
+- What goes in: structured database, internal documentation, contracts and policies
+- What comes out: controlled drafts, FAQs and answers
 - Value: time reduction, fewer errors, more governable compliance
 - Need signals: manual copying between emails, spreadsheets and systems, recurring errors in documents, procedures or controls
 - Human review: required
@@ -99,8 +99,8 @@ Real work is reconstructed as-is, read for bottlenecks and transformed into a to
 
 - Operating example: When a process shows a similar need, transcripts and notes are used to produce roadmap and priorities and support clearer priorities, with human review recommended.
 - Area: Operations
-- Input: transcripts and notes, logs and process states, emails and tickets, spreadsheets
-- Output: roadmap and priorities, business case
+- What goes in: transcripts and notes, logs and process states, emails and tickets, spreadsheets
+- What comes out: roadmap and priorities, business case
 - Value: clearer priorities, faster decisions, avoided costs
 - Need signals: recurring decisions that are slow or based on incomplete information, manual copying between emails, spreadsheets and systems, AI already used without shared rules
 - Human review: recommended
@@ -112,8 +112,8 @@ Incoming communications are classified by urgency, topic, responsibility and req
 
 - Operating example: When a process shows a similar need, emails and tickets are used to produce actionable digest and support time reduction, with human review recommended.
 - Area: Operations
-- Input: emails and tickets, tickets and requests, internal documentation
-- Output: actionable digest, controlled drafts, priority ranking
+- What goes in: emails and tickets, tickets and requests, internal documentation
+- What comes out: actionable digest, controlled drafts, priority ranking
 - Value: time reduction, more consistent service, clearer priorities
 - Need signals: manual copying between emails, spreadsheets and systems, recurring decisions that are slow or based on incomplete information
 - Human review: recommended
@@ -125,8 +125,8 @@ Availability, constraints, skills, leave and demand are combined to propose feas
 
 - Operating example: When a process shows a similar need, spreadsheets are used to produce plan and assignments and support production efficiency, with human review required.
 - Area: Operations
-- Input: spreadsheets, ERP and business systems, KPIs and time series
-- Output: plan and assignments, dashboards and filtered views
+- What goes in: spreadsheets, ERP and business systems, KPIs and time series
+- What comes out: plan and assignments, dashboards and filtered views
 - Value: production efficiency, faster decisions, avoided costs
 - Need signals: planning that is still highly manual, historical data available but not turned into signals
 - Human review: required
@@ -138,8 +138,8 @@ Historical orders, revenue, tickets or production become operating forecasts for
 
 - Operating example: When a process shows a similar need, transactions and purchases are used to produce verifiable forecast and support faster decisions, with human review recommended.
 - Area: Operations
-- Input: transactions and purchases, KPIs and time series, production data
-- Output: verifiable forecast, dashboards and filtered views
+- What goes in: transactions and purchases, KPIs and time series, production data
+- What comes out: verifiable forecast, dashboards and filtered views
 - Value: faster decisions, avoided costs, production efficiency
 - Need signals: historical data available but not turned into signals, planning that is still highly manual
 - Human review: recommended
@@ -151,8 +151,8 @@ Project meetings and documents feed an evolving dossier with requirements, laten
 
 - Operating example: When a process shows a similar need, transcripts and notes are used to produce roadmap and priorities and support traceability, with human review required.
 - Area: Operations
-- Input: transcripts and notes, requirements and specifications, internal documentation
-- Output: roadmap and priorities, risk map
+- What goes in: transcripts and notes, requirements and specifications, internal documentation
+- What comes out: roadmap and priorities, risk map
 - Value: traceability, fewer errors, transferable knowledge
 - Need signals: recurring decisions that are slow or based on incomplete information, critical knowledge concentrated in a few people
 - Human review: required
@@ -164,8 +164,8 @@ Unstructured texts are aggregated by theme, sentiment, recurring needs and prior
 
 - Operating example: When a process shows a similar need, text feedback are used to produce operational report and support more consistent service, with human review recommended.
 - Area: Customer, marketing and sales
-- Input: text feedback, tickets and requests, public sources
-- Output: operational report, priority ranking
+- What goes in: text feedback, tickets and requests, public sources
+- What comes out: operational report, priority ranking
 - Value: more consistent service, recovered commercial value, clearer priorities
 - Need signals: abundant feedback that is not analysed, recurring decisions that are slow or based on incomplete information
 - Human review: recommended
@@ -177,8 +177,8 @@ Public sources and provided material are synthesised into maps of pain points, l
 
 - Operating example: When a process shows a similar need, public sources are used to produce operational report and support recovered commercial value, with human review recommended.
 - Area: Customer, marketing and sales
-- Input: public sources, text feedback, internal documentation
-- Output: operational report, business case
+- What goes in: public sources, text feedback, internal documentation
+- What comes out: operational report, business case
 - Value: recovered commercial value, clearer priorities, faster decisions
 - Need signals: abundant feedback that is not analysed, recurring decisions that are slow or based on incomplete information
 - Human review: recommended
@@ -190,8 +190,8 @@ Interviews, approved examples and commercial material become operating guideline
 
 - Operating example: When a process shows a similar need, internal documentation are used to produce policies and guardrails and support time reduction, with human review required.
 - Area: Customer, marketing and sales
-- Input: internal documentation, text feedback, public sources
-- Output: policies and guardrails, controlled drafts
+- What goes in: internal documentation, text feedback, public sources
+- What comes out: policies and guardrails, controlled drafts
 - Value: time reduction, recovered commercial value, traceability
 - Need signals: recurring errors in documents, procedures or controls, manual copying between emails, spreadsheets and systems
 - Human review: required
@@ -203,8 +203,8 @@ Purchase history, catalogs and competitive information help build pitches, bundl
 
 - Operating example: When a process shows a similar need, transactions and purchases are used to produce operational recommendations and support recovered commercial value, with human review required.
 - Area: Customer, marketing and sales
-- Input: transactions and purchases, internal documentation, public sources
-- Output: operational recommendations, business case
+- What goes in: transactions and purchases, internal documentation, public sources
+- What comes out: operational recommendations, business case
 - Value: recovered commercial value, faster decisions, clearer priorities
 - Need signals: historical data available but not turned into signals, recurring decisions that are slow or based on incomplete information
 - Human review: required
@@ -216,8 +216,8 @@ Skills, roles, future goals and trends are connected to define development, upsk
 
 - Operating example: When a process shows a similar need, aggregated hr data are used to produce roadmap and priorities and support transferable knowledge, with human review required.
 - Area: People and HR
-- Input: aggregated HR data, internal documentation, public sources
-- Output: roadmap and priorities, operational report
+- What goes in: aggregated HR data, internal documentation, public sources
+- What comes out: roadmap and priorities, operational report
 - Value: transferable knowledge, clearer priorities, faster training
 - Need signals: critical knowledge concentrated in a few people, AI already used without shared rules
 - Human review: required
@@ -229,8 +229,8 @@ Job descriptions, applications and onboarding material are structured to prepare
 
 - Operating example: When a process shows a similar need, cvs and applications are used to produce operational report and support time reduction, with human review required.
 - Area: People and HR
-- Input: CVs and applications, aggregated HR data, manuals and training material
-- Output: operational report, controlled drafts
+- What goes in: CVs and applications, aggregated HR data, manuals and training material
+- What comes out: operational report, controlled drafts
 - Value: time reduction, fewer errors, faster training
 - Need signals: manual copying between emails, spreadsheets and systems, critical knowledge concentrated in a few people
 - Human review: required
@@ -242,8 +242,8 @@ Policies, benefits, procedures and recurring requests become FAQs, drafts and gu
 
 - Operating example: When a process shows a similar need, aggregated hr data are used to produce faqs and answers and support more consistent service, with human review required.
 - Area: People and HR
-- Input: aggregated HR data, internal documentation, contracts and policies
-- Output: FAQs and answers, controlled drafts
+- What goes in: aggregated HR data, internal documentation, contracts and policies
+- What comes out: FAQs and answers, controlled drafts
 - Value: more consistent service, time reduction, more governable compliance
 - Need signals: manual copying between emails, spreadsheets and systems, scattered documents that are hard to consult
 - Human review: required
@@ -255,8 +255,8 @@ A technical need becomes requirements, user stories, non-functional constraints,
 
 - Operating example: When a process shows a similar need, requirements and specifications are used to produce roadmap and priorities and support fewer errors, with human review required.
 - Area: Technical and software
-- Input: requirements and specifications, transcripts and notes, internal documentation
-- Output: roadmap and priorities, tests and checklists
+- What goes in: requirements and specifications, transcripts and notes, internal documentation
+- What comes out: roadmap and priorities, tests and checklists
 - Value: fewer errors, traceability, avoided costs
 - Need signals: recurring decisions that are slow or based on incomplete information, recurring errors in documents, procedures or controls
 - Human review: required
@@ -268,8 +268,8 @@ Existing code and specifications guide controlled code generation, unit tests, r
 
 - Operating example: When a process shows a similar need, code and repositories are used to produce tests and checklists and support time reduction, with human review required.
 - Area: Technical and software
-- Input: code and repositories, requirements and specifications
-- Output: tests and checklists, operational report
+- What goes in: code and repositories, requirements and specifications
+- What comes out: tests and checklists, operational report
 - Value: time reduction, fewer errors, traceability
 - Need signals: recurring errors in documents, procedures or controls, manual copying between emails, spreadsheets and systems
 - Human review: required
@@ -281,8 +281,8 @@ Tenders, specifications, reports and technical sheets are analysed for critical 
 
 - Operating example: When a process shows a similar need, tenders and specifications are used to produce operational report and support risk reduction, with human review required.
 - Area: Technical and software
-- Input: tenders and specifications, internal documentation, technical drawings
-- Output: operational report, controlled drafts, risk map
+- What goes in: tenders and specifications, internal documentation, technical drawings
+- What comes out: operational report, controlled drafts, risk map
 - Value: risk reduction, fewer errors, traceability
 - Need signals: scattered documents that are hard to consult, recurring errors in documents, procedures or controls
 - Human review: required
@@ -294,8 +294,8 @@ Photos, drawings and renders become descriptive sheets, component analyses, dime
 
 - Operating example: When a process shows a similar need, operational photos are used to produce operational report and support transferable knowledge, with human review required.
 - Area: Technical and software
-- Input: operational photos, technical drawings, internal documentation
-- Output: operational report, controlled drafts
+- What goes in: operational photos, technical drawings, internal documentation
+- What comes out: operational report, controlled drafts
 - Value: transferable knowledge, faster decisions, fewer errors
 - Need signals: critical knowledge concentrated in a few people, scattered documents that are hard to consult
 - Human review: required
@@ -307,8 +307,8 @@ Activities, data and decisions are classified into autonomy, supervision or excl
 
 - Operating example: When a process shows a similar need, internal documentation are used to produce policies and guardrails and support risk reduction, with human review required.
 - Area: Governance, compliance and risk
-- Input: internal documentation, policies and guidelines, transcripts and notes
-- Output: policies and guardrails, risk map, roadmap and priorities
+- What goes in: internal documentation, policies and guidelines, transcripts and notes
+- What comes out: policies and guardrails, risk map, roadmap and priorities
 - Value: risk reduction, more governable compliance, clearer priorities
 - Need signals: AI already used without shared rules, recurring decisions that are slow or based on incomplete information
 - Human review: required
@@ -320,8 +320,8 @@ Contracts, notices, registers, procedures and letters are prepared as preliminar
 
 - Operating example: When a process shows a similar need, contracts and policies are used to produce controlled drafts and support time reduction, with human review required.
 - Area: Governance, compliance and risk
-- Input: contracts and policies, internal documentation, completed forms
-- Output: controlled drafts, risk map
+- What goes in: contracts and policies, internal documentation, completed forms
+- What comes out: controlled drafts, risk map
 - Value: time reduction, more governable compliance, risk reduction
 - Need signals: manual copying between emails, spreadsheets and systems, recurring errors in documents, procedures or controls
 - Human review: required
@@ -333,8 +333,8 @@ Chatbots and assistants are stressed with manipulation, data leakage and conflic
 
 - Operating example: When a process shows a similar need, internal documentation are used to produce tests and checklists and support risk reduction, with human review required.
 - Area: Governance, compliance and risk
-- Input: internal documentation, requirements and specifications, policies and guidelines
-- Output: tests and checklists, policies and guardrails, operational report
+- What goes in: internal documentation, requirements and specifications, policies and guidelines
+- What comes out: tests and checklists, policies and guardrails, operational report
 - Value: risk reduction, more governable compliance, more consistent service
 - Need signals: AI already used without shared rules, recurring errors in documents, procedures or controls
 - Human review: required
@@ -346,8 +346,8 @@ Site or department photos are read to identify non-compliance, risks and prevent
 
 - Operating example: When a process shows a similar need, operational photos are used to produce operational report and support risk reduction, with human review required.
 - Area: Production, quality and maintenance
-- Input: operational photos, internal documentation
-- Output: operational report, risk map
+- What goes in: operational photos, internal documentation
+- What comes out: operational report, risk map
 - Value: risk reduction, faster decisions, more governable compliance
 - Need signals: recurring errors in documents, procedures or controls, manual copying between emails, spreadsheets and systems
 - Human review: required
@@ -359,8 +359,8 @@ Customer schedules, ERP, cycles, non-conformities and historical costs support p
 
 - Operating example: When a process shows a similar need, erp and business systems are used to produce plan and assignments and support production efficiency, with human review required.
 - Area: Production, quality and maintenance
-- Input: ERP and business systems, production data, spreadsheets
-- Output: plan and assignments, operational report, operational recommendations
+- What goes in: ERP and business systems, production data, spreadsheets
+- What comes out: plan and assignments, operational report, operational recommendations
 - Value: production efficiency, fewer errors, avoided costs
 - Need signals: planning that is still highly manual, recurring errors in documents, procedures or controls
 - Human review: required
@@ -372,8 +372,8 @@ Failure history, sensors and interventions become control priorities, maintenanc
 
 - Operating example: When a process shows a similar need, sensors and telemetry are used to produce alerts and thresholds and support production efficiency, with human review required.
 - Area: Production, quality and maintenance
-- Input: sensors and telemetry, production data, logs and process states
-- Output: alerts and thresholds, priority ranking, dashboards and filtered views
+- What goes in: sensors and telemetry, production data, logs and process states
+- What comes out: alerts and thresholds, priority ranking, dashboards and filtered views
 - Value: production efficiency, avoided costs, risk reduction
 - Need signals: historical data available but not turned into signals, planning that is still highly manual
 - Human review: required
@@ -385,8 +385,8 @@ Manuals, slides and scattered documents become syllabi, quizzes, case studies an
 
 - Operating example: When a process shows a similar need, manuals and training material are used to produce faqs and answers and support faster training, with human review recommended.
 - Area: Training and internal memory
-- Input: manuals and training material, internal documentation, transcripts and notes
-- Output: FAQs and answers, controlled drafts
+- What goes in: manuals and training material, internal documentation, transcripts and notes
+- What comes out: FAQs and answers, controlled drafts
 - Value: faster training, transferable knowledge, more consistent service
 - Need signals: critical knowledge concentrated in a few people, scattered documents that are hard to consult
 - Human review: recommended
@@ -398,8 +398,8 @@ Internal documentation feeds Q&A assistants, including voice interfaces, that an
 
 - Operating example: When a process shows a similar need, internal documentation are used to produce semantic search and support transferable knowledge, with human review required.
 - Area: Training and internal memory
-- Input: internal documentation, manuals and training material, policies and guidelines
-- Output: semantic search, FAQs and answers, policies and guardrails
+- What goes in: internal documentation, manuals and training material, policies and guidelines
+- What comes out: semantic search, FAQs and answers, policies and guardrails
 - Value: transferable knowledge, more consistent service, time reduction
 - Need signals: critical knowledge concentrated in a few people, scattered documents that are hard to consult
 - Human review: required
@@ -411,8 +411,8 @@ Data, KPIs and heterogeneous material become narrative reports, infographics, pr
 
 - Operating example: When a process shows a similar need, kpis and time series are used to produce operational report and support faster decisions, with human review recommended.
 - Area: Cross-functional tools
-- Input: KPIs and time series, spreadsheets, internal documentation
-- Output: operational report, dashboards and filtered views, controlled drafts
+- What goes in: KPIs and time series, spreadsheets, internal documentation
+- What comes out: operational report, dashboards and filtered views, controlled drafts
 - Value: faster decisions, traceability, recovered commercial value
 - Need signals: historical data available but not turned into signals, manual copying between emails, spreadsheets and systems
 - Human review: recommended
@@ -424,8 +424,8 @@ Time series and industrial sensors are used for alerts, degradation analysis and
 
 - Operating example: When a process shows a similar need, sensors and telemetry are used to produce alerts and thresholds and support production efficiency, with human review required.
 - Area: Data science and decisions
-- Input: sensors and telemetry, production data, KPIs and time series
-- Output: alerts and thresholds, verifiable forecast, dashboards and filtered views
+- What goes in: sensors and telemetry, production data, KPIs and time series
+- What comes out: alerts and thresholds, verifiable forecast, dashboards and filtered views
 - Value: production efficiency, avoided costs, risk reduction
 - Need signals: historical data available but not turned into signals, planning that is still highly manual
 - Human review: required
@@ -437,8 +437,8 @@ Transactional and behavioural histories become segments, risk rankings, bundles 
 
 - Operating example: When a process shows a similar need, transactions and purchases are used to produce priority ranking and support recovered commercial value, with human review required.
 - Area: Data science and decisions
-- Input: transactions and purchases, text feedback, KPIs and time series
-- Output: priority ranking, operational recommendations, business case
+- What goes in: transactions and purchases, text feedback, KPIs and time series
+- What comes out: priority ranking, operational recommendations, business case
 - Value: recovered commercial value, clearer priorities, more consistent service
 - Need signals: historical data available but not turned into signals, abundant feedback that is not analysed
 - Human review: required
@@ -450,8 +450,8 @@ Telemetry, consumption, quality and machine parameters reveal efficient profiles
 
 - Operating example: When a process shows a similar need, sensors and telemetry are used to produce dashboards and filtered views and support production efficiency, with human review required.
 - Area: Data science and decisions
-- Input: sensors and telemetry, production data, KPIs and time series
-- Output: dashboards and filtered views, operational recommendations, business case
+- What goes in: sensors and telemetry, production data, KPIs and time series
+- What comes out: dashboards and filtered views, operational recommendations, business case
 - Value: production efficiency, avoided costs, faster decisions
 - Need signals: historical data available but not turned into signals, recurring errors in documents, procedures or controls
 - Human review: required
@@ -463,8 +463,8 @@ Aggregated fiscal, territorial or commercial data become maps, clusters, profita
 
 - Operating example: When a process shows a similar need, transactions and purchases are used to produce dashboards and filtered views and support faster decisions, with human review recommended.
 - Area: Data science and decisions
-- Input: transactions and purchases, public sources, KPIs and time series
-- Output: dashboards and filtered views, operational report, business case
+- What goes in: transactions and purchases, public sources, KPIs and time series
+- What comes out: dashboards and filtered views, operational report, business case
 - Value: faster decisions, clearer priorities, recovered commercial value
 - Need signals: historical data available but not turned into signals, recurring decisions that are slow or based on incomplete information
 - Human review: recommended
@@ -476,8 +476,8 @@ The first value can be a negative verdict: available data does not yet contain t
 
 - Operating example: When a process shows a similar need, kpis and time series are used to produce operational report and support avoided costs, with human review recommended.
 - Area: Data science and decisions
-- Input: KPIs and time series, transactions and purchases, logs and process states
-- Output: operational report, business case, roadmap and priorities
+- What goes in: KPIs and time series, transactions and purchases, logs and process states
+- What comes out: operational report, business case, roadmap and priorities
 - Value: avoided costs, clearer priorities, traceability
 - Need signals: historical data available but not turned into signals, recurring decisions that are slow or based on incomplete information
 - Human review: recommended
@@ -489,20 +489,20 @@ Cases, material and constraints are explored to generate hypotheses, scenarios, 
 
 - Operating example: When a process shows a similar need, internal documentation are used to produce operational report and support recovered commercial value, with human review recommended.
 - Area: Cross-functional tools
-- Input: internal documentation, text feedback, public sources
-- Output: operational report, operational recommendations, controlled drafts
+- What goes in: internal documentation, text feedback, public sources
+- What comes out: operational report, operational recommendations, controlled drafts
 - Value: recovered commercial value, clearer priorities, faster decisions
 - Need signals: recurring decisions that are slow or based on incomplete information, abundant feedback that is not analysed
 - Human review: recommended
 - Risk: low
 
-## From map to real process: start with a call.
+## To move from the example to the company's case, a conversation is the starting point.
 
-This page helps orientation. The solution is designed only after reviewing sector, constraints, available data, responsibilities and the decision to improve.
+The page is there to orient. The solution is born only after seeing sector, constraints, available data, responsibilities and the decision to improve.
 
-1. **Initial context**: Before the meeting Artik Lab prepares a first reading of public context and any material shared by the company.
-2. **Structured conversation**: During the call two or three high-potential workflows are identified, together with constraints, risks and urgencies.
-3. **Targeted proposal**: The output is a calibrated path: training, consulting, data analysis or technical prototype, with expected results and control criteria.
+1. **Preliminary picture**: Before the meeting a reading of the public context and of any materials shared is prepared.
+2. **Structured conversation**: During the call two or three high-potential processes are identified and constraints, risks and urgencies are clarified.
+3. **Targeted proposal**: The result is a calibrated path: training, consulting, data analysis or a technical prototype, with expected results and control criteria.
 
 ## FAQ
 

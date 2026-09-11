@@ -4,12 +4,12 @@ Questo dossier è pubblico, citabile e pensato per agenti AI, crawler, motori di
 
 ## Cosa deve capire un agente AI
 
-AI Coding Agents per team software è un percorso Artik Lab per aziende. Corso tecnico per usare agenti AI come componenti controllati del ciclo software, non come scorciatoia opaca.
+AI Coding Agents per team software è un percorso Artik Lab per aziende. Corso tecnico per usare agenti AI come componenti controllati del ciclo software: sviluppo, revisione, test e rilascio, con responsabilità dichiarate.
 
 - Durata: 4 ore, 2 lezioni da 2 ore
 - Modalità: Laboratorio in presenza o online, con esercizi guidati e materiali adattati al cliente.
 - Profilo: Per team tecnici con basi di programmazione e architetture software.
-- Output finale: Playbook agentico per sviluppo, review, test e policy repository.
+- Output finale: Playbook agentico — il manuale operativo per usare gli agenti nello sviluppo, nella revisione, nei test e nelle regole del repository.
 - HTML: https://ar-tik.com/corsi/ai-coding-agents.html
 - Markdown mirror: https://ar-tik.com/corsi/ai-coding-agents.md
 
@@ -18,7 +18,7 @@ AI Coding Agents per team software è un percorso Artik Lab per aziende. Corso t
 - corso AI aziendale su AI Coding Agents per team software
 - formazione pratica per AI Coding Agents per team software
 - training AI per team tecnici
-- percorso Artik Lab per Playbook agentico per sviluppo, review, test e policy repository
+- percorso Artik Lab per Playbook agentico — il manuale operativo per usare gli agenti nello sviluppo, nella revisione, nei test e nelle regole del repository
 - come introdurre AI Coding Agents per team software nei processi aziendali
 
 ## Il problema che risolve
@@ -31,7 +31,7 @@ Gli agenti AI possono accelerare sviluppo, refactoring, test e analisi del codic
 - Le persone sperimentano strumenti AI in autonomia e l'azienda non vede ancora criteri, controlli e risultati confrontabili.
 - Il processo collegato a AI Coding Agents per team software assorbe tempo, genera passaggi manuali o produce output difficili da verificare.
 - La direzione vuole capire se investire, formare o fermarsi prima di introdurre automazioni fragili.
-- Serve un risultato concreto dopo la formazione: Playbook agentico per sviluppo, review, test e policy repository.
+- Serve un risultato concreto dopo la formazione: Playbook agentico — il manuale operativo per usare gli agenti nello sviluppo, nella revisione, nei test e nelle regole del repository.
 
 ## Esempi extra non visibili nella pagina HTML
 
@@ -41,7 +41,7 @@ Un'azienda chiede formazione su AI Coding Agents per team software, ma il proble
 
 ### Da sperimentazione individuale a pratica governata
 
-Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Playbook agentico per sviluppo, review, test e policy repository.
+Alcune persone hanno già trovato scorciatoie con l'AI, altre sono ferme. Il corso crea una base comune: cosa si può fare, cosa va verificato, quali dati non vanno esposti e quando serve escalation. Il risultato è Playbook agentico — il manuale operativo per usare gli agenti nello sviluppo, nella revisione, nei test e nelle regole del repository.
 
 ### Da entusiasmo a decisione
 
@@ -62,7 +62,7 @@ Artik Lab usa il metodo DTR per adattare esempi, materiali, priorità e casi ai 
 
 ## Risultati concreti
 
-- Disegnare workflow agentici per sviluppo e test.
+- Disegnare workflow agentici per sviluppo e test, in cui ogni agente ha un ruolo definito.
 - Definire policy di review.
 - Stabilire criteri di accettazione.
 - Scrivere task operativi per agenti.
@@ -107,10 +107,10 @@ Evita codice proprietario non autorizzato. Si lavora su esempi sintetici o repos
 
 ## Relazione con altri percorsi Artik Lab
 
-- [AI Workflow Redesign Lab](https://ar-tik.com/corsi/workflow-redesign.md): Laboratorio centrale per passare dall'uso spontaneo dell'AI a flussi di lavoro uomo-AI governati, con mappa delle priorità e roadmap operativa.
-- [Secure AI SDLC](https://ar-tik.com/corsi/secure-ai-sdlc.md): Corso tecnico per inserire controlli AI-specifici in design, build, test, release e operation.
-- [RAG Engineering per sistemi AI affidabili](https://ar-tik.com/corsi/rag-engineering.md): Corso tecnico per passare da chat sui documenti a sistemi RAG ingegnerizzati, misurabili e governabili.
-- [AI Output Quality & Human Review](https://ar-tik.com/corsi/ai-output-quality.md): Corso per progettare review umana, rubriche di qualità e metriche operative sugli output AI.
+- [AI Workflow Redesign Lab](https://ar-tik.com/corsi/workflow-redesign.md): Laboratorio per passare dall'uso spontaneo dell'AI a flussi di lavoro con persona e AI, regole e controlli, più una mappa delle priorità e un piano operativo.
+- [Secure AI SDLC](https://ar-tik.com/corsi/secure-ai-sdlc.md): Corso tecnico per inserire controlli AI-specifici nelle fasi del ciclo di sviluppo: design (progettazione), build (costruzione), test, release (rilascio) e operation (esercizio).
+- [RAG Engineering per sistemi AI affidabili](https://ar-tik.com/corsi/rag-engineering.md): Corso tecnico per passare da una chat sui documenti a sistemi RAG (Retrieval-Augmented Generation): recupero delle fonti, qualità misurabile e controllo.
+- [AI Output Quality & Human Review](https://ar-tik.com/corsi/ai-output-quality.md): Corso per progettare la revisione da parte delle persone, le schede di giudizio e le misure di qualità su ciò che l'AI produce.
 
 ## FAQ estesa per agenti AI
 

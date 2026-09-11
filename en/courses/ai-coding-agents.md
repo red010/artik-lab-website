@@ -1,6 +1,6 @@
 # AI Coding Agents for software teams
 
-Practical corporate course for applying AI to AI coding agents, with exercises on realistic work, reusable materials and clear governance criteria.
+Use coding agents as controlled parts of the software cycle: development, review, tests and release, with named responsibility.
 
 - Duration: 4 hours, two 2-hour sessions
 - Mode: In-person or online lab, with guided exercises and materials adapted to the client.
@@ -86,5 +86,11 @@ Reusable materials, examples, checklists and a clear set of next steps.
 ### Is it theoretical?
 
 No. The course is built around practical exercises and decisions close to real work.
+
+## Related courses
+
+- [AI Software Engineering](https://ar-tik.com/en/courses/ai-software-engineering.md): Design AI-native software, with AI inside the product not beside it: architecture, evaluation and go-live (entry into production).
+- [Secure AI SDLC](https://ar-tik.com/en/courses/secure-ai-sdlc.md): Put AI-specific controls into the software lifecycle: design, build, test, release and operation (planning, construction, testing, release and running in production).
+- [Semantic search and AI knowledge bases](https://ar-tik.com/en/courses/embeddings.md): Turn archives and internal knowledge into search by meaning, with embeddings: numerical representations of the meaning of a text.
 
 [Back to the course catalog](https://ar-tik.com/en/courses/index.md)
