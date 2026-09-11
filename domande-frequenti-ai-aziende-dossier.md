@@ -99,7 +99,7 @@ Qui, in un giorno, resta una procedura in uso sui file dell'azienda — oppure u
 
 Operatività immediata: un giorno in sede.
 
-Analisi: dopo l'estratto concordato. Prima conversazione: 30–45 minuti.
+Analisi: dopo l'estratto concordato. Prima conversazione: 30 minuti, gratuita.
 
 - ID: objection-timing
 - Area: Dubbi prima di scrivere: costo, dati, tempi
@@ -247,7 +247,7 @@ Non servono documenti perfetti. Bastano contesto, vincoli, ruoli coinvolti, dati
 
 ### Quanto dura la prima conversazione?
 
-Di solito bastano 30-45 minuti per capire il perimetro iniziale.
+Trenta minuti, gratuiti, per capire il perimetro iniziale.
 
 L'obiettivo non è risolvere tutto nell'incontro, ma distinguere bisogno, vincoli e prossimo passo. Dopo la conversazione può emergere una proposta di corso, consulenza, analisi dati o prototipo.
 

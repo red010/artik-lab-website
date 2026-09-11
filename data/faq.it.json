@@ -304,7 +304,7 @@
       "categoryLabel": "Dubbi prima di scrivere: costo, dati, tempi",
       "question": "Quando si vede qualcosa di concreto?",
       "shortAnswer": "Operatività immediata: un giorno in sede.",
-      "detailedAnswer": "Analisi: dopo l'estratto concordato. Prima conversazione: 30–45 minuti.",
+      "detailedAnswer": "Analisi: dopo l'estratto concordato. Prima conversazione: 30 minuti, gratuita.",
       "audience": "direzione e imprenditori",
       "searchIntent": "orientamento iniziale",
       "searchQueries": [
@@ -759,7 +759,7 @@
       "category": "discovery",
       "categoryLabel": "Prima conversazione e metodo",
       "question": "Quanto dura la prima conversazione?",
-      "shortAnswer": "Di solito bastano 30-45 minuti per capire il perimetro iniziale.",
+      "shortAnswer": "Trenta minuti, gratuiti, per capire il perimetro iniziale.",
       "detailedAnswer": "L'obiettivo non è risolvere tutto nell'incontro, ma distinguere bisogno, vincoli e prossimo passo. Dopo la conversazione può emergere una proposta di corso, consulenza, analisi dati o prototipo.",
       "audience": "direzione e imprenditori",
       "searchIntent": "orientamento iniziale",

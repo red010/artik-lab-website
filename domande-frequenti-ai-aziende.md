@@ -73,7 +73,7 @@ Prossimo passo: Portare il caso nella prima conversazione con processo, obiettiv
 
 Risposta breve: Operatività immediata: un giorno in sede.
 
-Dettaglio operativo: Analisi: dopo l'estratto concordato. Prima conversazione: 30–45 minuti.
+Dettaglio operativo: Analisi: dopo l'estratto concordato. Prima conversazione: 30 minuti, gratuita.
 
 Limite da considerare: Le risposte valgono per i servizi come sono descritti in queste pagine; il caso specifico si chiarisce nel parere o nella prima conversazione.
 
@@ -167,7 +167,7 @@ Prossimo passo: Portare il caso nella prima conversazione con processo, obiettiv
 
 ### Quanto dura la prima conversazione?
 
-Risposta breve: Di solito bastano 30-45 minuti per capire il perimetro iniziale.
+Risposta breve: Trenta minuti, gratuiti, per capire il perimetro iniziale.
 
 Dettaglio operativo: L'obiettivo non è risolvere tutto nell'incontro, ma distinguere bisogno, vincoli e prossimo passo. Dopo la conversazione può emergere una proposta di corso, consulenza, analisi dati o prototipo.
 

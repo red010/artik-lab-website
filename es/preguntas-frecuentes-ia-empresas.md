@@ -73,7 +73,7 @@ Próximo paso: Llevar el caso a la primera conversación con proceso, objetivo, 
 
 Respuesta breve: Operatividad inmediata: un día en la sede.
 
-Detalle operativo: Análisis: después del extracto acordado. Primera conversación: 30–45 minutos.
+Detalle operativo: Análisis: después del extracto acordado. Primera conversación: 30 minutos, gratuita.
 
 Límite a considerar: Las respuestas valen para los servicios tal como se describen en estas páginas; el caso concreto se aclara en el dictamen o en la primera conversación.
 
@@ -167,7 +167,7 @@ Próximo paso: Llevar el caso a la primera conversación con proceso, objetivo, 
 
 ### ¿Cuánto dura la primera conversación?
 
-Respuesta breve: Normalmente bastan 30-45 minutos para entender el perímetro inicial.
+Respuesta breve: Treinta minutos, gratuitos, para entender el perímetro inicial.
 
 Detalle operativo: El objetivo no es resolverlo todo en la reunión, sino separar necesidad, restricciones y próximo paso. Después puede surgir un curso, consultoría, análisis de datos o prototipo.
 

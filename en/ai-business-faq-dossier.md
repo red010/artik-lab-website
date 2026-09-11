@@ -99,7 +99,7 @@ Here, in one day, a procedure in use remains on the company's files — or an an
 
 Operational start: one day on site.
 
-Analysis: after the agreed extract. First conversation: 30–45 minutes.
+Analysis: after the agreed extract. First conversation: 30 minutes, free of charge.
 
 - ID: objection-timing
 - Area: The questions that block the decision
@@ -247,7 +247,7 @@ Perfect documents are not required. Context, constraints, roles involved, availa
 
 ### How long does the first conversation take?
 
-Usually 30-45 minutes are enough to understand the initial scope.
+Thirty minutes, free of charge, to understand the initial scope.
 
 The goal is not solving everything in the meeting, but separating need, constraints and next step. A course, consulting path, data analysis or prototype may follow.
 

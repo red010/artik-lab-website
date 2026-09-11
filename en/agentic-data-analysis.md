@@ -148,7 +148,7 @@ Every certified report has a section dedicated to discarded alternatives: what w
 
 ## Bring the file that is already prepared by hand every month.
 
-Artik Lab says what the data say, what they do not say and whether they are enough, before committing to a project. The first conversation lasts 30-45 minutes.
+Artik Lab says what the data say, what they do not say and whether they are enough, before committing to a project. The first conversation lasts 30 minutes and is free.
 
 ## Dashboards look at the past. The data already held can help decide for the future.
 
@@ -386,7 +386,7 @@ No. They are analyses actually carried out and certified by Artik Lab on operati
 
 ### What is needed for the first conversation?
 
-The extract that is already prepared by hand every month, and the decision that should improve. In 30-45 minutes it becomes clear whether the data is enough, what is missing and which first project makes sense, before committing.
+The extract that is already prepared by hand every month, and the decision that should improve. In a free 30-minute call it becomes clear whether the data is enough, what is missing and which first project makes sense, before committing.
 
 ### Where does the data sit during the analysis?
 

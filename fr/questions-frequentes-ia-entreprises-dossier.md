@@ -99,7 +99,7 @@ Ici, en un jour, il reste une procédure en usage sur les fichiers de l'entrepri
 
 Démarrage opérationnel : un jour sur site.
 
-Analyse : après l'extrait convenu. Premier échange : 30–45 minutes.
+Analyse : après l'extrait convenu. Premier échange : 30 minutes, gratuit.
 
 - ID: objection-timing
 - Domaine: Les questions qui bloquent la décision
@@ -247,7 +247,7 @@ Des documents parfaits ne sont pas nécessaires. Il suffit d'avoir contexte, con
 
 ### Combien dure le premier échange?
 
-En général 30-45 minutes suffisent pour comprendre le périmètre initial.
+Trente minutes, gratuites, pour comprendre le périmètre initial.
 
 L'objectif n'est pas de tout résoudre, mais de distinguer besoin, contraintes et prochaine étape. Un cours, du conseil, une analyse de données ou un prototype peut suivre.
 

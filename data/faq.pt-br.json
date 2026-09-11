@@ -304,7 +304,7 @@
       "categoryLabel": "As perguntas que travam a decisão",
       "question": "Quando se vê algo concreto?",
       "shortAnswer": "Operação imediata: um dia na sede da empresa.",
-      "detailedAnswer": "Análise: depois do extrato combinado. Primeira conversa: 30–45 minutos.",
+      "detailedAnswer": "Análise: depois do extrato combinado. Primeira conversa: 30 minutos, gratuita.",
       "audience": "direção e sócios",
       "searchIntent": "orientação inicial",
       "searchQueries": [
@@ -759,7 +759,7 @@
       "category": "discovery",
       "categoryLabel": "Primeira conversa e método",
       "question": "Quanto dura a primeira conversa?",
-      "shortAnswer": "Em geral 30-45 minutos bastam para entender o escopo inicial.",
+      "shortAnswer": "Trinta minutos, gratuitos, para entender o escopo inicial.",
       "detailedAnswer": "O objetivo não é resolver tudo na reunião, mas separar necessidade, restrições e próximo passo. Depois pode surgir curso, consultoria, análise de dados ou protótipo.",
       "audience": "direção e sócios",
       "searchIntent": "orientação inicial",

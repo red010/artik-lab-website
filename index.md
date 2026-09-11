@@ -122,7 +122,7 @@ Sì. Ogni pagina contiene testo nel sorgente HTML, JSON-LD coerente, mirror Mark
 
 ## Tre modi per cominciare
 
-- Parlare del caso: una prima conversazione di 30–45 minuti. Oggetto della mail: [Prima conversazione] Domanda da ar-tik.com.
+- Parlare del caso: una prima conversazione gratuita di 30 minuti. Oggetto della mail: [Prima conversazione] Domanda da ar-tik.com.
 - Provare un giorno in sede: il parere di Operatività immediata (https://ar-tik.com/avvio-operativo/index.md).
 - Portare il file dati del mese: l'analisi dice se i dati bastano. Oggetto della mail: [Analisi dati] Estratto da valutare.
 

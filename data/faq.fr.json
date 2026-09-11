@@ -304,7 +304,7 @@
       "categoryLabel": "Les questions qui bloquent la décision",
       "question": "Quand voit-on quelque chose de concret ?",
       "shortAnswer": "Démarrage opérationnel : un jour sur site.",
-      "detailedAnswer": "Analyse : après l'extrait convenu. Premier échange : 30–45 minutes.",
+      "detailedAnswer": "Analyse : après l'extrait convenu. Premier échange : 30 minutes, gratuit.",
       "audience": "dirigeants et propriétaires",
       "searchIntent": "orientation initiale",
       "searchQueries": [
@@ -759,7 +759,7 @@
       "category": "discovery",
       "categoryLabel": "Premier échange et méthode",
       "question": "Combien dure le premier échange?",
-      "shortAnswer": "En général 30-45 minutes suffisent pour comprendre le périmètre initial.",
+      "shortAnswer": "Trente minutes, gratuites, pour comprendre le périmètre initial.",
       "detailedAnswer": "L'objectif n'est pas de tout résoudre, mais de distinguer besoin, contraintes et prochaine étape. Un cours, du conseil, une analyse de données ou un prototype peut suivre.",
       "audience": "dirigeants et propriétaires",
       "searchIntent": "orientation initiale",

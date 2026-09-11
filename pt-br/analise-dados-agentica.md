@@ -148,7 +148,7 @@ Todo relatório certificado tem uma seção dedicada às alternativas descartada
 
 ## Levar o arquivo que já se prepara à mão todo mês.
 
-A Artik Lab diz o que o dado diz, o que não diz e se os dados bastam, antes de se comprometer com um projeto. A primeira conversa dura 30-45 minutos.
+A Artik Lab diz o que o dado diz, o que não diz e se os dados bastam, antes de se comprometer com um projeto. A primeira conversa dura 30 minutos e é gratuita.
 
 ## Os painéis olham para o passado. Os dados da empresa podem ajudar a decidir o futuro.
 
@@ -386,7 +386,7 @@ Não. São análises realmente executadas e certificadas pela Artik Lab sobre ar
 
 ### O que é preciso para a primeira conversa?
 
-O extrato que já se prepara à mão todos os meses e a decisão que deveria melhorar. Em 30-45 minutos fica claro se os dados chegam, o que falta e que primeiro projeto faz sentido, antes de assumir compromissos.
+O extrato que já se prepara à mão todos os meses e a decisão que deveria melhorar. Em 30 minutos, gratuitos, fica claro se os dados chegam, o que falta e que primeiro projeto faz sentido, antes de assumir compromissos.
 
 ### Onde ficam os dados durante a análise?
 

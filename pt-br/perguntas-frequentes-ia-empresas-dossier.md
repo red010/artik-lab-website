@@ -99,7 +99,7 @@ Aqui, em um dia, fica um procedimento em uso sobre os arquivos da empresa — ou
 
 Operação imediata: um dia na sede da empresa.
 
-Análise: depois do extrato combinado. Primeira conversa: 30–45 minutos.
+Análise: depois do extrato combinado. Primeira conversa: 30 minutos, gratuita.
 
 - ID: objection-timing
 - Área: As perguntas que travam a decisão
@@ -247,7 +247,7 @@ Não são necessários documentos perfeitos. Bastam contexto, restrições, pap�
 
 ### Quanto dura a primeira conversa?
 
-Em geral 30-45 minutos bastam para entender o escopo inicial.
+Trinta minutos, gratuitos, para entender o escopo inicial.
 
 O objetivo não é resolver tudo na reunião, mas separar necessidade, restrições e próximo passo. Depois pode surgir curso, consultoria, análise de dados ou protótipo.
 

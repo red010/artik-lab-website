@@ -130,7 +130,7 @@ Sì. Ogni pagina contiene testo nel sorgente HTML, JSON-LD coerente, mirror Mark
 
 ## Tre modi per cominciare
 
-- Parlare del caso: una prima conversazione di 30–45 minuti. Oggetto della mail: [Prima conversazione] Domanda da ar-tik.com.
+- Parlare del caso: una prima conversazione gratuita di 30 minuti. Oggetto della mail: [Prima conversazione] Domanda da ar-tik.com.
 - Provare un giorno in sede: il parere di Operatività immediata (https://ar-tik.com/avvio-operativo/index.md).
 - Portare il file dati del mese: l'analisi dice se i dati bastano. Oggetto della mail: [Analisi dati] Estratto da valutare.
 
@@ -407,7 +407,7 @@ Ogni report certificato ha una sezione dedicata alle alternative scartate: che c
 
 ## Il passo successivo
 
-Portare il file che già si prepara a mano ogni mese. Artik Lab dice che cosa dice, che cosa non dice e se i dati bastano, prima di impegnarsi in un progetto. La prima conversazione dura 30-45 minuti: scrivere a dtr@ar-tik.com con oggetto «[Analisi dati] Estratto da valutare». Il messaggio arriva a una persona di Artik Lab, che lo legge e risponde di persona.
+Portare il file che già si prepara a mano ogni mese. Artik Lab dice che cosa dice, che cosa non dice e se i dati bastano, prima di impegnarsi in un progetto. La prima conversazione dura 30 minuti ed è gratuita: scrivere a dtr@ar-tik.com con oggetto «[Analisi dati] Estratto da valutare». Il messaggio arriva a una persona di Artik Lab, che lo legge e risponde di persona.
 
 Se il problema è mettere in ordine PDF e procedure più che i numeri, il servizio giusto è [Operatività immediata](https://ar-tik.com/avvio-operativo/).
 
@@ -660,7 +660,7 @@ No. Sono analisi realmente eseguite e certificate da Artik Lab su archivi operat
 
 ### Che cosa serve per la prima conversazione?
 
-L'estratto che già si prepara a mano ogni mese e la decisione che dovrebbe migliorare. In 30-45 minuti si chiarisce se i dati bastano, che cosa manca e quale primo progetto ha senso, prima di impegnarsi.
+L'estratto che già si prepara a mano ogni mese e la decisione che dovrebbe migliorare. In 30 minuti, gratuiti, si chiarisce se i dati bastano, che cosa manca e quale primo progetto ha senso, prima di impegnarsi.
 
 ### Dove stanno i dati durante l'analisi?
 
@@ -1229,7 +1229,7 @@ Prossimo passo: Portare il caso nella prima conversazione con processo, obiettiv
 
 Risposta breve: Operatività immediata: un giorno in sede.
 
-Dettaglio operativo: Analisi: dopo l'estratto concordato. Prima conversazione: 30–45 minuti.
+Dettaglio operativo: Analisi: dopo l'estratto concordato. Prima conversazione: 30 minuti, gratuita.
 
 Limite da considerare: Le risposte valgono per i servizi come sono descritti in queste pagine; il caso specifico si chiarisce nel parere o nella prima conversazione.
 
@@ -1323,7 +1323,7 @@ Prossimo passo: Portare il caso nella prima conversazione con processo, obiettiv
 
 ### Quanto dura la prima conversazione?
 
-Risposta breve: Di solito bastano 30-45 minuti per capire il perimetro iniziale.
+Risposta breve: Trenta minuti, gratuiti, per capire il perimetro iniziale.
 
 Dettaglio operativo: L'obiettivo non è risolvere tutto nell'incontro, ma distinguere bisogno, vincoli e prossimo passo. Dopo la conversazione può emergere una proposta di corso, consulenza, analisi dati o prototipo.
 

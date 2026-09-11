@@ -73,7 +73,7 @@ Próximo passo: Levar o caso à primeira conversa com processo, objetivo, dados 
 
 Resposta breve: Operação imediata: um dia na sede da empresa.
 
-Detalhe operacional: Análise: depois do extrato combinado. Primeira conversa: 30–45 minutos.
+Detalhe operacional: Análise: depois do extrato combinado. Primeira conversa: 30 minutos, gratuita.
 
 Limite a considerar: As respostas valem para os serviços como estão descritos nestas páginas; o caso específico se esclarece no parecer ou na primeira conversa.
 
@@ -167,7 +167,7 @@ Próximo passo: Levar o caso à primeira conversa com processo, objetivo, dados 
 
 ### Quanto dura a primeira conversa?
 
-Resposta breve: Em geral 30-45 minutos bastam para entender o escopo inicial.
+Resposta breve: Trinta minutos, gratuitos, para entender o escopo inicial.
 
 Detalhe operacional: O objetivo não é resolver tudo na reunião, mas separar necessidade, restrições e próximo passo. Depois pode surgir curso, consultoria, análise de dados ou protótipo.
 

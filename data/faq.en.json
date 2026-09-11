@@ -304,7 +304,7 @@
       "categoryLabel": "The questions that block the decision",
       "question": "When is something concrete visible?",
       "shortAnswer": "Operational start: one day on site.",
-      "detailedAnswer": "Analysis: after the agreed extract. First conversation: 30–45 minutes.",
+      "detailedAnswer": "Analysis: after the agreed extract. First conversation: 30 minutes, free of charge.",
       "audience": "leaders and owners",
       "searchIntent": "initial orientation",
       "searchQueries": [
@@ -759,7 +759,7 @@
       "category": "discovery",
       "categoryLabel": "First conversation and method",
       "question": "How long does the first conversation take?",
-      "shortAnswer": "Usually 30-45 minutes are enough to understand the initial scope.",
+      "shortAnswer": "Thirty minutes, free of charge, to understand the initial scope.",
       "detailedAnswer": "The goal is not solving everything in the meeting, but separating need, constraints and next step. A course, consulting path, data analysis or prototype may follow.",
       "audience": "leaders and owners",
       "searchIntent": "initial orientation",

@@ -148,7 +148,7 @@ Ogni report certificato ha una sezione dedicata alle alternative scartate: che c
 
 ## Il passo successivo
 
-Portare il file che già si prepara a mano ogni mese. Artik Lab dice che cosa dice, che cosa non dice e se i dati bastano, prima di impegnarsi in un progetto. La prima conversazione dura 30-45 minuti: scrivere a dtr@ar-tik.com con oggetto «[Analisi dati] Estratto da valutare». Il messaggio arriva a una persona di Artik Lab, che lo legge e risponde di persona.
+Portare il file che già si prepara a mano ogni mese. Artik Lab dice che cosa dice, che cosa non dice e se i dati bastano, prima di impegnarsi in un progetto. La prima conversazione dura 30 minuti ed è gratuita: scrivere a dtr@ar-tik.com con oggetto «[Analisi dati] Estratto da valutare». Il messaggio arriva a una persona di Artik Lab, che lo legge e risponde di persona.
 
 Se il problema è mettere in ordine PDF e procedure più che i numeri, il servizio giusto è [Operatività immediata](https://ar-tik.com/avvio-operativo/).
 
@@ -401,7 +401,7 @@ No. Sono analisi realmente eseguite e certificate da Artik Lab su archivi operat
 
 ### Che cosa serve per la prima conversazione?
 
-L'estratto che già si prepara a mano ogni mese e la decisione che dovrebbe migliorare. In 30-45 minuti si chiarisce se i dati bastano, che cosa manca e quale primo progetto ha senso, prima di impegnarsi.
+L'estratto che già si prepara a mano ogni mese e la decisione che dovrebbe migliorare. In 30 minuti, gratuiti, si chiarisce se i dati bastano, che cosa manca e quale primo progetto ha senso, prima di impegnarsi.
 
 ### Dove stanno i dati durante l'analisi?
 

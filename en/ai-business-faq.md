@@ -73,7 +73,7 @@ Next step: Bring the case to the first conversation with process, goal, availabl
 
 Short answer: Operational start: one day on site.
 
-Operating detail: Analysis: after the agreed extract. First conversation: 30–45 minutes.
+Operating detail: Analysis: after the agreed extract. First conversation: 30 minutes, free of charge.
 
 Limit to consider: The answers apply to the services as described on these pages; the specific case is clarified in the opinion or in the first conversation.
 
@@ -167,7 +167,7 @@ Next step: Bring the case to the first conversation with process, goal, availabl
 
 ### How long does the first conversation take?
 
-Short answer: Usually 30-45 minutes are enough to understand the initial scope.
+Short answer: Thirty minutes, free of charge, to understand the initial scope.
 
 Operating detail: The goal is not solving everything in the meeting, but separating need, constraints and next step. A course, consulting path, data analysis or prototype may follow.
 

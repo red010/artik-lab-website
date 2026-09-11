@@ -73,7 +73,7 @@ Prochaine étape: Apporter le cas au premier échange avec processus, objectif, 
 
 Réponse courte: Démarrage opérationnel : un jour sur site.
 
-Détail opérationnel: Analyse : après l'extrait convenu. Premier échange : 30–45 minutes.
+Détail opérationnel: Analyse : après l'extrait convenu. Premier échange : 30 minutes, gratuit.
 
 Limite à considérer: Les réponses valent pour les services tels qu'ils sont décrits sur ces pages ; le cas précis se clarifie dans l'avis ou lors du premier échange.
 
@@ -167,7 +167,7 @@ Prochaine étape: Apporter le cas au premier échange avec processus, objectif, 
 
 ### Combien dure le premier échange?
 
-Réponse courte: En général 30-45 minutes suffisent pour comprendre le périmètre initial.
+Réponse courte: Trente minutes, gratuites, pour comprendre le périmètre initial.
 
 Détail opérationnel: L'objectif n'est pas de tout résoudre, mais de distinguer besoin, contraintes et prochaine étape. Un cours, du conseil, une analyse de données ou un prototype peut suivre.
 

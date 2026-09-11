@@ -148,7 +148,7 @@ Chaque rapport certifié a une section dédiée aux alternatives écartées : ce
 
 ## Apporter le fichier que l'on prépare déjà à la main chaque mois.
 
-Artik Lab dit ce que les données disent, ce qu'elles ne disent pas et si elles suffisent, avant de s'engager dans un projet. Le premier échange dure 30-45 minutes.
+Artik Lab dit ce que les données disent, ce qu'elles ne disent pas et si elles suffisent, avant de s'engager dans un projet. Le premier échange dure 30 minutes et il est gratuit.
 
 ## Les tableaux de bord regardent le passé. Mais vos données peuvent vous aider à décider pour l'avenir.
 
@@ -386,7 +386,7 @@ Non. Ce sont des analyses réellement menées et certifiées par Artik Lab sur d
 
 ### Que faut-il préparer pour le premier échange?
 
-L'extrait déjà préparé à la main chaque mois et la décision qui devrait s'améliorer. En 30-45 minutes on sait si les données suffisent, ce qui manque et quel premier projet a du sens, avant de s'engager.
+L'extrait déjà préparé à la main chaque mois et la décision qui devrait s'améliorer. En 30 minutes, gratuites, on sait si les données suffisent, ce qui manque et quel premier projet a du sens, avant de s'engager.
 
 ### Où sont les données pendant l'analyse?
 

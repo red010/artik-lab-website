@@ -99,7 +99,7 @@ Aquí, en un día, queda un procedimiento en uso sobre los archivos de la empres
 
 Operatividad inmediata: un día en la sede.
 
-Análisis: después del extracto acordado. Primera conversación: 30–45 minutos.
+Análisis: después del extracto acordado. Primera conversación: 30 minutos, gratuita.
 
 - ID: objection-timing
 - Área: Las preguntas que bloquean la decisión
@@ -247,7 +247,7 @@ No hacen falta documentos perfectos. Bastan contexto, restricciones, roles impli
 
 ### ¿Cuánto dura la primera conversación?
 
-Normalmente bastan 30-45 minutos para entender el perímetro inicial.
+Treinta minutos, gratuitos, para entender el perímetro inicial.
 
 El objetivo no es resolverlo todo en la reunión, sino separar necesidad, restricciones y próximo paso. Después puede surgir un curso, consultoría, análisis de datos o prototipo.
 

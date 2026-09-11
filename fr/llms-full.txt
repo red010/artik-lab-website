@@ -390,7 +390,7 @@ Chaque rapport certifié a une section dédiée aux alternatives écartées : ce
 
 ## Apporter le fichier que l'on prépare déjà à la main chaque mois.
 
-Artik Lab dit ce que les données disent, ce qu'elles ne disent pas et si elles suffisent, avant de s'engager dans un projet. Le premier échange dure 30-45 minutes.
+Artik Lab dit ce que les données disent, ce qu'elles ne disent pas et si elles suffisent, avant de s'engager dans un projet. Le premier échange dure 30 minutes et il est gratuit.
 
 ## Les tableaux de bord regardent le passé. Mais vos données peuvent vous aider à décider pour l'avenir.
 
@@ -628,7 +628,7 @@ Non. Ce sont des analyses réellement menées et certifiées par Artik Lab sur d
 
 ### Que faut-il préparer pour le premier échange?
 
-L'extrait déjà préparé à la main chaque mois et la décision qui devrait s'améliorer. En 30-45 minutes on sait si les données suffisent, ce qui manque et quel premier projet a du sens, avant de s'engager.
+L'extrait déjà préparé à la main chaque mois et la décision qui devrait s'améliorer. En 30 minutes, gratuites, on sait si les données suffisent, ce qui manque et quel premier projet a du sens, avant de s'engager.
 
 ### Où sont les données pendant l'analyse?
 
@@ -1233,7 +1233,7 @@ Prochaine étape: Apporter le cas au premier échange avec processus, objectif, 
 
 Réponse courte: Démarrage opérationnel : un jour sur site.
 
-Détail opérationnel: Analyse : après l'extrait convenu. Premier échange : 30–45 minutes.
+Détail opérationnel: Analyse : après l'extrait convenu. Premier échange : 30 minutes, gratuit.
 
 Limite à considérer: Les réponses valent pour les services tels qu'ils sont décrits sur ces pages ; le cas précis se clarifie dans l'avis ou lors du premier échange.
 
@@ -1327,7 +1327,7 @@ Prochaine étape: Apporter le cas au premier échange avec processus, objectif, 
 
 ### Combien dure le premier échange?
 
-Réponse courte: En général 30-45 minutes suffisent pour comprendre le périmètre initial.
+Réponse courte: Trente minutes, gratuites, pour comprendre le périmètre initial.
 
 Détail opérationnel: L'objectif n'est pas de tout résoudre, mais de distinguer besoin, contraintes et prochaine étape. Un cours, du conseil, une analyse de données ou un prototype peut suivre.
 

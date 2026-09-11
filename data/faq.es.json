@@ -304,7 +304,7 @@
       "categoryLabel": "Las preguntas que bloquean la decisión",
       "question": "¿Cuándo se ve algo concreto?",
       "shortAnswer": "Operatividad inmediata: un día en la sede.",
-      "detailedAnswer": "Análisis: después del extracto acordado. Primera conversación: 30–45 minutos.",
+      "detailedAnswer": "Análisis: después del extracto acordado. Primera conversación: 30 minutos, gratuita.",
       "audience": "dirección y propietarios",
       "searchIntent": "orientación inicial",
       "searchQueries": [
@@ -759,7 +759,7 @@
       "category": "discovery",
       "categoryLabel": "Primera conversación y método",
       "question": "¿Cuánto dura la primera conversación?",
-      "shortAnswer": "Normalmente bastan 30-45 minutos para entender el perímetro inicial.",
+      "shortAnswer": "Treinta minutos, gratuitos, para entender el perímetro inicial.",
       "detailedAnswer": "El objetivo no es resolverlo todo en la reunión, sino separar necesidad, restricciones y próximo paso. Después puede surgir un curso, consultoría, análisis de datos o prototipo.",
       "audience": "dirección y propietarios",
       "searchIntent": "orientación inicial",

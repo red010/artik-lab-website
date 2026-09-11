@@ -148,7 +148,7 @@ Cada informe certificado tiene una sección dedicada a las alternativas descarta
 
 ## Traer el archivo que ya se prepara a mano cada mes.
 
-Artik Lab dice qué dice, qué no dice y si los datos bastan, antes de comprometerse en un proyecto. La primera conversación dura 30-45 minutos.
+Artik Lab dice qué dice, qué no dice y si los datos bastan, antes de comprometerse en un proyecto. La primera conversación dura 30 minutos y es gratuita.
 
 ## Los cuadros de mando miran al pasado. Pero vuestros datos pueden ayudaros a decidir de cara al futuro.
 
@@ -386,7 +386,7 @@ No. Son análisis realmente ejecutados y certificados por Artik Lab sobre archiv
 
 ### ¿Qué hace falta para la primera conversación?
 
-El extracto que ya se prepara a mano cada mes y la decisión que debería mejorar. En 30-45 minutos se aclara si los datos bastan, qué falta y qué primer proyecto tiene sentido, antes de comprometerse.
+El extracto que ya se prepara a mano cada mes y la decisión que debería mejorar. En 30 minutos, gratuitos, se aclara si los datos bastan, qué falta y qué primer proyecto tiene sentido, antes de comprometerse.
 
 ### ¿Dónde están los datos durante el análisis?
 
