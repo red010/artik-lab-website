@@ -41,7 +41,7 @@ Prossimo passo: Portare il caso nella prima conversazione con processo, obiettiv
 
 ### Dove stanno i dati durante il lavoro?
 
-Risposta breve: In Operatività immediata i file restano nelle cartelle dell'azienda e l'assistente è intestato all'azienda.
+Risposta breve: In Avvio operativo i file restano nelle cartelle dell'azienda e l'assistente è intestato all'azienda.
 
 Dettaglio operativo: Nell'analisi dati si lavora su un estratto concordato, con un perimetro scritto.
 
@@ -53,7 +53,7 @@ Prossimo passo: Portare il caso nella prima conversazione con processo, obiettiv
 
 Risposta breve: La consulenza non è la porta del software.
 
-Dettaglio operativo: Costruire, se serve, è una scelta successiva. Operatività immediata non collega il gestionale.
+Dettaglio operativo: Costruire, se serve, è una scelta successiva. Avvio operativo non collega il gestionale.
 
 Limite da considerare: Le risposte valgono per i servizi come sono descritti in queste pagine; il caso specifico si chiarisce nel parere o nella prima conversazione.
 
@@ -71,7 +71,7 @@ Prossimo passo: Portare il caso nella prima conversazione con processo, obiettiv
 
 ### Quando si vede qualcosa di concreto?
 
-Risposta breve: Operatività immediata: un giorno in sede.
+Risposta breve: Avvio operativo: un giorno in sede.
 
 Dettaglio operativo: Analisi: dopo l'estratto concordato. Prima conversazione: 30 minuti, gratuita.
 

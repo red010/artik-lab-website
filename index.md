@@ -52,7 +52,7 @@ Assessment, mappa delle opportunità, governance e roadmap 30/60/90 giorni con K
 
 Pagina dedicata: https://ar-tik.com/consulenza-manageriale-ai.md
 
-### Operatività immediata
+### Avvio operativo
 
 Un giorno in sede. Resta una procedura scritta, da usare subito, sui file dell'azienda. Sono escluse le integrazioni su misura con i software già in uso.
 
@@ -90,7 +90,7 @@ Pagina dedicata: https://ar-tik.com/domande-frequenti-ai-aziende.md
 
 ## Quanto costa ogni anno il tempo speso in un'attività ripetitiva?
 
-La homepage include un calcolatore di valore interattivo: da cinque dati semplici (valuta, persone coinvolte, ore a settimana, costo orario medio e quota di tempo liberabile con l'AI) stima il costo annuo del tempo dedicato a un'attività manuale, il valore liberabile ogni anno e quanto vale ogni mese di attesa. Non è la giornata a pesare. È ogni mese in cui il lavoro si fa ancora a mano. È una stima indicativa calcolata su 45 settimane lavorative, non una previsione di risultato né un preventivo. Se è un lavoro ripetitivo: Operatività immediata. Se è una decisione da migliorare: Analisi dati.
+La homepage include un calcolatore di valore interattivo: da cinque dati semplici (valuta, persone coinvolte, ore a settimana, costo orario medio e quota di tempo liberabile con l'AI) stima il costo annuo del tempo dedicato a un'attività manuale, il valore liberabile ogni anno e quanto vale ogni mese di attesa. Non è la giornata a pesare. È ogni mese in cui il lavoro si fa ancora a mano. È una stima indicativa calcolata su 45 settimane lavorative, non una previsione di risultato né un preventivo. Se è un lavoro ripetitivo: Avvio operativo. Se è una decisione da migliorare: Analisi dati.
 
 ## Corsi per governare l'IA, non per rincorrere strumenti.
 
@@ -123,7 +123,7 @@ Sì. Ogni pagina contiene testo nel sorgente HTML, JSON-LD coerente, mirror Mark
 ## Tre modi per cominciare
 
 - Parlare del caso: una prima conversazione gratuita di 30 minuti. Oggetto della mail: [Prima conversazione] Domanda da ar-tik.com.
-- Provare un giorno in sede: il parere di Operatività immediata (https://ar-tik.com/avvio-operativo/index.md).
+- Provare un giorno in sede: il parere di Avvio operativo (https://ar-tik.com/avvio-operativo/index.md).
 - Portare il file dati del mese: l'analisi dice se i dati bastano. Oggetto della mail: [Analisi dati] Estratto da valutare.
 
 Il messaggio arriva a una persona di Artik Lab, che lo legge e risponde di persona. Nessuna risposta automatica, nessuna lista. Inviando, si accettano le condizioni dell'informativa sul trattamento dei dati (https://ar-tik.com/informativa/).

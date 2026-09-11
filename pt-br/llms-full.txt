@@ -1201,7 +1201,7 @@ Próximo passo: Levar o caso à primeira conversa com processo, objetivo, dados 
 
 ### Onde ficam os dados durante o trabalho?
 
-Resposta breve: Na Operação imediata os arquivos permanecem nas pastas da empresa e o assistente de inteligência artificial está no nome da empresa.
+Resposta breve: No Início operacional os arquivos permanecem nas pastas da empresa e o assistente de inteligência artificial está no nome da empresa.
 
 Detalhe operacional: Na análise de dados trabalha-se sobre um extrato combinado, com um perímetro escrito.
 
@@ -1213,7 +1213,7 @@ Próximo passo: Levar o caso à primeira conversa com processo, objetivo, dados 
 
 Resposta breve: A consultoria não é a porta de entrada do software.
 
-Detalhe operacional: Construir, se for preciso, é uma escolha posterior. A Operação imediata não liga o software de gestão da empresa.
+Detalhe operacional: Construir, se for preciso, é uma escolha posterior. O Início operacional não liga o software de gestão da empresa.
 
 Limite a considerar: As respostas valem para os serviços como estão descritos nestas páginas; o caso específico se esclarece no parecer ou na primeira conversa.
 
@@ -1231,7 +1231,7 @@ Próximo passo: Levar o caso à primeira conversa com processo, objetivo, dados 
 
 ### Quando se vê algo concreto?
 
-Resposta breve: Operação imediata: um dia na sede da empresa.
+Resposta breve: Início operacional: um dia na sede da empresa.
 
 Detalhe operacional: Análise: depois do extrato combinado. Primeira conversa: 30 minutos, gratuita.
 
@@ -2194,7 +2194,7 @@ O projeto trabalha com perímetros, acessos, dados e materiais acordados. Os exe
 
 <!-- https://ar-tik.com/pt-br/inicio-operacional/index.md -->
 
-# Operação imediata: em um dia se automatiza um processo importante, com um procedimento que fica na empresa e se pode usar na hora.
+# Início operacional: em um dia se automatiza um processo importante, com um procedimento que fica na empresa e se pode usar na hora.
 
 Parte-se de um trabalho que hoje consome tempo: preparar uma oferta, reunir os documentos de um cliente, comparar três fornecedores, separar o correio da semana. Ao fim do dia fica um procedimento automático, que a empresa poderá usar sozinha. Os arquivos permanecem na empresa. Estão excluídas as integrações sob medida com os softwares já em uso. Não é um curso e não é um software para instalar: é a automação de um processo inteiro com a inteligência artificial.
 

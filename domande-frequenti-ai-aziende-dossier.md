@@ -49,7 +49,7 @@ In queste pagine non c'è un listino.
 
 ### Dove stanno i dati durante il lavoro?
 
-In Operatività immediata i file restano nelle cartelle dell'azienda e l'assistente è intestato all'azienda.
+In Avvio operativo i file restano nelle cartelle dell'azienda e l'assistente è intestato all'azienda.
 
 Nell'analisi dati si lavora su un estratto concordato, con un perimetro scritto.
 
@@ -67,7 +67,7 @@ Nell'analisi dati si lavora su un estratto concordato, con un perimetro scritto.
 
 La consulenza non è la porta del software.
 
-Costruire, se serve, è una scelta successiva. Operatività immediata non collega il gestionale.
+Costruire, se serve, è una scelta successiva. Avvio operativo non collega il gestionale.
 
 - ID: objection-software
 - Area: Dubbi prima di scrivere: costo, dati, tempi
@@ -97,7 +97,7 @@ Qui, in un giorno, resta una procedura in uso sui file dell'azienda — oppure u
 
 ### Quando si vede qualcosa di concreto?
 
-Operatività immediata: un giorno in sede.
+Avvio operativo: un giorno in sede.
 
 Analisi: dopo l'estratto concordato. Prima conversazione: 30 minuti, gratuita.
 

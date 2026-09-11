@@ -1201,7 +1201,7 @@ Próximo paso: Llevar el caso a la primera conversación con proceso, objetivo, 
 
 ### ¿Dónde están los datos durante el trabajo?
 
-Respuesta breve: En Operatividad inmediata los archivos permanecen en las carpetas de la empresa y el asistente está a nombre de la empresa.
+Respuesta breve: En Arranque operativo los archivos permanecen en las carpetas de la empresa y el asistente está a nombre de la empresa.
 
 Detalle operativo: En el análisis de datos se trabaja sobre un extracto acordado, con un perímetro escrito.
 
@@ -1213,7 +1213,7 @@ Próximo paso: Llevar el caso a la primera conversación con proceso, objetivo, 
 
 Respuesta breve: La consultoría no es la puerta del software.
 
-Detalle operativo: Construir, si hace falta, es una decisión posterior. Operatividad inmediata no conecta el software de gestión.
+Detalle operativo: Construir, si hace falta, es una decisión posterior. Arranque operativo no conecta el software de gestión.
 
 Límite a considerar: Las respuestas valen para los servicios tal como se describen en estas páginas; el caso concreto se aclara en el dictamen o en la primera conversación.
 
@@ -1231,7 +1231,7 @@ Próximo paso: Llevar el caso a la primera conversación con proceso, objetivo, 
 
 ### ¿Cuándo se ve algo concreto?
 
-Respuesta breve: Operatividad inmediata: un día en la sede.
+Respuesta breve: Arranque operativo: un día en la sede.
 
 Detalle operativo: Análisis: después del extracto acordado. Primera conversación: 30 minutos, gratuita.
 
@@ -2194,7 +2194,7 @@ El proyecto trabaja con perímetros, accesos, datos y materiales acordados. Los 
 
 <!-- https://ar-tik.com/es/arranque-operativo/index.md -->
 
-# Operatividad inmediata: en un día se automatiza un proceso importante, con un procedimiento que queda en la empresa y se puede usar de inmediato.
+# Arranque operativo: en un día se automatiza un proceso importante, con un procedimiento que queda en la empresa y se puede usar de inmediato.
 
 Se parte de un trabajo que hoy roba tiempo: preparar una oferta, reunir los documentos para un cliente, comparar tres proveedores, clasificar el correo de la semana. Al final de la jornada queda un procedimiento automático, que la empresa podrá usar por su cuenta. Los archivos permanecen en la empresa. Se excluyen las integraciones a medida con el software ya en uso. No es un curso y no es un software que se instala: es la automatización de un proceso entero con inteligencia artificial.
 

@@ -1,4 +1,4 @@
-# Operatività immediata: in un giorno si automatizza un processo importante, con una procedura che resta in azienda e si può usare da subito.
+# Avvio operativo: in un giorno resta una procedura in uso, sui file dell'azienda.
 
 Si parte da un lavoro che oggi ruba tempo: preparare un'offerta, raccogliere i documenti per un cliente, confrontare tre fornitori, smistare la posta della settimana. A fine giornata resta una procedura automatica, che l'azienda potrà usare in autonomia. I file restano in azienda. Sono escluse le integrazioni su misura con i software già in uso. Non è un corso e non è un software da installare: è l'automazione di un intero processo con l'intelligenza artificiale.
 

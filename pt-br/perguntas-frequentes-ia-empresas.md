@@ -41,7 +41,7 @@ Próximo passo: Levar o caso à primeira conversa com processo, objetivo, dados 
 
 ### Onde ficam os dados durante o trabalho?
 
-Resposta breve: Na Operação imediata os arquivos permanecem nas pastas da empresa e o assistente de inteligência artificial está no nome da empresa.
+Resposta breve: No Início operacional os arquivos permanecem nas pastas da empresa e o assistente de inteligência artificial está no nome da empresa.
 
 Detalhe operacional: Na análise de dados trabalha-se sobre um extrato combinado, com um perímetro escrito.
 
@@ -53,7 +53,7 @@ Próximo passo: Levar o caso à primeira conversa com processo, objetivo, dados 
 
 Resposta breve: A consultoria não é a porta de entrada do software.
 
-Detalhe operacional: Construir, se for preciso, é uma escolha posterior. A Operação imediata não liga o software de gestão da empresa.
+Detalhe operacional: Construir, se for preciso, é uma escolha posterior. O Início operacional não liga o software de gestão da empresa.
 
 Limite a considerar: As respostas valem para os serviços como estão descritos nestas páginas; o caso específico se esclarece no parecer ou na primeira conversa.
 
@@ -71,7 +71,7 @@ Próximo passo: Levar o caso à primeira conversa com processo, objetivo, dados 
 
 ### Quando se vê algo concreto?
 
-Resposta breve: Operação imediata: um dia na sede da empresa.
+Resposta breve: Início operacional: um dia na sede da empresa.
 
 Detalhe operacional: Análise: depois do extrato combinado. Primeira conversa: 30 minutos, gratuita.
 

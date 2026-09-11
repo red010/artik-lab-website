@@ -1,4 +1,4 @@
-# Operatividad inmediata: en un día se automatiza un proceso importante, con un procedimiento que queda en la empresa y se puede usar de inmediato.
+# Arranque operativo: en un día se automatiza un proceso importante, con un procedimiento que queda en la empresa y se puede usar de inmediato.
 
 Se parte de un trabajo que hoy roba tiempo: preparar una oferta, reunir los documentos para un cliente, comparar tres proveedores, clasificar el correo de la semana. Al final de la jornada queda un procedimiento automático, que la empresa podrá usar por su cuenta. Los archivos permanecen en la empresa. Se excluyen las integraciones a medida con el software ya en uso. No es un curso y no es un software que se instala: es la automatización de un proceso entero con inteligencia artificial.
 

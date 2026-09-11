@@ -49,7 +49,7 @@ Nestas páginas não há tabela de preços.
 
 ### Onde ficam os dados durante o trabalho?
 
-Na Operação imediata os arquivos permanecem nas pastas da empresa e o assistente de inteligência artificial está no nome da empresa.
+No Início operacional os arquivos permanecem nas pastas da empresa e o assistente de inteligência artificial está no nome da empresa.
 
 Na análise de dados trabalha-se sobre um extrato combinado, com um perímetro escrito.
 
@@ -67,7 +67,7 @@ Na análise de dados trabalha-se sobre um extrato combinado, com um perímetro e
 
 A consultoria não é a porta de entrada do software.
 
-Construir, se for preciso, é uma escolha posterior. A Operação imediata não liga o software de gestão da empresa.
+Construir, se for preciso, é uma escolha posterior. O Início operacional não liga o software de gestão da empresa.
 
 - ID: objection-software
 - Área: As perguntas que travam a decisão
@@ -97,7 +97,7 @@ Aqui, em um dia, fica um procedimento em uso sobre os arquivos da empresa — ou
 
 ### Quando se vê algo concreto?
 
-Operação imediata: um dia na sede da empresa.
+Início operacional: um dia na sede da empresa.
 
 Análise: depois do extrato combinado. Primeira conversa: 30 minutos, gratuita.
 

@@ -41,7 +41,7 @@ Próximo paso: Llevar el caso a la primera conversación con proceso, objetivo, 
 
 ### ¿Dónde están los datos durante el trabajo?
 
-Respuesta breve: En Operatividad inmediata los archivos permanecen en las carpetas de la empresa y el asistente está a nombre de la empresa.
+Respuesta breve: En Arranque operativo los archivos permanecen en las carpetas de la empresa y el asistente está a nombre de la empresa.
 
 Detalle operativo: En el análisis de datos se trabaja sobre un extracto acordado, con un perímetro escrito.
 
@@ -53,7 +53,7 @@ Próximo paso: Llevar el caso a la primera conversación con proceso, objetivo, 
 
 Respuesta breve: La consultoría no es la puerta del software.
 
-Detalle operativo: Construir, si hace falta, es una decisión posterior. Operatividad inmediata no conecta el software de gestión.
+Detalle operativo: Construir, si hace falta, es una decisión posterior. Arranque operativo no conecta el software de gestión.
 
 Límite a considerar: Las respuestas valen para los servicios tal como se describen en estas páginas; el caso concreto se aclara en el dictamen o en la primera conversación.
 
@@ -71,7 +71,7 @@ Próximo paso: Llevar el caso a la primera conversación con proceso, objetivo, 
 
 ### ¿Cuándo se ve algo concreto?
 
-Respuesta breve: Operatividad inmediata: un día en la sede.
+Respuesta breve: Arranque operativo: un día en la sede.
 
 Detalle operativo: Análisis: después del extracto acordado. Primera conversación: 30 minutos, gratuita.
 

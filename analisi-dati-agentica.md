@@ -150,7 +150,7 @@ Ogni report certificato ha una sezione dedicata alle alternative scartate: che c
 
 Portare il file che già si prepara a mano ogni mese. Artik Lab dice che cosa dice, che cosa non dice e se i dati bastano, prima di impegnarsi in un progetto. La prima conversazione dura 30 minuti ed è gratuita: scrivere a dtr@ar-tik.com con oggetto «[Analisi dati] Estratto da valutare». Il messaggio arriva a una persona di Artik Lab, che lo legge e risponde di persona.
 
-Se il problema è mettere in ordine PDF e procedure più che i numeri, il servizio giusto è [Operatività immediata](https://ar-tik.com/avvio-operativo/).
+Se il problema è mettere in ordine PDF e procedure più che i numeri, il servizio giusto è [Avvio operativo](https://ar-tik.com/avvio-operativo/).
 
 ## Le dashboard guardano il passato. Ma i vostri dati vi possono aiutare a decidere per il futuro.
 1. Dati già disponibili

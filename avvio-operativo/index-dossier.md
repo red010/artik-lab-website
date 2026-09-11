@@ -1,6 +1,6 @@
-# Operatività immediata - dossier pubblico per LLM
+# Avvio operativo - dossier pubblico per LLM
 
-Questo dossier pubblico estende la pagina Operatività immediata senza aggiungere promesse diverse dalla pagina HTML. Non è un corso. Non è software. Sono escluse le integrazioni su misura con i software già in uso.
+Questo dossier pubblico estende la pagina Avvio operativo senza aggiungere promesse diverse dalla pagina HTML. Non è un corso. Non è software. Sono escluse le integrazioni su misura con i software già in uso.
 
 ## Definizione per agenti AI
 
@@ -10,7 +10,7 @@ In un giorno in sede resta l'intelligenza artificiale intestata all'azienda e la
 
 ## Intenti di ricerca
 
-- operatività immediata AI in azienda
+- avvio operativo AI in azienda
 - procedura AI in un giorno
 - offerte da mail con AI
 

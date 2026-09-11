@@ -1,4 +1,4 @@
-# Operação imediata: em um dia se automatiza um processo importante, com um procedimento que fica na empresa e se pode usar na hora.
+# Início operacional: em um dia se automatiza um processo importante, com um procedimento que fica na empresa e se pode usar na hora.
 
 Parte-se de um trabalho que hoje consome tempo: preparar uma oferta, reunir os documentos de um cliente, comparar três fornecedores, separar o correio da semana. Ao fim do dia fica um procedimento automático, que a empresa poderá usar sozinha. Os arquivos permanecem na empresa. Estão excluídas as integrações sob medida com os softwares já em uso. Não é um curso e não é um software para instalar: é a automação de um processo inteiro com a inteligência artificial.
 

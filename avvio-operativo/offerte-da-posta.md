@@ -106,4 +106,4 @@ Serve chi già mette insieme le offerte, con l'incarico di continuare. Non è un
 
 ## Servizi collegati
 
-- [Operatività immediata](https://ar-tik.com/avvio-operativo/index.md)
+- [Avvio operativo](https://ar-tik.com/avvio-operativo/index.md)

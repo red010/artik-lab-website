@@ -49,7 +49,7 @@ En estas páginas no hay una tarifa.
 
 ### ¿Dónde están los datos durante el trabajo?
 
-En Operatividad inmediata los archivos permanecen en las carpetas de la empresa y el asistente está a nombre de la empresa.
+En Arranque operativo los archivos permanecen en las carpetas de la empresa y el asistente está a nombre de la empresa.
 
 En el análisis de datos se trabaja sobre un extracto acordado, con un perímetro escrito.
 
@@ -67,7 +67,7 @@ En el análisis de datos se trabaja sobre un extracto acordado, con un perímetr
 
 La consultoría no es la puerta del software.
 
-Construir, si hace falta, es una decisión posterior. Operatividad inmediata no conecta el software de gestión.
+Construir, si hace falta, es una decisión posterior. Arranque operativo no conecta el software de gestión.
 
 - ID: objection-software
 - Área: Las preguntas que bloquean la decisión
@@ -97,7 +97,7 @@ Aquí, en un día, queda un procedimiento en uso sobre los archivos de la empres
 
 ### ¿Cuándo se ve algo concreto?
 
-Operatividad inmediata: un día en la sede.
+Arranque operativo: un día en la sede.
 
 Análisis: después del extracto acordado. Primera conversación: 30 minutos, gratuita.
 

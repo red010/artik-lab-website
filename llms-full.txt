@@ -60,7 +60,7 @@ Assessment, mappa delle opportunità, governance e roadmap 30/60/90 giorni con K
 
 Pagina dedicata: https://ar-tik.com/consulenza-manageriale-ai.md
 
-### Operatività immediata
+### Avvio operativo
 
 Un giorno in sede. Resta una procedura scritta, da usare subito, sui file dell'azienda. Sono escluse le integrazioni su misura con i software già in uso.
 
@@ -98,7 +98,7 @@ Pagina dedicata: https://ar-tik.com/domande-frequenti-ai-aziende.md
 
 ## Quanto costa ogni anno il tempo speso in un'attività ripetitiva?
 
-La homepage include un calcolatore di valore interattivo: da cinque dati semplici (valuta, persone coinvolte, ore a settimana, costo orario medio e quota di tempo liberabile con l'AI) stima il costo annuo del tempo dedicato a un'attività manuale, il valore liberabile ogni anno e quanto vale ogni mese di attesa. Non è la giornata a pesare. È ogni mese in cui il lavoro si fa ancora a mano. È una stima indicativa calcolata su 45 settimane lavorative, non una previsione di risultato né un preventivo. Se è un lavoro ripetitivo: Operatività immediata. Se è una decisione da migliorare: Analisi dati.
+La homepage include un calcolatore di valore interattivo: da cinque dati semplici (valuta, persone coinvolte, ore a settimana, costo orario medio e quota di tempo liberabile con l'AI) stima il costo annuo del tempo dedicato a un'attività manuale, il valore liberabile ogni anno e quanto vale ogni mese di attesa. Non è la giornata a pesare. È ogni mese in cui il lavoro si fa ancora a mano. È una stima indicativa calcolata su 45 settimane lavorative, non una previsione di risultato né un preventivo. Se è un lavoro ripetitivo: Avvio operativo. Se è una decisione da migliorare: Analisi dati.
 
 ## Corsi per governare l'IA, non per rincorrere strumenti.
 
@@ -131,7 +131,7 @@ Sì. Ogni pagina contiene testo nel sorgente HTML, JSON-LD coerente, mirror Mark
 ## Tre modi per cominciare
 
 - Parlare del caso: una prima conversazione gratuita di 30 minuti. Oggetto della mail: [Prima conversazione] Domanda da ar-tik.com.
-- Provare un giorno in sede: il parere di Operatività immediata (https://ar-tik.com/avvio-operativo/index.md).
+- Provare un giorno in sede: il parere di Avvio operativo (https://ar-tik.com/avvio-operativo/index.md).
 - Portare il file dati del mese: l'analisi dice se i dati bastano. Oggetto della mail: [Analisi dati] Estratto da valutare.
 
 Il messaggio arriva a una persona di Artik Lab, che lo legge e risponde di persona. Nessuna risposta automatica, nessuna lista. Inviando, si accettano le condizioni dell'informativa sul trattamento dei dati (https://ar-tik.com/informativa/).
@@ -409,7 +409,7 @@ Ogni report certificato ha una sezione dedicata alle alternative scartate: che c
 
 Portare il file che già si prepara a mano ogni mese. Artik Lab dice che cosa dice, che cosa non dice e se i dati bastano, prima di impegnarsi in un progetto. La prima conversazione dura 30 minuti ed è gratuita: scrivere a dtr@ar-tik.com con oggetto «[Analisi dati] Estratto da valutare». Il messaggio arriva a una persona di Artik Lab, che lo legge e risponde di persona.
 
-Se il problema è mettere in ordine PDF e procedure più che i numeri, il servizio giusto è [Operatività immediata](https://ar-tik.com/avvio-operativo/).
+Se il problema è mettere in ordine PDF e procedure più che i numeri, il servizio giusto è [Avvio operativo](https://ar-tik.com/avvio-operativo/).
 
 ## Le dashboard guardano il passato. Ma i vostri dati vi possono aiutare a decidere per il futuro.
 1. Dati già disponibili
@@ -1197,7 +1197,7 @@ Prossimo passo: Portare il caso nella prima conversazione con processo, obiettiv
 
 ### Dove stanno i dati durante il lavoro?
 
-Risposta breve: In Operatività immediata i file restano nelle cartelle dell'azienda e l'assistente è intestato all'azienda.
+Risposta breve: In Avvio operativo i file restano nelle cartelle dell'azienda e l'assistente è intestato all'azienda.
 
 Dettaglio operativo: Nell'analisi dati si lavora su un estratto concordato, con un perimetro scritto.
 
@@ -1209,7 +1209,7 @@ Prossimo passo: Portare il caso nella prima conversazione con processo, obiettiv
 
 Risposta breve: La consulenza non è la porta del software.
 
-Dettaglio operativo: Costruire, se serve, è una scelta successiva. Operatività immediata non collega il gestionale.
+Dettaglio operativo: Costruire, se serve, è una scelta successiva. Avvio operativo non collega il gestionale.
 
 Limite da considerare: Le risposte valgono per i servizi come sono descritti in queste pagine; il caso specifico si chiarisce nel parere o nella prima conversazione.
 
@@ -1227,7 +1227,7 @@ Prossimo passo: Portare il caso nella prima conversazione con processo, obiettiv
 
 ### Quando si vede qualcosa di concreto?
 
-Risposta breve: Operatività immediata: un giorno in sede.
+Risposta breve: Avvio operativo: un giorno in sede.
 
 Dettaglio operativo: Analisi: dopo l'estratto concordato. Prima conversazione: 30 minuti, gratuita.
 
@@ -2190,7 +2190,7 @@ Il progetto lavora con perimetri, accessi, dati e materiali concordati. Negli es
 
 <!-- https://ar-tik.com/avvio-operativo/index.md -->
 
-# Operatività immediata: in un giorno si automatizza un processo importante, con una procedura che resta in azienda e si può usare da subito.
+# Avvio operativo: in un giorno resta una procedura in uso, sui file dell'azienda.
 
 Si parte da un lavoro che oggi ruba tempo: preparare un'offerta, raccogliere i documenti per un cliente, confrontare tre fornitori, smistare la posta della settimana. A fine giornata resta una procedura automatica, che l'azienda potrà usare in autonomia. I file restano in azienda. Sono escluse le integrazioni su misura con i software già in uso. Non è un corso e non è un software da installare: è l'automazione di un intero processo con l'intelligenza artificiale.
 
@@ -5336,7 +5336,7 @@ Serve chi già mette insieme le offerte, con l'incarico di continuare. Non è un
 
 ## Servizi collegati
 
-- [Operatività immediata](https://ar-tik.com/avvio-operativo/index.md)
+- [Avvio operativo](https://ar-tik.com/avvio-operativo/index.md)
 
 ## Dossier estesi per agenti AI (italiano)
 
