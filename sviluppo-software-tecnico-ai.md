@@ -97,15 +97,15 @@ Che cosa è cambiato. Quando la pratica è completa, i documenti ufficiali escon
 
 ### 3. Squadre sul territorio: Il piano settimanale delle squadre sul territorio si fa ancora a mano.
 
-Il piano settimanale si calcola in pochi secondi e si rigenera quando un vincolo cambia. Di quanto faccia risparmiare non è ancora misurato, e non viene dichiarato.
+Il piano settimanale si calcola in circa un minuto e si rigenera quando un vincolo cambia. Di quanto faccia risparmiare non è ancora misurato, e non viene dichiarato.
 
 La situazione. Quando un'azienda manda squadre presso i clienti, il programma settimanale nasce da decine di vincoli che si ostacolano: indirizzi sparsi su un territorio ampio, fasce orarie imposte dai clienti, priorità commerciali e scadenze di legge, durate che cambiano con il tipo di prestazione, equipaggi non intercambiabili. Fatto a mano il piano esce sempre percorribile ma mai efficiente, e manca il termine di paragone per accorgersene.
 
 Che cosa è stato fatto. Il problema è formulato come problema di percorso con finestre temporali e risolto con un solutore di ottimizzazione. Un primo livello distribuisce gli interventi sui giorni, bilanciando la capienza degli equipaggi e collocando per primi quelli più onerosi. Un secondo risolve ogni giornata come percorso su più mezzi, con i tempi di percorrenza reali presi da un servizio stradale e le finestre orarie trattate come vincoli che non si possono violare.
 
-Che cosa è cambiato. Il responsabile riceve un piano pronto all'uso: percorsi su mappa, calendario giornaliero per unità, chilometri, ore di guida e saturazione degli equipaggi. E lo stesso piano si rigenera in pochi secondi quando un vincolo cambia, che è la parte che serve da subito, quando qualcuno dà forfait.
+Che cosa è cambiato. Il responsabile riceve un piano pronto all'uso: percorsi su mappa, calendario giornaliero per unità, chilometri, ore di guida e saturazione degli equipaggi. E lo stesso piano si rigenera in circa un minuto quando un vincolo cambia, che è la parte che serve da subito, quando qualcuno dà forfait.
 
-- Come è stato provato: Su un archivio dimostrativo con nomi di fantasia — 35 sedi, 128 persone, due unità mobili — il piano settimanale completo esce in pochi secondi, contro le ore che il lavoro a mano richiede.
+- Come è stato provato: Su un archivio dimostrativo — 35 sedi, 128 persone con nomi di fantasia, due unità mobili — il piano settimanale completo esce in circa un minuto, contro le ore che il lavoro a mano richiede.
 - Che cosa restituisce: A ogni esecuzione: chilometri totali, ore di guida e percentuale di saturazione per equipaggio. Sono i numeri che permettono di confrontare due piani, invece di fidarsi del primo.
 - Limite dichiarato: Non esiste ancora un confronto misurato prima e dopo su un cliente reale. Finché non c'è, nessuna percentuale di risparmio viene dichiarata: sarebbe una stima presentata come misura.
 
@@ -134,7 +134,7 @@ Che cosa è stato fatto. Il problema non è calcolare una data. È tenere insiem
 Che cosa è cambiato. Quando la matrice esiste, il lavoro diventa programmare i corsi invece di ricostruire lo stato. I dati personali restano sul server dell'organizzazione: nessun invio a servizi esterni, ottenuto come vincolo di architettura e non come dichiarazione di intenti.
 
 - Misurato sul progetto: 18 tipologie di corso obbligatorio modellate, con periodicità da uno a cinque anni e alcune una tantum. Quattro stati calcolati per ogni combinazione fra persona e obbligo, con preavviso predefinito a 90 giorni e configurabile per cliente.
-- Come è stato provato: Su un archivio dimostrativo con nomi di fantasia: otto aziende, circa 175 persone e oltre 700 record formativi, con una distribuzione realistica degli stati.
+- Come è stato provato: Su un archivio dimostrativo: otto aziende, circa 175 persone e oltre 700 record formativi, con una distribuzione realistica degli stati.
 - Limite dichiarato: Il calcolo segue regole fisse e, sugli stessi dati, dà sempre lo stesso risultato, e va bene così: in una regola di periodicità non c'è nulla da affidare a un modello. L'AI serve un passo prima, per portare dentro dati che oggi arrivano disordinati, e un passo dopo, per accorgersi che una regola è cambiata.
 
 ## Prima di scegliere consulenza, corso o software, riconoscere il processo.
@@ -163,7 +163,7 @@ I due piani restano separati. Le verifiche normative sono deterministiche e ripr
 
 - Come si controlla: 695 test automatici sul motore, eseguiti a ogni integrazione. Il motore ricostruito riproduce 58 casi di verifica su 63 alla cifra stampata, e 44 archivi storici su 44 vengono riletti senza eccezioni da decodificatori scritti senza avere la documentazione dei formati.
 - Che cosa manca, dichiarato: La base dei fatti raggiunge il 98,8% di completezza — 399 voci su 404 — e le 5 che restano sono dichiarate e motivate invece che omesse.
-- Verifica indipendente: Otto campagne condotte da agenti incaricati di confutare il lavoro fatto. Le confutazioni trovate sono state riparate prima della consegna, non archiviate.
+- Verifica indipendente: Nove cicli di verifica condotti da circa 495 agenti incaricati di confutare il lavoro fatto. Le confutazioni trovate sono state riparate prima della consegna, non archiviate.
 
 ### 2. Istruttoria e back office: L'intelligenza artificiale scrive la bozza, le regole dell'azienda decidono l'esito.
 
@@ -210,7 +210,7 @@ Nessun numero del report nasce da un modello: le grandezze sono calcolate da un 
 
 Nei report la separazione è netta. Le grandezze sono calcolate da un programma che, sugli stessi dati fermi, dà sempre lo stesso risultato, con test che le riproducono identiche a ogni esecuzione; il testo è scritto ancorato a quei numeri e alle citazioni reali.
 
-Il documento finito viene poi riletto da personas sintetiche con una soglia di qualità dichiarata, sotto la quale non si consegna.
+Il documento finito viene poi riletto da personas sintetiche, con una soglia di qualità dichiarata.
 
 E quando la metrica ovvia non discrimina — categorie dove tutte le attività stanno sopra 4,8 stelle — il report lo dice, invece di costruirci sopra un verdetto.
 

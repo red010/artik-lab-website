@@ -35,9 +35,9 @@ After one day on site, the company keeps the assistant in its own name and the w
 
 ## Additional examples
 
-### One process
+### One job
 
-Whoever asks for five automations in a day finishes none. The hub says so on the page.
+One job at a time, taken all the way through. The page says so plainly.
 
 ### Report as a door
 

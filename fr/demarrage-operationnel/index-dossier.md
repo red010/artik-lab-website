@@ -35,9 +35,9 @@ Après une journée sur site, il reste l'assistant au nom de l'entreprise et la 
 
 ## Exemples supplémentaires
 
-### Un seul processus
+### Un seul travail
 
-Qui demande cinq automatisations en un jour n'en termine aucune. Le hub le dit en page.
+Un travail à la fois, mené jusqu'au bout. La page le dit clairement.
 
 ### Rapport comme porte
 

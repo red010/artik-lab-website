@@ -78,15 +78,15 @@ What changed. When the case is complete, the official documents come out already
 
 ### 3. Field crews: The weekly plan for crews in the field is still made by hand.
 
-The weekly plan is calculated in a few seconds and is regenerated when a constraint changes. How much time it saves has not yet been measured, and is not declared.
+The weekly plan is calculated in about a minute and is regenerated when a constraint changes. How much time it saves has not yet been measured, and is not declared.
 
 The situation. When a company sends crews to customers, the weekly programme is born from dozens of constraints that get in one another's way: addresses scattered over a wide territory, time windows imposed by customers, commercial priorities and legal deadlines, durations that change with the type of job, crews that are not interchangeable. Made by hand the plan always comes out feasible but never efficient, and there is no benchmark to notice the difference.
 
 What was done. The problem is formulated as a routing problem with time windows and solved with an optimisation solver. A first level distributes jobs across the days, balancing crew capacity and placing the heaviest jobs first. A second solves each day as a multi-vehicle route, with real travel times taken from a road service and time windows treated as constraints that cannot be broken.
 
-What changed. The manager receives a plan ready to use: routes on a map, a daily calendar per unit, kilometres, driving hours and crew saturation. And the same plan is regenerated in a few seconds when a constraint changes, which is the part needed at once, when someone drops out.
+What changed. The manager receives a plan ready to use: routes on a map, a daily calendar per unit, kilometres, driving hours and crew saturation. And the same plan is regenerated in about a minute when a constraint changes, which is the part needed at once, when someone drops out.
 
-- How it was tried: On a demonstration archive with fictional names — 35 sites, 128 people, two mobile units — the full weekly plan comes out in a few seconds, against the hours that the work by hand requires.
+- How it was tried: On a demonstration archive — 35 sites, 128 people with fictional names, two mobile units — the full weekly plan comes out in about a minute, against the hours that the work by hand requires.
 - What it returns: On every run: total kilometres, driving hours and saturation percentage per crew. These are the numbers that make it possible to compare two plans, instead of trusting the first one.
 - Declared limit: There is not yet a measured before-and-after comparison on a real customer. Until there is, no saving percentage is declared: that would be an estimate presented as a measurement.
 
@@ -115,7 +115,7 @@ What was done. The problem is not calculating a date. It is holding together peo
 What changed. When the matrix exists, the work becomes scheduling the courses instead of reconstructing the status. Personal data stay on the organisation's server: no sending to external services, obtained as an architecture constraint and not as a statement of intent.
 
 - Measured on the project: 18 types of mandatory course modelled, with periodicity from one to five years and some one-off. Four states calculated for every combination of person and obligation, with default notice at 90 days and configurable per customer.
-- How it was tried: On a demonstration archive with fictional names: eight companies, about 175 people and more than 700 training records, with a realistic distribution of states.
+- How it was tried: On a demonstration archive: eight companies, about 175 people and more than 700 training records, with a realistic distribution of states.
 - Declared limit: The calculation follows fixed rules and, on the same data, always gives the same result, and that is as it should be: in a periodicity rule there is nothing to hand to a model. AI is useful one step before, to bring in data that today arrive disordered, and one step after, to notice that a rule has changed.
 
 ## Where the boundary sits: the calculation stays repeatable, AI works on top of it.
@@ -134,7 +134,7 @@ The two layers stay separate. The regulatory checks are repeatable: on the same 
 
 - How it is checked: 695 automated tests on the engine, run on every integration. The rebuilt engine reproduces 58 verification cases out of 63 to the printed digit, and 44 historical archives out of 44 are reread without exceptions by decoders written without having the documentation of the formats.
 - What is missing, declared: The fact base reaches 98.8% completeness — 399 entries out of 404 — and the 5 that remain are declared and justified instead of omitted.
-- Independent check: Eight campaigns run by agents tasked with refuting the work done. The refutations found were repaired before delivery, not filed away.
+- Independent check: Nine verification cycles run by about 495 agents tasked with refuting the work done. The refutations found were repaired before delivery, not filed away.
 
 ### 2. Application processing and back office: Artificial intelligence writes the draft; the company's rules decide the outcome.
 
@@ -181,7 +181,7 @@ No number in the report is born from a model: the quantities are calculated by a
 
 In reports the separation is sharp. The quantities are calculated by a programme that, on the same frozen data, always gives the same result, with tests that reproduce them identical on every run; the text is written anchored to those numbers and to the real quotations.
 
-The finished document is then reread by synthetic reader profiles, with a declared quality threshold below which it is not delivered.
+The finished document is then reread by synthetic reader profiles, with a declared quality threshold.
 
 And when the obvious metric does not discriminate — categories where every activity sits above 4.8 stars — the report says so, instead of building a verdict on top of it.
 

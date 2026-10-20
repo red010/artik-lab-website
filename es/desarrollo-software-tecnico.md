@@ -97,15 +97,15 @@ Qué ha cambiado. Cuando el expediente está completo, los documentos oficiales 
 
 ### 3. Equipos sobre el terreno: El plan semanal de los equipos sobre el terreno todavía se hace a mano.
 
-El plan semanal se calcula en pocos segundos y se regenera cuando cambia una restricción. Cuánto ahorra aún no está medido, y no se declara.
+El plan semanal se calcula en alrededor de un minuto y se regenera cuando cambia una restricción. Cuánto ahorra aún no está medido, y no se declara.
 
 La situación. Cuando una empresa envía equipos a las instalaciones de los clientes, el plan semanal nace de decenas de restricciones que se estorban: direcciones dispersas en un territorio amplio, franjas horarias impuestas por los clientes, prioridades comerciales y plazos legales, duraciones que cambian con el tipo de prestación, equipos que no son intercambiables. Hecho a mano el plan sale siempre practicable pero nunca eficiente, y falta el término de comparación para darse cuenta.
 
 Qué se ha hecho. El problema se formula como problema de ruta con ventanas temporales y se resuelve con un motor de optimización. Un primer nivel reparte las intervenciones entre los días, equilibrando la capacidad de los equipos y colocando primero las más onerosas. Un segundo resuelve cada jornada como ruta sobre varios vehículos, con los tiempos de recorrido reales tomados de un servicio viario y las ventanas horarias tratadas como restricciones que no se pueden violar.
 
-Qué ha cambiado. El responsable recibe un plan listo para usar: rutas en el mapa, calendario diario por unidad, kilómetros, horas de conducción y saturación de los equipos. Y el mismo plan se regenera en pocos segundos cuando cambia una restricción, que es la parte que hace falta de inmediato, cuando alguien falla.
+Qué ha cambiado. El responsable recibe un plan listo para usar: rutas en el mapa, calendario diario por unidad, kilómetros, horas de conducción y saturación de los equipos. Y el mismo plan se regenera en alrededor de un minuto cuando cambia una restricción, que es la parte que hace falta de inmediato, cuando alguien falla.
 
-- Cómo se ha comprobado: Sobre un archivo demostrativo con nombres de ficción — 35 sedes, 128 personas, dos unidades móviles — el plan semanal completo sale en pocos segundos, frente a las horas que pide el trabajo a mano.
+- Cómo se ha comprobado: Sobre un archivo demostrativo — 35 sedes, 128 personas con nombres ficticios, dos unidades móviles — el plan semanal completo sale en alrededor de un minuto, frente a las horas que pide el trabajo a mano.
 - Qué devuelve: En cada ejecución: kilómetros totales, horas de conducción y porcentaje de saturación por equipo. Son los números que permiten comparar dos planes, en lugar de fiarse del primero.
 - Límite declarado: Todavía no existe una comparación medida antes y después sobre un cliente real. Mientras no la haya, no se declara ningún porcentaje de ahorro: sería una estimación presentada como medida.
 
@@ -134,7 +134,7 @@ Qué se ha hecho. El problema no es calcular una fecha. Es tener juntos padrones
 Qué ha cambiado. Cuando la matriz existe, el trabajo pasa a ser programar los cursos en lugar de reconstruir el estado. Los datos personales permanecen en el servidor de la organización: ningún envío a servicios externos, obtenido como restricción de arquitectura y no como declaración de intenciones.
 
 - Medido en este proyecto: 18 tipologías de curso obligatorio modeladas, con periodicidad de uno a cinco años y algunas de una sola vez. Cuatro estados calculados para cada combinación entre persona y obligación, con preaviso predeterminado a 90 días y configurable por cliente.
-- Cómo se ha comprobado: Sobre un archivo demostrativo con nombres de ficción: ocho empresas, unas 175 personas y más de 700 registros formativos, con una distribución realista de los estados.
+- Cómo se ha comprobado: Sobre un archivo demostrativo: ocho empresas, unas 175 personas y más de 700 registros formativos, con una distribución realista de los estados.
 - Límite declarado: El cálculo sigue reglas fijas y, sobre los mismos datos, da siempre el mismo resultado, y está bien así: en una regla de periodicidad no hay nada que confiar a un modelo. La IA sirve un paso antes, para meter dentro datos que hoy llegan desordenados, y un paso después, para darse cuenta de que una regla ha cambiado.
 
 ## Antes de elegir el formato, reconocer el proceso.
@@ -163,7 +163,7 @@ Los dos planos permanecen separados. Las comprobaciones normativas son determini
 
 - Cómo se controla: 695 pruebas automáticas sobre el motor, ejecutadas en cada integración. El motor reconstruido reproduce 58 casos de comprobación de 63 hasta la cifra impresa, y 44 archivos históricos de 44 se releen sin excepciones por decodificadores escritos sin tener la documentación de los formatos.
 - Qué falta, declarado: La base de los hechos alcanza el 98,8% de completitud — 399 entradas de 404 — y las 5 que quedan están declaradas y motivadas en lugar de omitidas.
-- Verificación independiente: Ocho campañas conducidas por agentes encargados de refutar el trabajo hecho. Las refutaciones encontradas se repararon antes de la entrega, no se archivaron.
+- Verificación independiente: Nueve ciclos de verificación realizados por unos 495 agentes encargados de refutar el trabajo hecho. Las refutaciones encontradas se repararon antes de la entrega, no se archivaron.
 
 ### 2. Tramitación y back office: La inteligencia artificial escribe el borrador; las reglas de la empresa deciden el resultado.
 
@@ -210,7 +210,7 @@ Ningún número del informe nace de un modelo: las magnitudes las calcula un pro
 
 En los informes la separación es nítida. Las magnitudes las calcula un programa que, sobre los mismos datos quietos, da siempre el mismo resultado, con pruebas que las reproducen idénticas en cada ejecución; el texto se escribe anclado a esos números y a las citas reales.
 
-El documento terminado lo releen después personas sintéticas con un umbral de calidad declarado, por debajo del cual no se entrega.
+El documento terminado lo releen después personas sintéticas, con un umbral de calidad declarado.
 
 Y cuando la métrica obvia no discrimina — categorías en las que todas las actividades están por encima de 4,8 estrellas — el informe lo dice, en lugar de construir encima un veredicto.
 

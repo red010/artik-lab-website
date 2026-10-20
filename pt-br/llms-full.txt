@@ -2046,15 +2046,15 @@ O que mudou. Quando o processo está completo, os documentos oficiais saem já p
 
 ### 3. Equipes em campo: O plano semanal das equipes em campo ainda é feito à mão.
 
-O plano semanal se calcula em poucos segundos e se regenera quando uma restrição muda. Quanto faz poupar ainda não está medido, e não é declarado.
+O plano semanal se calcula em cerca de um minuto e se regenera quando uma restrição muda. Quanto faz poupar ainda não está medido, e não é declarado.
 
 A situação. Quando uma empresa envia equipes aos clientes, o programa semanal nasce de dezenas de restrições que se atrapalham: endereços espalhados em um território amplo, faixas de horário impostas pelos clientes, prioridades comerciais e prazos de lei, durações que mudam com o tipo de prestação, equipes não intercambiáveis. Feito à mão, o plano sempre sai percorrível, mas nunca eficiente, e falta o termo de comparação para perceber isso.
 
 O que foi feito. O problema é formulado como problema de rota com janelas de tempo e resolvido com um otimizador. Um primeiro nível distribui as intervenções pelos dias, equilibrando a capacidade das equipes e colocando primeiro as mais onerosas. Um segundo resolve cada dia como rota em vários veículos, com os tempos de percurso reais tirados de um serviço viário e as janelas de horário tratadas como restrições que não se podem violar.
 
-O que mudou. O responsável recebe um plano pronto para usar: rotas no mapa, calendário diário por unidade, quilômetros, horas de direção e saturação das equipes. E o mesmo plano se regenera em poucos segundos quando uma restrição muda, que é a parte que serve na hora, quando alguém falta.
+O que mudou. O responsável recebe um plano pronto para usar: rotas no mapa, calendário diário por unidade, quilômetros, horas de direção e saturação das equipes. E o mesmo plano se regenera em cerca de um minuto quando uma restrição muda, que é a parte que serve na hora, quando alguém falta.
 
-- Como foi testado: Em um arquivo demonstrativo com nomes fictícios — 35 sedes, 128 pessoas, duas unidades móveis — o plano semanal completo sai em poucos segundos, contra as horas que o trabalho à mão exige.
+- Como foi testado: Em um arquivo demonstrativo — 35 sedes, 128 pessoas com nomes fictícios, duas unidades móveis — o plano semanal completo sai em cerca de um minuto, contra as horas que o trabalho à mão exige.
 - O que devolve: A cada execução: quilômetros totais, horas de direção e percentual de saturação por equipe. São os números que permitem comparar dois planos, em vez de confiar no primeiro.
 - Limite declarado: Ainda não existe uma comparação medida antes e depois em um cliente real. Enquanto não houver, nenhum percentual de economia é declarado: seria uma estimativa apresentada como medida.
 
@@ -2083,7 +2083,7 @@ O que foi feito. O problema não é calcular uma data. É manter juntos cadastro
 O que mudou. Quando a matriz existe, o trabalho vira programar os cursos em vez de reconstruir o estado. Os dados pessoais permanecem no servidor da organização: nenhum envio a serviços externos, obtido como restrição de arquitetura e não como declaração de intenção.
 
 - Medido no projeto: 18 tipos de curso obrigatório modelados, com periodicidade de um a cinco anos e alguns únicos. Quatro estados calculados para cada combinação entre pessoa e obrigação, com aviso prévio padrão de 90 dias e configurável por cliente.
-- Como foi testado: Em um arquivo demonstrativo com nomes fictícios: oito empresas, cerca de 175 pessoas e mais de 700 registros formativos, com uma distribuição realista dos estados.
+- Como foi testado: Em um arquivo demonstrativo: oito empresas, cerca de 175 pessoas e mais de 700 registros formativos, com uma distribuição realista dos estados.
 - Limite declarado: O cálculo segue regras fixas e, sobre os mesmos dados, dá sempre o mesmo resultado, e está certo assim: em uma regra de periodicidade não há nada a confiar a um modelo. A IA serve um passo antes, para trazer para dentro dados que hoje chegam desordenados, e um passo depois, para perceber que uma regra mudou.
 
 ## Antes de escolher o formato, reconhecer o processo.
@@ -2112,7 +2112,7 @@ Os dois planos permanecem separados. As verificações normativas são determin�
 
 - Como se controla: 695 testes automáticos no motor, executados a cada integração. O motor reconstruído reproduz 58 casos de verificação em 63 até o dígito impresso, e 44 arquivos históricos em 44 são relidos sem exceções por decodificadores escritos sem ter a documentação dos formatos.
 - O que falta, declarado: A base dos fatos chega a 98,8% de completeza — 399 itens em 404 — e os 5 que restam estão declarados e motivados em vez de omitidos.
-- Verificação independente: Oito campanhas conduzidas por agentes encarregados de refutar o trabalho feito. As refutações encontradas foram reparadas antes da entrega, não arquivadas.
+- Verificação independente: Nove ciclos de verificação conduzidos por cerca de 495 agentes encarregados de refutar o trabalho feito. As refutações encontradas foram reparadas antes da entrega, não arquivadas.
 
 ### 2. Instrução de pedidos e back-office: A inteligência artificial escreve o rascunho, as regras da empresa decidem o desfecho.
 
@@ -2159,7 +2159,7 @@ Nenhum número do relatório nasce de um modelo: as grandezas são calculadas po
 
 Nos relatórios a separação é nítida. As grandezas são calculadas por um programa que, sobre os mesmos dados parados, dá sempre o mesmo resultado, com testes que as reproduzem idênticas a cada execução; o texto é escrito ancorado nesses números e nas citações reais.
 
-O documento pronto é depois relido por personas sintéticas (perfis de leitor gerados para testar a qualidade) com um limiar de qualidade declarado, abaixo do qual não se entrega.
+O documento pronto é depois relido por personas sintéticas (perfis de leitor gerados para testar a qualidade), com um limiar de qualidade declarado.
 
 E quando a métrica óbvia não discrimina — categorias em que todas as atividades estão acima de 4,8 estrelas — o relatório diz isso, em vez de construir em cima um veredito.
 

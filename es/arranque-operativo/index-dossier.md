@@ -35,9 +35,9 @@ Tras un día en sede queda el asistente a nombre de la empresa y el procedimient
 
 ## Ejemplos extra
 
-### Un solo proceso
+### Un solo trabajo
 
-Quien pide cinco automatizaciones en un día no termina ninguna. El hub lo dice en página.
+Un trabajo cada vez, llevado hasta el final. La página lo dice claramente.
 
 ### Informe como puerta
 

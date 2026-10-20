@@ -2046,15 +2046,15 @@ Ce qui a changé. Quand le dossier est complet, les documents officiels sortent 
 
 ### 3. Équipes sur le terrain: Le planning hebdomadaire des équipes sur le terrain se fait encore à la main.
 
-Le planning hebdomadaire se calcule en quelques secondes et se régénère quand une contrainte change. De combien il fait économiser n'est pas encore mesuré, et n'est pas déclaré.
+Le planning hebdomadaire se calcule en une minute environ et se régénère quand une contrainte change. De combien il fait économiser n'est pas encore mesuré, et n'est pas déclaré.
 
 La situation. Quand une entreprise envoie des équipes chez les clients, le programme de la semaine naît de dizaines de contraintes qui se gênent : adresses dispersées sur un territoire large, plages horaires imposées par les clients, priorités commerciales et échéances légales, durées qui changent avec le type de prestation, équipages non interchangeables. Fait à la main, le planning sort toujours praticable mais jamais efficace, et il manque le terme de comparaison pour s'en apercevoir.
 
 Ce qui a été fait. Le problème est formulé comme un problème de tournée avec fenêtres temporelles et résolu avec un solveur d'optimisation. Un premier niveau répartit les interventions sur les jours, en équilibrant la capacité des équipages et en plaçant d'abord les plus lourdes. Un second résout chaque journée comme une tournée sur plusieurs véhicules, avec les temps de parcours réels pris auprès d'un service routier et les fenêtres horaires traitées comme des contraintes qu'on ne peut pas violer.
 
-Ce qui a changé. Le responsable reçoit un planning prêt à l'emploi : tournées sur carte, calendrier quotidien par unité, kilomètres, heures de conduite et saturation des équipages. Et le même planning se régénère en quelques secondes quand une contrainte change, ce qui est la part dont on a besoin tout de suite, quand quelqu'un se décommande.
+Ce qui a changé. Le responsable reçoit un planning prêt à l'emploi : tournées sur carte, calendrier quotidien par unité, kilomètres, heures de conduite et saturation des équipages. Et le même planning se régénère en une minute environ quand une contrainte change, ce qui est la part dont on a besoin tout de suite, quand quelqu'un se décommande.
 
-- Comment cela a été éprouvé: Sur une archive de démonstration avec des noms fictifs — 35 sites, 128 personnes, deux unités mobiles — le planning hebdomadaire complet sort en quelques secondes, contre les heures que le travail à la main demande.
+- Comment cela a été éprouvé: Sur une archive de démonstration — 35 sites, 128 personnes aux noms fictifs, deux unités mobiles — le planning hebdomadaire complet sort en une minute environ, contre les heures que le travail à la main demande.
 - Ce que cela restitue: À chaque exécution : kilomètres totaux, heures de conduite et pourcentage de saturation par équipage. Ce sont les chiffres qui permettent de comparer deux plannings, au lieu de se fier au premier.
 - Limite déclarée: Il n'existe pas encore de comparaison mesurée avant et après chez un client réel. Tant qu'elle n'existe pas, aucun pourcentage d'économie n'est déclaré : ce serait une estimation présentée comme une mesure.
 
@@ -2083,7 +2083,7 @@ Ce qui a été fait. Le problème n'est pas de calculer une date. C'est de tenir
 Ce qui a changé. Quand la matrice existe, le travail devient de programmer les cours au lieu de reconstruire l'état. Les données personnelles restent sur le serveur de l'organisation : aucun envoi vers des services externes, obtenu comme contrainte d'architecture et non comme déclaration d'intention.
 
 - Mesuré sur le projet: 18 types de cours obligatoires modélisés, avec une périodicité d'un à cinq ans et certains une fois pour toutes. Quatre états calculés pour chaque combinaison entre personne et obligation, avec un préavis par défaut à 90 jours et configurable par client.
-- Comment cela a été éprouvé: Sur une archive de démonstration avec des noms fictifs : huit entreprises, environ 175 personnes et plus de 700 enregistrements de formation, avec une distribution réaliste des états.
+- Comment cela a été éprouvé: Sur une archive de démonstration : huit entreprises, environ 175 personnes et plus de 700 enregistrements de formation, avec une distribution réaliste des états.
 - Limite déclarée: Le calcul suit des règles fixes et, sur les mêmes données, donne toujours le même résultat, et c'est bien ainsi : dans une règle de périodicité, il n'y a rien à confier à un modèle. L'IA sert un pas avant, pour faire entrer des données qui arrivent aujourd'hui en désordre, et un pas après, pour s'apercevoir qu'une règle a changé.
 
 ## Avant de choisir le format, reconnaître le processus.
@@ -2112,7 +2112,7 @@ Les deux plans restent séparés. Les vérifications réglementaires sont déter
 
 - Comment on contrôle: 695 tests automatiques sur le programme de calcul, exécutés à chaque intégration. Le programme reconstruit reproduit 58 cas de vérification sur 63 au chiffre imprimé, et 44 archives historiques sur 44 sont relues sans exception par des décodeurs écrits sans avoir la documentation des formats.
 - Ce qui manque, déclaré: La base des faits atteint 98,8 % de complétude — 399 entrées sur 404 — et les 5 qui restent sont déclarées et motivées au lieu d'être omises.
-- Vérification indépendante: Huit campagnes menées par des agents chargés de réfuter le travail fait. Les réfutations trouvées ont été réparées avant la livraison, pas classées.
+- Vérification indépendante: Neuf cycles de vérification menés par environ 495 agents chargés de réfuter le travail fait. Les réfutations trouvées ont été réparées avant la livraison, pas classées.
 
 ### 2. Instruction des dossiers et back-office: L'intelligence artificielle rédige le brouillon, les règles de l'entreprise décident de l'issue.
 
@@ -2159,7 +2159,7 @@ Aucun chiffre du rapport ne naît d'un modèle : les grandeurs sont calculées p
 
 Dans les rapports, la séparation est nette. Les grandeurs sont calculées par un programme qui, sur les mêmes données figées, donne toujours le même résultat, avec des tests qui les reproduisent identiques à chaque exécution ; le texte est écrit ancré à ces chiffres et aux citations réelles.
 
-Le document fini est ensuite relu par des personas synthétiques avec un seuil de qualité déclaré, en dessous duquel on ne livre pas.
+Le document fini est ensuite relu par des personas synthétiques, avec un seuil de qualité déclaré.
 
 Et quand l'indicateur évident ne discrimine pas — des catégories où toutes les activités sont au-dessus de 4,8 étoiles — le rapport le dit, au lieu de construire dessus un verdict.
 

@@ -35,9 +35,9 @@ Depois de um dia na sede, restam o assistente no nome da empresa e o procediment
 
 ## Exemplos extras
 
-### Um só processo
+### Um só trabalho
 
-Quem pede cinco automações num dia não termina nenhuma. O hub diz isso na página.
+Um trabalho de cada vez, levado até o fim. A página diz isso claramente.
 
 ### Relatório como porta
 
