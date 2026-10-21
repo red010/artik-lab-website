@@ -66,17 +66,17 @@ Algunas decisiones dependen de la experiencia de roles clave. El proyecto hace e
 
 Qué se consiguió.
 
-### 1. Oficina técnica: Las reglas de cálculo están en el código y en una sola persona, no en un documento de especificaciones.
+### 1. Oficina técnica: Las reglas de cálculo están en el código y en la experiencia de unos pocos, no en un documento de especificaciones.
 
-Ocho semanas de análisis sobre unos 267 archivos fuente: 37 reglas de decisión puestas por escrito y 18 puntos críticos que la empresa no sabía que tenía.
+Análisis del software en uso: 37 reglas de decisión puestas por escrito y 18 puntos críticos que la empresa no sabía que tenía.
 
-La situación. Una empresa proyecta por encargo componentes cuyo dimensionado exige comprobaciones normativas. Desde hace más de veinte años el trabajo pasa por un software de cálculo escrito en casa, sobre una plataforma de desarrollo que ya no tiene soporte, con formatos de archivo propietarios que nunca se documentaron. El programa funciona, pero nadie puede modificarlo con una seguridad razonable. Y las especificaciones no existen: las reglas viven dentro del código y en la experiencia de un solo proyectista.
+La situación. Una empresa proyecta por encargo componentes cuyo dimensionado exige comprobaciones normativas. El trabajo pasa por un software de cálculo propietario en uso desde hace muchos años, sobre una plataforma de desarrollo que ya no tiene soporte, con formatos de archivo que nunca se documentaron. El programa funciona, pero nadie puede modificarlo con una seguridad razonable. Y las especificaciones no existen: las reglas viven dentro del código y en la experiencia de pocas personas de la oficina técnica.
 
-Qué se ha hecho. Los requisitos no se han recopilado: se han reconstruido. El trabajo lee en paralelo tres fuentes — el código fuente, el archivo de los proyectos realmente ejecutados y las indicaciones de la oficina técnica — y las hace chocar entre sí: cada regla extraída del código se contrasta con los datos y se lleva al experto; cada indicación del experto se verifica en el código. Ninguna afirmación se acepta por confianza, ni la del experto ni la del código; lo que no es verificable se declara como tal, en lugar de quedar implícito.
+Qué se ha hecho. Los requisitos no se han recopilado: se han reconstruido. El trabajo lee en paralelo tres fuentes — el código fuente, el archivo de los proyectos realmente ejecutados y las indicaciones de la oficina técnica — y las hace chocar entre sí: cada regla extraída del código se contrasta con los datos y se lleva a los técnicos; cada indicación de los técnicos se verifica en el código. Ninguna afirmación se acepta por confianza, ni la de la experiencia ni la del código; lo que no es verificable se declara como tal, en lugar de quedar implícito.
 
 Qué ha cambiado. La empresa ha dejado de depender de un saber que existía en un solo sitio. Lo que era tácito se ha convertido en un documento discutible y, junto con el mapa del sistema, ha salido la lista de las incongruencias que ya nadie tenía modo de ver, incluidas las divergencias entre lo que prescribe el manual y lo que ejecuta el programa.
 
-- Medido en este proyecto: Unos 267 archivos fuente y doce bibliotecas mapeados en ocho semanas de análisis. 37 reglas de decisión formalizadas: 13 restricciones rígidas, 19 heurísticas de optimización, 5 reglas de diagnóstico.
+- Medido en este proyecto: Código fuente y bibliotecas del software en uso mapeados. 37 reglas de decisión formalizadas: 13 restricciones rígidas, 19 heurísticas de optimización, 5 reglas de diagnóstico.
 - Qué salió a la luz: 18 puntos críticos del software en uso, clasificados por gravedad y cada uno con una propuesta de tratamiento. A estos se suman doce limitaciones documentadas y diez requisitos para el sistema nuevo.
 - Cómo sigue: Un recorrido por paquetes comprobables, en el que cada etapa tiene un criterio de aceptación numérico acordado antes de empezar.
 - Límite declarado: Los números salen de este proyecto: dicen qué ha producido el método ahí, no qué producirá en otro sitio.
@@ -151,19 +151,19 @@ En sistemas técnicos, los componentes opacos no deben sustituir el cálculo ver
 
 Cinco proyectos distintos, la misma decisión: lo que decide es un cálculo repetible y controlable con pruebas; la IA trabaja por encima. Cada ficha dice dónde está el límite y cómo se controla.
 
-### 1. Oficina técnica: El software calcula, pero las decisiones las toma una sola persona
+### 1. Oficina técnica: El software calcula, pero las decisiones siguen en la experiencia de unos pocos
 
-Las elecciones de quien tiene veinte años de oficio se convierten en reglas escritas en el programa de cálculo; los controles de norma siguen siendo un cálculo repetible.
+Las elecciones de los técnicos más expertos se convierten en reglas escritas en el programa de cálculo; los controles de norma siguen siendo un cálculo repetible.
 
-En muchas oficinas técnicas el programa ejecuta las comprobaciones, mientras las elecciones que llevan a una solución eficiente siguen siendo de quien tiene veinte años de oficio: por dónde empezar, cómo corregir cuando las comprobaciones no cuadran, cuándo una solución formalmente correcta no es razonable.
+En muchas oficinas técnicas el programa ejecuta las comprobaciones, mientras las elecciones que llevan a una solución eficiente siguen siendo de quien tiene más experiencia: por dónde empezar, cómo corregir cuando las comprobaciones no cuadran, cuándo una solución formalmente correcta no es razonable.
 
-El proyecto transforma estas decisiones en restricciones, heurísticas y reglas de diagnóstico explícitas, que se convierten en parámetros del motor de cálculo. Por encima del núcleo trabajan agentes especializados, instruidos sobre los casos históricos y sobre las soluciones realmente adoptadas: uno propone la configuración de partida para un problema nuevo, uno elige la estrategia correctora cuando la optimización no converge, uno compara el resultado con los casos análogos y señala cuándo es matemáticamente correcto pero atípico.
+El proyecto transforma estas decisiones en restricciones, heurísticas y reglas de diagnóstico explícitas, que se convierten en parámetros del motor de cálculo. Por encima del núcleo se ha diseñado una capa de agentes especializados, que se instruirán con los casos históricos y las soluciones realmente adoptadas. Está previsto que un agente proponga la configuración de partida para un problema nuevo. Está previsto que un segundo elija la estrategia correctora cuando la optimización no converge. Está previsto que un tercero compare el resultado con los casos análogos y señale cuándo es matemáticamente correcto pero atípico.
 
-Los dos planos permanecen separados. Las comprobaciones normativas son deterministas y reproducibles; la IA trabaja por encima del cálculo y no dentro, y el experto permanece en el ciclo para validar, corregir y enriquecer.
+Los dos planos permanecen separados. Las comprobaciones normativas son deterministas y reproducibles. La IA está prevista por encima del cálculo, no dentro, y quien proyecta permanece en el ciclo para validar, corregir y enriquecer.
 
 - Cómo se controla: 695 pruebas automáticas sobre el motor, ejecutadas en cada integración. El motor reconstruido reproduce 58 casos de comprobación de 63 hasta la cifra impresa, y 44 archivos históricos de 44 se releen sin excepciones por decodificadores escritos sin tener la documentación de los formatos.
 - Qué falta, declarado: La base de los hechos alcanza el 98,8% de completitud — 399 entradas de 404 — y las 5 que quedan están declaradas y motivadas en lugar de omitidas.
-- Verificación independiente: Nueve ciclos de verificación realizados por unos 495 agentes encargados de refutar el trabajo hecho. Las refutaciones encontradas se repararon antes de la entrega, no se archivaron.
+- Verificación independiente: En la verificación realizada por Artik Lab durante el desarrollo, agentes dedicados tuvieron la tarea de refutar el trabajo hecho, en nueve ciclos. Las refutaciones encontradas se repararon antes de la entrega, no se archivaron.
 
 ### 2. Tramitación y back office: La inteligencia artificial escribe el borrador; las reglas de la empresa deciden el resultado.
 

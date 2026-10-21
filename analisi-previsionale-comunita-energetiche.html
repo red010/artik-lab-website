@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Comunità energetica: conviene, e quanto può andare male? Prima di firmare, i numeri.</title>
+  <meta name="description" content="Un servizio di analisi che parte dai consumi misurati e arriva al piano economico su vent&#x27;anni, con 10.000 scenari e la probabilità di perdita. Ogni numero è ricalcolato in modo indipendente.">
+  <meta name="author" content="Artik Lab s.r.l.">
+  <link rel="canonical" href="https://ar-tik.com/analisi-previsionale-comunita-energetiche.html">
+  <link rel="alternate" type="text/markdown" title="Markdown mirror" href="https://ar-tik.com/analisi-previsionale-comunita-energetiche.md">
+  <link rel="alternate" type="text/markdown" title="LLM dossier" href="https://ar-tik.com/analisi-previsionale-comunita-energetiche-dossier.md">
+  <link rel="alternate" hreflang="it" href="https://ar-tik.com/analisi-previsionale-comunita-energetiche.html">
+  <link rel="alternate" hreflang="x-default" href="https://ar-tik.com/analisi-previsionale-comunita-energetiche.html">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Artik Lab">
+  <meta property="og:locale" content="it_IT">
+  <meta property="og:url" content="https://ar-tik.com/analisi-previsionale-comunita-energetiche.html">
+  <meta property="og:title" content="Comunità energetica: conviene, e quanto può andare male? Prima di firmare, i numeri.">
+  <meta property="og:description" content="Un servizio di analisi che parte dai consumi misurati e arriva al piano economico su vent&#x27;anni, con 10.000 scenari e la probabilità di perdita. Ogni numero è ricalcolato in modo indipendente.">
+  <meta property="og:image" content="https://ar-tik.com/assets/images/og-artik-lab.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Artik Lab">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Comunità energetica: conviene, e quanto può andare male? Prima di firmare, i numeri.">
+  <meta name="twitter:description" content="Un servizio di analisi che parte dai consumi misurati e arriva al piano economico su vent&#x27;anni, con 10.000 scenari e la probabilità di perdita. Ogni numero è ricalcolato in modo indipendente.">
+  <meta name="twitter:image" content="https://ar-tik.com/assets/images/og-artik-lab.png">
+  <link rel="icon" type="image/svg+xml" href="/assets/images/artik-lab.svg">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <meta name="theme-color" content="#0D435B">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;700&family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: { navy: '#0D435B', teal: '#0E88A5', green: '#47B488', lime: '#9BC979', paper: '#F7FAF8' },
+          fontFamily: { heading: ['Playfair Display', 'Georgia', 'serif'], body: ['DM Sans', 'sans-serif'] }
+        }
+      }
+    };
+  </script>
+  <script src="https://unpkg.com/lucide@1.23.0/dist/umd/lucide.min.js"></script>
+  <link rel="stylesheet" href="/css/custom.css?v=20260910-valuta-mese">
+  <script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://ar-tik.com/#organization",
+      "name": "Artik Lab",
+      "legalName": "Artik Lab s.r.l.",
+      "url": "https://ar-tik.com",
+      "logo": "https://ar-tik.com/assets/images/artik-lab.svg",
+      "description": "Artik Lab costruisce capacità AI che restano in azienda: processi misurabili, governance, formazione operativa, analisi dati agentica e prototipi controllati.",
+      "email": "dtr@ar-tik.com",
+      "vatID": "IT04120810041",
+      "sameAs": [
+        "https://www.linkedin.com/company/artik-lab/"
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "dtr@ar-tik.com",
+        "contactType": "business inquiries",
+        "availableLanguage": [
+          "Italiano",
+          "English",
+          "Español",
+          "Français",
+          "Português do Brasil"
+        ]
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Principe Amedeo 11",
+        "addressLocality": "Torino",
+        "addressCountry": "IT"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://ar-tik.com/#website",
+      "name": "Artik Lab",
+      "url": "https://ar-tik.com",
+      "inLanguage": "it",
+      "publisher": {
+        "@id": "https://ar-tik.com/#organization"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ar-tik.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Analisi dati agentica",
+          "item": "https://ar-tik.com/analisi-dati-agentica.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Analisi previsionale per comunità energetiche",
+          "item": "https://ar-tik.com/analisi-previsionale-comunita-energetiche.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Esiste già una piattaforma che rendiconta l'energia condivisa. Che cosa aggiunge l'analisi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La piattaforma racconta che cosa è successo: quanta energia è stata condivisa, quanti incentivi sono arrivati, come ripartirli. L'analisi risponde a una domanda diversa, che viene prima: con questi consumi e questi impianti, la comunità conviene, e con quale rischio nei prossimi vent'anni? Serve prima di costituire la comunità, prima di un'adesione, prima di aggiungere un impianto o un gruppo di membri. Non sostituisce la piattaforma e non chiede di cambiarla: legge gli stessi dati di misura."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Il piano della comunità regge senza fondi a perduto?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "È la domanda a cui serve l'analisi. Il simulatore calcola il piano su vent'anni con le regole di incentivo in vigore e lo ripete su 10.000 scenari, con e senza un contributo in conto capitale. Si vede così se la comunità sta in piedi da sola, e con quale probabilità di perdita. Se non regge, il report lo dice."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "name": "Analisi previsionale per comunità energetiche",
+      "description": "Un servizio di analisi che parte dai consumi misurati e arriva al piano economico su vent'anni, con 10.000 scenari e la probabilità di perdita. Ogni numero è ricalcolato in modo indipendente.",
+      "url": "https://ar-tik.com/analisi-previsionale-comunita-energetiche.html",
+      "provider": {
+        "@id": "https://ar-tik.com/#organization"
+      },
+      "areaServed": {
+        "@type": "Country",
+        "name": "Italia"
+      },
+      "inLanguage": "it"
+    }
+  ]
+}</script>
+</head>
+<body>
+<a class="skip-link" href="#content">Salta al contenuto</a>
+<header id="site-header" class="site-header">
+  <div class="shell header-inner">
+    <a class="brand" href="/" aria-label="Artik Lab">
+      <img src="/assets/images/artik-lab.svg" alt="Artik Lab" width="142" height="50">
+    </a>
+    <nav class="desktop-nav" aria-label="Main navigation">
+      <a class="nav-link" href="/#metodo">Metodo</a>
+      <a class="nav-link" href="/#servizi">Servizi</a>
+      <a class="nav-link" href="/avvio-operativo/">Avvio operativo</a>
+      <a class="nav-link" href="/atlante-applicazioni-ai-imprese.html">Atlante AI</a>
+      <a class="nav-link active" href="/analisi-dati-agentica.html">Analisi dati</a>
+      <a class="nav-link" href="/sviluppo-software-tecnico-ai.html">Software</a>
+      <a class="nav-link" href="/corsi/">Corsi</a>
+      <a class="nav-link" href="/domande-frequenti-ai-aziende.html">FAQ</a>
+      <a class="nav-link" href="/#contatti">Contatti</a>
+    </nav>
+    <div class="header-actions">
+      <div class="language-switcher" aria-label="Language selector"><span class="lang-current" aria-current="page">IT</span><a class="lang-link" href="/en/agentic-data-analysis.html" hreflang="en">EN</a><a class="lang-link" href="/es/analisis-datos-agentico.html" hreflang="es">ES</a><a class="lang-link" href="/fr/analyse-donnees-agentique.html" hreflang="fr">FR</a><a class="lang-link" href="/pt-br/analise-dados-agentica.html" hreflang="pt-BR">PT</a></div>
+      <button id="menu-toggle" class="icon-button" type="button" aria-label="Apri menu" aria-expanded="false" aria-controls="mobile-menu">
+        <i data-lucide="menu" aria-hidden="true"></i>
+      </button>
+    </div>
+  </div>
+  <div id="mobile-menu" class="mobile-menu" hidden>
+    <div class="mobile-menu-panel">
+      <button id="menu-close" class="icon-button inverted" type="button" aria-label="Chiudi menu">
+        <i data-lucide="x" aria-hidden="true"></i>
+      </button>
+      <nav aria-label="Mobile navigation">
+        <a class="nav-link" href="/#metodo">Metodo</a>
+        <a class="nav-link" href="/#servizi">Servizi</a>
+        <a class="nav-link" href="/avvio-operativo/">Avvio operativo</a>
+        <a class="nav-link" href="/atlante-applicazioni-ai-imprese.html">Atlante AI</a>
+        <a class="nav-link active" href="/analisi-dati-agentica.html">Analisi dati</a>
+        <a class="nav-link" href="/sviluppo-software-tecnico-ai.html">Software</a>
+        <a class="nav-link" href="/corsi/">Corsi</a>
+        <a class="nav-link" href="/domande-frequenti-ai-aziende.html">FAQ</a>
+        <a class="nav-link" href="/#contatti">Contatti</a>
+      </nav>
+      <div class="language-switcher mobile"><span class="lang-current" aria-current="page">IT</span><a class="lang-link" href="/en/agentic-data-analysis.html" hreflang="en">EN</a><a class="lang-link" href="/es/analisis-datos-agentico.html" hreflang="es">ES</a><a class="lang-link" href="/fr/analyse-donnees-agentique.html" hreflang="fr">FR</a><a class="lang-link" href="/pt-br/analise-dados-agentica.html" hreflang="pt-BR">PT</a></div>
+    </div>
+  </div>
+</header>
+<nav class="breadcrumbs shell" aria-label="Breadcrumb"><a href="https://ar-tik.com/">Home</a><span>/</span><a href="/analisi-dati-agentica.html">Analisi dati agentica</a><span>/</span><span aria-current="page">Analisi previsionale per comunità energetiche</span></nav>
+<main id="content">
+<section class="hero interior-hero">
+  <div class="shell hero-content">
+    <p class="eyebrow light">Analisi dati agentica</p>
+    <h1>Comunità energetica: conviene, e quanto può andare male? Prima di firmare, i numeri.</h1>
+    <p class="hero-lead">Un servizio di analisi che parte dai consumi misurati e arriva al piano economico su vent&#x27;anni, con 10.000 scenari e la probabilità di perdita. Ogni numero è ricalcolato in modo indipendente.</p>
+    <div class="button-row">
+      <a class="button primary" href="#passo-successivo"><i data-lucide="mail" aria-hidden="true"></i>Avviare una conversazione</a>
+    </div>
+  </div>
+</section>
+<nav class="shell page-index" aria-label="Su questa pagina"><span>Su questa pagina</span><a href="#in-breve">In breve</a><a href="#a-chi-serve">A chi serve</a><a href="#come-lavora">Come lavora l&#x27;analisi</a><a href="#cosa-si-riceve">Che cosa si riceve</a><a href="#verdetto">Quando l&#x27;analisi dice di non farlo</a><a href="#prova">Dove è stato provato</a><a href="#domande">Domande frequenti</a><a href="#passo-successivo">Il passo successivo</a></nav>
+<section id="in-breve" class="section intro-section">
+  <div class="shell two-column">
+    <div>
+      <h2>In breve</h2>
+    </div>
+    <div class="service-stack"><p class="large-text">Entra: i dati di consumo del portale del distributore, le bollette, gli impianti esistenti o previsti, i membri. Esce: il piano economico su vent&#x27;anni, la distribuzione dei risultati su 10.000 scenari e la probabilità di perdita, con le ipotesi da cui dipende ogni numero. Decide: chi delibera o chi aderisce.</p><p class="large-text">Se l&#x27;analisi dice che la comunità non conviene, è un risultato consegnato, non un fallimento. Per un comune che deve motivare per iscritto la propria scelta, un verdetto negativo documentato è utile quanto uno positivo.</p></div>
+  </div>
+</section>
+<section id="a-chi-serve" class="section paper-section">
+  <div class="shell section-heading">
+    <h2>A chi serve</h2>
+  </div>
+  <div class="shell card-grid three"><article class="surface-card">
+  <i data-lucide="landmark" aria-hidden="true"></i>
+  <h3>Il comune che deve decidere</h3>
+  <p>Promuovere una comunità energetica o aderire a una esistente è una scelta che va motivata. Servono numeri che si possano rifare e controllare, non una stima con un solo scenario.</p>
+</article><article class="surface-card">
+  <i data-lucide="users" aria-hidden="true"></i>
+  <h3>Chi promuove o costituisce una comunità</h3>
+  <p>Associazioni, cooperative, gruppi di cittadini, unioni di comuni: chi deve convincere i membri e rendere conto all&#x27;assemblea. I dati di consumo sono sparsi fra portale del distributore e bollette; l&#x27;analisi li mette in ordine e dice quanto il piano regge.</p>
+</article><article class="surface-card">
+  <i data-lucide="factory" aria-hidden="true"></i>
+  <h3>L&#x27;impresa che vuole entrare in una comunità</h3>
+  <p>Anche un&#x27;impresa può entrare in una comunità energetica, per esempio con l&#x27;impianto fotovoltaico sul tetto del proprio stabilimento. Il servizio ne calcola il contributo all&#x27;energia condivisa e la convenienza.</p>
+</article></div>
+</section>
+<section id="come-lavora" class="section split-highlight">
+  <div class="shell two-column">
+    <div>
+      <h2>Come lavora l&#x27;analisi</h2>
+      <p>L&#x27;AI lavora dentro il servizio di analisi, condotto da Artik Lab. Il comune riceve i risultati, non installa software. Tre passaggi.</p>
+    </div>
+    <ol class="process-list"><li><span>1</span><div><strong>I dati di consumo</strong><p>Agenti AI leggono gli export del portale del distributore, curve al quarto d&#x27;ora e schermate. Riconoscono dal contenuto mese e anno di ogni file, ripuliscono i valori e costruiscono un anno tipo orario, segnando ogni ora ricostruita. I consumi sono verificati sulle bollette, per fasce orarie. Poi si incrociano con la produzione degli impianti, esistenti o previsti.</p></div></li><li><span>2</span><div><strong>Il piano economico</strong><p>Un simulatore ora per ora su vent&#x27;anni applica le regole di incentivo in vigore e ripete il calcolo su 10.000 scenari. Il risultato non è un numero solo: è quanto può andare bene, quanto può andare male e con quale probabilità. Edifici, impianti e membri si descrivono in una configurazione: il metodo si adatta a qualsiasi comune.</p><p>Quando cambiano le regole degli incentivi, il calcolo si può rifare sugli stessi dati. Nel servizio di analisi di Artik Lab il calcolo è assistito dall&#x27;AI e ogni risultato è verificato da esperti: per questo è rapido confrontare più scenari, con e senza contributo, e rifare i numeri quando le regole cambiano.</p></div></li><li><span>3</span><div><strong>La verifica</strong><p>Agenti diversi ricalcolano ogni grandezza con un metodo proprio e la confrontano con il risultato del simulatore. Il calcolo economico è deterministico: con lo stesso seme dà sempre lo stesso risultato. Le decisioni restano alle persone.</p></div></li></ol>
+  </div>
+</section>
+<section id="cosa-si-riceve" class="section">
+  <div class="shell section-heading">
+    <h2>Che cosa si riceve</h2>
+  </div>
+  <div class="shell card-grid four"><article class="surface-card">
+  <i data-lucide="file-check-2" aria-hidden="true"></i>
+  <h3>Piano economico su vent&#x27;anni</h3>
+  <p>Flussi di energia, energia condivisa, incentivi e risultato economico anno per anno, con le ipotesi dichiarate.</p>
+</article><article class="surface-card">
+  <i data-lucide="file-check-2" aria-hidden="true"></i>
+  <h3>Scenari e probabilità di perdita</h3>
+  <p>La distribuzione dei risultati su 10.000 scenari: il caso favorevole, quello sfavorevole e la probabilità di chiudere in perdita.</p>
+</article><article class="surface-card">
+  <i data-lucide="file-check-2" aria-hidden="true"></i>
+  <h3>Il verdetto, anche quando è negativo</h3>
+  <p>Se la comunità non regge, il report lo dice e spiega perché. È un risultato consegnato, non un&#x27;analisi andata male: evita un impegno che non renderebbe, e documenta la scelta di non farlo.</p>
+</article><article class="surface-card">
+  <i data-lucide="file-check-2" aria-hidden="true"></i>
+  <h3>Le ipotesi e la loro fonte</h3>
+  <p>Per ogni numero, il dato da cui viene. Chi legge può rifare il calcolo e controllarlo.</p>
+</article></div>
+</section>
+<section id="verdetto" class="section verdict-section">
+  <div class="shell section-heading">
+    <h2>Quando l&#x27;analisi dice di non farlo</h2>
+    <p>Lo stesso metodo verificato della linea di analisi dati agentica di Artik Lab: ogni numero con la sua fonte, verifica indipendente, verdetto dichiarato anche quando è scomodo. Se con quei consumi e quegli impianti la comunità non conviene, la risposta arriva prima della firma, quando costa meno.</p>
+  </div>
+</section>
+<section id="prova" class="section paper-section">
+  <div class="shell two-column">
+    <div>
+      <h2>Dove è stato provato</h2>
+    </div>
+    <p class="large-text">Sui dati reali delle utenze di un comune: oltre mezzo milione di misure al quarto d&#x27;ora. I consumi ricostruiti coincidono con i riepiloghi del portale del distributore in 176 mesi su 177.</p>
+  </div>
+</section>
+<section id="domande" class="section faq-section">
+  <div class="shell narrow">
+    <p class="eyebrow">Domande frequenti</p>
+    <h2>Domande frequenti</h2>
+    <div class="faq-list"><details><summary>Esiste già una piattaforma che rendiconta l&#x27;energia condivisa. Che cosa aggiunge l&#x27;analisi?</summary><p>La piattaforma racconta che cosa è successo: quanta energia è stata condivisa, quanti incentivi sono arrivati, come ripartirli. L&#x27;analisi risponde a una domanda diversa, che viene prima: con questi consumi e questi impianti, la comunità conviene, e con quale rischio nei prossimi vent&#x27;anni? Serve prima di costituire la comunità, prima di un&#x27;adesione, prima di aggiungere un impianto o un gruppo di membri. Non sostituisce la piattaforma e non chiede di cambiarla: legge gli stessi dati di misura.</p></details><details><summary>Il piano della comunità regge senza fondi a perduto?</summary><p>È la domanda a cui serve l&#x27;analisi. Il simulatore calcola il piano su vent&#x27;anni con le regole di incentivo in vigore e lo ripete su 10.000 scenari, con e senza un contributo in conto capitale. Si vede così se la comunità sta in piedi da sola, e con quale probabilità di perdita. Se non regge, il report lo dice.</p></details></div>
+  </div>
+</section>
+<section id="passo-successivo" class="section contact-section">
+  <div class="shell two-column">
+    <div>
+      <h2>Il passo successivo</h2>
+    </div>
+    <div>
+      <p>Portare i dati di consumo che ci sono già: export del portale del distributore e bollette. Artik Lab dice se bastano, prima di impegnarsi in un progetto. La prima conversazione dura 30 minuti ed è gratuita: scrivere a <a class="text-link light" href="mailto:dtr@ar-tik.com?subject=Richiesta%20di%20analisi%20per%20una%20CER">dtr@ar-tik.com</a> con oggetto «Richiesta di analisi per una CER». Il messaggio arriva a una persona di Artik Lab, che lo legge e risponde di persona.</p>
+      <div class="button-row">
+        <a class="button primary" href="mailto:dtr@ar-tik.com?subject=Richiesta%20di%20analisi%20per%20una%20CER"><i data-lucide="mail" aria-hidden="true"></i>Scrivere a dtr@ar-tik.com</a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+<footer class="site-footer">
+  <div class="shell footer-grid">
+    <div>
+      <img src="/assets/images/artik-lab.svg" alt="Artik Lab" class="footer-logo" width="142" height="50">
+      <p>Procedure e dati già in azienda: AI che resta, decisioni misurate.</p>
+    </div>
+    <nav aria-label="Footer navigation">
+      <a href="/avvio-operativo/">Avvio operativo</a>
+      <a href="/consulenza-manageriale-ai.html">Consulenza manageriale AI</a>
+      <a href="/atlante-applicazioni-ai-imprese.html">Atlante AI</a>
+      <a href="/analisi-dati-agentica.html">Analisi dati</a>
+      <a href="/sviluppo-software-tecnico-ai.html">Software</a>
+      <a href="/corsi/">Corsi</a>
+      <a href="/domande-frequenti-ai-aziende.html">FAQ</a>
+      <a href="/#contatti">Contatti</a>
+      <a href="/llms.txt">Informazioni per assistenti AI</a>
+    </nav>
+    <div class="footer-meta">
+      <p>Artik Lab s.r.l. — Via Principe Amedeo 11, Torino — P.IVA IT04120810041</p>
+      <p><a href="mailto:dtr@ar-tik.com">dtr@ar-tik.com</a></p>
+      <p><a href="/informativa/">Informativa sul trattamento dei dati</a></p>
+    </div>
+  </div>
+  <div class="shell footer-bottom">
+    <p>© 2026 Artik Lab s.r.l. Tutti i diritti riservati.</p>
+  </div>
+</footer>
+<script src="/js/main.js?v=20260910-valuta-mese"></script>
+</body>
+</html>

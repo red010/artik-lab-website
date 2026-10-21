@@ -47,17 +47,17 @@ An archive of manuals, reports and procedures can become searchable only when so
 
 What was obtained.
 
-### 1. Technical office: The calculation rules live in the code and in one person, not in a specification document.
+### 1. Technical office: The calculation rules live in the code and in the experience of a few, not in a specification document.
 
-Eight weeks of analysis on about 267 source files: 37 decision rules written down and 18 issues the company did not know it had.
+Analysis of the software in use: 37 decision rules written down and 18 issues the company did not know it had.
 
-The situation. A company designs made-to-order components whose sizing requires regulatory checks. For more than twenty years the work has gone through an in-house calculation programme, on a development platform that is no longer supported, with proprietary file formats that were never documented. The programme works, but nobody can change it with reasonable safety. And the specifications do not exist: the rules live inside the code and in the experience of a single designer.
+The situation. A company designs made-to-order components whose sizing requires regulatory checks. The work goes through a proprietary calculation programme in use for many years, on a development platform that is no longer supported, with file formats that were never documented. The programme works, but nobody can change it with reasonable safety. And the specifications do not exist: the rules live inside the code and in the experience of a few people in the technical office.
 
-What was done. The requirements were not collected; they were reconstructed. The work reads three sources in parallel — the source code, the archive of projects actually delivered, and the technical office's indications — and collides them with one another: every rule extracted from the code is checked against the data and taken back to the expert, every indication from the expert is checked against the code. No statement is accepted on trust, neither the expert's nor the code's; what cannot be verified is declared as such instead of remaining implicit.
+What was done. The requirements were not collected; they were reconstructed. The work reads three sources in parallel — the source code, the archive of projects actually delivered, and the technical office's indications — and collides them with one another: every rule extracted from the code is checked against the data and taken back to the engineers, every indication from the engineers is checked against the code. No statement is accepted on trust, whether it comes from experience or from the code; what cannot be verified is declared as such instead of remaining implicit.
 
 What changed. The company stopped depending on knowledge that existed in only one place. What had been tacit became a document that can be discussed, and together with the map of the system came the list of inconsistencies that nobody could still see, including divergences between what the manual prescribes and what the programme actually runs.
 
-- Measured on the project: About 267 source files and twelve libraries mapped in eight weeks of analysis. 37 decision rules written down: 13 hard constraints, 19 optimisation heuristics (rules of thumb), 5 diagnostic rules.
+- Measured on the project: Source code and libraries of the software in use mapped. 37 decision rules written down: 13 hard constraints, 19 optimisation heuristics (rules of thumb), 5 diagnostic rules.
 - What came out: 18 issues in the software in use, classified by severity, each with a proposed treatment. Added to these are twelve documented limitations and ten requirements for the new system.
 - How it continues: A path in testable packages, in which every stage has a numerical acceptance criterion agreed before work starts.
 - Declared limit: The numbers come from this project: they say what the method produced there, not what it will produce elsewhere.
@@ -122,19 +122,19 @@ What changed. When the matrix exists, the work becomes scheduling the courses in
 
 Five different projects, the same choice: what decides is a calculation that can be repeated and checked with tests; AI works on top of it. Every card says where the boundary sits and how it is checked.
 
-### 1. Technical office: The software calculates, but the decisions are taken by one person
+### 1. Technical office: The software calculates, but the decisions stay in the experience of a few
 
-The choices of someone with twenty years in the trade become rules written in the calculation programme; the regulatory checks remain a repeatable calculation.
+The choices of the most experienced engineers become rules written in the calculation programme; the regulatory checks remain a repeatable calculation.
 
-In many technical offices the programme runs the checks, while the choices that lead to an efficient solution stay with whoever has twenty years in the trade: where to start, how to correct when the checks do not add up, when a formally correct solution is not reasonable.
+In many technical offices the programme runs the checks, while the choices that lead to an efficient solution stay with the most experienced people: where to start, how to correct when the checks do not add up, when a formally correct solution is not reasonable.
 
-The project turns these decisions into explicit constraints, heuristics (rules of thumb) and diagnostic rules, which become parameters of the calculation engine. On top of the core work specialised agents, instructed on historical cases and on the solutions actually adopted: one proposes the starting configuration for a new problem, one chooses the corrective strategy when optimisation does not converge, one compares the result with analogous cases and flags when it is mathematically correct but atypical.
+The project turns these decisions into explicit constraints, heuristics (rules of thumb) and diagnostic rules, which become parameters of the calculation engine. On top of the core, a layer of specialised agents is designed, to be instructed on historical cases and on the solutions actually adopted. One agent is planned to propose the starting configuration for a new problem. A second is planned to choose the corrective strategy when optimisation does not converge. A third is planned to compare the result with analogous cases and flag when it is mathematically correct but atypical.
 
-The two layers stay separate. The regulatory checks are repeatable: on the same data they always give the same result. AI works on top of the calculation, not inside it, and the expert stays in the loop to validate, correct and enrich.
+The two layers stay separate. The regulatory checks are repeatable: on the same data they always give the same result. AI is planned on top of the calculation, not inside it, and the people doing the design stay in the loop to validate, correct and enrich.
 
 - How it is checked: 695 automated tests on the engine, run on every integration. The rebuilt engine reproduces 58 verification cases out of 63 to the printed digit, and 44 historical archives out of 44 are reread without exceptions by decoders written without having the documentation of the formats.
 - What is missing, declared: The fact base reaches 98.8% completeness — 399 entries out of 404 — and the 5 that remain are declared and justified instead of omitted.
-- Independent check: Nine verification cycles run by about 495 agents tasked with refuting the work done. The refutations found were repaired before delivery, not filed away.
+- Independent check: In the verification run by Artik Lab during development, dedicated agents were tasked with refuting the work done, over nine cycles. The refutations found were repaired before delivery, not filed away.
 
 ### 2. Application processing and back office: Artificial intelligence writes the draft; the company's rules decide the outcome.
 

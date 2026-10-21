@@ -78,6 +78,8 @@ Dai dati già disponibili a segnali verificati: previsioni, priorità operative,
 
 Pagina dedicata: https://ar-tik.com/analisi-dati-agentica.md
 
+[Comunità energetiche: analisi previsionale prima di promuovere o aderire.](https://ar-tik.com/analisi-previsionale-comunita-energetiche.md)
+
 ### Corsi per governare l'IA in azienda
 
 Percorsi AI per dare a direzione e funzioni aziendali criteri, policy e pratiche applicabili al lavoro reale.
@@ -530,6 +532,8 @@ L’analisi legge la serie storica dei consumi orari e costruisce un profilo att
 - Dati utili dopo: Prezzi, costi di sbilanciamento e regole di approvvigionamento.
 - Limite da dichiarare: Il risparmio economico va calcolato con i numeri reali del contratto energetico.
 
+[Per le comunità energetiche c'è un'analisi previsionale dedicata.](https://ar-tik.com/analisi-previsionale-comunita-energetiche.md)
+
 ### 5. Ristorazione: Ordino e metto i turni come la settimana scorsa
 
 La previsione degli incassi migliora del 24% rispetto alla regola “come settimana scorsa”.
@@ -665,6 +669,92 @@ L'estratto che già si prepara a mano ogni mese e la decisione che dovrebbe migl
 ### Dove stanno i dati durante l'analisi?
 
 Si lavora su un estratto concordato, con un perimetro scritto.
+
+<!-- https://ar-tik.com/analisi-previsionale-comunita-energetiche.md -->
+
+# Comunità energetica: conviene, e quanto può andare male? Prima di firmare, i numeri.
+
+Un servizio di analisi che parte dai consumi misurati e arriva al piano economico su vent'anni, con 10.000 scenari e la probabilità di perdita. Ogni numero è ricalcolato in modo indipendente.
+
+## In breve
+
+Entra: i dati di consumo del portale del distributore, le bollette, gli impianti esistenti o previsti, i membri. Esce: il piano economico su vent'anni, la distribuzione dei risultati su 10.000 scenari e la probabilità di perdita, con le ipotesi da cui dipende ogni numero. Decide: chi delibera o chi aderisce.
+
+Se l'analisi dice che la comunità non conviene, è un risultato consegnato, non un fallimento. Per un comune che deve motivare per iscritto la propria scelta, un verdetto negativo documentato è utile quanto uno positivo.
+
+## A chi serve
+
+### Il comune che deve decidere
+
+Promuovere una comunità energetica o aderire a una esistente è una scelta che va motivata. Servono numeri che si possano rifare e controllare, non una stima con un solo scenario.
+
+### Chi promuove o costituisce una comunità
+
+Associazioni, cooperative, gruppi di cittadini, unioni di comuni: chi deve convincere i membri e rendere conto all'assemblea. I dati di consumo sono sparsi fra portale del distributore e bollette; l'analisi li mette in ordine e dice quanto il piano regge.
+
+### L'impresa che vuole entrare in una comunità
+
+Anche un'impresa può entrare in una comunità energetica, per esempio con l'impianto fotovoltaico sul tetto del proprio stabilimento. Il servizio ne calcola il contributo all'energia condivisa e la convenienza.
+
+## Come lavora l'analisi
+
+L'AI lavora dentro il servizio di analisi, condotto da Artik Lab. Il comune riceve i risultati, non installa software. Tre passaggi.
+
+### 1. I dati di consumo
+
+Agenti AI leggono gli export del portale del distributore, curve al quarto d'ora e schermate. Riconoscono dal contenuto mese e anno di ogni file, ripuliscono i valori e costruiscono un anno tipo orario, segnando ogni ora ricostruita. I consumi sono verificati sulle bollette, per fasce orarie. Poi si incrociano con la produzione degli impianti, esistenti o previsti.
+
+### 2. Il piano economico
+
+Un simulatore ora per ora su vent'anni applica le regole di incentivo in vigore e ripete il calcolo su 10.000 scenari. Il risultato non è un numero solo: è quanto può andare bene, quanto può andare male e con quale probabilità. Edifici, impianti e membri si descrivono in una configurazione: il metodo si adatta a qualsiasi comune.
+
+Quando cambiano le regole degli incentivi, il calcolo si può rifare sugli stessi dati. Nel servizio di analisi di Artik Lab il calcolo è assistito dall'AI e ogni risultato è verificato da esperti: per questo è rapido confrontare più scenari, con e senza contributo, e rifare i numeri quando le regole cambiano.
+
+### 3. La verifica
+
+Agenti diversi ricalcolano ogni grandezza con un metodo proprio e la confrontano con il risultato del simulatore. Il calcolo economico è deterministico: con lo stesso seme dà sempre lo stesso risultato. Le decisioni restano alle persone.
+
+## Che cosa si riceve
+
+### Piano economico su vent'anni
+
+Flussi di energia, energia condivisa, incentivi e risultato economico anno per anno, con le ipotesi dichiarate.
+
+### Scenari e probabilità di perdita
+
+La distribuzione dei risultati su 10.000 scenari: il caso favorevole, quello sfavorevole e la probabilità di chiudere in perdita.
+
+### Il verdetto, anche quando è negativo
+
+Se la comunità non regge, il report lo dice e spiega perché. È un risultato consegnato, non un'analisi andata male: evita un impegno che non renderebbe, e documenta la scelta di non farlo.
+
+### Le ipotesi e la loro fonte
+
+Per ogni numero, il dato da cui viene. Chi legge può rifare il calcolo e controllarlo.
+
+## Quando l'analisi dice di non farlo
+
+Lo stesso metodo verificato della linea di analisi dati agentica di Artik Lab: ogni numero con la sua fonte, verifica indipendente, verdetto dichiarato anche quando è scomodo. Se con quei consumi e quegli impianti la comunità non conviene, la risposta arriva prima della firma, quando costa meno.
+
+## Dove è stato provato
+
+Sui dati reali delle utenze di un comune: oltre mezzo milione di misure al quarto d'ora. I consumi ricostruiti coincidono con i riepiloghi del portale del distributore in 176 mesi su 177.
+
+## Domande frequenti
+
+### Esiste già una piattaforma che rendiconta l'energia condivisa. Che cosa aggiunge l'analisi?
+
+La piattaforma racconta che cosa è successo: quanta energia è stata condivisa, quanti incentivi sono arrivati, come ripartirli. L'analisi risponde a una domanda diversa, che viene prima: con questi consumi e questi impianti, la comunità conviene, e con quale rischio nei prossimi vent'anni? Serve prima di costituire la comunità, prima di un'adesione, prima di aggiungere un impianto o un gruppo di membri. Non sostituisce la piattaforma e non chiede di cambiarla: legge gli stessi dati di misura.
+
+### Il piano della comunità regge senza fondi a perduto?
+
+È la domanda a cui serve l'analisi. Il simulatore calcola il piano su vent'anni con le regole di incentivo in vigore e lo ripete su 10.000 scenari, con e senza un contributo in conto capitale. Si vede così se la comunità sta in piedi da sola, e con quale probabilità di perdita. Se non regge, il report lo dice.
+
+## Il passo successivo
+
+Portare i dati di consumo che ci sono già: export del portale del distributore e bollette. Artik Lab dice se bastano, prima di impegnarsi in un progetto. La prima conversazione dura 30 minuti ed è gratuita: scrivere a dtr@ar-tik.com con oggetto «Richiesta di analisi per una CER». Il messaggio arriva a una persona di Artik Lab, che lo legge e risponde di persona.
+
+[Scrivere a dtr@ar-tik.com](mailto:dtr@ar-tik.com?subject=Richiesta%20di%20analisi%20per%20una%20CER)
 
 <!-- https://ar-tik.com/atlante-applicazioni-ai-imprese.md -->
 
@@ -2011,17 +2101,17 @@ Alcune decisioni dipendono dall'esperienza di ruoli chiave. Il progetto rende es
 
 Che cosa è stato ottenuto.
 
-### 1. Ufficio tecnico: Le regole di calcolo stanno nel codice e in una persona sola, non in un documento di specifiche.
+### 1. Ufficio tecnico: Le regole di calcolo stanno nel codice e nell'esperienza di pochi, non in un documento di specifiche.
 
-Otto settimane di analisi su circa 267 file sorgente: 37 regole decisionali messe per iscritto e 18 criticità che l'azienda non sapeva di avere.
+Analisi del software in uso: 37 regole decisionali messe per iscritto e 18 criticità che l'azienda non sapeva di avere.
 
-La situazione. Un'azienda progetta su commessa componenti il cui dimensionamento richiede verifiche normative. Da oltre vent'anni il lavoro passa da un software di calcolo scritto in casa, su una piattaforma di sviluppo non più supportata, con formati di file proprietari mai documentati. Il programma funziona, ma nessuno può più modificarlo con ragionevole sicurezza. E le specifiche non esistono: le regole vivono dentro il codice e nell'esperienza di un solo progettista.
+La situazione. Un'azienda progetta su commessa componenti il cui dimensionamento richiede verifiche normative. Il lavoro passa da un software di calcolo proprietario in uso da molti anni, su una piattaforma di sviluppo non più supportata, con formati di file mai documentati. Il programma funziona, ma nessuno può più modificarlo con ragionevole sicurezza. E le specifiche non esistono: le regole vivono dentro il codice e nell'esperienza di poche persone dell'ufficio tecnico.
 
-Che cosa è stato fatto. I requisiti non sono stati raccolti, sono stati ricostruiti. Il lavoro legge in parallelo tre fonti — il codice sorgente, l'archivio dei progetti realmente eseguiti e le indicazioni dell'ufficio tecnico — e le fa collidere fra loro: ogni regola estratta dal codice viene riscontrata sui dati e riportata all'esperto, ogni indicazione dell'esperto viene verificata sul codice. Nessuna affermazione è accettata sulla fiducia, né quella dell'esperto né quella del codice; ciò che non è verificabile viene dichiarato tale invece di restare implicito.
+Che cosa è stato fatto. I requisiti non sono stati raccolti, sono stati ricostruiti. Il lavoro legge in parallelo tre fonti — il codice sorgente, l'archivio dei progetti realmente eseguiti e le indicazioni dell'ufficio tecnico — e le fa collidere fra loro: ogni regola estratta dal codice viene riscontrata sui dati e riportata ai tecnici, ogni indicazione dei tecnici viene verificata sul codice. Nessuna affermazione è accettata sulla fiducia, né quella dell'esperienza né quella del codice; ciò che non è verificabile viene dichiarato tale invece di restare implicito.
 
 Che cosa è cambiato. L'azienda ha smesso di dipendere da un sapere che esisteva in un posto solo. Ciò che era tacito è diventato un documento discutibile, e insieme alla mappa del sistema è uscito l'elenco delle incongruenze che nessuno aveva più modo di vedere, comprese divergenze fra ciò che il manuale prescrive e ciò che il programma esegue.
 
-- Misurato sul progetto: Circa 267 file sorgente e dodici librerie mappati in otto settimane di analisi. 37 regole decisionali formalizzate: 13 vincoli rigidi, 19 euristiche di ottimizzazione, 5 regole diagnostiche.
+- Misurato sul progetto: Codice sorgente e librerie del software in uso mappati. 37 regole decisionali formalizzate: 13 vincoli rigidi, 19 euristiche di ottimizzazione, 5 regole diagnostiche.
 - Che cosa è emerso: 18 criticità del software in uso, classificate per severità e ciascuna con una proposta di trattamento. A queste si aggiungono dodici limitazioni documentate e dieci requisiti per il sistema nuovo.
 - Come continua: Un percorso a pacchetti collaudabili, in cui ogni tappa ha un criterio di accettazione numerico concordato prima di cominciare.
 - Limite dichiarato: I numeri vengono da questo progetto: dicono che cosa ha prodotto il metodo lì, non che cosa produrrà altrove.
@@ -2096,19 +2186,19 @@ Nei sistemi tecnici la parte che non si può spiegare non deve prendere il posto
 
 Cinque progetti diversi, la stessa scelta: ciò che decide è un calcolo ripetibile e controllabile con test, l'AI lavora sopra. Ogni scheda dice dove passa il confine e come lo si controlla.
 
-### 1. Ufficio tecnico: Il software calcola, ma le decisioni le prende una persona sola
+### 1. Ufficio tecnico: Il software calcola, ma le decisioni restano nell'esperienza di pochi
 
-Le scelte di chi ha vent'anni di mestiere diventano regole scritte nel programma di calcolo; i controlli di norma restano un calcolo ripetibile.
+Le scelte dei tecnici più esperti diventano regole scritte nel programma di calcolo; i controlli di norma restano un calcolo ripetibile.
 
-In molti uffici tecnici il programma esegue le verifiche, mentre le scelte che portano a una soluzione efficiente restano di chi ha vent'anni di mestiere: da dove partire, come correggere quando le verifiche non tornano, quando una soluzione formalmente corretta non è ragionevole.
+In molti uffici tecnici il programma esegue le verifiche, mentre le scelte che portano a una soluzione efficiente restano a chi ha più esperienza: da dove partire, come correggere quando le verifiche non tornano, quando una soluzione formalmente corretta non è ragionevole.
 
-Il progetto trasforma queste decisioni in vincoli, euristiche e regole diagnostiche esplicite, che diventano parametri del motore di calcolo. Sopra il nucleo lavorano agenti specializzati, istruiti sui casi storici e sulle soluzioni davvero adottate: uno propone la configurazione di partenza per un problema nuovo, uno sceglie la strategia correttiva quando l'ottimizzazione non converge, uno confronta il risultato con i casi analoghi e segnala quando è matematicamente corretto ma atipico.
+Il progetto trasforma queste decisioni in vincoli, euristiche e regole diagnostiche esplicite, che diventano parametri del motore di calcolo. Sopra il nucleo è progettato un livello di agenti specializzati, da istruire sui casi storici e sulle soluzioni davvero adottate. È previsto che un agente proponga la configurazione di partenza per un problema nuovo. È previsto che un secondo scelga la strategia correttiva quando l'ottimizzazione non converge. È previsto che un terzo confronti il risultato con i casi analoghi e segnali quando è matematicamente corretto ma atipico.
 
-I due piani restano separati. Le verifiche normative sono deterministiche e riproducibili, l'AI lavora sopra il calcolo e non dentro, e l'esperto resta nel ciclo a validare, correggere e arricchire.
+I due piani restano separati. Le verifiche normative sono deterministiche e riproducibili. L'AI è prevista sopra il calcolo, non dentro, e chi progetta resta nel ciclo a validare, correggere e arricchire.
 
 - Come si controlla: 695 test automatici sul motore, eseguiti a ogni integrazione. Il motore ricostruito riproduce 58 casi di verifica su 63 alla cifra stampata, e 44 archivi storici su 44 vengono riletti senza eccezioni da decodificatori scritti senza avere la documentazione dei formati.
 - Che cosa manca, dichiarato: La base dei fatti raggiunge il 98,8% di completezza — 399 voci su 404 — e le 5 che restano sono dichiarate e motivate invece che omesse.
-- Verifica indipendente: Nove cicli di verifica condotti da circa 495 agenti incaricati di confutare il lavoro fatto. Le confutazioni trovate sono state riparate prima della consegna, non archiviate.
+- Verifica indipendente: Nella verifica condotta da Artik Lab durante lo sviluppo, agenti dedicati hanno avuto il compito di confutare il lavoro fatto, in nove cicli. Le confutazioni trovate sono state riparate prima della consegna, non archiviate.
 
 ### 2. Istruttoria e back office: L'intelligenza artificiale scrive la bozza, le regole dell'azienda decidono l'esito.
 
@@ -5340,6 +5430,7 @@ Serve chi già mette insieme le offerte, con l'incarico di continuare. Non è un
 
 ## Dossier estesi per agenti AI (italiano)
 
+- https://ar-tik.com/analisi-previsionale-comunita-energetiche-dossier.md
 - https://ar-tik.com/atlante-applicazioni-ai-imprese-dossier.md
 - https://ar-tik.com/domande-frequenti-ai-aziende-dossier.md
 - https://ar-tik.com/sviluppo-software-tecnico-ai-dossier.md

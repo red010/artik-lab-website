@@ -1,6 +1,6 @@
 {
   "$schema": "https://ar-tik.com/data/schemas/services-catalog.schema.json",
-  "generatedAt": "2026-10-20",
+  "generatedAt": "2026-10-21",
   "publisher": "Artik Lab s.r.l.",
   "canonicalDomain": "https://ar-tik.com",
   "locale": "it",
@@ -40,6 +40,19 @@
       "urls": {
         "html": "https://ar-tik.com/analisi-dati-agentica.html",
         "markdown": "https://ar-tik.com/analisi-dati-agentica.md"
+      }
+    },
+    {
+      "id": "cer-forecast-analysis",
+      "type": "service",
+      "locale": "it",
+      "language": "it",
+      "title": "Analisi previsionale per comunità energetiche",
+      "description": "Un servizio di analisi che parte dai consumi misurati e arriva al piano economico su vent'anni, con 10.000 scenari e la probabilità di perdita. Ogni numero è ricalcolato in modo indipendente.",
+      "urls": {
+        "html": "https://ar-tik.com/analisi-previsionale-comunita-energetiche.html",
+        "markdown": "https://ar-tik.com/analisi-previsionale-comunita-energetiche.md",
+        "dossier": "https://ar-tik.com/analisi-previsionale-comunita-energetiche-dossier.md"
       }
     },
     {

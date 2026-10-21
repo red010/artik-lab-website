@@ -66,17 +66,17 @@ Certaines décisions dépendent de l'expérience de rôles clés. Le projet rend
 
 Ce qui a été obtenu.
 
-### 1. Bureau d'études: Les règles de calcul sont dans le code et dans une seule personne, pas dans un document de spécifications.
+### 1. Bureau d'études: Les règles de calcul sont dans le code et dans l'expérience de quelques-uns, pas dans un document de spécifications.
 
-Huit semaines d'analyse sur environ 267 fichiers source : 37 règles de décision mises par écrit et 18 points critiques que l'entreprise ne savait pas avoir.
+Analyse du logiciel en usage : 37 règles de décision mises par écrit et 18 points critiques que l'entreprise ne savait pas avoir.
 
-La situation. Une entreprise conçoit sur commande des composants dont le dimensionnement exige des vérifications réglementaires. Depuis plus de vingt ans, le travail passe par un logiciel de calcul écrit en interne, sur une plateforme de développement qui n'est plus prise en charge, avec des formats de fichiers propriétaires jamais documentés. Le programme fonctionne, mais plus personne ne peut le modifier avec une sécurité raisonnable. Et les spécifications n'existent pas : les règles vivent dans le code et dans l'expérience d'un seul concepteur.
+La situation. Une entreprise conçoit sur commande des composants dont le dimensionnement exige des vérifications réglementaires. Le travail passe par un logiciel de calcul propriétaire en usage depuis de nombreuses années, sur une plateforme de développement qui n'est plus prise en charge, avec des formats de fichiers jamais documentés. Le programme fonctionne, mais plus personne ne peut le modifier avec une sécurité raisonnable. Et les spécifications n'existent pas : les règles vivent dans le code et dans l'expérience de quelques personnes du bureau d'études.
 
-Ce qui a été fait. Les exigences n'ont pas été recueillies, elles ont été reconstruites. Le travail lit en parallèle trois sources — le code source, les archives des projets réellement exécutés et les indications du bureau d'études — et les fait se confronter : chaque règle extraite du code est recoupée sur les données et rapportée à l'expert, chaque indication de l'expert est vérifiée sur le code. Aucune affirmation n'est acceptée sur parole, ni celle de l'expert ni celle du code ; ce qui n'est pas vérifiable est déclaré tel, au lieu de rester implicite.
+Ce qui a été fait. Les exigences n'ont pas été recueillies, elles ont été reconstruites. Le travail lit en parallèle trois sources — le code source, les archives des projets réellement exécutés et les indications du bureau d'études — et les fait se confronter : chaque règle extraite du code est recoupée sur les données et rapportée à l'équipe technique, chaque indication de l'équipe technique est vérifiée sur le code. Aucune affirmation n'est acceptée sur parole, ni celle de l'expérience ni celle du code ; ce qui n'est pas vérifiable est déclaré tel, au lieu de rester implicite.
 
 Ce qui a changé. L'entreprise a cessé de dépendre d'un savoir qui n'existait qu'à un seul endroit. Ce qui était tacite est devenu un document discutable, et avec la carte du système est sorti la liste des incohérences que plus personne n'avait le moyen de voir, y compris les écarts entre ce que le manuel prescrit et ce que le programme exécute.
 
-- Mesuré sur le projet: Environ 267 fichiers source et douze bibliothèques cartographiés en huit semaines d'analyse. 37 règles de décision formalisées : 13 contraintes strictes, 19 heuristiques d'optimisation, 5 règles de diagnostic.
+- Mesuré sur le projet: Code source et bibliothèques du logiciel en usage cartographiés. 37 règles de décision formalisées : 13 contraintes strictes, 19 heuristiques d'optimisation, 5 règles de diagnostic.
 - Ce qui a émergé: 18 points critiques du logiciel en usage, classés par gravité, chacun avec une proposition de traitement. S'y ajoutent douze limitations documentées et dix exigences pour le système nouveau.
 - Comment cela continue: Un parcours par lots testables, où chaque étape a un critère d'acceptation numérique convenu avant de commencer.
 - Limite déclarée: Les chiffres viennent de ce projet : ils disent ce que la méthode y a produit, pas ce qu'elle produira ailleurs.
@@ -151,19 +151,19 @@ Dans les systèmes techniques, les composants opaques ne doivent pas remplacer l
 
 Cinq projets différents, le même choix : ce qui décide est un calcul répétable et contrôlable par des tests, l'IA travaille au-dessus. Chaque fiche dit où passe la frontière et comment on la contrôle.
 
-### 1. Bureau d'études: Le logiciel calcule, mais les décisions sont prises par une seule personne
+### 1. Bureau d'études: Le logiciel calcule, mais les décisions restent dans l'expérience de quelques-uns
 
-Les choix de qui a vingt ans de métier deviennent des règles écrites dans le programme de calcul ; les contrôles réglementaires restent un calcul répétable.
+Les choix des techniciens les plus expérimentés deviennent des règles écrites dans le programme de calcul ; les contrôles réglementaires restent un calcul répétable.
 
-Dans beaucoup de bureaux d'études, le programme exécute les vérifications, tandis que les choix qui mènent à une solution efficace restent à qui a vingt ans de métier : par où commencer, comment corriger quand les vérifications ne collent pas, quand une solution formellement correcte n'est pas raisonnable.
+Dans beaucoup de bureaux d'études, le programme exécute les vérifications, tandis que les choix qui mènent à une solution efficace restent à ceux qui ont le plus d'expérience : par où commencer, comment corriger quand les vérifications ne collent pas, quand une solution formellement correcte n'est pas raisonnable.
 
-Le projet transforme ces décisions en contraintes, heuristiques et règles de diagnostic explicites, qui deviennent des paramètres du programme de calcul. Au-dessus du noyau travaillent des agents spécialisés, instruits sur les cas historiques et sur les solutions réellement adoptées : l'un propose la configuration de départ pour un problème nouveau, l'un choisit la stratégie corrective quand l'optimisation ne converge pas, l'un compare le résultat aux cas analogues et signale quand il est mathématiquement correct mais atypique.
+Le projet transforme ces décisions en contraintes, heuristiques et règles de diagnostic explicites, qui deviennent des paramètres du programme de calcul. Au-dessus du noyau est conçue une couche d'agents spécialisés, à instruire sur les cas historiques et sur les solutions réellement adoptées. Il est prévu qu'un agent propose la configuration de départ pour un problème nouveau. Il est prévu qu'un deuxième choisisse la stratégie corrective quand l'optimisation ne converge pas. Il est prévu qu'un troisième compare le résultat aux cas analogues et signale quand il est mathématiquement correct mais atypique.
 
-Les deux plans restent séparés. Les vérifications réglementaires sont déterministes et reproductibles, l'IA travaille au-dessus du calcul et non dedans, et l'expert reste dans le cycle pour valider, corriger et enrichir.
+Les deux plans restent séparés. Les vérifications réglementaires sont déterministes et reproductibles. L'IA est prévue au-dessus du calcul, pas dedans, et ceux qui conçoivent restent dans le cycle pour valider, corriger et enrichir.
 
 - Comment on contrôle: 695 tests automatiques sur le programme de calcul, exécutés à chaque intégration. Le programme reconstruit reproduit 58 cas de vérification sur 63 au chiffre imprimé, et 44 archives historiques sur 44 sont relues sans exception par des décodeurs écrits sans avoir la documentation des formats.
 - Ce qui manque, déclaré: La base des faits atteint 98,8 % de complétude — 399 entrées sur 404 — et les 5 qui restent sont déclarées et motivées au lieu d'être omises.
-- Vérification indépendante: Neuf cycles de vérification menés par environ 495 agents chargés de réfuter le travail fait. Les réfutations trouvées ont été réparées avant la livraison, pas classées.
+- Vérification indépendante: Lors de la vérification menée par Artik Lab pendant le développement, des agents dédiés ont été chargés de réfuter le travail fait, en neuf cycles. Les réfutations trouvées ont été réparées avant la livraison, pas classées.
 
 ### 2. Instruction des dossiers et back-office: L'intelligence artificielle rédige le brouillon, les règles de l'entreprise décident de l'issue.
 

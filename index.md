@@ -70,6 +70,8 @@ Dai dati già disponibili a segnali verificati: previsioni, priorità operative,
 
 Pagina dedicata: https://ar-tik.com/analisi-dati-agentica.md
 
+[Comunità energetiche: analisi previsionale prima di promuovere o aderire.](https://ar-tik.com/analisi-previsionale-comunita-energetiche.md)
+
 ### Corsi per governare l'IA in azienda
 
 Percorsi AI per dare a direzione e funzioni aziendali criteri, policy e pratiche applicabili al lavoro reale.

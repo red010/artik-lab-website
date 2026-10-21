@@ -47,17 +47,17 @@ Un archivio di manuali, report e procedure può diventare interrogabile, ma solo
 
 Che cosa è stato ottenuto.
 
-### 1. Ufficio tecnico: Le regole di calcolo stanno nel codice e in una persona sola, non in un documento di specifiche.
+### 1. Ufficio tecnico: Le regole di calcolo stanno nel codice e nell'esperienza di pochi, non in un documento di specifiche.
 
-Otto settimane di analisi su circa 267 file sorgente: 37 regole decisionali messe per iscritto e 18 criticità che l'azienda non sapeva di avere.
+Analisi del software in uso: 37 regole decisionali messe per iscritto e 18 criticità che l'azienda non sapeva di avere.
 
-La situazione. Un'azienda progetta su commessa componenti il cui dimensionamento richiede verifiche normative. Da oltre vent'anni il lavoro passa da un software di calcolo scritto in casa, su una piattaforma di sviluppo non più supportata, con formati di file proprietari mai documentati. Il programma funziona, ma nessuno può più modificarlo con ragionevole sicurezza. E le specifiche non esistono: le regole vivono dentro il codice e nell'esperienza di un solo progettista.
+La situazione. Un'azienda progetta su commessa componenti il cui dimensionamento richiede verifiche normative. Il lavoro passa da un software di calcolo proprietario in uso da molti anni, su una piattaforma di sviluppo non più supportata, con formati di file mai documentati. Il programma funziona, ma nessuno può più modificarlo con ragionevole sicurezza. E le specifiche non esistono: le regole vivono dentro il codice e nell'esperienza di poche persone dell'ufficio tecnico.
 
-Che cosa è stato fatto. I requisiti non sono stati raccolti, sono stati ricostruiti. Il lavoro legge in parallelo tre fonti — il codice sorgente, l'archivio dei progetti realmente eseguiti e le indicazioni dell'ufficio tecnico — e le fa collidere fra loro: ogni regola estratta dal codice viene riscontrata sui dati e riportata all'esperto, ogni indicazione dell'esperto viene verificata sul codice. Nessuna affermazione è accettata sulla fiducia, né quella dell'esperto né quella del codice; ciò che non è verificabile viene dichiarato tale invece di restare implicito.
+Che cosa è stato fatto. I requisiti non sono stati raccolti, sono stati ricostruiti. Il lavoro legge in parallelo tre fonti — il codice sorgente, l'archivio dei progetti realmente eseguiti e le indicazioni dell'ufficio tecnico — e le fa collidere fra loro: ogni regola estratta dal codice viene riscontrata sui dati e riportata ai tecnici, ogni indicazione dei tecnici viene verificata sul codice. Nessuna affermazione è accettata sulla fiducia, né quella dell'esperienza né quella del codice; ciò che non è verificabile viene dichiarato tale invece di restare implicito.
 
 Che cosa è cambiato. L'azienda ha smesso di dipendere da un sapere che esisteva in un posto solo. Ciò che era tacito è diventato un documento discutibile, e insieme alla mappa del sistema è uscito l'elenco delle incongruenze che nessuno aveva più modo di vedere, comprese divergenze fra ciò che il manuale prescrive e ciò che il programma esegue.
 
-- Misurato sul progetto: Circa 267 file sorgente e dodici librerie mappati in otto settimane di analisi. 37 regole decisionali formalizzate: 13 vincoli rigidi, 19 euristiche di ottimizzazione, 5 regole diagnostiche.
+- Misurato sul progetto: Codice sorgente e librerie del software in uso mappati. 37 regole decisionali formalizzate: 13 vincoli rigidi, 19 euristiche di ottimizzazione, 5 regole diagnostiche.
 - Che cosa è emerso: 18 criticità del software in uso, classificate per severità e ciascuna con una proposta di trattamento. A queste si aggiungono dodici limitazioni documentate e dieci requisiti per il sistema nuovo.
 - Come continua: Un percorso a pacchetti collaudabili, in cui ogni tappa ha un criterio di accettazione numerico concordato prima di cominciare.
 - Limite dichiarato: I numeri vengono da questo progetto: dicono che cosa ha prodotto il metodo lì, non che cosa produrrà altrove.
@@ -122,19 +122,19 @@ Che cosa è cambiato. Quando la matrice esiste, il lavoro diventa programmare i 
 
 Cinque progetti diversi, la stessa scelta: ciò che decide è un calcolo ripetibile e controllabile con test, l'AI lavora sopra. Ogni scheda dice dove passa il confine e come lo si controlla.
 
-### 1. Ufficio tecnico: Il software calcola, ma le decisioni le prende una persona sola
+### 1. Ufficio tecnico: Il software calcola, ma le decisioni restano nell'esperienza di pochi
 
-Le scelte di chi ha vent'anni di mestiere diventano regole scritte nel programma di calcolo; i controlli di norma restano un calcolo ripetibile.
+Le scelte dei tecnici più esperti diventano regole scritte nel programma di calcolo; i controlli di norma restano un calcolo ripetibile.
 
-In molti uffici tecnici il programma esegue le verifiche, mentre le scelte che portano a una soluzione efficiente restano di chi ha vent'anni di mestiere: da dove partire, come correggere quando le verifiche non tornano, quando una soluzione formalmente corretta non è ragionevole.
+In molti uffici tecnici il programma esegue le verifiche, mentre le scelte che portano a una soluzione efficiente restano a chi ha più esperienza: da dove partire, come correggere quando le verifiche non tornano, quando una soluzione formalmente corretta non è ragionevole.
 
-Il progetto trasforma queste decisioni in vincoli, euristiche e regole diagnostiche esplicite, che diventano parametri del motore di calcolo. Sopra il nucleo lavorano agenti specializzati, istruiti sui casi storici e sulle soluzioni davvero adottate: uno propone la configurazione di partenza per un problema nuovo, uno sceglie la strategia correttiva quando l'ottimizzazione non converge, uno confronta il risultato con i casi analoghi e segnala quando è matematicamente corretto ma atipico.
+Il progetto trasforma queste decisioni in vincoli, euristiche e regole diagnostiche esplicite, che diventano parametri del motore di calcolo. Sopra il nucleo è progettato un livello di agenti specializzati, da istruire sui casi storici e sulle soluzioni davvero adottate. È previsto che un agente proponga la configurazione di partenza per un problema nuovo. È previsto che un secondo scelga la strategia correttiva quando l'ottimizzazione non converge. È previsto che un terzo confronti il risultato con i casi analoghi e segnali quando è matematicamente corretto ma atipico.
 
-I due piani restano separati. Le verifiche normative sono deterministiche e riproducibili, l'AI lavora sopra il calcolo e non dentro, e l'esperto resta nel ciclo a validare, correggere e arricchire.
+I due piani restano separati. Le verifiche normative sono deterministiche e riproducibili. L'AI è prevista sopra il calcolo, non dentro, e chi progetta resta nel ciclo a validare, correggere e arricchire.
 
 - Come si controlla: 695 test automatici sul motore, eseguiti a ogni integrazione. Il motore ricostruito riproduce 58 casi di verifica su 63 alla cifra stampata, e 44 archivi storici su 44 vengono riletti senza eccezioni da decodificatori scritti senza avere la documentazione dei formati.
 - Che cosa manca, dichiarato: La base dei fatti raggiunge il 98,8% di completezza — 399 voci su 404 — e le 5 che restano sono dichiarate e motivate invece che omesse.
-- Verifica indipendente: Nove cicli di verifica condotti da circa 495 agenti incaricati di confutare il lavoro fatto. Le confutazioni trovate sono state riparate prima della consegna, non archiviate.
+- Verifica indipendente: Nella verifica condotta da Artik Lab durante lo sviluppo, agenti dedicati hanno avuto il compito di confutare il lavoro fatto, in nove cicli. Le confutazioni trovate sono state riparate prima della consegna, non archiviate.
 
 ### 2. Istruttoria e back office: L'intelligenza artificiale scrive la bozza, le regole dell'azienda decidono l'esito.
 

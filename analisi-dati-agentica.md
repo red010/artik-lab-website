@@ -271,6 +271,8 @@ L’analisi legge la serie storica dei consumi orari e costruisce un profilo att
 - Dati utili dopo: Prezzi, costi di sbilanciamento e regole di approvvigionamento.
 - Limite da dichiarare: Il risparmio economico va calcolato con i numeri reali del contratto energetico.
 
+[Per le comunità energetiche c'è un'analisi previsionale dedicata.](https://ar-tik.com/analisi-previsionale-comunita-energetiche.md)
+
 ### 5. Ristorazione: Ordino e metto i turni come la settimana scorsa
 
 La previsione degli incassi migliora del 24% rispetto alla regola “come settimana scorsa”.

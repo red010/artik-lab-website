@@ -66,17 +66,17 @@ Algumas decisões dependem da experiência de funções-chave. O projeto torna e
 
 O que foi obtido.
 
-### 1. Escritório técnico: As regras de cálculo estão no código e em uma pessoa só, não em um documento de especificações.
+### 1. Escritório técnico: As regras de cálculo estão no código e na experiência de poucos, não em um documento de especificações.
 
-Oito semanas de análise sobre cerca de 267 arquivos-fonte: 37 regras de decisão escritas e 18 criticidades que a empresa não sabia que tinha.
+Análise do software em uso: 37 regras de decisão escritas e 18 criticidades que a empresa não sabia que tinha.
 
-A situação. Uma empresa projeta sob encomenda componentes cujo dimensionamento exige verificações normativas. Há mais de vinte anos o trabalho passa por um software de cálculo escrito internamente, em uma plataforma de desenvolvimento que já não tem suporte, com formatos de arquivo proprietários nunca documentados. O programa funciona, mas ninguém consegue mais alterá-lo com segurança razoável. E as especificações não existem: as regras vivem dentro do código e na experiência de um único projetista.
+A situação. Uma empresa projeta sob encomenda componentes cujo dimensionamento exige verificações normativas. O trabalho passa por um software de cálculo proprietário em uso há muitos anos, em uma plataforma de desenvolvimento que já não tem suporte, com formatos de arquivo nunca documentados. O programa funciona, mas ninguém consegue mais alterá-lo com segurança razoável. E as especificações não existem: as regras vivem dentro do código e na experiência de poucas pessoas do escritório técnico.
 
-O que foi feito. Os requisitos não foram coletados, foram reconstruídos. O trabalho lê em paralelo três fontes — o código-fonte, o arquivo dos projetos realmente executados e as indicações do escritório técnico — e as faz colidir entre si: cada regra extraída do código é confrontada com os dados e levada ao especialista, cada indicação do especialista é verificada no código. Nenhuma afirmação é aceita por confiança, nem a do especialista nem a do código; o que não é verificável é declarado como tal, em vez de permanecer implícito.
+O que foi feito. Os requisitos não foram coletados, foram reconstruídos. O trabalho lê em paralelo três fontes — o código-fonte, o arquivo dos projetos realmente executados e as indicações do escritório técnico — e as faz colidir entre si: cada regra extraída do código é confrontada com os dados e levada aos técnicos, cada indicação dos técnicos é verificada no código. Nenhuma afirmação é aceita por confiança, nem a da experiência nem a do código; o que não é verificável é declarado como tal, em vez de permanecer implícito.
 
 O que mudou. A empresa deixou de depender de um saber que existia em um só lugar. O que era tácito virou um documento discutível e, junto com o mapa do sistema, saiu a lista das incongruências que ninguém tinha mais como ver, inclusive divergências entre o que o manual prescreve e o que o programa executa.
 
-- Medido no projeto: Cerca de 267 arquivos-fonte e doze bibliotecas mapeados em oito semanas de análise. 37 regras de decisão formalizadas: 13 restrições rígidas, 19 heurísticas de otimização, 5 regras de diagnóstico.
+- Medido no projeto: Código-fonte e bibliotecas do software em uso mapeados. 37 regras de decisão formalizadas: 13 restrições rígidas, 19 heurísticas de otimização, 5 regras de diagnóstico.
 - O que veio à tona: 18 criticidades do software em uso, classificadas por gravidade e cada uma com uma proposta de tratamento. A isso se somam doze limitações documentadas e dez requisitos para o sistema novo.
 - Como continua: Um percurso em pacotes testáveis, em que cada etapa tem um critério de aceitação numérico combinado antes de começar.
 - Limite declarado: Os números vêm deste projeto: dizem o que o método produziu ali, não o que produzirá em outro lugar.
@@ -151,19 +151,19 @@ Em sistemas técnicos, componentes opacos não devem substituir o cálculo verif
 
 Cinco projetos diferentes, a mesma escolha: o que decide é um cálculo repetível e controlável com testes, a IA trabalha por cima. Cada ficha diz onde passa o limite e como se controla.
 
-### 1. Escritório técnico: O software calcula, mas as decisões as toma uma pessoa só
+### 1. Escritório técnico: O software calcula, mas as decisões ficam na experiência de poucos
 
-As escolhas de quem tem vinte anos de ofício viram regras escritas no programa de cálculo; os controles de norma permanecem um cálculo repetível.
+As escolhas dos técnicos mais experientes viram regras escritas no programa de cálculo; os controles de norma permanecem um cálculo repetível.
 
-Em muitos escritórios técnicos o programa executa as verificações, enquanto as escolhas que levam a uma solução eficiente ficam com quem tem vinte anos de ofício: por onde começar, como corrigir quando as verificações não fecham, quando uma solução formalmente correta não é razoável.
+Em muitos escritórios técnicos o programa executa as verificações, enquanto as escolhas que levam a uma solução eficiente ficam com quem tem mais experiência: por onde começar, como corrigir quando as verificações não fecham, quando uma solução formalmente correta não é razoável.
 
-O projeto transforma essas decisões em restrições, heurísticas e regras de diagnóstico explícitas, que viram parâmetros do motor de cálculo. Por cima do núcleo trabalham agentes especializados, instruídos nos casos históricos e nas soluções realmente adotadas: um propõe a configuração inicial para um problema novo, um escolhe a estratégia corretiva quando a otimização não converge, um compara o resultado com os casos análogos e aponta quando está matematicamente correto mas atípico.
+O projeto transforma essas decisões em restrições, heurísticas e regras de diagnóstico explícitas, que viram parâmetros do motor de cálculo. Por cima do núcleo é projetada uma camada de agentes especializados, a serem instruídos nos casos históricos e nas soluções realmente adotadas. Está previsto que um agente proponha a configuração inicial para um problema novo. Está previsto que um segundo escolha a estratégia corretiva quando a otimização não converge. Está previsto que um terceiro compare o resultado com os casos análogos e aponte quando está matematicamente correto mas atípico.
 
-Os dois planos permanecem separados. As verificações normativas são determinísticas e reproduzíveis, a IA trabalha por cima do cálculo e não dentro, e o especialista permanece no ciclo para validar, corrigir e enriquecer.
+Os dois planos permanecem separados. As verificações normativas são determinísticas e reproduzíveis. A IA está prevista por cima do cálculo, não dentro, e quem projeta permanece no ciclo para validar, corrigir e enriquecer.
 
 - Como se controla: 695 testes automáticos no motor, executados a cada integração. O motor reconstruído reproduz 58 casos de verificação em 63 até o dígito impresso, e 44 arquivos históricos em 44 são relidos sem exceções por decodificadores escritos sem ter a documentação dos formatos.
 - O que falta, declarado: A base dos fatos chega a 98,8% de completeza — 399 itens em 404 — e os 5 que restam estão declarados e motivados em vez de omitidos.
-- Verificação independente: Nove ciclos de verificação conduzidos por cerca de 495 agentes encarregados de refutar o trabalho feito. As refutações encontradas foram reparadas antes da entrega, não arquivadas.
+- Verificação independente: Na verificação conduzida pela Artik Lab durante o desenvolvimento, agentes dedicados tiveram a tarefa de refutar o trabalho feito, em nove ciclos. As refutações encontradas foram reparadas antes da entrega, não arquivadas.
 
 ### 2. Instrução de pedidos e back-office: A inteligência artificial escreve o rascunho, as regras da empresa decidem o desfecho.
 
