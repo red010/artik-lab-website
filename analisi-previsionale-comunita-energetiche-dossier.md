@@ -1,6 +1,6 @@
 # Analisi previsionale per comunità energetiche - dossier LLM
 
-Comunità energetica: conviene, e quanto può andare male? Prima di firmare, i numeri.
+Comunità energetica: quanto conviene?
 
 Un servizio di analisi che parte dai consumi misurati e arriva al piano economico su vent'anni, con 10.000 scenari e la probabilità di perdita. Ogni numero è ricalcolato in modo indipendente.
 
